@@ -2,7 +2,7 @@ title = "十二怒汉"
 original_title = "12 Angry Men"
 year = 1957
 authors = ["ReelCoreHQ"]
-origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+origin = "reelcore-encode：原盘英文字幕 + 机器翻译中文"
 fonts = ["Noto Sans CJK SC"]
 
 [source]
