@@ -1,0 +1,1440 @@
+[Script Info]
+Title: Avatar 2009
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ZH,Noto Sans CJK SC,58,&H00F4F4F4,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,80,80,70,1
+Style: EN,Noto Sans CJK SC,38,&H0066D9FF,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.25,0,1,1.8,0.8,2,80,80,36,1
+Style: NOTE,Noto Sans CJK SC,28,&H00EDEDED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0.5,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:39.79,0:00:42.17,ZH,,0,0,0,,{\rZH\blur0.8}当我躺在退伍军人医院里的时候\N{\rEN\blur0.8}When I was lying there in the VA hospital,
+Dialogue: 0,0:00:42.17,0:00:45.13,ZH,,0,0,0,,{\rZH\blur0.8}我的人生中间被炸出了一个大洞\N{\rEN\blur0.8}with a big hole blown through the middle of my life,
+Dialogue: 0,0:00:45.92,0:00:48.42,ZH,,0,0,0,,{\rZH\blur0.8}我开始梦到自己在飞\N{\rEN\blur0.8}I started having these dreams of flying.
+Dialogue: 0,0:00:49.80,0:00:51.26,ZH,,0,0,0,,{\rZH\blur0.8}我自由了\N{\rEN\blur0.8}I was free.
+Dialogue: 0,0:00:54.47,0:00:58.06,ZH,,0,0,0,,{\rZH\blur0.8}但迟早，你总得醒来\N{\rEN\blur0.8}Sooner or later, though, you always have to wake up.
+Dialogue: 0,0:01:14.45,0:01:16.37,ZH,,0,0,0,,{\rZH\blur0.8}在冷冻休眠中，你根本不会做梦\N{\rEN\blur0.8}In cryo, you don't dream at all.
+Dialogue: 0,0:01:17.33,0:01:19.50,ZH,,0,0,0,,{\rZH\blur0.8}感觉不像过了六年\N{\rEN\blur0.8}It doesn't feel like six years.
+Dialogue: 0,0:01:19.50,0:01:21.96,ZH,,0,0,0,,{\rZH\blur0.8}更像是一瓶龙舌兰下肚，再加上一顿暴揍\N{\rEN\blur0.8}More like a fifth of tequila and an ass-kicking.
+Dialogue: 0,0:01:28.46,0:01:30.34,ZH,,0,0,0,,{\rZH\blur0.8}汤米才是科学家，不是我\N{\rEN\blur0.8}Tommy was the scientist, not me.
+Dialogue: 0,0:01:31.13,0:01:33.68,ZH,,0,0,0,,{\rZH\blur0.8}是他想被送上几光年外的太空\N{\rEN\blur0.8}He was the one who wanted to get shot light-years out in space
+Dialogue: 0,0:01:33.68,0:01:35.01,ZH,,0,0,0,,{\rZH\blur0.8}去寻找答案\N{\rEN\blur0.8}to find the answers.
+Dialogue: 0,0:01:35.64,0:01:37.56,ZH,,0,0,0,,{\rZH\blur0.8}我们到了吗？\N{\rEN\blur0.8}Are we there yet?
+Dialogue: 0,0:01:37.56,0:01:39.35,ZH,,0,0,0,,{\rZH\blur0.8}是啊，我们到了，阳光小子\N{\rEN\blur0.8}Yeah, we're there, sunshine.
+Dialogue: 0,0:01:40.02,0:01:41.56,ZH,,0,0,0,,{\rZH\blur0.8}我们到了\N{\rEN\blur0.8}We're there.
+Dialogue: 0,0:01:41.56,0:01:43.02,ZH,,0,0,0,,{\rZH\blur0.8}是关于你弟弟的事\N{\rEN\blur0.8}It's about your brother.
+Dialogue: 0,0:01:46.77,0:01:49.57,ZH,,0,0,0,,{\rZH\blur0.8}汤米出发前一周\N{\rEN\blur0.8}So, a week before Tommy's gonna ship out,
+Dialogue: 0,0:01:49.57,0:01:53.28,ZH,,0,0,0,,{\rZH\blur0.8}一个拿枪的家伙为了他钱包里的钞票，终结了他的旅程\N{\rEN\blur0.8}a guy with a gun ends his journey for the paper in his wallet.
+Dialogue: 0,0:01:54.66,0:01:58.54,ZH,,0,0,0,,{\rZH\blur0.8}你在冷冻休眠中待了五年九个月零二十二天\N{\rEN\blur0.8}You've been in cryo for five years, nine months and 22 days.
+Dialogue: 0,0:01:58.54,0:02:01.54,ZH,,0,0,0,,{\rZH\blur0.8}你会感到饥饿，会很虚弱\N{\rEN\blur0.8}You will be hungry. You will be weak.
+Dialogue: 0,0:02:01.54,0:02:04.21,ZH,,0,0,0,,{\rZH\blur0.8}如果感到恶心，请使用袋子……\N{\rEN\blur0.8}If you feel nausea, please use the sacks...
+Dialogue: 0,0:02:04.21,0:02:06.29,ZH,,0,0,0,,{\rZH\blur0.8}是啊，汤米才是科学家\N{\rEN\blur0.8}Yeah, Tommy was the scientist.
+Dialogue: 0,0:02:06.29,0:02:09.55,ZH,,0,0,0,,{\rZH\blur0.8}我嘛，只是又一个笨大兵，正要去一个他迟早会后悔的地方\N{\rEN\blur0.8}Me, I'm just another dumb grunt going someplace he's gonna regret.
+Dialogue: 0,0:02:23.31,0:02:25.40,ZH,,0,0,0,,{\rZH\blur0.8}前方就是潘多拉\N{\rEN\blur0.8}Up ahead was Pandora.
+Dialogue: 0,0:02:26.81,0:02:30.78,ZH,,0,0,0,,{\rZH\blur0.8}你们从小听着它长大，但我从没想过自己会去那儿\N{\rEN\blur0.8}You grew up hearing about it, but I never figured I'd be going there.
+Dialogue: 0,0:02:40.87,0:02:44.29,ZH,,0,0,0,,{\rZH\blur0.8}你弟弟代表着一笔巨额投资\N{\rEN\blur0.8}Your brother represented a significant investment.
+Dialogue: 0,0:02:44.29,0:02:47.12,ZH,,0,0,0,,{\rZH\blur0.8}我们想跟你谈谈，接手他的合同\N{\rEN\blur0.8}We'd like to talk to you about taking over his contract.
+Dialogue: 0,0:02:47.21,0:02:51.76,ZH,,0,0,0,,{\rZH\blur0.8}既然你的基因组和他完全相同，你可以接替他的位置\N{\rEN\blur0.8}And since your genome is identical to his, you could step into his shoes,
+Dialogue: 0,0:02:53.26,0:02:54.72,ZH,,0,0,0,,{\rZH\blur0.8}可以这么说\N{\rEN\blur0.8}so to speak.
+Dialogue: 0,0:03:01.01,0:03:03.64,ZH,,0,0,0,,{\rZH\blur0.8}这会是在新世界的一个全新开始\N{\rEN\blur0.8}It'd be a fresh start on a new world.
+Dialogue: 0,0:03:11.57,0:03:12.98,ZH,,0,0,0,,{\rZH\blur0.8}而且报酬不错\N{\rEN\blur0.8}And the pay is good.
+Dialogue: 0,0:03:14.15,0:03:15.61,ZH,,0,0,0,,{\rZH\blur0.8}非常不错\N{\rEN\blur0.8}Very good.
+Dialogue: 0,0:03:37.47,0:03:40.97,ZH,,0,0,0,,{\rZH\blur0.8}-戴上呼吸面罩！快走！戴上呼吸面罩！  -戴上呼吸面罩！快走！\N{\rEN\blur0.8}-Exo-packs on! Let's go! Exo-packs on!   -Exo-packs on! Let's go!
+Dialogue: 0,0:03:40.97,0:03:42.39,ZH,,0,0,0,,{\rZH\blur0.8}记住，各位，面罩一掉\N{\rEN\blur0.8}Remember, people, you lose that mask,
+Dialogue: 0,0:03:42.39,0:03:46.14,ZH,,0,0,0,,{\rZH\blur0.8}20秒内昏迷，四分钟内死亡！\N{\rEN\blur0.8}you're unconscious in 20 seconds, you're dead in four minutes!
+Dialogue: 0,0:03:46.14,0:03:49.48,ZH,,0,0,0,,{\rZH\blur0.8}今天谁都别死！写进报告里很难看\N{\rEN\blur0.8}Let's nobody be dead today! Looks very bad on my report.
+Dialogue: 0,0:03:50.81,0:03:54.02,ZH,,0,0,0,,{\rZH\blur0.8}地狱之门塔台，这是TAV 1-6，正在进近\N{\rEN\blur0.8}Hell's Gate tower, this is TAV 1-6 on approach.
+Dialogue: 0,0:03:54.02,0:03:55.82,ZH,,0,0,0,,{\rZH\blur0.8}通过外指点标。矿区已进入视野\N{\rEN\blur0.8}Crossing outer marker. Mine is in sight.
+Dialogue: 0,0:04:33.98,0:04:35.36,ZH,,0,0,0,,{\rZH\blur0.8}一段生命结束\N{\rEN\blur0.8}One life ends,
+Dialogue: 0,0:04:36.03,0:04:37.57,ZH,,0,0,0,,{\rZH\blur0.8}另一段开始\N{\rEN\blur0.8}another begins.
+Dialogue: 0,0:04:45.04,0:04:47.41,ZH,,0,0,0,,{\rZH\blur0.8}解开安全带！拿好背包！\N{\rEN\blur0.8}Harnesses off! Get your packs!
+Dialogue: 0,0:04:47.41,0:04:50.87,ZH,,0,0,0,,{\rZH\blur0.8}-收拾好，出发！出发！  -解开安全带！还有一分钟！\N{\rEN\blur0.8}-Put it together, let's go! Let's go!   -Harnesses off! One minute!
+Dialogue: 0,0:04:51.00,0:04:55.04,ZH,,0,0,0,,{\rZH\blur0.8}舱门一放下，直接进基地。不要停！\N{\rEN\blur0.8}When that ramp comes down, go directly into the base. Do not stop!
+Dialogue: 0,0:04:55.04,0:04:57.63,ZH,,0,0,0,,{\rZH\blur0.8}直接进去。等我的信号！\N{\rEN\blur0.8}Go straight inside. Wait for my mark!
+Dialogue: 0,0:05:04.05,0:05:07.97,ZH,,0,0,0,,{\rZH\blur0.8}快走快走！离开那儿！别停！走，走！\N{\rEN\blur0.8}Go, go, go, go! Get out of there! Keep moving! Let's go, let's go!
+Dialogue: 0,0:05:12.81,0:05:14.86,ZH,,0,0,0,,{\rZH\blur0.8}没有所谓的前陆战队员\N{\rEN\blur0.8}There's no such thing as an ex-Marine.
+Dialogue: 0,0:05:15.90,0:05:18.90,ZH,,0,0,0,,{\rZH\blur0.8}你可能退役了，但那股劲永远丢不掉\N{\rEN\blur0.8}You may be out, but you never lose the attitude.
+Dialogue: 0,0:05:20.40,0:05:23.03,ZH,,0,0,0,,{\rZH\blur0.8}我告诉自己，别人能通过的考验，我也能通过\N{\rEN\blur0.8}I told myself I could pass any test a man could pass.
+Dialogue: 0,0:05:27.95,0:05:30.91,ZH,,0,0,0,,{\rZH\blur0.8}只要有钱，他们能修好脊椎\N{\rEN\blur0.8}They can fix a spinal, if you got the money,
+Dialogue: 0,0:05:30.91,0:05:33.67,ZH,,0,0,0,,{\rZH\blur0.8}但靠退伍福利不行，这经济形势下更不行\N{\rEN\blur0.8}but not on vet benefits, not in this economy.
+Dialogue: 0,0:05:35.58,0:05:38.59,ZH,,0,0,0,,{\rZH\blur0.8}走吧，特例！别让我等你！\N{\rEN\blur0.8}Let's go, special case! Do not make me wait for you!
+Dialogue: 0,0:05:38.59,0:05:40.30,ZH,,0,0,0,,{\rZH\blur0.8}瞧瞧，女士们\N{\rEN\blur0.8}Well, well, ladies.
+Dialogue: 0,0:05:41.88,0:05:43.59,ZH,,0,0,0,,{\rZH\blur0.8}看看这些新来的嫩肉！\N{\rEN\blur0.8}Look at all this fresh meat!
+Dialogue: 0,0:05:49.39,0:05:53.60,ZH,,0,0,0,,{\rZH\blur0.8}在地球上，这些家伙是陆军、陆战队的兵\N{\rEN\blur0.8}Back on Earth, these guys were Army dogs, Marines,
+Dialogue: 0,0:05:53.60,0:05:55.10,ZH,,0,0,0,,{\rZH\blur0.8}为自由而战\N{\rEN\blur0.8}fighting for freedom.
+Dialogue: 0,0:06:01.82,0:06:03.36,ZH,,0,0,0,,{\rZH\blur0.8}当心，飙车小子！\N{\rEN\blur0.8}Look out, hot rod!
+Dialogue: 0,0:06:04.78,0:06:06.78,ZH,,0,0,0,,{\rZH\blur0.8}但在这儿，他们只是雇佣兵\N{\rEN\blur0.8}But out here they're just hired guns,
+Dialogue: 0,0:06:06.78,0:06:09.70,ZH,,0,0,0,,{\rZH\blur0.8}拿钱办事，为公司卖命\N{\rEN\blur0.8}taking the money, working for the company.
+Dialogue: 0,0:06:09.70,0:06:11.12,ZH,,0,0,0,,{\rZH\blur0.8}看看这个，伙计\N{\rEN\blur0.8}Check this out, man.
+Dialogue: 0,0:06:11.70,0:06:13.21,ZH,,0,0,0,,{\rZH\blur0.8}轮子上的美食\N{\rEN\blur0.8}Meals on wheels.
+Dialogue: 0,0:06:14.50,0:06:17.42,ZH,,0,0,0,,{\rZH\blur0.8}天哪，这太不像话了\N{\rEN\blur0.8}Oh, man, that is just wrong.
+Dialogue: 0,0:06:18.00,0:06:19.34,ZH,,0,0,0,,{\rZH\blur0.8}我大概二十分钟后能空出两个人！\N{\rEN\blur0.8}I got two guys free in about 20 minutes!
+Dialogue: 0,0:06:19.42,0:06:20.96,ZH,,0,0,0,,{\rZH\blur0.8}知道了！正需要人手！\N{\rEN\blur0.8}Got it! Need them!
+Dialogue: 0,0:06:30.14,0:06:32.52,ZH,,0,0,0,,{\rZH\blur0.8}你已经不在堪萨斯了\N{\rEN\blur0.8}You're not in Kansas anymore.
+Dialogue: 0,0:06:34.98,0:06:38.94,ZH,,0,0,0,,{\rZH\blur0.8}你们在潘多拉，女士们先生们\N{\rEN\blur0.8}You are on Pandora, ladies and gentlemen.
+Dialogue: 0,0:06:38.94,0:06:42.69,ZH,,0,0,0,,{\rZH\blur0.8}每一天每一秒都要牢记这一点\N{\rEN\blur0.8}Respect that fact every second of every day.
+Dialogue: 0,0:06:44.95,0:06:46.57,ZH,,0,0,0,,{\rZH\blur0.8}如果真有地狱\N{\rEN\blur0.8}If there is a hell,
+Dialogue: 0,0:06:47.32,0:06:51.95,ZH,,0,0,0,,{\rZH\blur0.8}在潘多拉服役一轮后，你可能会想去那儿放松放松\N{\rEN\blur0.8}you might want to go there for some R&R after a tour on Pandora.
+Dialogue: 0,0:06:52.83,0:06:55.04,ZH,,0,0,0,,{\rZH\blur0.8}外面，那道围栏之外\N{\rEN\blur0.8}Out there, beyond that fence,
+Dialogue: 0,0:06:55.04,0:06:59.38,ZH,,0,0,0,,{\rZH\blur0.8}每一个爬的、飞的、蹲在泥里的活物\N{\rEN\blur0.8}every living thing that crawls, flies or squats in the mud
+Dialogue: 0,0:06:59.46,0:07:02.63,ZH,,0,0,0,,{\rZH\blur0.8}都想杀了你，把你的眼珠当软糖吃\N{\rEN\blur0.8}wants to kill you and eat your eyes for Jujubes.
+Dialogue: 0,0:07:04.51,0:07:09.35,ZH,,0,0,0,,{\rZH\blur0.8}这里有一个原住民人形种族，叫纳威人\N{\rEN\blur0.8}We have an indigenous population of humanoids called the Na'vi.
+Dialogue: 0,0:07:09.35,0:07:11.81,ZH,,0,0,0,,{\rZH\blur0.8}他们喜欢用涂了神经毒素的箭\N{\rEN\blur0.8}They're fond of arrows dipped in a neurotoxin
+Dialogue: 0,0:07:11.81,0:07:14.68,ZH,,0,0,0,,{\rZH\blur0.8}一分钟内就能让你的心脏停跳\N{\rEN\blur0.8}that'll stop your heart in one minute.
+Dialogue: 0,0:07:14.68,0:07:19.02,ZH,,0,0,0,,{\rZH\blur0.8}他们的骨骼还由天然碳纤维强化过\N{\rEN\blur0.8}And they have bones reinforced with naturally occurring carbon fiber.
+Dialogue: 0,0:07:19.65,0:07:21.48,ZH,,0,0,0,,{\rZH\blur0.8}他们非常难杀死\N{\rEN\blur0.8}They are very hard to kill.
+Dialogue: 0,0:07:22.94,0:07:26.95,ZH,,0,0,0,,{\rZH\blur0.8}作为安全主管，我的职责是让你们活着\N{\rEN\blur0.8}As head of security, it is my job to keep you alive.
+Dialogue: 0,0:07:28.86,0:07:30.70,ZH,,0,0,0,,{\rZH\blur0.8}我不会成功\N{\rEN\blur0.8}I will not succeed.
+Dialogue: 0,0:07:32.83,0:07:34.24,ZH,,0,0,0,,{\rZH\blur0.8}至少保不住你们所有人\N{\rEN\blur0.8}Not with all of you.
+Dialogue: 0,0:07:35.33,0:07:37.37,ZH,,0,0,0,,{\rZH\blur0.8}如果想活下来\N{\rEN\blur0.8}If you wish to survive,
+Dialogue: 0,0:07:37.46,0:07:40.38,ZH,,0,0,0,,{\rZH\blur0.8}你们得培养出强大的心理素质\N{\rEN\blur0.8}you need to cultivate a strong mental attitude.
+Dialogue: 0,0:07:41.13,0:07:43.38,ZH,,0,0,0,,{\rZH\blur0.8}必须遵守规则\N{\rEN\blur0.8}You've got to obey the rules.
+Dialogue: 0,0:07:44.13,0:07:46.13,ZH,,0,0,0,,{\rZH\blur0.8}潘多拉的规则\N{\rEN\blur0.8}Pandora rules.
+Dialogue: 0,0:07:47.38,0:07:49.18,ZH,,0,0,0,,{\rZH\blur0.8}第一条……\N{\rEN\blur0.8}Rule number one...
+Dialogue: 0,0:07:49.18,0:07:50.89,ZH,,0,0,0,,{\rZH\blur0.8}没有什么比老派的安全简报\N{\rEN\blur0.8}There's nothing like an old-school safety brief
+Dialogue: 0,0:07:50.89,0:07:52.64,ZH,,0,0,0,,{\rZH\blur0.8}更能让人安心了\N{\rEN\blur0.8}to put your mind at ease.
+Dialogue: 0,0:07:54.98,0:08:00.52,ZH,,0,0,0,,{\rZH\blur0.8}打扰一下。打扰一下。杰克！你是杰克，对吧？汤姆的弟弟\N{\rEN\blur0.8}Excuse me. Excuse me. Jake! You're Jake, right? Tom's brother.
+Dialogue: 0,0:08:01.19,0:08:03.44,ZH,,0,0,0,,{\rZH\blur0.8}哇！你跟他长得一模一样\N{\rEN\blur0.8}Wow! You look just like him.
+Dialogue: 0,0:08:03.52,0:08:07.36,ZH,,0,0,0,,{\rZH\blur0.8}抱歉，我叫诺姆·斯佩尔曼。我和他一起受过阿凡达训练\N{\rEN\blur0.8}Sorry, I'm Norm. Spellman. I went through avatar training with him.
+Dialogue: 0,0:08:07.36,0:08:09.36,ZH,,0,0,0,,{\rZH\blur0.8}……进入生物实验室\N{\rEN\blur0.8}...Into the bio-lab.
+Dialogue: 0,0:08:10.07,0:08:14.70,ZH,,0,0,0,,{\rZH\blur0.8}我们会在这里待很久。嘿！你好吗？诺姆，阿凡达驾驶员\N{\rEN\blur0.8}We're gonna spend a lot of time up here. Hey! How you doing? Norm, avatar driver.
+Dialogue: 0,0:08:14.70,0:08:16.04,ZH,,0,0,0,,{\rZH\blur0.8}-你好。  -嘿\N{\rEN\blur0.8}-Hi.   -Hey.
+Dialogue: 0,0:08:16.04,0:08:17.71,ZH,,0,0,0,,{\rZH\blur0.8}连接……连接室就在这儿\N{\rEN\blur0.8}Link... Here's the link room right here.
+Dialogue: 0,0:08:17.71,0:08:20.00,ZH,,0,0,0,,{\rZH\blur0.8}这里就是我们连接阿凡达的地方\N{\rEN\blur0.8}This is where we're connecting to the avatar.
+Dialogue: 0,0:08:21.79,0:08:23.92,ZH,,0,0,0,,{\rZH\blur0.8}我和诺姆来驾驶\N{\rEN\blur0.8}Me and Norm are here to drive
+Dialogue: 0,0:08:23.92,0:08:27.22,ZH,,0,0,0,,{\rZH\blur0.8}这些远程控制的躯体，叫阿凡达\N{\rEN\blur0.8}these remotely controlled bodies called avatars.
+Dialogue: 0,0:08:27.22,0:08:32.30,ZH,,0,0,0,,{\rZH\blur0.8}它们是用人类DNA和原住民DNA混合培育出来的\N{\rEN\blur0.8}And they're grown from human DNA mixed with the DNA of the natives.
+Dialogue: 0,0:08:32.30,0:08:34.35,ZH,,0,0,0,,{\rZH\blur0.8}-嘿。欢迎。  -嘿\N{\rEN\blur0.8}-Hey. Welcome.   -Hey.
+Dialogue: 0,0:08:34.35,0:08:36.77,ZH,,0,0,0,,{\rZH\blur0.8}-欢迎来到潘多拉。很高兴你加入。  -谢谢\N{\rEN\blur0.8}-Welcome to Pandora. Good to have you.   -Thanks.
+Dialogue: 0,0:08:38.77,0:08:40.69,ZH,,0,0,0,,{\rZH\blur0.8}该死！它们长这么大了\N{\rEN\blur0.8}Damn! They got big.
+Dialogue: 0,0:08:40.69,0:08:43.31,ZH,,0,0,0,,{\rZH\blur0.8}是啊，它们在飞行途中就完全成熟了\N{\rEN\blur0.8}Yeah, they fully mature on the flight out.
+Dialogue: 0,0:08:43.31,0:08:45.73,ZH,,0,0,0,,{\rZH\blur0.8}本体感觉模拟好像效果很好。\N{\rEN\blur0.8}So the proprioceptive sims seem to work really well.
+Dialogue: 0,0:08:45.73,0:08:47.69,ZH,,0,0,0,,{\rZH\blur0.8}是啊，肌肉状态很棒。\N{\rEN\blur0.8}Yeah, they've got great muscle tone.
+Dialogue: 0,0:08:47.69,0:08:49.61,ZH,,0,0,0,,{\rZH\blur0.8}我们得花几个小时才能把他们从培养槽里取出来，\N{\rEN\blur0.8}It'll take us a few hours to get them decanted,
+Dialogue: 0,0:08:49.61,0:08:51.61,ZH,,0,0,0,,{\rZH\blur0.8}但你们明天就能带他们出去。\N{\rEN\blur0.8}but you guys can take them out tomorrow.
+Dialogue: 0,0:08:52.07,0:08:53.45,ZH,,0,0,0,,{\rZH\blur0.8}你的在那儿。\N{\rEN\blur0.8}There's yours.
+Dialogue: 0,0:08:55.12,0:08:56.79,ZH,,0,0,0,,{\rZH\blur0.8}你好，我是诺姆·斯佩尔曼博士。\N{\rEN\blur0.8}Hey. Dr. Norm Spellman.
+Dialogue: 0,0:08:56.79,0:08:59.71,ZH,,0,0,0,,{\rZH\blur0.8}-我是马克斯·帕特尔博士。很高兴见到你。  -很高兴见到你。\N{\rEN\blur0.8}-Dr. Max Patel. Great to meet you.   -Good to meet you, yeah.
+Dialogue: 0,0:09:23.65,0:09:25.15,ZH,,0,0,0,,{\rZH\blur0.8}长得像他。\N{\rEN\blur0.8}Looks like him.
+Dialogue: 0,0:09:26.36,0:09:28.19,ZH,,0,0,0,,{\rZH\blur0.8}不，长得像你。\N{\rEN\blur0.8}No, it looks like you.
+Dialogue: 0,0:09:29.28,0:09:31.24,ZH,,0,0,0,,{\rZH\blur0.8}杰克，现在这是你的阿凡达了。\N{\rEN\blur0.8}This is your avatar now, Jake.
+Dialogue: 0,0:09:34.49,0:09:38.87,ZH,,0,0,0,,{\rZH\blur0.8}原理是每个驾驶员都配有自己的阿凡达，\N{\rEN\blur0.8}And the concept is that every driver is matched to his own avatar,
+Dialogue: 0,0:09:40.00,0:09:41.75,ZH,,0,0,0,,{\rZH\blur0.8}这样他们的神经系统就能同步，\N{\rEN\blur0.8}so that their nervous systems are in tune,
+Dialogue: 0,0:09:43.12,0:09:44.58,ZH,,0,0,0,,{\rZH\blur0.8}大概是这样。\N{\rEN\blur0.8}or something.
+Dialogue: 0,0:09:45.92,0:09:50.34,ZH,,0,0,0,,{\rZH\blur0.8}所以他们才找我，因为我能和汤米的阿凡达链接，\N{\rEN\blur0.8}Which is why they offered me the gig, because I can link with Tommy's avatar,
+Dialogue: 0,0:09:51.38,0:09:53.26,ZH,,0,0,0,,{\rZH\blur0.8}那东西贵得离谱。\N{\rEN\blur0.8}which is insanely expensive.
+Dialogue: 0,0:09:54.01,0:09:57.55,ZH,,0,0,0,,{\rZH\blur0.8}这样对吗？我就对着视频日志随便说？\N{\rEN\blur0.8}Is this right? I just say whatever to the video log?
+Dialogue: 0,0:09:57.55,0:09:59.81,ZH,,0,0,0,,{\rZH\blur0.8}对，我们得养成记录一切的习惯。\N{\rEN\blur0.8}Yeah, we gotta get in the habit of documenting everything.
+Dialogue: 0,0:09:59.81,0:10:01.93,ZH,,0,0,0,,{\rZH\blur0.8}记录我们看到的、感受到的。\N{\rEN\blur0.8}You know, what we see, what we feel.
+Dialogue: 0,0:10:01.93,0:10:04.73,ZH,,0,0,0,,{\rZH\blur0.8}-这都是科学的一部分。  -好的科学就是好的观察。\N{\rEN\blur0.8}-It's all part of the science.   -And good science is good observation.
+Dialogue: 0,0:10:04.73,0:10:07.19,ZH,,0,0,0,,{\rZH\blur0.8}而且这能帮你在接下来六年里保持清醒。\N{\rEN\blur0.8}Plus it'll help to keep you sane for the next six years.
+Dialogue: 0,0:10:07.19,0:10:10.03,ZH,,0,0,0,,{\rZH\blur0.8}好吧，随便。\N{\rEN\blur0.8}All right. Whatever.
+Dialogue: 0,0:10:12.03,0:10:13.66,ZH,,0,0,0,,{\rZH\blur0.8}那么……\N{\rEN\blur0.8}So...
+Dialogue: 0,0:10:14.70,0:10:16.16,ZH,,0,0,0,,{\rZH\blur0.8}好吧，我在这儿，\N{\rEN\blur0.8}Well, here I am,
+Dialogue: 0,0:10:17.87,0:10:19.33,ZH,,0,0,0,,{\rZH\blur0.8}搞科学。\N{\rEN\blur0.8}doing science.
+Dialogue: 0,0:10:20.50,0:10:22.16,ZH,,0,0,0,,{\rZH\blur0.8}他们要出来了！\N{\rEN\blur0.8}They're coming out!
+Dialogue: 0,0:10:22.16,0:10:24.67,ZH,,0,0,0,,{\rZH\blur0.8}注意，驾驶员正退出链接。\N{\rEN\blur0.8}Attention. Drivers coming out of link.
+Dialogue: 0,0:10:31.88,0:10:33.38,ZH,,0,0,0,,{\rZH\blur0.8}天哪。\N{\rEN\blur0.8}Oh, God.
+Dialogue: 0,0:10:35.22,0:10:37.05,ZH,,0,0,0,,{\rZH\blur0.8}实验服呢？实验服在哪？\N{\rEN\blur0.8}Where's the lab coat? Where's the lab coat?
+Dialogue: 0,0:10:37.05,0:10:43.39,ZH,,0,0,0,,{\rZH\blur0.8}谁拿了我该死的烟？伙计们！这画面哪里不对劲吧？\N{\rEN\blur0.8}Who's got my goddamn cigarette? Guys! What's wrong with this picture?
+Dialogue: 0,0:10:44.56,0:10:48.02,ZH,,0,0,0,,{\rZH\blur0.8}-谢谢！  -格蕾丝·奥古斯汀是个传奇。\N{\rEN\blur0.8}-Thank you!   -Grace Augustine is a legend.
+Dialogue: 0,0:10:48.02,0:10:50.61,ZH,,0,0,0,,{\rZH\blur0.8}她是阿凡达计划负责人。她写了那本书，\N{\rEN\blur0.8}She's the head of the Avatar Program. She wrote the book,
+Dialogue: 0,0:10:50.61,0:10:53.40,ZH,,0,0,0,,{\rZH\blur0.8}我是说，真的写了关于潘多拉植物学的书。\N{\rEN\blur0.8}I mean, literally wrote the book on Pandoran botany.
+Dialogue: 0,0:10:53.40,0:10:55.70,ZH,,0,0,0,,{\rZH\blur0.8}那是因为她喜欢植物胜过喜欢人。\N{\rEN\blur0.8}Well, that's 'cause she likes plants better than people.
+Dialogue: 0,0:10:56.24,0:10:58.07,ZH,,0,0,0,,{\rZH\blur0.8}她来了，灰姑娘从舞会回来了。\N{\rEN\blur0.8}Here she is, Cinderella back from the ball.
+Dialogue: 0,0:10:58.20,0:11:01.87,ZH,,0,0,0,,{\rZH\blur0.8}格蕾丝，给你介绍诺姆·斯佩尔曼和杰克·萨利。\N{\rEN\blur0.8}Grace, I'd like you to meet Norm Spellman and Jake Sully.
+Dialogue: 0,0:11:03.62,0:11:07.33,ZH,,0,0,0,,{\rZH\blur0.8}诺姆，我听说过你的好评。你的纳美语怎么样？\N{\rEN\blur0.8}Norm. I hear good things about you. How's your Na'vi?
+Dialogue: 0,0:11:08.33,0:11:10.59,ZH,,0,0,0,,{\rZH\blur0.8}愿万物之母……\N{\rEN\blur0.8}May the All Mother...
+Dialogue: 0,0:11:10.67,0:11:12.84,ZH,,0,0,0,,{\rZH\blur0.8}……在我们初次相见时微笑。\N{\rEN\blur0.8}_..smile upon our first meeting.
+Dialogue: 0,0:11:12.84,0:11:16.05,ZH,,0,0,0,,{\rZH\blur0.8}不错。就是听起来有点正式。\N{\rEN\blur0.8}Not bad. You sound a little formal.
+Dialogue: 0,0:11:17.22,0:11:19.51,ZH,,0,0,0,,{\rZH\blur0.8}我学了五年……\N{\rEN\blur0.8}! studied for five years...
+Dialogue: 0,0:11:19.51,0:11:21.60,ZH,,0,0,0,,{\rZH\blur0.8}……但还有很多要学。\N{\rEN\blur0.8}_..but there is much to learn.
+Dialogue: 0,0:11:21.81,0:11:25.31,ZH,,0,0,0,,{\rZH\blur0.8}-格蕾丝？这位是杰克·萨利。  -长官。\N{\rEN\blur0.8}-Grace? This is Jake Sully.   -Ma'am.
+Dialogue: 0,0:11:25.85,0:11:29.98,ZH,,0,0,0,,{\rZH\blur0.8}行了行了，我知道你是谁，我不需要你。我需要你哥哥。\N{\rEN\blur0.8}Yeah, yeah. I know who you are, and I don't need you. I need your brother.
+Dialogue: 0,0:11:29.98,0:11:33.61,ZH,,0,0,0,,{\rZH\blur0.8}就是那个为这任务训练了三年的博士？\N{\rEN\blur0.8}You know, the PhD who trained for three years for this mission?
+Dialogue: 0,0:11:33.69,0:11:35.11,ZH,,0,0,0,,{\rZH\blur0.8}他死了。\N{\rEN\blur0.8}He's dead.
+Dialogue: 0,0:11:35.82,0:11:38.16,ZH,,0,0,0,,{\rZH\blur0.8}我知道这给大家添了大麻烦。\N{\rEN\blur0.8}I know it's a big inconvenience for everyone.
+Dialogue: 0,0:11:39.24,0:11:42.62,ZH,,0,0,0,,{\rZH\blur0.8}-你受过多少实验室训练？  -我解剖过一次青蛙。\N{\rEN\blur0.8}-How much lab training have you had?   -I dissected a frog once.
+Dialogue: 0,0:11:43.95,0:11:47.25,ZH,,0,0,0,,{\rZH\blur0.8}看到了吧？看到了吧？他们就是往我们身上撒尿，\N{\rEN\blur0.8}You see? You see? I mean, they're just pissing on us
+Dialogue: 0,0:11:47.25,0:11:49.63,ZH,,0,0,0,,{\rZH\blur0.8}连假装下雨的客气都没有。\N{\rEN\blur0.8}without even the courtesy of calling it rain.
+Dialogue: 0,0:11:49.63,0:11:50.96,ZH,,0,0,0,,{\rZH\blur0.8}-我要去找塞尔弗里奇。  -别，格蕾丝，\N{\rEN\blur0.8}-I'm going to Selfridge.   -No, Grace,
+Dialogue: 0,0:11:50.96,0:11:53.67,ZH,,0,0,0,,{\rZH\blur0.8}-我觉得这不是好主意。  -不，伙计，这太扯淡了！\N{\rEN\blur0.8}-I don't think that's a good idea.   -No, man, this is such bullshit!
+Dialogue: 0,0:11:53.67,0:11:55.17,ZH,,0,0,0,,{\rZH\blur0.8}我要去踹他那公司佬的屁股。\N{\rEN\blur0.8}I'm gonna kick his corporate butt.
+Dialogue: 0,0:11:55.17,0:11:58.05,ZH,,0,0,0,,{\rZH\blur0.8}他凭什么插手我的部门。\N{\rEN\blur0.8}He has no business sticking his nose in my department.
+Dialogue: 0,0:11:59.09,0:12:02.89,ZH,,0,0,0,,{\rZH\blur0.8}明天早上八点到这里。尽量用点高级词。\N{\rEN\blur0.8}Here tomorrow, 0800. Try and use big words.
+Dialogue: 0,0:12:11.19,0:12:15.15,ZH,,0,0,0,,{\rZH\blur0.8}蝎子二号-H，地狱门塔台。允许向南起飞。\N{\rEN\blur0.8}Scorpion Two-Hotel, Hell's Gate tower. You are cleared for south departure.
+Dialogue: 0,0:12:15.15,0:12:18.03,ZH,,0,0,0,,{\rZH\blur0.8}悬浮出租车，德尔塔跑道。发送识别码。\N{\rEN\blur0.8}Hover taxi, Delta runway. Squawk ident.
+Dialogue: 0,0:12:23.91,0:12:25.20,ZH,,0,0,0,,{\rZH\blur0.8}-你看到了吗？  -看到了，长官。\N{\rEN\blur0.8}-You see that?   -Yes, Sir.
+Dialogue: 0,0:12:25.20,0:12:27.37,ZH,,0,0,0,,{\rZH\blur0.8}不，你没看到。你刚才在看显示器。\N{\rEN\blur0.8}No, you didn't. You were looking at the monitor.
+Dialogue: 0,0:12:27.37,0:12:30.33,ZH,,0,0,0,,{\rZH\blur0.8}我爱这根推杆，罗尼！我爱这根推杆。\N{\rEN\blur0.8}I love this putter, Ronnie! I love this putter.
+Dialogue: 0,0:12:33.17,0:12:37.51,ZH,,0,0,0,,{\rZH\blur0.8}帕克，我以前以为那只是善意的疏忽，\N{\rEN\blur0.8}Parker, you know, I used to think it was benign neglect,
+Dialogue: 0,0:12:37.51,0:12:40.51,ZH,,0,0,0,,{\rZH\blur0.8}现在我看出来了，你是在故意整我。\N{\rEN\blur0.8}but now I see that you're intentionally screwing me.
+Dialogue: 0,0:12:40.51,0:12:44.10,ZH,,0,0,0,,{\rZH\blur0.8}格蕾丝，你知道，我挺享受我们的小谈话。\N{\rEN\blur0.8}Grace, you know, I enjoy our little talks.
+Dialogue: 0,0:12:48.52,0:12:52.02,ZH,,0,0,0,,{\rZH\blur0.8}我需要研究员，不是个半途而废的陆战队员。\N{\rEN\blur0.8}I need a researcher. Not some jarhead dropout.
+Dialogue: 0,0:12:52.02,0:12:53.73,ZH,,0,0,0,,{\rZH\blur0.8}其实我觉得我们运气不错，捡到了他。\N{\rEN\blur0.8}Well, actually, I thought we got lucky with him.
+Dialogue: 0,0:12:53.73,0:12:55.36,ZH,,0,0,0,,{\rZH\blur0.8}-运气不错？  -对。\N{\rEN\blur0.8}-Lucky?   -Yeah.
+Dialogue: 0,0:12:55.36,0:12:57.44,ZH,,0,0,0,,{\rZH\blur0.8}这哪门子运气不错？\N{\rEN\blur0.8}How is this in any way lucky?
+Dialogue: 0,0:12:57.44,0:12:59.28,ZH,,0,0,0,,{\rZH\blur0.8}运气好在你的人有个双胞胎兄弟，\N{\rEN\blur0.8}Lucky your guy had a twin brother,
+Dialogue: 0,0:12:59.28,0:13:02.20,ZH,,0,0,0,,{\rZH\blur0.8}还运气好在他不是什么口腔清洁师之类的。\N{\rEN\blur0.8}and lucky that brother wasn't some oral hygienist or something.
+Dialogue: 0,0:13:02.53,0:13:04.28,ZH,,0,0,0,,{\rZH\blur0.8}一个我们能用的陆战队员。\N{\rEN\blur0.8}A Marine we can use.
+Dialogue: 0,0:13:04.28,0:13:06.20,ZH,,0,0,0,,{\rZH\blur0.8}我把他派到你的队里当安全护卫。\N{\rEN\blur0.8}I'm assigning him to your team as security escort.
+Dialogue: 0,0:13:06.20,0:13:09.75,ZH,,0,0,0,,{\rZH\blur0.8}我最不需要的就是又来个爱扣扳机的蠢货！\N{\rEN\blur0.8}The last thing I need is another trigger-happy moron out there!
+Dialogue: 0,0:13:09.75,0:13:11.71,ZH,,0,0,0,,{\rZH\blur0.8}听着，听着，你本该去赢得原住民的心\N{\rEN\blur0.8}Look, look, you're supposed to be winning the hearts
+Dialogue: 0,0:13:11.71,0:13:12.88,ZH,,0,0,0,,{\rZH\blur0.8}和思想。\N{\rEN\blur0.8}and the minds of the natives.
+Dialogue: 0,0:13:12.88,0:13:14.71,ZH,,0,0,0,,{\rZH\blur0.8}这不就是你那出小木偶戏的全部意义吗？\N{\rEN\blur0.8}Isn't that the whole point of your little puppet show?
+Dialogue: 0,0:13:14.79,0:13:16.38,ZH,,0,0,0,,{\rZH\blur0.8}如果你长得像他们、说话像他们，\N{\rEN\blur0.8}If you look like them and you talk like them,
+Dialogue: 0,0:13:16.38,0:13:18.13,ZH,,0,0,0,,{\rZH\blur0.8}他们就会开始信任我们。\N{\rEN\blur0.8}then they'll start trusting us.
+Dialogue: 0,0:13:18.13,0:13:20.22,ZH,,0,0,0,,{\rZH\blur0.8}我们给他们建学校，教他们英语，\N{\rEN\blur0.8}We build them a school, we teach them English,
+Dialogue: 0,0:13:20.22,0:13:22.30,ZH,,0,0,0,,{\rZH\blur0.8}可是过了……多少年来着？\N{\rEN\blur0.8}but after, what, how many years?
+Dialogue: 0,0:13:22.30,0:13:23.89,ZH,,0,0,0,,{\rZH\blur0.8}和原住民的关系只是越来越糟。\N{\rEN\blur0.8}Relations with the indigenous are only getting worse.
+Dialogue: 0,0:13:23.89,0:13:27.22,ZH,,0,0,0,,{\rZH\blur0.8}是啊，你拿机枪扫他们的时候，通常就会这样。\N{\rEN\blur0.8}Yeah, that tends to happen when you use machine guns on them.
+Dialogue: 0,0:13:27.22,0:13:29.39,ZH,,0,0,0,,{\rZH\blur0.8}好吧。过来。\N{\rEN\blur0.8}Right. Come here.
+Dialogue: 0,0:13:30.44,0:13:32.23,ZH,,0,0,0,,{\rZH\blur0.8}我不能……我不能……\N{\rEN\blur0.8}I can't... I can't...
+Dialogue: 0,0:13:35.44,0:13:38.48,ZH,,0,0,0,,{\rZH\blur0.8}我们就是为这个来的。超导矿石。\N{\rEN\blur0.8}This is why we're here. Unobtanium.
+Dialogue: 0,0:13:38.48,0:13:41.65,ZH,,0,0,0,,{\rZH\blur0.8}因为这种灰色小石头一公斤卖两千万。\N{\rEN\blur0.8}Because this little gray rock sells for 20 million a kilo.
+Dialogue: 0,0:13:41.65,0:13:44.95,ZH,,0,0,0,,{\rZH\blur0.8}这是唯一的理由。整个行动都靠它买单。\N{\rEN\blur0.8}That's the only reason. It's what pays for the whole party.
+Dialogue: 0,0:13:44.95,0:13:46.87,ZH,,0,0,0,,{\rZH\blur0.8}也靠它给你的科学买单。\N{\rEN\blur0.8}It's what pays for your science.
+Dialogue: 0,0:13:48.24,0:13:51.41,ZH,,0,0,0,,{\rZH\blur0.8}现在那些野蛮人在威胁我们整个行动，\N{\rEN\blur0.8}Now, those savages are threatening our whole operation,
+Dialogue: 0,0:13:51.41,0:13:52.75,ZH,,0,0,0,,{\rZH\blur0.8}我们正处在战争边缘，\N{\rEN\blur0.8}we're on the brink of war,
+Dialogue: 0,0:13:52.75,0:13:56.08,ZH,,0,0,0,,{\rZH\blur0.8}而你应该去找个外交解决方案。\N{\rEN\blur0.8}and you're supposed to be finding a diplomatic solution.
+Dialogue: 0,0:13:56.08,0:13:59.59,ZH,,0,0,0,,{\rZH\blur0.8}所以用你手上的资源，给我拿出点成果来。\N{\rEN\blur0.8}So use what you've got, and get me some results.
+Dialogue: 0,0:14:10.48,0:14:13.10,ZH,,0,0,0,,{\rZH\blur0.8}你累计了多少链接时间？\N{\rEN\blur0.8}So, how much link time have you logged?
+Dialogue: 0,0:14:13.10,0:14:16.77,ZH,,0,0,0,,{\rZH\blur0.8}-大概520小时。  -不错。\N{\rEN\blur0.8}-About 520 hours.   -That's good.
+Dialogue: 0,0:14:16.77,0:14:21.24,ZH,,0,0,0,,{\rZH\blur0.8}你在里面，你在这儿。你累计了多少？\N{\rEN\blur0.8}You're in there. You're here. How much have you logged?
+Dialogue: 0,0:14:21.24,0:14:23.90,ZH,,0,0,0,,{\rZH\blur0.8}零。但我读过手册。\N{\rEN\blur0.8}Zip. But I read a manual.
+Dialogue: 0,0:14:24.86,0:14:26.91,ZH,,0,0,0,,{\rZH\blur0.8}你是在开玩笑吧。\N{\rEN\blur0.8}Tell me you're joking.
+Dialogue: 0,0:14:28.24,0:14:29.62,ZH,,0,0,0,,{\rZH\blur0.8}这真酷。\N{\rEN\blur0.8}This is cool.
+Dialogue: 0,0:14:30.12,0:14:31.50,ZH,,0,0,0,,{\rZH\blur0.8}我们走。\N{\rEN\blur0.8}Let's go.
+Dialogue: 0,0:14:35.42,0:14:37.13,ZH,,0,0,0,,{\rZH\blur0.8}别动。我来。\N{\rEN\blur0.8}Don't. I got this.
+Dialogue: 0,0:14:41.51,0:14:44.13,ZH,,0,0,0,,{\rZH\blur0.8}所以你就觉得自己该来这儿，\N{\rEN\blur0.8}So you just figured you'd come out here,
+Dialogue: 0,0:14:44.13,0:14:46.84,ZH,,0,0,0,,{\rZH\blur0.8}来到人类已知最恶劣的环境，\N{\rEN\blur0.8}to the most hostile environment known to man,
+Dialogue: 0,0:14:46.84,0:14:50.68,ZH,,0,0,0,,{\rZH\blur0.8}没有任何训练，就想看看会怎么样？\N{\rEN\blur0.8}with no training of any kind, and see how it went?
+Dialogue: 0,0:14:50.68,0:14:53.10,ZH,,0,0,0,,{\rZH\blur0.8}你当时脑子里在想什么？\N{\rEN\blur0.8}What was going through your head?
+Dialogue: 0,0:14:53.10,0:14:55.94,ZH,,0,0,0,,{\rZH\blur0.8}也许我只是受够了医生们告诉我不能做什么。\N{\rEN\blur0.8}Maybe I was sick of doctors telling me what I couldn't do.
+Dialogue: 0,0:14:57.02,0:14:59.32,ZH,,0,0,0,,{\rZH\blur0.8}-生物指标正常。  -三号连接准备好了。\N{\rEN\blur0.8}-Biometrics are good.   -Link three is ready.
+Dialogue: 0,0:14:59.82,0:15:04.07,ZH,,0,0,0,,{\rZH\blur0.8}手臂收好，手放好，头低下去。\N{\rEN\blur0.8}Keep your arms in, hands in, head down.
+Dialogue: 0,0:15:05.20,0:15:08.99,ZH,,0,0,0,,{\rZH\blur0.8}躺下。放松，让脑子一片空白。\N{\rEN\blur0.8}Down. Just relax and let your mind go blank.
+Dialogue: 0,0:15:09.66,0:15:11.66,ZH,,0,0,0,,{\rZH\blur0.8}这对你来说应该不难。\N{\rEN\blur0.8}That shouldn't be hard for you.
+Dialogue: 0,0:15:11.66,0:15:13.54,ZH,,0,0,0,,{\rZH\blur0.8}去亲我白屁股最黑的地方吧。\N{\rEN\blur0.8}Kiss the darkest part of my lily white...
+Dialogue: 0,0:15:13.54,0:15:15.00,ZH,,0,0,0,,{\rZH\blur0.8}启动连接。\N{\rEN\blur0.8}Initiate link.
+Dialogue: 0,0:15:15.83,0:15:18.33,ZH,,0,0,0,,{\rZH\blur0.8}运行三号序列。开始。\N{\rEN\blur0.8}Run sequence unit three. Go.
+Dialogue: 0,0:15:18.33,0:15:19.84,ZH,,0,0,0,,{\rZH\blur0.8}正在启动。\N{\rEN\blur0.8}Launching.
+Dialogue: 0,0:15:25.22,0:15:26.72,ZH,,0,0,0,,{\rZH\blur0.8}捕获第一次同步。\N{\rEN\blur0.8}I have the first congruency.
+Dialogue: 0,0:15:35.18,0:15:40.69,ZH,,0,0,0,,{\rZH\blur0.8}-这大脑真漂亮。活动很好。  -真没想到。\N{\rEN\blur0.8}-That's a gorgeous brain. Nice activity.   -Go figure.
+Dialogue: 0,0:15:40.69,0:15:42.69,ZH,,0,0,0,,{\rZH\blur0.8}相位锁定40%。\N{\rEN\blur0.8}Phase-lock 40%.
+Dialogue: 0,0:15:46.70,0:15:48.24,ZH,,0,0,0,,{\rZH\blur0.8}好，进去了。\N{\rEN\blur0.8}All right. Going in.
+Dialogue: 0,0:15:48.86,0:15:50.45,ZH,,0,0,0,,{\rZH\blur0.8}我四秒后进入。\N{\rEN\blur0.8}I'm going in in four.
+Dialogue: 0,0:15:53.49,0:15:56.12,ZH,,0,0,0,,{\rZH\blur0.8}相位锁定99%。连接稳定。\N{\rEN\blur0.8}Phase-lock 99%. Link is stable.
+Dialogue: 0,0:16:10.97,0:16:16.89,ZH,,0,0,0,,{\rZH\blur0.8}他进去了。杰克，能听见我吗？杰克，能听见吗？\N{\rEN\blur0.8}He's in. Jake, can you hear me? Can you hear me, Jake?
+Dialogue: 0,0:16:16.89,0:16:18.52,ZH,,0,0,0,,{\rZH\blur0.8}瞳孔反射正常。\N{\rEN\blur0.8}Pupillary reflex is good.
+Dialogue: 0,0:16:21.27,0:16:24.32,ZH,,0,0,0,,{\rZH\blur0.8}耳廓反应正常。杰克，感觉怎么样？\N{\rEN\blur0.8}Pinna response normal. How you feeling, Jake?
+Dialogue: 0,0:16:25.03,0:16:26.40,ZH,,0,0,0,,{\rZH\blur0.8}嘿，大家好。\N{\rEN\blur0.8}Hey, guys.
+Dialogue: 0,0:16:27.28,0:16:29.07,ZH,,0,0,0,,{\rZH\blur0.8}欢迎来到你的新身体，杰克。\N{\rEN\blur0.8}Welcome to your new body, Jake.
+Dialogue: 0,0:16:29.07,0:16:30.57,ZH,,0,0,0,,{\rZH\blur0.8}很好！\N{\rEN\blur0.8}Good!
+Dialogue: 0,0:16:30.57,0:16:32.12,ZH,,0,0,0,,{\rZH\blur0.8}对，我们慢慢来，杰克。\N{\rEN\blur0.8}Yeah, we're gonna take this nice and easy, Jake.
+Dialogue: 0,0:16:32.12,0:16:34.33,ZH,,0,0,0,,{\rZH\blur0.8}-把拇指依次碰碰其他手指。  -好。\N{\rEN\blur0.8}-And touch your thumb to your fingers.   -Yeah.
+Dialogue: 0,0:16:34.33,0:16:35.79,ZH,,0,0,0,,{\rZH\blur0.8}-拇指碰手指。  -没问题。\N{\rEN\blur0.8}-Thumb to your fingers.   -No problem.
+Dialogue: 0,0:16:35.79,0:16:37.46,ZH,,0,0,0,,{\rZH\blur0.8}很好。看得出这个动作你记得。\N{\rEN\blur0.8}That's good. I can see you can remember that one.
+Dialogue: 0,0:16:37.46,0:16:39.71,ZH,,0,0,0,,{\rZH\blur0.8}-会了。  -好，如果你想坐起来，\N{\rEN\blur0.8}-Got it.   -Well, if you want to sit up,
+Dialogue: 0,0:16:39.71,0:16:41.08,ZH,,0,0,0,,{\rZH\blur0.8}-也可以。  -好，很好。就这样\N{\rEN\blur0.8}-that's fine.   -Okay, good. Just take it
+Dialogue: 0,0:16:41.08,0:16:44.13,ZH,,0,0,0,,{\rZH\blur0.8}慢慢来，杰克。很好。好，躯干没有共济失调，很好。\N{\rEN\blur0.8}nice and slow, Jake. Good. Okay, well, no truncal ataxia, that's good.
+Dialogue: 0,0:16:44.13,0:16:47.72,ZH,,0,0,0,,{\rZH\blur0.8}你有觉得头昏或眩晕吗？你在动脚趾！\N{\rEN\blur0.8}Are you feeling lightheaded or dizzy at all? You're wiggling your toes!
+Dialogue: 0,0:16:47.72,0:16:49.47,ZH,,0,0,0,,{\rZH\blur0.8}-很好。很好，杰克。  -太棒了。\N{\rEN\blur0.8}-Good. Good, Jake.   -That's great.
+Dialogue: 0,0:16:51.01,0:16:54.14,ZH,,0,0,0,,{\rZH\blur0.8}远端运动控制很好。很好，杰克。\N{\rEN\blur0.8}Distal motor control is good. Good, Jake.
+Dialogue: 0,0:16:54.14,0:16:56.81,ZH,,0,0,0,,{\rZH\blur0.8}有麻木或疼痛吗？\N{\rEN\blur0.8}Are you feeling any numbness or pain?
+Dialogue: 0,0:16:58.14,0:16:59.52,ZH,,0,0,0,,{\rZH\blur0.8}太好了，杰克。等等。\N{\rEN\blur0.8}That's great, Jake. Hold on, now.
+Dialogue: 0,0:16:59.52,0:17:01.85,ZH,,0,0,0,,{\rZH\blur0.8}别急。别操之过急，好吗？\N{\rEN\blur0.8}Take it easy. Don't get ahead of yourself, okay?
+Dialogue: 0,0:17:01.85,0:17:04.44,ZH,,0,0,0,,{\rZH\blur0.8}我们还要做几项感觉运动反射测试，\N{\rEN\blur0.8}There's a few more sensory motor reflex tests we need to run,
+Dialogue: 0,0:17:04.44,0:17:06.61,ZH,,0,0,0,,{\rZH\blur0.8}-所以别急。  -等等。\N{\rEN\blur0.8}-So take it easy.   -Wait.
+Dialogue: 0,0:17:06.61,0:17:08.19,ZH,,0,0,0,,{\rZH\blur0.8}-杰克。  -坐下，杰克。\N{\rEN\blur0.8}-Jake.   -Sit down, Jake.
+Dialogue: 0,0:17:08.19,0:17:10.61,ZH,,0,0,0,,{\rZH\blur0.8}杰克！听我说。杰克！\N{\rEN\blur0.8}Jake! Listen to me. Jake!
+Dialogue: 0,0:17:11.24,0:17:12.99,ZH,,0,0,0,,{\rZH\blur0.8}-你得坐下。杰克！  -没事。\N{\rEN\blur0.8}-I need you to sit down. Jake!   -It's okay.
+Dialogue: 0,0:17:12.99,0:17:14.87,ZH,,0,0,0,,{\rZH\blur0.8}-哥们，听我说。  -没事，我能行。\N{\rEN\blur0.8}-Budady, listen to me.   -It's all good. I got this.
+Dialogue: 0,0:17:14.87,0:17:18.62,ZH,,0,0,0,,{\rZH\blur0.8}-杰克，你现在必须坐下。  -快，把他弄回担架。\N{\rEN\blur0.8}-Jake, you need to sit down right now.   -Guys, get him back on the gurney now.
+Dialogue: 0,0:17:18.62,0:17:20.79,ZH,,0,0,0,,{\rZH\blur0.8}听我说。为了你的安全，你得坐下。\N{\rEN\blur0.8}Listen to me. For your own safety, you need to sit down.
+Dialogue: 0,0:17:20.79,0:17:23.71,ZH,,0,0,0,,{\rZH\blur0.8}你需要时间适应阿凡达……哇！杰克！\N{\rEN\blur0.8}You need time to adjust to the avatar... Whoa! Jake!
+Dialogue: 0,0:17:23.71,0:17:25.96,ZH,,0,0,0,,{\rZH\blur0.8}-天哪，杰克，小心你的尾巴。  -好！\N{\rEN\blur0.8}-God, Jake, watch your tail.   -Yeah!
+Dialogue: 0,0:17:26.04,0:17:30.22,ZH,,0,0,0,,{\rZH\blur0.8}镇静！给他镇静！一千毫克苏皮托康！马上！\N{\rEN\blur0.8}Sedate! Sedate him! A thousand milligrams of Supitocam! Stat!
+Dialogue: 0,0:17:30.22,0:17:32.59,ZH,,0,0,0,,{\rZH\blur0.8}伙计们！伙计们！哇！哇！\N{\rEN\blur0.8}Guys! Guys! Whoa! Whoa!
+Dialogue: 0,0:17:32.59,0:17:33.68,ZH,,0,0,0,,{\rZH\blur0.8}按步骤来。\N{\rEN\blur0.8}By the numbers.
+Dialogue: 0,0:17:33.68,0:17:35.18,ZH,,0,0,0,,{\rZH\blur0.8}-杰克。来吧。  -杰克！听我说。\N{\rEN\blur0.8}-Jake. Come on.   -Jake! Listen to me.
+Dialogue: 0,0:17:35.18,0:17:36.85,ZH,,0,0,0,,{\rZH\blur0.8}你还不习惯你的阿凡达身体。\N{\rEN\blur0.8}You're not used to your avatar body.
+Dialogue: 0,0:17:36.85,0:17:38.64,ZH,,0,0,0,,{\rZH\blur0.8}-这很危险。  -这太棒了。\N{\rEN\blur0.8}-This is dangerous.   -This is great.
+Dialogue: 0,0:17:38.64,0:17:41.89,ZH,,0,0,0,,{\rZH\blur0.8}-杰克？杰克，听我说。  -别这样。他们会把你弄晕的。\N{\rEN\blur0.8}-Jake? Jake, listen to me.   -Come on. They're gonna put you out.
+Dialogue: 0,0:17:44.44,0:17:47.19,ZH,,0,0,0,,{\rZH\blur0.8}-诺姆，坐下。  -不不，我得把这些导线解开。\N{\rEN\blur0.8}-Norm, sit down.   -No, no. I gotta get out of these leads.
+Dialogue: 0,0:17:47.19,0:17:48.86,ZH,,0,0,0,,{\rZH\blur0.8}该死！把他们带回来！\N{\rEN\blur0.8}God damn it! Bring them home!
+Dialogue: 0,0:17:48.86,0:17:51.53,ZH,,0,0,0,,{\rZH\blur0.8}-诺姆！别离开控制！  -你还没准备好！\N{\rEN\blur0.8}-Norm! Do not leave control!   -You're not ready for it!
+Dialogue: 0,0:17:53.28,0:17:57.20,ZH,,0,0,0,,{\rZH\blur0.8}-得了吧，你根本不会打。  -就差一点！\N{\rEN\blur0.8}-Oh, come on, you ain't got no skills.   -So close!
+Dialogue: 0,0:17:57.20,0:17:58.87,ZH,,0,0,0,,{\rZH\blur0.8}我都不用防守。\N{\rEN\blur0.8}I don't even have to play defense on it.
+Dialogue: 0,0:17:58.87,0:18:00.45,ZH,,0,0,0,,{\rZH\blur0.8}嘿，伙计们。嘿。\N{\rEN\blur0.8}Hey, guys. Hey.
+Dialogue: 0,0:18:00.45,0:18:02.83,ZH,,0,0,0,,{\rZH\blur0.8}-没事，我去抓他。  -杰克，你必须回来！\N{\rEN\blur0.8}-It's okay, I'll get him.   -Jake, you have to come back!
+Dialogue: 0,0:18:02.83,0:18:04.62,ZH,,0,0,0,,{\rZH\blur0.8}杰克！杰克！借过。\N{\rEN\blur0.8}Jake! Jake! Excuse me.
+Dialogue: 0,0:18:07.17,0:18:08.88,ZH,,0,0,0,,{\rZH\blur0.8}-小心点！  -抱歉！\N{\rEN\blur0.8}-Watch it!   -Sorry!
+Dialogue: 0,0:18:08.88,0:18:10.34,ZH,,0,0,0,,{\rZH\blur0.8}快！\N{\rEN\blur0.8}Come on!
+Dialogue: 0,0:18:11.42,0:18:14.30,ZH,,0,0,0,,{\rZH\blur0.8}杰克！我们不该乱跑！\N{\rEN\blur0.8}Jake! We're not supposed to be running!
+Dialogue: 0,0:18:23.85,0:18:26.23,ZH,,0,0,0,,{\rZH\blur0.8}-天哪！抱歉。  -小心点！\N{\rEN\blur0.8}-Jeez! Sorry.   -Watch it!
+Dialogue: 0,0:18:48.50,0:18:50.05,ZH,,0,0,0,,{\rZH\blur0.8}嘿，陆战队员！\N{\rEN\blur0.8}Hey, Marine!
+Dialogue: 0,0:18:50.88,0:18:52.26,ZH,,0,0,0,,{\rZH\blur0.8}该死。\N{\rEN\blur0.8}Damn.
+Dialogue: 0,0:18:54.30,0:18:57.47,ZH,,0,0,0,,{\rZH\blur0.8}-格蕾丝？  -不然你以为是谁，笨蛋？\N{\rEN\blur0.8}-Grace?   -Well, who'd you expect, numbnuts?
+Dialogue: 0,0:18:58.72,0:19:00.22,ZH,,0,0,0,,{\rZH\blur0.8}接住。\N{\rEN\blur0.8}Think fast.
+Dialogue: 0,0:19:01.06,0:19:03.22,ZH,,0,0,0,,{\rZH\blur0.8}运动控制看起来不错。\N{\rEN\blur0.8}Motor control's looking good.
+Dialogue: 0,0:19:13.11,0:19:17.45,ZH,,0,0,0,,{\rZH\blur0.8}好了，大家安静！好，孩子们，关灯。\N{\rEN\blur0.8}Come on, everybody, quiet down! All right, gang, lights out.
+Dialogue: 0,0:19:18.12,0:19:19.74,ZH,,0,0,0,,{\rZH\blur0.8}快点，露易丝，赶紧。\N{\rEN\blur0.8}Come on, Louise, chop-chop.
+Dialogue: 0,0:19:19.74,0:19:21.20,ZH,,0,0,0,,{\rZH\blur0.8}嘿，嘿，嘿！\N{\rEN\blur0.8}Hey, hey, hey!
+Dialogue: 0,0:19:21.70,0:19:24.00,ZH,,0,0,0,,{\rZH\blur0.8}别玩那个，会瞎眼的。\N{\rEN\blur0.8}Don't play with that, you'll go blind.
+Dialogue: 0,0:19:24.00,0:19:25.58,ZH,,0,0,0,,{\rZH\blur0.8}有点吓人。\N{\rEN\blur0.8}That's kind of freaky.
+Dialogue: 0,0:19:25.58,0:19:28.04,ZH,,0,0,0,,{\rZH\blur0.8}好了，快走开。\N{\rEN\blur0.8}Come on. Scat.
+Dialogue: 0,0:19:28.96,0:19:30.42,ZH,,0,0,0,,{\rZH\blur0.8}晚安。\N{\rEN\blur0.8}Good night.
+Dialogue: 0,0:19:32.09,0:19:35.26,ZH,,0,0,0,,{\rZH\blur0.8}关灯！晚饭见，小家伙们。\N{\rEN\blur0.8}Lights out! See you at dinner, kiddies.
+Dialogue: 0,0:19:59.28,0:20:00.32,ZH,,0,0,0,,{\rZH\blur0.8}欢迎回来。\N{\rEN\blur0.8}Welcome back.
+Dialogue: 0,0:20:08.25,0:20:10.63,ZH,,0,0,0,,{\rZH\blur0.8}-你没事吧？还好吗？  -嗯，我没事。\N{\rEN\blur0.8}-You okay? You all right?   -Yeah, I'm okay.
+Dialogue: 0,0:20:12.29,0:20:17.59,ZH,,0,0,0,,{\rZH\blur0.8}我是楚迪。科学考察飞行都由我飞。这是我的宝贝。\N{\rEN\blur0.8}I'm Trudy. I fly all the science sorties. And this here is my baby.
+Dialogue: 0,0:20:18.18,0:20:19.80,ZH,,0,0,0,,{\rZH\blur0.8}等一下。\N{\rEN\blur0.8}Hold on a second.
+Dialogue: 0,0:20:20.34,0:20:23.26,ZH,,0,0,0,,{\rZH\blur0.8}嘿，温弗利特！搞定它！\N{\rEN\blur0.8}Hey, Wainfleet! Get it done!
+Dialogue: 0,0:20:23.68,0:20:27.81,ZH,,0,0,0,,{\rZH\blur0.8}-我们九点出发。  -是，我在弄，机长！\N{\rEN\blur0.8}-We bounce at zero-nine.   -Yeah, I'm on it, capitaine!
+Dialogue: 0,0:20:28.52,0:20:30.56,ZH,,0,0,0,,{\rZH\blur0.8}藤索固定带还松着。\N{\rEN\blur0.8}Vine strike's still loose.
+Dialogue: 0,0:20:30.56,0:20:32.82,ZH,,0,0,0,,{\rZH\blur0.8}你们带的家伙可真够重的。\N{\rEN\blur0.8}You guys are packing some heavy gear.
+Dialogue: 0,0:20:32.82,0:20:34.19,ZH,,0,0,0,,{\rZH\blur0.8}小心！\N{\rEN\blur0.8}Watch it!
+Dialogue: 0,0:20:34.82,0:20:37.57,ZH,,0,0,0,,{\rZH\blur0.8}是啊，因为外面飞的可不止我们。\N{\rEN\blur0.8}Yeah, that's 'cause we're not the only thing flying around out there.
+Dialogue: 0,0:20:37.57,0:20:39.32,ZH,,0,0,0,,{\rZH\blur0.8}也不是最大的。\N{\rEN\blur0.8}Or the biggest.
+Dialogue: 0,0:20:39.32,0:20:42.16,ZH,,0,0,0,,{\rZH\blur0.8}我需要你上舱门机枪。我缺个人手。\N{\rEN\blur0.8}I'm gonna need you on a door gun. I'm aman short.
+Dialogue: 0,0:20:42.24,0:20:44.08,ZH,,0,0,0,,{\rZH\blur0.8}我还以为你不会开口呢。\N{\rEN\blur0.8}I thought you'd never ask.
+Dialogue: 0,0:20:45.41,0:20:48.58,ZH,,0,0,0,,{\rZH\blur0.8}你要的人来了。停机坪见。\N{\rEN\blur0.8}There's your man. See you on the flight line.
+Dialogue: 0,0:20:59.30,0:21:01.76,ZH,,0,0,0,,{\rZH\blur0.8}你找我，上校？\N{\rEN\blur0.8}You wanted to see me, Colonel?
+Dialogue: 0,0:21:01.76,0:21:04.39,ZH,,0,0,0,,{\rZH\blur0.8}这种低重力会让你变得软弱。\N{\rEN\blur0.8}This low gravity'll make you soft.
+Dialogue: 0,0:21:05.85,0:21:07.35,ZH,,0,0,0,,{\rZH\blur0.8}一旦软下来，\N{\rEN\blur0.8}You get soft,
+Dialogue: 0,0:21:10.60,0:21:13.90,ZH,,0,0,0,,{\rZH\blur0.8}潘多拉会毫无预警地要了你的命。\N{\rEN\blur0.8}Pandora will shit you out dead with zero warning.
+Dialogue: 0,0:21:14.98,0:21:17.61,ZH,,0,0,0,,{\rZH\blur0.8}我调了你的档案，下士。\N{\rEN\blur0.8}I pulled your record, Corporal.
+Dialogue: 0,0:21:17.61,0:21:20.03,ZH,,0,0,0,,{\rZH\blur0.8}委内瑞拉，那丛林可真够凶险的。\N{\rEN\blur0.8}Venezuela, that was some mean bush.
+Dialogue: 0,0:21:22.03,0:21:24.32,ZH,,0,0,0,,{\rZH\blur0.8}不过跟这儿比差远了。\N{\rEN\blur0.8}Nothing like this here, though.
+Dialogue: 0,0:21:26.58,0:21:30.04,ZH,,0,0,0,,{\rZH\blur0.8}小子，敢来这地方，你还有点胆量。\N{\rEN\blur0.8}You got some heart, kid, showing up in this neighborhood.
+Dialogue: 0,0:21:30.04,0:21:32.00,ZH,,0,0,0,,{\rZH\blur0.8}我以为又是一个鬼地方。\N{\rEN\blur0.8}I figured it's just another hellhole.
+Dialogue: 0,0:21:32.00,0:21:34.50,ZH,,0,0,0,,{\rZH\blur0.8}我自己就是第一侦察营的。\N{\rEN\blur0.8}I was First Recon myself.
+Dialogue: 0,0:21:34.50,0:21:37.71,ZH,,0,0,0,,{\rZH\blur0.8}比你早几年。嗯，可能不止几年。\N{\rEN\blur0.8}A few years ahead of you. Well, maybe more than a few.
+Dialogue: 0,0:21:38.67,0:21:41.68,ZH,,0,0,0,,{\rZH\blur0.8}在尼日利亚跑了三趟，一点伤都没有。\N{\rEN\blur0.8}Three tours Nigeria, not a scratch.
+Dialogue: 0,0:21:41.68,0:21:43.14,ZH,,0,0,0,,{\rZH\blur0.8}我来了这儿？\N{\rEN\blur0.8}I come out here?
+Dialogue: 0,0:21:43.93,0:21:47.26,ZH,,0,0,0,,{\rZH\blur0.8}第一天。你以为我当时不像个嫩头少尉？\N{\rEN\blur0.8}Day one. Think I felt like a shavetail louie?
+Dialogue: 0,0:21:47.26,0:21:51.85,ZH,,0,0,0,,{\rZH\blur0.8}是啊。要是我轮换回国，他们能把我治好。\N{\rEN\blur0.8}Yeah. They could fix me up, if I rotated back.
+Dialogue: 0,0:21:52.56,0:21:57.69,ZH,,0,0,0,,{\rZH\blur0.8}是啊，还能把我弄得跟原来一样漂亮。可你知道吗？我还挺喜欢这样。\N{\rEN\blur0.8}Yeah, and make me pretty again. But you know what? I kind of like it.
+Dialogue: 0,0:21:57.69,0:22:00.57,ZH,,0,0,0,,{\rZH\blur0.8}它每天都提醒我，外面等着的是什么。\N{\rEN\blur0.8}It reminds me every day what's waiting out there.
+Dialogue: 0,0:22:02.57,0:22:08.54,ZH,,0,0,0,,{\rZH\blur0.8}阿凡达计划就是个笑话。一帮软蛋理科生。\N{\rEN\blur0.8}The Avatar Program is a bad joke. Bunch of limp-dick science majors.
+Dialogue: 0,0:22:08.54,0:22:15.58,ZH,,0,0,0,,{\rZH\blur0.8}不过，它确实带来了一个又及时又难得的机会。\N{\rEN\blur0.8}However, it does present an opportunity both timely and unique.
+Dialogue: 0,0:22:15.58,0:22:17.25,ZH,,0,0,0,,{\rZH\blur0.8}-无异常！  -无异常！\N{\rEN\blur0.8}-Clear!   -Clear!
+Dialogue: 0,0:22:22.38,0:22:27.60,ZH,,0,0,0,,{\rZH\blur0.8}一个侦察兵，装在阿凡达身体里。这组合够劲。\N{\rEN\blur0.8}A recon gyrene in an avatar body. That's a potent mix.
+Dialogue: 0,0:22:27.60,0:22:29.26,ZH,,0,0,0,,{\rZH\blur0.8}我都起鸡皮疙瘩了。\N{\rEN\blur0.8}Give me the goose bumps.
+Dialogue: 0,0:22:29.35,0:22:32.85,ZH,,0,0,0,,{\rZH\blur0.8}这样的陆战队员能给我提供我需要的情报，\N{\rEN\blur0.8}Such a Marine could provide the intel I need,
+Dialogue: 0,0:22:32.85,0:22:34.60,ZH,,0,0,0,,{\rZH\blur0.8}就在地面上。\N{\rEN\blur0.8}right on the ground.
+Dialogue: 0,0:22:35.86,0:22:37.77,ZH,,0,0,0,,{\rZH\blur0.8}直接进敌人的营地。\N{\rEN\blur0.8}Right in the hostiles' camp.
+Dialogue: 0,0:22:38.61,0:22:43.99,ZH,,0,0,0,,{\rZH\blur0.8}听着，萨利。我要你从内部了解这些野蛮人。\N{\rEN\blur0.8}Look, Sully. I want you to learn these savages from the inside.
+Dialogue: 0,0:22:43.99,0:22:45.78,ZH,,0,0,0,,{\rZH\blur0.8}我要你赢得他们的信任。\N{\rEN\blur0.8}I want you to gain their trust.
+Dialogue: 0,0:22:45.78,0:22:47.62,ZH,,0,0,0,,{\rZH\blur0.8}我得知道怎么逼他们合作\N{\rEN\blur0.8}I need to know how to force their cooperation
+Dialogue: 0,0:22:47.62,0:22:50.12,ZH,,0,0,0,,{\rZH\blur0.8}或者他们不配合，就狠狠揍他们。\N{\rEN\blur0.8}or hammer them hard if they won't.
+Dialogue: 0,0:22:51.62,0:22:53.96,ZH,,0,0,0,,{\rZH\blur0.8}-我还归奥古斯丁管吗？  -名义上。\N{\rEN\blur0.8}-Am I still with Augustine?   -On paper.
+Dialogue: 0,0:22:53.96,0:22:58.08,ZH,,0,0,0,,{\rZH\blur0.8}对，你走路像她那帮书呆子，说话也像，\N{\rEN\blur0.8}Yeah, you walk like one of her science pukes, you quack like one,
+Dialogue: 0,0:22:59.59,0:23:01.17,ZH,,0,0,0,,{\rZH\blur0.8}但你向我汇报。\N{\rEN\blur0.8}but you report to me.
+Dialogue: 0,0:23:02.59,0:23:04.38,ZH,,0,0,0,,{\rZH\blur0.8}你能为我做到吗，孩子？\N{\rEN\blur0.8}Can you do that for me, son?
+Dialogue: 0,0:23:05.93,0:23:07.30,ZH,,0,0,0,,{\rZH\blur0.8}当然，长官。\N{\rEN\blur0.8}Hell, yeah, sir.
+Dialogue: 0,0:23:08.22,0:23:10.01,ZH,,0,0,0,,{\rZH\blur0.8}那好。\N{\rEN\blur0.8}Well, all right, then.
+Dialogue: 0,0:23:21.02,0:23:23.99,ZH,,0,0,0,,{\rZH\blur0.8}孩子，我会照顾自己人。\N{\rEN\blur0.8}Son, I take care of my own.
+Dialogue: 0,0:23:23.99,0:23:25.20,ZH,,0,0,0,,{\rZH\blur0.8}你给我我需要的东西，\N{\rEN\blur0.8}You get me what I need,
+Dialogue: 0,0:23:25.20,0:23:28.49,ZH,,0,0,0,,{\rZH\blur0.8}我保证你轮换回国时能重新长出双腿。\N{\rEN\blur0.8}I'll see to it you get your legs back when you rotate home.
+Dialogue: 0,0:23:29.32,0:23:30.83,ZH,,0,0,0,,{\rZH\blur0.8}你真正的腿。\N{\rEN\blur0.8}Your real legs.
+Dialogue: 0,0:23:33.50,0:23:35.62,ZH,,0,0,0,,{\rZH\blur0.8}那太好了，长官。\N{\rEN\blur0.8}That sounds real good, sir.
+Dialogue: 0,0:23:42.25,0:23:45.01,ZH,,0,0,0,,{\rZH\blur0.8}-连接准备好了！  -相位锁定40%。\N{\rEN\blur0.8}-Link's ready!   -Phase-lock 40%.
+Dialogue: 0,0:23:45.59,0:23:48.76,ZH,,0,0,0,,{\rZH\blur0.8}你只管闭嘴，让诺姆来说话。\N{\rEN\blur0.8}Just keep your mouth shut and let Norm do the talking.
+Dialogue: 0,0:23:48.76,0:23:52.39,ZH,,0,0,0,,{\rZH\blur0.8}五项一致。相位锁定90%。\N{\rEN\blur0.8}I have five congruencies. Phase-lock 90%.
+Dialogue: 0,0:23:52.39,0:23:53.72,ZH,,0,0,0,,{\rZH\blur0.8}三号连接就绪。\N{\rEN\blur0.8}Link three ready.
+Dialogue: 0,0:23:54.39,0:23:56.06,ZH,,0,0,0,,{\rZH\blur0.8}好，我进去了。\N{\rEN\blur0.8}All right, I'm going in.
+Dialogue: 0,0:25:06.05,0:25:08.42,ZH,,0,0,0,,{\rZH\blur0.8}关掉它。我们要待一会儿。\N{\rEN\blur0.8}Shut it down. We're gonna stay a while.
+Dialogue: 0,0:25:11.88,0:25:15.68,ZH,,0,0,0,,{\rZH\blur0.8}-诺姆！你的背包。  -背包。\N{\rEN\blur0.8}-Norm! Your pack.   -Pack.
+Dialogue: 0,0:25:18.31,0:25:22.31,ZH,,0,0,0,,{\rZH\blur0.8}留在飞船这儿。有一个拿枪的傻瓜就够了。\N{\rEN\blur0.8}Stay with the ship. One idiot with a gun is enough.
+Dialogue: 0,0:25:24.77,0:25:26.44,ZH,,0,0,0,,{\rZH\blur0.8}你厉害，博士。\N{\rEN\blur0.8}You the man, Doc.
+Dialogue: 0,0:26:02.98,0:26:06.11,ZH,,0,0,0,,{\rZH\blur0.8}原猴。它们没有攻击性。\N{\rEN\blur0.8}Prolemuris. They're not aggressive.
+Dialogue: 0,0:26:08.69,0:26:12.20,ZH,,0,0,0,,{\rZH\blur0.8}放松，陆战队员。你搞得我紧张。\N{\rEN\blur0.8}Relax, Marine. You're making me nervous.
+Dialogue: 0,0:26:17.74,0:26:20.41,ZH,,0,0,0,,{\rZH\blur0.8}那他们怎么知道我们在这儿？\N{\rEN\blur0.8}So, how will they know we're here?
+Dialogue: 0,0:26:20.41,0:26:23.12,ZH,,0,0,0,,{\rZH\blur0.8}我敢说他们现在就在看着我们。\N{\rEN\blur0.8}I'm sure they're watching us right now.
+Dialogue: 0,0:26:25.54,0:26:27.50,ZH,,0,0,0,,{\rZH\blur0.8}-继续走，诺姆。  -大家跟上！\N{\rEN\blur0.8}-Keep moving, Norm.   -Keep up, guys!
+Dialogue: 0,0:26:29.92,0:26:33.51,ZH,,0,0,0,,{\rZH\blur0.8}-那我开始了。  -扫描中。\N{\rEN\blur0.8}-And here I go.   -Scanning.
+Dialogue: 0,0:26:35.93,0:26:39.14,ZH,,0,0,0,,{\rZH\blur0.8}哇！这么快？\N{\rEN\blur0.8}Wow! It's that fast?
+Dialogue: 0,0:26:41.35,0:26:43.52,ZH,,0,0,0,,{\rZH\blur0.8}-很神奇吧？  -是啊。\N{\rEN\blur0.8}-Amazing, isn't it?   -Yeah.
+Dialogue: 0,0:26:43.52,0:26:47.40,ZH,,0,0,0,,{\rZH\blur0.8}所以，信号是从这条根传导\N{\rEN\blur0.8}So, that is signal transduction from this root
+Dialogue: 0,0:26:47.40,0:26:51.11,ZH,,0,0,0,,{\rZH\blur0.8}到旁边那棵树的根。所以我们应该取个样本。\N{\rEN\blur0.8}to the root of the tree next to it. So, we should take a sample.
+Dialogue: 0,0:26:51.11,0:26:52.82,ZH,,0,0,0,,{\rZH\blur0.8}好。样本。\N{\rEN\blur0.8}Okay. Sample.
+Dialogue: 0,0:26:54.74,0:26:59.03,ZH,,0,0,0,,{\rZH\blur0.8}按反应速度来看，这大概是电信号。\N{\rEN\blur0.8}You know, it's probably electrical, based on the speed of the reaction.
+Dialogue: 0,0:26:59.70,0:27:03.70,ZH,,0,0,0,,{\rZH\blur0.8}诺姆，你的口水把样本污染了。\N{\rEN\blur0.8}Norm, you've contaminated the sample with your saliva.
+Dialogue: 0,0:27:04.12,0:27:05.92,ZH,,0,0,0,,{\rZH\blur0.8}对。\N{\rEN\blur0.8}Right.
+Dialogue: 0,0:27:33.74,0:27:35.57,ZH,,0,0,0,,{\rZH\blur0.8}那我开始了。\N{\rEN\blur0.8}So, here I go.
+Dialogue: 0,0:28:01.05,0:28:04.93,ZH,,0,0,0,,{\rZH\blur0.8}别开枪。别开枪，你会惹毛他。\N{\rEN\blur0.8}Don't shoot. Don't shoot, you'll piss him off.
+Dialogue: 0,0:28:08.64,0:28:10.27,ZH,,0,0,0,,{\rZH\blur0.8}他已经毛了。\N{\rEN\blur0.8}It's already pissed off.
+Dialogue: 0,0:28:10.44,0:28:13.36,ZH,,0,0,0,,{\rZH\blur0.8}杰克，那层甲太厚了。相信我。\N{\rEN\blur0.8}Jake, that armor's too thick. Trust me.
+Dialogue: 0,0:28:19.20,0:28:23.28,ZH,,0,0,0,,{\rZH\blur0.8}这是领地的威胁展示。别跑，不然他会冲过来。\N{\rEN\blur0.8}It's a territorial threat display. Do not run, or he'll charge.
+Dialogue: 0,0:28:23.95,0:28:25.70,ZH,,0,0,0,,{\rZH\blur0.8}那我怎么办，跟它跳舞？\N{\rEN\blur0.8}So, what do I do, dance with it?
+Dialogue: 0,0:28:26.16,0:28:29.25,ZH,,0,0,0,,{\rZH\blur0.8}就站住别动。\N{\rEN\blur0.8}Just hold your ground.
+Dialogue: 0,0:28:44.35,0:28:46.72,ZH,,0,0,0,,{\rZH\blur0.8}是吗？来啊！你有什么本事？\N{\rEN\blur0.8}Yeah? Come on! What you got?
+Dialogue: 0,0:28:47.85,0:28:49.81,ZH,,0,0,0,,{\rZH\blur0.8}哦耶。谁厉害？这就对了。\N{\rEN\blur0.8}Oh, yeah. Who's bad? That's right.
+Dialogue: 0,0:28:50.81,0:28:53.23,ZH,,0,0,0,,{\rZH\blur0.8}对，就是这个，贱货。\N{\rEN\blur0.8}Yeah, that's what I'm talking about, bitch.
+Dialogue: 0,0:28:54.78,0:28:57.44,ZH,,0,0,0,,{\rZH\blur0.8}没错，滚回你妈那儿去吧。\N{\rEN\blur0.8}That's right, get your punk ass back to mommy.
+Dialogue: 0,0:28:57.44,0:29:00.45,ZH,,0,0,0,,{\rZH\blur0.8}是吗？你什么都没有。你继续跑吧。\N{\rEN\blur0.8}Yeah? Yeah, you got nothing. You keep running.
+Dialogue: 0,0:29:00.45,0:29:03.45,ZH,,0,0,0,,{\rZH\blur0.8}是啊，你怎么不带几个朋友回来，啊？\N{\rEN\blur0.8}Yeah, and why don't you bring back some of your friends, huh?
+Dialogue: 0,0:29:06.54,0:29:07.66,ZH,,0,0,0,,{\rZH\blur0.8}哦，该死。\N{\rEN\blur0.8}Oh, shit.
+Dialogue: 0,0:29:19.51,0:29:21.97,ZH,,0,0,0,,{\rZH\blur0.8}那这个呢？跑？不跑？怎么办？\N{\rEN\blur0.8}So what about this one? Run? Don't run? What?
+Dialogue: 0,0:29:23.39,0:29:25.43,ZH,,0,0,0,,{\rZH\blur0.8}跑！绝对要跑！\N{\rEN\blur0.8}Run! Definitely run!
+Dialogue: 0,0:33:11.91,0:33:13.28,ZH,,0,0,0,,{\rZH\blur0.8}各位，我得收工了。\N{\rEN\blur0.8}I'm gonna have to call it, guys.
+Dialogue: 0,0:33:13.28,0:33:16.20,ZH,,0,0,0,,{\rZH\blur0.8}我们不许夜间行动。上校的命令。\N{\rEN\blur0.8}We're not allowed to run night ops. Colonel's orders.
+Dialogue: 0,0:33:17.91,0:33:21.25,ZH,,0,0,0,,{\rZH\blur0.8}抱歉，博士，他只能撑到早上了。\N{\rEN\blur0.8}I'm sorry, Doc, he's just gonna have to hang on till morning.
+Dialogue: 0,0:33:21.25,0:33:22.88,ZH,,0,0,0,,{\rZH\blur0.8}他撑不到早上。\N{\rEN\blur0.8}He won't make it till morning.
+Dialogue: 0,0:35:15.78,0:35:17.74,ZH,,0,0,0,,{\rZH\blur0.8}我可没他妈一整晚。\N{\rEN\blur0.8}I don't have all goddamn night.
+Dialogue: 0,0:35:18.57,0:35:20.70,ZH,,0,0,0,,{\rZH\blur0.8}快点！快点！\N{\rEN\blur0.8}Come on! Come on!
+Dialogue: 0,0:36:34.65,0:36:36.28,ZH,,0,0,0,,{\rZH\blur0.8}嘿，等等。别！\N{\rEN\blur0.8}Hey, wait. Don't!
+Dialogue: 0,0:36:39.78,0:36:40.91,ZH,,0,0,0,,{\rZH\blur0.8}好极了。\N{\rEN\blur0.8}Great.
+Dialogue: 0,0:37:38.38,0:37:41.93,ZH,,0,0,0,,{\rZH\blur0.8}听着，我知道你可能听不懂这个，\N{\rEN\blur0.8}Look, I know you probably don't understand this,
+Dialogue: 0,0:37:48.02,0:37:49.22,ZH,,0,0,0,,{\rZH\blur0.8}但谢谢你。\N{\rEN\blur0.8}but thank you.
+Dialogue: 0,0:37:54.36,0:37:55.82,ZH,,0,0,0,,{\rZH\blur0.8}谢谢你。\N{\rEN\blur0.8}Thank you.
+Dialogue: 0,0:37:59.78,0:38:01.28,ZH,,0,0,0,,{\rZH\blur0.8}刚才真厉害。\N{\rEN\blur0.8}That was pretty impressive.
+Dialogue: 0,0:38:04.03,0:38:06.95,ZH,,0,0,0,,{\rZH\blur0.8}要是你没来，我就完蛋了。真是……\N{\rEN\blur0.8}I would have been screwed if you hadn't come along. It was...
+Dialogue: 0,0:38:10.54,0:38:13.62,ZH,,0,0,0,,{\rZH\blur0.8}嘿，等一下。嘿，你去哪儿？\N{\rEN\blur0.8}Hey, wait a second. Hey, where you going?
+Dialogue: 0,0:38:14.63,0:38:16.08,ZH,,0,0,0,,{\rZH\blur0.8}等等！\N{\rEN\blur0.8}Wait up!
+Dialogue: 0,0:38:16.84,0:38:18.71,ZH,,0,0,0,,{\rZH\blur0.8}就……嘿，慢点。\N{\rEN\blur0.8}Just... Hey, slow down.
+Dialogue: 0,0:38:18.71,0:38:21.76,ZH,,0,0,0,,{\rZH\blur0.8}听着，等等，我只是想谢谢你杀了那些东西。\N{\rEN\blur0.8}Look, wait up, I just wanted to say thanks for killing those things.
+Dialogue: 0,0:38:22.88,0:38:25.89,ZH,,0,0,0,,{\rZH\blur0.8}-该死！  -不用谢。\N{\rEN\blur0.8}-Damn!   -Don't thank.
+Dialogue: 0,0:38:26.80,0:38:29.18,ZH,,0,0,0,,{\rZH\blur0.8}这不用谢。\N{\rEN\blur0.8}You don't thank for this.
+Dialogue: 0,0:38:30.72,0:38:34.69,ZH,,0,0,0,,{\rZH\blur0.8}这很悲哀。非常悲哀。\N{\rEN\blur0.8}This is sad. Very sad only.
+Dialogue: 0,0:38:35.60,0:38:37.73,ZH,,0,0,0,,{\rZH\blur0.8}好。好。对不起。\N{\rEN\blur0.8}Okay. Okay. I'm sorry.
+Dialogue: 0,0:38:38.57,0:38:40.36,ZH,,0,0,0,,{\rZH\blur0.8}不管我做了什么，我道歉。\N{\rEN\blur0.8}Whatever I did, I am sorry.
+Dialogue: 0,0:38:43.86,0:38:47.03,ZH,,0,0,0,,{\rZH\blur0.8}这都是你的错。它们本来不该死。\N{\rEN\blur0.8}All this is your fault. They did not need to die.
+Dialogue: 0,0:38:47.91,0:38:50.04,ZH,,0,0,0,,{\rZH\blur0.8}我的错？它们攻击我。我怎么成了坏人？\N{\rEN\blur0.8}My fault? They attacked me. How am I the bad guy?
+Dialogue: 0,0:38:50.04,0:38:51.70,ZH,,0,0,0,,{\rZH\blur0.8}你的错！\N{\rEN\blur0.8}Your fault!
+Dialogue: 0,0:38:52.16,0:38:54.96,ZH,,0,0,0,,{\rZH\blur0.8}-你的错！  -好了。好了。\N{\rEN\blur0.8}-Your fault!   -Easy. Easy.
+Dialogue: 0,0:38:54.96,0:38:58.75,ZH,,0,0,0,,{\rZH\blur0.8}你就像个婴儿。只会嚷嚷，不知道该怎么办。\N{\rEN\blur0.8}You're like a baby. Making noise, don't know what to do.
+Dialogue: 0,0:38:58.75,0:39:00.21,ZH,,0,0,0,,{\rZH\blur0.8}别激动。\N{\rEN\blur0.8}Easy.
+Dialogue: 0,0:39:02.46,0:39:04.88,ZH,,0,0,0,,{\rZH\blur0.8}好。好。\N{\rEN\blur0.8}Fine. Fine.
+Dialogue: 0,0:39:06.09,0:39:08.18,ZH,,0,0,0,,{\rZH\blur0.8}你要是真爱你的森林小伙伴，\N{\rEN\blur0.8}If you love your little forest friends,
+Dialogue: 0,0:39:09.76,0:39:11.60,ZH,,0,0,0,,{\rZH\blur0.8}干嘛不干脆让它们杀了我？\N{\rEN\blur0.8}why not let them just kill my ass?
+Dialogue: 0,0:39:12.60,0:39:14.35,ZH,,0,0,0,,{\rZH\blur0.8}这是什么道理？\N{\rEN\blur0.8}What's the thinking?
+Dialogue: 0,0:39:15.14,0:39:17.86,ZH,,0,0,0,,{\rZH\blur0.8}-为什么救你？  -对，对，为什么救我？\N{\rEN\blur0.8}-Why save you?   -Yeah. Yeah, why save me?
+Dialogue: 0,0:39:22.28,0:39:24.28,ZH,,0,0,0,,{\rZH\blur0.8}你有一颗坚强的心。\N{\rEN\blur0.8}You have a strong heart.
+Dialogue: 0,0:39:26.36,0:39:27.61,ZH,,0,0,0,,{\rZH\blur0.8}无所畏惧。\N{\rEN\blur0.8}No fear.
+Dialogue: 0,0:39:32.12,0:39:34.96,ZH,,0,0,0,,{\rZH\blur0.8}但很蠢！像孩子一样无知。\N{\rEN\blur0.8}But stupid! Ignorant like a child.
+Dialogue: 0,0:39:41.38,0:39:43.80,ZH,,0,0,0,,{\rZH\blur0.8}好吧，如果我像个孩子，那……\N{\rEN\blur0.8}Well, if I'm like a child, then...
+Dialogue: 0,0:39:44.46,0:39:46.76,ZH,,0,0,0,,{\rZH\blur0.8}你看，也许你该教教我。\N{\rEN\blur0.8}Look, maybe you should teach me.
+Dialogue: 0,0:39:46.76,0:39:49.05,ZH,,0,0,0,,{\rZH\blur0.8}天空人学不会。你们看不见。\N{\rEN\blur0.8}Sky People cannot learn. You do not See.
+Dialogue: 0,0:39:49.05,0:39:50.97,ZH,,0,0,0,,{\rZH\blur0.8}那就教我怎么看见。\N{\rEN\blur0.8}Well, then teach me how to See.
+Dialogue: 0,0:39:50.97,0:39:53.52,ZH,,0,0,0,,{\rZH\blur0.8}-没人能教你怎么看见。  -哇哦。\N{\rEN\blur0.8}-No one can teach you to See.   -Whoa.
+Dialogue: 0,0:39:54.81,0:39:57.31,ZH,,0,0,0,,{\rZH\blur0.8}嘿，别这样，我们不能聊聊吗？\N{\rEN\blur0.8}Look, come on, can't we talk?
+Dialogue: 0,0:39:58.23,0:40:02.15,ZH,,0,0,0,,{\rZH\blur0.8}对了，你英语在哪儿学的？奥古斯丁博士的学校？\N{\rEN\blur0.8}Say, where'd you learn to speak English? Dr. Augustine's school?
+Dialogue: 0,0:40:06.95,0:40:08.66,ZH,,0,0,0,,{\rZH\blur0.8}你就像个婴儿。\N{\rEN\blur0.8}You're like a baby.
+Dialogue: 0,0:40:14.83,0:40:16.50,ZH,,0,0,0,,{\rZH\blur0.8}我需要你的帮助。\N{\rEN\blur0.8}I need your help.
+Dialogue: 0,0:40:17.50,0:40:19.42,ZH,,0,0,0,,{\rZH\blur0.8}你不该来这里。\N{\rEN\blur0.8}You should not be here.
+Dialogue: 0,0:40:20.34,0:40:23.17,ZH,,0,0,0,,{\rZH\blur0.8}-好，带上我。  -不行！回去。\N{\rEN\blur0.8}-Okay, take me with you.   -No! Go back.
+Dialogue: 0,0:40:25.84,0:40:26.88,ZH,,0,0,0,,{\rZH\blur0.8}不。\N{\rEN\blur0.8}No.
+Dialogue: 0,0:40:28.38,0:40:29.64,ZH,,0,0,0,,{\rZH\blur0.8}回去。\N{\rEN\blur0.8}Go back.
+Dialogue: 0,0:40:51.24,0:40:52.28,ZH,,0,0,0,,{\rZH\blur0.8}不！\N{\rEN\blur0.8}No!
+Dialogue: 0,0:41:14.05,0:41:15.26,ZH,,0,0,0,,{\rZH\blur0.8}什么……\N{\rEN\blur0.8}What...
+Dialogue: 0,0:41:19.06,0:41:20.56,ZH,,0,0,0,,{\rZH\blur0.8}它们是什么？\N{\rEN\blur0.8}What are they?
+Dialogue: 0,0:41:21.90,0:41:23.90,ZH,,0,0,0,,{\rZH\blur0.8}圣树的种子。\N{\rEN\blur0.8}Seeds of the Sacred Tree.
+Dialogue: 0,0:41:24.90,0:41:26.57,ZH,,0,0,0,,{\rZH\blur0.8}非常纯洁的灵魂。\N{\rEN\blur0.8}Very pure spirits.
+Dialogue: 0,0:41:50.68,0:41:52.64,ZH,,0,0,0,,{\rZH\blur0.8}刚才那是怎么回事？\N{\rEN\blur0.8}What was that all about?
+Dialogue: 0,0:41:54.76,0:41:55.85,ZH,,0,0,0,,{\rZH\blur0.8}来。\N{\rEN\blur0.8}Come.
+Dialogue: 0,0:41:57.26,0:41:58.39,ZH,,0,0,0,,{\rZH\blur0.8}来！\N{\rEN\blur0.8}Come!
+Dialogue: 0,0:42:00.60,0:42:02.31,ZH,,0,0,0,,{\rZH\blur0.8}我们要去哪儿？\N{\rEN\blur0.8}Where are we going?
+Dialogue: 0,0:42:12.49,0:42:13.61,ZH,,0,0,0,,{\rZH\blur0.8}来。\N{\rEN\blur0.8}Come.
+Dialogue: 0,0:42:18.24,0:42:20.04,ZH,,0,0,0,,{\rZH\blur0.8}你叫什么名字？\N{\rEN\blur0.8}What's your name?
+Dialogue: 0,0:42:20.04,0:42:21.12,ZH,,0,0,0,,{\rZH\blur0.8}该死！\N{\rEN\blur0.8}Shit!
+Dialogue: 0,0:42:46.65,0:42:47.73,ZH,,0,0,0,,{\rZH\blur0.8}好吧。\N{\rEN\blur0.8}Okay.
+Dialogue: 0,0:42:50.36,0:42:53.24,ZH,,0,0,0,,{\rZH\blur0.8}冷静，大家冷静。\N{\rEN\blur0.8}Calm people, calm.
+Dialogue: 0,0:42:58.95,0:43:01.79,ZH,,0,0,0,,{\rZH\blur0.8}你在干什么，苏泰？\N{\rEN\blur0.8}What are you doing, Tsu'tey?
+Dialogue: 0,0:43:04.29,0:43:07.21,ZH,,0,0,0,,{\rZH\blur0.8}这些恶魔禁止来到这里。\N{\rEN\blur0.8}These demons are forbidden here.
+Dialogue: 0,0:43:08.00,0:43:10.34,ZH,,0,0,0,,{\rZH\blur0.8}出现了征兆。\N{\rEN\blur0.8}There has been a sign.
+Dialogue: 0,0:43:10.34,0:43:12.67,ZH,,0,0,0,,{\rZH\blur0.8}这事该由沙希克定夺。\N{\rEN\blur0.8}This is a matter for the Tsahik.
+Dialogue: 0,0:43:17.51,0:43:18.51,ZH,,0,0,0,,{\rZH\blur0.8}带他上来。\N{\rEN\blur0.8}Bring him.
+Dialogue: 0,0:43:20.10,0:43:21.68,ZH,,0,0,0,,{\rZH\blur0.8}怎么回事？\N{\rEN\blur0.8}What's going on?
+Dialogue: 0,0:43:24.02,0:43:25.14,ZH,,0,0,0,,{\rZH\blur0.8}等等。\N{\rEN\blur0.8}Wait.
+Dialogue: 0,0:43:28.11,0:43:29.73,ZH,,0,0,0,,{\rZH\blur0.8}发生什么了？\N{\rEN\blur0.8}What's happening?
+Dialogue: 0,0:43:30.61,0:43:31.65,ZH,,0,0,0,,{\rZH\blur0.8}嘿！\N{\rEN\blur0.8}Hey!
+Dialogue: 0,0:44:41.72,0:44:43.06,ZH,,0,0,0,,{\rZH\blur0.8}父亲……\N{\rEN\blur0.8}Father...
+Dialogue: 0,0:44:43.89,0:44:45.68,ZH,,0,0,0,,{\rZH\blur0.8}……见到您。\N{\rEN\blur0.8}...) see you.
+Dialogue: 0,0:44:57.44,0:44:58.86,ZH,,0,0,0,,{\rZH\blur0.8}这个生物……\N{\rEN\blur0.8}This creature...
+Dialogue: 0,0:44:59.11,0:45:02.24,ZH,,0,0,0,,{\rZH\blur0.8}你为什么把他带到这里？\N{\rEN\blur0.8}...why do you bring him here?
+Dialogue: 0,0:45:03.66,0:45:05.08,ZH,,0,0,0,,{\rZH\blur0.8}我本来要杀了他……\N{\rEN\blur0.8}I was going to kill him...
+Dialogue: 0,0:45:05.37,0:45:07.20,ZH,,0,0,0,,{\rZH\blur0.8}但艾娃降下了征兆。\N{\rEN\blur0.8}_..but there Was a sign from Eywa.
+Dialogue: 0,0:45:07.37,0:45:09.46,ZH,,0,0,0,,{\rZH\blur0.8}我说过……\N{\rEN\blur0.8}I have said...
+Dialogue: 0,0:45:09.46,0:45:11.63,ZH,,0,0,0,,{\rZH\blur0.8}绝不许梦行者来到这里。\N{\rEN\blur0.8}---NO dreamwalker will come here.
+Dialogue: 0,0:45:11.71,0:45:13.34,ZH,,0,0,0,,{\rZH\blur0.8}他在说什么？\N{\rEN\blur0.8}What's he saying?
+Dialogue: 0,0:45:13.59,0:45:16.13,ZH,,0,0,0,,{\rZH\blur0.8}他身上异族的气味冲鼻。\N{\rEN\blur0.8}His alien smell fills my nose.
+Dialogue: 0,0:45:16.13,0:45:17.22,ZH,,0,0,0,,{\rZH\blur0.8}嘿，他在说什么？\N{\rEN\blur0.8}Hey, what's he saying?
+Dialogue: 0,0:45:17.22,0:45:20.05,ZH,,0,0,0,,{\rZH\blur0.8}我父亲正在决定要不要杀你。\N{\rEN\blur0.8}My father is deciding whether to kill you.
+Dialogue: 0,0:45:21.47,0:45:24.47,ZH,,0,0,0,,{\rZH\blur0.8}你父亲。很高兴见到您，先生。\N{\rEN\blur0.8}Your father. It's nice to meet you, sir.
+Dialogue: 0,0:45:28.06,0:45:29.52,ZH,,0,0,0,,{\rZH\blur0.8}退后！\N{\rEN\blur0.8}Step back!
+Dialogue: 0,0:45:31.65,0:45:34.94,ZH,,0,0,0,,{\rZH\blur0.8}让我看看这个异族人。\N{\rEN\blur0.8}twill look at this alien.
+Dialogue: 0,0:45:34.94,0:45:36.57,ZH,,0,0,0,,{\rZH\blur0.8}那是母亲。\N{\rEN\blur0.8}That is Mother.
+Dialogue: 0,0:45:36.57,0:45:40.57,ZH,,0,0,0,,{\rZH\blur0.8}她是沙希克，解读艾娃意志的人。\N{\rEN\blur0.8}She is Tsahik. The one who interprets the will of Eywa.
+Dialogue: 0,0:45:41.40,0:45:42.78,ZH,,0,0,0,,{\rZH\blur0.8}艾娃是谁？\N{\rEN\blur0.8}Who's Eywa?
+Dialogue: 0,0:45:49.62,0:45:51.37,ZH,,0,0,0,,{\rZH\blur0.8}你叫什么？\N{\rEN\blur0.8}What are you called?
+Dialogue: 0,0:45:52.33,0:45:53.67,ZH,,0,0,0,,{\rZH\blur0.8}杰克·萨利。\N{\rEN\blur0.8}Jake Sully.
+Dialogue: 0,0:46:03.59,0:46:06.39,ZH,,0,0,0,,{\rZH\blur0.8}-你为什么来找我们？  -我来学习。\N{\rEN\blur0.8}-Why did you come to us?   -I came to learn.
+Dialogue: 0,0:46:07.76,0:46:10.73,ZH,,0,0,0,,{\rZH\blur0.8}我们试过教别的天空人。\N{\rEN\blur0.8}We have tried to teach other Sky People.
+Dialogue: 0,0:46:10.81,0:46:14.19,ZH,,0,0,0,,{\rZH\blur0.8}装满的杯子很难再装东西。\N{\rEN\blur0.8}It is hard to fill a cup which is already full.
+Dialogue: 0,0:46:15.65,0:46:17.98,ZH,,0,0,0,,{\rZH\blur0.8}我的杯子是空的，相信我。\N{\rEN\blur0.8}Well, my cup is empty, trust me.
+Dialogue: 0,0:46:19.19,0:46:21.95,ZH,,0,0,0,,{\rZH\blur0.8}问问奥古斯丁博士就知道，我不是科学家。\N{\rEN\blur0.8}Just ask Dr. Augustine. I'm no scientist.
+Dialogue: 0,0:46:21.95,0:46:23.41,ZH,,0,0,0,,{\rZH\blur0.8}你是什么人？\N{\rEN\blur0.8}What are you?
+Dialogue: 0,0:46:25.66,0:46:28.87,ZH,,0,0,0,,{\rZH\blur0.8}我曾是个陆战队员。一个……\N{\rEN\blur0.8}I was a Marine. A...
+Dialogue: 0,0:46:29.74,0:46:32.37,ZH,,0,0,0,,{\rZH\blur0.8}锅盖头部落的战士。\N{\rEN\blur0.8}A warrior of the Jarhead clan.
+Dialogue: 0,0:46:32.83,0:46:34.17,ZH,,0,0,0,,{\rZH\blur0.8}一个战士！\N{\rEN\blur0.8}A warrior!
+Dialogue: 0,0:46:34.17,0:46:35.63,ZH,,0,0,0,,{\rZH\blur0.8}我能轻易杀了他！\N{\rEN\blur0.8}） could kill him easily!
+Dialogue: 0,0:46:35.63,0:46:36.88,ZH,,0,0,0,,{\rZH\blur0.8}我能轻易杀了他！不行！\N{\rEN\blur0.8}） could kill him easily! No!
+Dialogue: 0,0:46:37.38,0:46:41.63,ZH,,0,0,0,,{\rZH\blur0.8}这是我们见过的第一个\N{\rEN\blur0.8}This is the first warrior dreamwalker...
+Dialogue: 0,0:46:41.63,0:46:43.59,ZH,,0,0,0,,{\rZH\blur0.8}战士梦行者。\N{\rEN\blur0.8}-- WE have seen.
+Dialogue: 0,0:46:43.59,0:46:46.43,ZH,,0,0,0,,{\rZH\blur0.8}我们得多了解他。\N{\rEN\blur0.8}We need to learn more about him.
+Dialogue: 0,0:46:48.89,0:46:50.72,ZH,,0,0,0,,{\rZH\blur0.8}我的女儿……\N{\rEN\blur0.8}My Daughter...
+Dialogue: 0,0:46:50.81,0:46:55.23,ZH,,0,0,0,,{\rZH\blur0.8}你要教他我们的方式……\N{\rEN\blur0.8}---YOu will teach him our way...
+Dialogue: 0,0:46:55.23,0:46:58.73,ZH,,0,0,0,,{\rZH\blur0.8}教他像我们一样说话、走路。\N{\rEN\blur0.8}...tO speak and walk as we do.
+Dialogue: 0,0:46:58.73,0:47:02.32,ZH,,0,0,0,,{\rZH\blur0.8}为什么是我？这不公平……\N{\rEN\blur0.8}Why me? That's not fair...
+Dialogue: 0,0:47:03.15,0:47:07.37,ZH,,0,0,0,,{\rZH\blur0.8}已经决定了。我女儿会教你我们的方式。\N{\rEN\blur0.8}It is decided. My daughter will teach you our ways.
+Dialogue: 0,0:47:07.37,0:47:10.95,ZH,,0,0,0,,{\rZH\blur0.8}好好学，杰克萨利。\N{\rEN\blur0.8}Learn well, Jakesully.
+Dialogue: 0,0:47:11.75,0:47:15.58,ZH,,0,0,0,,{\rZH\blur0.8}然后看看你的疯病能不能治好。\N{\rEN\blur0.8}Then we will see if your insanity can be cured.
+Dialogue: 0,0:47:34.27,0:47:35.77,ZH,,0,0,0,,{\rZH\blur0.8}晚上好。\N{\rEN\blur0.8}Good evening.
+Dialogue: 0,0:47:38.77,0:47:40.57,ZH,,0,0,0,,{\rZH\blur0.8}请别起来。\N{\rEN\blur0.8}Please don't get up.
+Dialogue: 0,0:47:42.44,0:47:43.78,ZH,,0,0,0,,{\rZH\blur0.8}抱歉。\N{\rEN\blur0.8}Excuse me.
+Dialogue: 0,0:47:46.07,0:47:47.24,ZH,,0,0,0,,{\rZH\blur0.8}对不起。\N{\rEN\blur0.8}Sorry.
+Dialogue: 0,0:47:50.33,0:47:52.08,ZH,,0,0,0,,{\rZH\blur0.8}嘿，你好吗？\N{\rEN\blur0.8}Hey, how you doing?
+Dialogue: 0,0:48:35.75,0:48:38.12,ZH,,0,0,0,,{\rZH\blur0.8}-杰克。杰克！  -他在阿尔法状态。\N{\rEN\blur0.8}-Jake. Jake!   -He's in alpha.
+Dialogue: 0,0:48:38.12,0:48:41.17,ZH,,0,0,0,,{\rZH\blur0.8}-他马上要出来了。  -杰克。杰克！\N{\rEN\blur0.8}-He's coming out right now.   -Jake. Jake!
+Dialogue: 0,0:48:43.00,0:48:46.05,ZH,,0,0,0,,{\rZH\blur0.8}回来吧，小子。来吧。就这样。\N{\rEN\blur0.8}Come on back, kid. Come on. That's it.
+Dialogue: 0,0:48:47.72,0:48:50.47,ZH,,0,0,0,,{\rZH\blur0.8}好了。好了，好了。\N{\rEN\blur0.8}There you go. There you go, there you go.
+Dialogue: 0,0:48:50.47,0:48:52.85,ZH,,0,0,0,,{\rZH\blur0.8}你没事。你没事。\N{\rEN\blur0.8}You're okay. You're okay.
+Dialogue: 0,0:48:52.93,0:48:55.85,ZH,,0,0,0,,{\rZH\blur0.8}见鬼！你抓得跟蜱虫一样紧。\N{\rEN\blur0.8}Damn! You were dug in like a tick.
+Dialogue: 0,0:48:58.94,0:49:01.52,ZH,,0,0,0,,{\rZH\blur0.8}-阿凡达没事吧？  -没事，博士。\N{\rEN\blur0.8}-ls the avatar safe?   -Yeah, Doc.
+Dialogue: 0,0:49:02.61,0:49:05.36,ZH,,0,0,0,,{\rZH\blur0.8}你绝对猜不到我在哪儿。\N{\rEN\blur0.8}And you are not gonna believe where I am.
+Dialogue: 0,0:49:06.36,0:49:09.40,ZH,,0,0,0,,{\rZH\blur0.8}我们最后看到的，是这个陆战队员的屁股\N{\rEN\blur0.8}The last thing we see is this Marine's ass
+Dialogue: 0,0:49:09.40,0:49:13.53,ZH,,0,0,0,,{\rZH\blur0.8}消失在灌木丛里，后面追着一只发怒的闪雷兽。\N{\rEN\blur0.8}disappearing into the brush with this angry thanator coming after him.
+Dialogue: 0,0:49:13.53,0:49:16.62,ZH,,0,0,0,,{\rZH\blur0.8}-嘿，这种东西是教不来的。  -太棒了。\N{\rEN\blur0.8}-Hey, it's not something you can teach.   -That is awesome.
+Dialogue: 0,0:49:16.62,0:49:19.04,ZH,,0,0,0,,{\rZH\blur0.8}你知道吗，我实在想不通为什么，\N{\rEN\blur0.8}You know, for reasons I cannot fathom,
+Dialogue: 0,0:49:19.04,0:49:22.33,ZH,,0,0,0,,{\rZH\blur0.8}奥马提卡亚族竟然选了你。愿上帝保佑我们。\N{\rEN\blur0.8}the Omaticaya have chosen you. God help us all.
+Dialogue: 0,0:49:23.67,0:49:25.17,ZH,,0,0,0,,{\rZH\blur0.8}“陆战队部落”？\N{\rEN\blur0.8}"Jarhead clan"?
+Dialogue: 0,0:49:26.76,0:49:29.80,ZH,,0,0,0,,{\rZH\blur0.8}-还真成了？  -嘿，我差不多算他们家的人了。\N{\rEN\blur0.8}-And it worked?   -Hey, I'm practically family.
+Dialogue: 0,0:49:30.88,0:49:34.39,ZH,,0,0,0,,{\rZH\blur0.8}他们要研究我。我得学会成为他们的一员。\N{\rEN\blur0.8}They're gonna study me. I have to learn to be one of them.
+Dialogue: 0,0:49:34.39,0:49:36.06,ZH,,0,0,0,,{\rZH\blur0.8}这就叫主动出击，孩子。\N{\rEN\blur0.8}That's called taking the initiative, son.
+Dialogue: 0,0:49:36.06,0:49:38.68,ZH,,0,0,0,,{\rZH\blur0.8}-我真希望有十个像你这样的兵。  -听着，苏利。苏利。\N{\rEN\blur0.8}-I wish I had 10 more like you.   -Look, Sully. Sully.
+Dialogue: 0,0:49:38.68,0:49:42.10,ZH,,0,0,0,,{\rZH\blur0.8}只要弄清楚那些蓝猴子想要什么。\N{\rEN\blur0.8}Just find out what the blue monkeys want.
+Dialogue: 0,0:49:42.86,0:49:48.74,ZH,,0,0,0,,{\rZH\blur0.8}你知道，我们试着给他们医药、教育、道路。\N{\rEN\blur0.8}You know, I mean, we try to give them medicine, education, roads.
+Dialogue: 0,0:49:48.74,0:49:50.61,ZH,,0,0,0,,{\rZH\blur0.8}可不行，不行，不行，他们就是喜欢泥巴。\N{\rEN\blur0.8}But no, no, no, they like mud.
+Dialogue: 0,0:49:50.61,0:49:54.58,ZH,,0,0,0,,{\rZH\blur0.8}这本来也不让我烦，只是他们……\N{\rEN\blur0.8}And that wouldn't bother me, it's just that they're...
+Dialogue: 0,0:49:55.16,0:49:58.24,ZH,,0,0,0,,{\rZH\blur0.8}嘿，能不能……谁去把……12区。\N{\rEN\blur0.8}Hey, can you... Can somebody just... Sector 12.
+Dialogue: 0,0:50:00.00,0:50:03.25,ZH,,0,0,0,,{\rZH\blur0.8}好，走，走，走，停。停……\N{\rEN\blur0.8}Okay, go, go, go, stop. Stop...
+Dialogue: 0,0:50:03.25,0:50:05.42,ZH,,0,0,0,,{\rZH\blur0.8}里奇，停下！那是……老天！\N{\rEN\blur0.8}Rich, stop! That's... Jesus!
+Dialogue: 0,0:50:05.42,0:50:11.59,ZH,,0,0,0,,{\rZH\blur0.8}他们那该死的村子偏偏就坐落在这片最富的 unobtanium 矿床之上，\N{\rEN\blur0.8}Their damn village happens to be resting on the richest unobtanium deposit
+Dialogue: 0,0:50:11.59,0:50:16.97,ZH,,0,0,0,,{\rZH\blur0.8}方圆两百公里内最富的。我是说，看看那满地的钞票！\N{\rEN\blur0.8}within 200 klicks in any direction. I mean, look at all that cheddar!
+Dialogue: 0,0:50:20.73,0:50:23.27,ZH,,0,0,0,,{\rZH\blur0.8}-那谁去让他们搬走？  -你猜。\N{\rEN\blur0.8}-Well, who gets them to move?   -Guess.
+Dialogue: 0,0:50:25.15,0:50:28.69,ZH,,0,0,0,,{\rZH\blur0.8}-要是他们不肯走呢？  -我赌他们会走。\N{\rEN\blur0.8}-What if they won't go?   -I'm betting that they will.
+Dialogue: 0,0:50:29.19,0:50:31.90,ZH,,0,0,0,,{\rZH\blur0.8}好了，好了，好了，好了，嘿。看。看。\N{\rEN\blur0.8}Okay, okay, okay, okay, hey. Look. Look.
+Dialogue: 0,0:50:32.74,0:50:35.66,ZH,,0,0,0,,{\rZH\blur0.8}杀原住民很难看，\N{\rEN\blur0.8}Killing the indigenous looks bad,
+Dialogue: 0,0:50:35.66,0:50:39.50,ZH,,0,0,0,,{\rZH\blur0.8}但有一件事比负面新闻更让股东讨厌，\N{\rEN\blur0.8}but there's one thing that shareholders hate more than bad press,
+Dialogue: 0,0:50:39.50,0:50:42.79,ZH,,0,0,0,,{\rZH\blur0.8}那就是难看的季度财报。规矩不是我定的。\N{\rEN\blur0.8}and that's a bad quarterly statement. I didn't make up the rules.
+Dialogue: 0,0:50:42.79,0:50:45.96,ZH,,0,0,0,,{\rZH\blur0.8}所以给我找根胡萝卜，让他们愿意搬，\N{\rEN\blur0.8}So just find me a carrot that'll get them to move,
+Dialogue: 0,0:50:46.71,0:50:49.80,ZH,,0,0,0,,{\rZH\blur0.8}不然就只能全用大棒了。明白吗？\N{\rEN\blur0.8}otherwise it's gonna have to be all stick. Okay?
+Dialogue: 0,0:50:50.38,0:50:54.18,ZH,,0,0,0,,{\rZH\blur0.8}你有三个月。到时候推土机就开到了。\N{\rEN\blur0.8}You got three months. That's when the 'dozers get there.
+Dialogue: 0,0:50:54.18,0:50:56.18,ZH,,0,0,0,,{\rZH\blur0.8}我们在浪费时间。\N{\rEN\blur0.8}Well, we're wasting time.
+Dialogue: 0,0:50:57.14,0:50:58.26,ZH,,0,0,0,,{\rZH\blur0.8}我喜欢这家伙。\N{\rEN\blur0.8}I like this guy.
+Dialogue: 0,0:50:58.47,0:51:01.98,ZH,,0,0,0,,{\rZH\blur0.8}-伙计们，就现在……  -好，我们再来一遍。\N{\rEN\blur0.8}-Guys, right now...   -Okay, let's run through them again.
+Dialogue: 0,0:51:01.98,0:51:04.31,ZH,,0,0,0,,{\rZH\blur0.8}莫阿特。那个母夜叉。\N{\rEN\blur0.8}Mo'at. Dragon lady.
+Dialogue: 0,0:51:06.31,0:51:09.36,ZH,,0,0,0,,{\rZH\blur0.8}-埃图坎。  -埃图坎。他是族长。\N{\rEN\blur0.8}-Eytucan.   -Eytukan. He's the clan leader.
+Dialogue: 0,0:51:09.36,0:51:12.61,ZH,,0,0,0,,{\rZH\blur0.8}但她是精神领袖。像萨满。\N{\rEN\blur0.8}But she's the spiritual leader. Like a shaman.
+Dialogue: 0,0:51:12.61,0:51:14.28,ZH,,0,0,0,,{\rZH\blur0.8}明白了。\N{\rEN\blur0.8}Got it.
+Dialogue: 0,0:51:14.28,0:51:16.57,ZH,,0,0,0,,{\rZH\blur0.8}-苏泰。  -苏泰。\N{\rEN\blur0.8}-T'su'tey.   -Tsu'tey.
+Dialogue: 0,0:51:16.57,0:51:19.33,ZH,,0,0,0,,{\rZH\blur0.8}-苏泰。  -他会是下一任族长。\N{\rEN\blur0.8}-Tsu'tey.   -He'll be the next clan leader.
+Dialogue: 0,0:51:21.33,0:51:23.87,ZH,,0,0,0,,{\rZH\blur0.8}-奈蒂莉。  -她会成为下一任萨希克。\N{\rEN\blur0.8}-Neytiri.   -She'll be the next Tsahik.
+Dialogue: 0,0:51:23.87,0:51:25.87,ZH,,0,0,0,,{\rZH\blur0.8}他们会结为伴侣。\N{\rEN\blur0.8}They become a mated pair.
+Dialogue: 0,0:51:26.88,0:51:29.21,ZH,,0,0,0,,{\rZH\blur0.8}-那这个艾娃是谁？  -艾娃是谁？\N{\rEN\blur0.8}-So who's this Eywa?   -Who's Eywa?
+Dialogue: 0,0:51:30.13,0:51:33.80,ZH,,0,0,0,,{\rZH\blur0.8}就是他们的神。他们的女神，由所有生灵组成。\N{\rEN\blur0.8}Only their deity. Their goddess, made up of all living things.
+Dialogue: 0,0:51:33.80,0:51:35.22,ZH,,0,0,0,,{\rZH\blur0.8}他们认知的一切！\N{\rEN\blur0.8}Everything they know!
+Dialogue: 0,0:51:35.22,0:51:37.43,ZH,,0,0,0,,{\rZH\blur0.8}你要是受过一点训练就会知道。\N{\rEN\blur0.8}You'd know this if you had any training whatsoever.
+Dialogue: 0,0:51:37.43,0:51:38.85,ZH,,0,0,0,,{\rZH\blur0.8}谁跟族长的女儿有约啊？\N{\rEN\blur0.8}Who's got a date with the chief's daughter?
+Dialogue: 0,0:51:38.85,0:51:40.64,ZH,,0,0,0,,{\rZH\blur0.8}-得了吧。那……  -好了，你们俩别闹了。\N{\rEN\blur0.8}-Come on. That's...   -All right, knock it off, you two.
+Dialogue: 0,0:51:40.64,0:51:43.18,ZH,,0,0,0,,{\rZH\blur0.8}走吧。村子里的生活开始得早。\N{\rEN\blur0.8}Let's go. Village life starts early.
+Dialogue: 0,0:51:45.35,0:51:47.86,ZH,,0,0,0,,{\rZH\blur0.8}别做什么特别蠢的事。\N{\rEN\blur0.8}Don't do anything unusually stupid.
+Dialogue: 0,0:52:06.87,0:52:08.21,ZH,,0,0,0,,{\rZH\blur0.8}放松，小子。\N{\rEN\blur0.8}Easy, boy.
+Dialogue: 0,0:52:08.83,0:52:10.92,ZH,,0,0,0,,{\rZH\blur0.8}帕丽是母的。\N{\rEN\blur0.8}Pale is female.
+Dialogue: 0,0:52:13.88,0:52:16.30,ZH,,0,0,0,,{\rZH\blur0.8}好。乖，姑娘。\N{\rEN\blur0.8}Okay. Easy, girl.
+Dialogue: 0,0:52:45.08,0:52:48.83,ZH,,0,0,0,,{\rZH\blur0.8}这就是萨黑鲁。联结。\N{\rEN\blur0.8}That is tsaheylu. The bond.
+Dialogue: 0,0:52:51.00,0:52:52.25,ZH,,0,0,0,,{\rZH\blur0.8}感受她。\N{\rEN\blur0.8}Feel her.
+Dialogue: 0,0:52:55.42,0:52:59.51,ZH,,0,0,0,,{\rZH\blur0.8}感受她的心跳。她的呼吸。\N{\rEN\blur0.8}Feel her heartbeat. Her breath.
+Dialogue: 0,0:53:02.51,0:53:04.31,ZH,,0,0,0,,{\rZH\blur0.8}感受她有力的腿。\N{\rEN\blur0.8}Feel her strong legs.
+Dialogue: 0,0:53:06.77,0:53:09.10,ZH,,0,0,0,,{\rZH\blur0.8}你可以告诉她该怎么做。\N{\rEN\blur0.8}You may tell her what to do.
+Dialogue: 0,0:53:09.19,0:53:10.40,ZH,,0,0,0,,{\rZH\blur0.8}在心里说。\N{\rEN\blur0.8}Inside.
+Dialogue: 0,0:53:11.36,0:53:14.27,ZH,,0,0,0,,{\rZH\blur0.8}现在，说出要去哪。\N{\rEN\blur0.8}For now, say where to go.
+Dialogue: 0,0:53:17.28,0:53:18.53,ZH,,0,0,0,,{\rZH\blur0.8}前进！\N{\rEN\blur0.8}Forward!
+Dialogue: 0,0:53:36.13,0:53:39.26,ZH,,0,0,0,,{\rZH\blur0.8}-你该走了。  -不，你会想我的。\N{\rEN\blur0.8}-You should go away.   -No, you'd miss me.
+Dialogue: 0,0:53:40.68,0:53:42.97,ZH,,0,0,0,,{\rZH\blur0.8}我就知道你会说英语。\N{\rEN\blur0.8}I Knew you could speak English.
+Dialogue: 0,0:53:45.47,0:53:47.64,ZH,,0,0,0,,{\rZH\blur0.8}这个外星人什么也学不会……\N{\rEN\blur0.8}This alien will learn nothing...
+Dialogue: 0,0:53:48.06,0:53:49.68,ZH,,0,0,0,,{\rZH\blur0.8}连石头都看得比他多……\N{\rEN\blur0.8}re! rock sees more...
+Dialogue: 0,0:53:50.06,0:53:51.94,ZH,,0,0,0,,{\rZH\blur0.8}看看他。\N{\rEN\blur0.8}look at him.
+Dialogue: 0,0:54:01.32,0:54:02.45,ZH,,0,0,0,,{\rZH\blur0.8}再来。\N{\rEN\blur0.8}Again.
+Dialogue: 0,0:54:02.45,0:54:05.99,ZH,,0,0,0,,{\rZH\blur0.8}想打中这玩意儿，可不容易。\N{\rEN\blur0.8}If you want to hit this thing, it's gonna be complicated.
+Dialogue: 0,0:54:05.99,0:54:08.54,ZH,,0,0,0,,{\rZH\blur0.8}你的扫描图没显示内部结构。\N{\rEN\blur0.8}Your scan doesn't show the internal structure.
+Dialogue: 0,0:54:08.54,0:54:10.66,ZH,,0,0,0,,{\rZH\blur0.8}外围有一排柱子。\N{\rEN\blur0.8}There's an outer row of columns.
+Dialogue: 0,0:54:10.66,0:54:13.50,ZH,,0,0,0,,{\rZH\blur0.8}非常粗壮。这里有一圈次级环，\N{\rEN\blur0.8}Real heavy duty. There's a secondary ring here,
+Dialogue: 0,0:54:13.50,0:54:17.17,ZH,,0,0,0,,{\rZH\blur0.8}还有一圈内环。核心结构像个螺旋。\N{\rEN\blur0.8}and an inner ring. There's a core structure like a spiral.
+Dialogue: 0,0:54:18.00,0:54:19.72,ZH,,0,0,0,,{\rZH\blur0.8}他们就是靠这个上下移动的。\N{\rEN\blur0.8}That's how they move up and down.
+Dialogue: 0,0:54:19.72,0:54:22.68,ZH,,0,0,0,,{\rZH\blur0.8}我们需要每根柱子的精确扫描图。\N{\rEN\blur0.8}We're gonna need accurate scans on every column.
+Dialogue: 0,0:54:22.68,0:54:24.09,ZH,,0,0,0,,{\rZH\blur0.8}收到。\N{\rEN\blur0.8}Roger that.
+Dialogue: 0,0:54:24.09,0:54:26.85,ZH,,0,0,0,,{\rZH\blur0.8}关于这个结构你还能告诉我们什么？\N{\rEN\blur0.8}What else can you tell us about the structure?
+Dialogue: 0,0:54:26.85,0:54:29.68,ZH,,0,0,0,,{\rZH\blur0.8}我猜这圈次级环也承重。\N{\rEN\blur0.8}I'm guessing this secondary ring, that's also load-bearing.
+Dialogue: 0,0:54:34.19,0:54:37.69,ZH,,0,0,0,,{\rZH\blur0.8}-那我们去哪？  -离开这是非之地。\N{\rEN\blur0.8}-So where are we going?   -Getting out of Dodge.
+Dialogue: 0,0:54:39.03,0:54:43.20,ZH,,0,0,0,,{\rZH\blur0.8}我可不会让塞尔弗里奇和夸里奇对这事指手画脚。\N{\rEN\blur0.8}I'm not about to let Selfridge and Quaritch micro-manage this thing.
+Dialogue: 0,0:54:43.28,0:54:46.62,ZH,,0,0,0,,{\rZH\blur0.8}26号站点有移动链接舱，我们可以在那儿工作，\N{\rEN\blur0.8}There's a mobile link up at Site 26 we can work out of,
+Dialogue: 0,0:54:46.62,0:54:48.58,ZH,,0,0,0,,{\rZH\blur0.8}就在深山里。\N{\rEN\blur0.8}way up in the mountains.
+Dialogue: 0,0:54:49.33,0:54:51.70,ZH,,0,0,0,,{\rZH\blur0.8}哈利路亚山？\N{\rEN\blur0.8}The Hallelujah Mountains?
+Dialogue: 0,0:54:51.70,0:54:54.08,ZH,,0,0,0,,{\rZH\blur0.8}-没错。  -你认真的？\N{\rEN\blur0.8}-That's right.   -Are you serious?
+Dialogue: 0,0:54:54.08,0:54:56.04,ZH,,0,0,0,,{\rZH\blur0.8}-是的。  -太棒了！\N{\rEN\blur0.8}-Yeah.   -Yes|!
+Dialogue: 0,0:54:59.50,0:55:03.22,ZH,,0,0,0,,{\rZH\blur0.8}潘多拉传说中的悬浮山。听说过吗？\N{\rEN\blur0.8}The legendary floating mountains of Pandora. Heard of them?
+Dialogue: 0,0:55:16.73,0:55:18.65,ZH,,0,0,0,,{\rZH\blur0.8}我们快到了。\N{\rEN\blur0.8}We're getting close.
+Dialogue: 0,0:55:18.65,0:55:21.40,ZH,,0,0,0,,{\rZH\blur0.8}是啊，看看我的仪表。\N{\rEN\blur0.8}Yeah, look at my instruments.
+Dialogue: 0,0:55:21.40,0:55:24.40,ZH,,0,0,0,,{\rZH\blur0.8}没错。我们进入磁通涡流了。\N{\rEN\blur0.8}Yep. We're in the Flux Vortex.
+Dialogue: 0,0:55:24.40,0:55:26.74,ZH,,0,0,0,,{\rZH\blur0.8}从现在起只能目视飞行了。\N{\rEN\blur0.8}We're VFR from here on.
+Dialogue: 0,0:55:26.74,0:55:28.74,ZH,,0,0,0,,{\rZH\blur0.8}什么是目视飞行？\N{\rEN\blur0.8}What's VFR?
+Dialogue: 0,0:55:28.74,0:55:31.16,ZH,,0,0,0,,{\rZH\blur0.8}意思是你得看得见路。\N{\rEN\blur0.8}Means you gotta see where you're going.
+Dialogue: 0,0:55:31.16,0:55:35.08,ZH,,0,0,0,,{\rZH\blur0.8}-你什么都看不见。  -没错。这不操蛋吗？\N{\rEN\blur0.8}-You can't see anything.   -Exactly. Ain't that a bitch?
+Dialogue: 0,0:55:53.60,0:55:56.23,ZH,,0,0,0,,{\rZH\blur0.8}我的天哪。\N{\rEN\blur0.8}Oh, my God.
+Dialogue: 0,0:56:07.24,0:56:08.62,ZH,,0,0,0,,{\rZH\blur0.8}你们该看看自己的表情。\N{\rEN\blur0.8}You should see your faces.
+Dialogue: 0,0:56:35.81,0:56:38.23,ZH,,0,0,0,,{\rZH\blur0.8}感谢乘坐潘多拉航空。\N{\rEN\blur0.8}Thank you for flying Air Pandora.
+Dialogue: 0,0:56:56.75,0:56:58.33,ZH,,0,0,0,,{\rZH\blur0.8}欢迎来到营地。\N{\rEN\blur0.8}Welcome to camp.
+Dialogue: 0,0:57:02.17,0:57:06.84,ZH,,0,0,0,,{\rZH\blur0.8}-这就是我的铺位。  -这玩意儿真恶心。\N{\rEN\blur0.8}-So, this is my bunk.   -This stuff is nasty.
+Dialogue: 0,0:57:08.18,0:57:10.26,ZH,,0,0,0,,{\rZH\blur0.8}-诺姆，你睡下面。  -好。\N{\rEN\blur0.8}-Norm, go under.   -All right.
+Dialogue: 0,0:57:10.26,0:57:13.85,ZH,,0,0,0,,{\rZH\blur0.8}-格蕾丝什么都没漏看。  -楚迪，你睡上面那个。\N{\rEN\blur0.8}-Grace didn't miss a thing.   -Trudy, you'll take the top one.
+Dialogue: 0,0:57:13.85,0:57:16.35,ZH,,0,0,0,,{\rZH\blur0.8}她知道我在跟上校说话。\N{\rEN\blur0.8}She knew I was talking to the Colonel.
+Dialogue: 0,0:57:16.35,0:57:20.02,ZH,,0,0,0,,{\rZH\blur0.8}但我有她需要的东西，重新进入部落的门路，\N{\rEN\blur0.8}But I had what she needed, a way back in with the clan,
+Dialogue: 0,0:57:20.02,0:57:21.73,ZH,,0,0,0,,{\rZH\blur0.8}所以她才装好人。\N{\rEN\blur0.8}so she's playing nice.
+Dialogue: 0,0:57:21.73,0:57:26.82,ZH,,0,0,0,,{\rZH\blur0.8}好了。杰克，往左拐。你在最里面那台链接舱。\N{\rEN\blur0.8}All right. Jake, hang a left. You'll be in the link at the end.
+Dialogue: 0,0:57:29.70,0:57:33.78,ZH,,0,0,0,,{\rZH\blur0.8}一号舱。比尤拉。她毛病最少。\N{\rEN\blur0.8}Unit one. Beulah. She's the least glitchy.
+Dialogue: 0,0:58:23.00,0:58:24.33,ZH,,0,0,0,,{\rZH\blur0.8}我靠！\N{\rEN\blur0.8}Holy shit!
+Dialogue: 0,0:58:25.25,0:58:27.13,ZH,,0,0,0,,{\rZH\blur0.8}别直视她的眼睛。\N{\rEN\blur0.8}Do not look in her eye.
+Dialogue: 0,0:58:35.68,0:58:37.43,ZH,,0,0,0,,{\rZH\blur0.8}伊卡兰不是马。\N{\rEN\blur0.8}[kran is not horse.
+Dialogue: 0,0:58:38.56,0:58:40.43,ZH,,0,0,0,,{\rZH\blur0.8}一旦结成联结，\N{\rEN\blur0.8}Once tsaheylu is made,
+Dialogue: 0,0:58:44.27,0:58:48.61,ZH,,0,0,0,,{\rZH\blur0.8}伊卡兰一生只跟一个猎人一起飞。\N{\rEN\blur0.8}ikran will fly with only one hunter in the whole life.
+Dialogue: 0,0:58:58.54,0:59:01.37,ZH,,0,0,0,,{\rZH\blur0.8}要成为塔若纽，猎人，\N{\rEN\blur0.8}To become taronyu, hunter,
+Dialogue: 0,0:59:01.37,0:59:04.96,ZH,,0,0,0,,{\rZH\blur0.8}你必须选择你自己的伊卡兰，而它也必须选择你。\N{\rEN\blur0.8}you must choose your own ikran and he must choose you.
+Dialogue: 0,0:59:07.50,0:59:09.55,ZH,,0,0,0,,{\rZH\blur0.8}-什么时候？  -等你准备好。\N{\rEN\blur0.8}-When?   -When you are ready.
+Dialogue: 0,0:59:59.93,1:00:03.10,ZH,,0,0,0,,{\rZH\blur0.8}好，这是第12篇视频日志。\N{\rEN\blur0.8}Okay. This is video log 12.
+Dialogue: 0,1:00:04.27,1:00:05.98,ZH,,0,0,0,,{\rZH\blur0.8}时间是21点32分。\N{\rEN\blur0.8}Time's 2132.
+Dialogue: 0,1:00:07.40,1:00:10.86,ZH,,0,0,0,,{\rZH\blur0.8}非得现在做吗？我真得睡会儿觉。\N{\rEN\blur0.8}Do I have to do this now? I really need to get some rack.
+Dialogue: 0,1:00:10.86,1:00:13.69,ZH,,0,0,0,,{\rZH\blur0.8}不，就现在，趁还记得清楚。\N{\rEN\blur0.8}No, now. When it's fresh.
+Dialogue: 0,1:00:16.36,1:00:18.20,ZH,,0,0,0,,{\rZH\blur0.8}好，地点，小屋，\N{\rEN\blur0.8}Okay, location, shack,
+Dialogue: 0,1:00:19.16,1:00:21.54,ZH,,0,0,0,,{\rZH\blur0.8}日子开始混成一团了。\N{\rEN\blur0.8}and the days are starting to blur together.
+Dialogue: 0,1:00:23.62,1:00:26.87,ZH,,0,0,0,,{\rZH\blur0.8}这语言真难学，不过，你知道，\N{\rEN\blur0.8}The language is a pain, but, you know,
+Dialogue: 0,1:00:26.87,1:00:30.17,ZH,,0,0,0,,{\rZH\blur0.8}我觉得就像分解武器，就是反复、反复。\N{\rEN\blur0.8}/ figure it's like field-stripping a weapon. Just repetition, repetition.
+Dialogue: 0,1:00:30.17,1:00:31.88,ZH,,0,0,0,,{\rZH\blur0.8}-纳威。  -“纳里。”\N{\rEN\blur0.8}-Navi.   -"Nari."
+Dialogue: 0,1:00:31.88,1:00:34.21,ZH,,0,0,0,,{\rZH\blur0.8}-纳里。  -“纳尔米”！\N{\rEN\blur0.8}-Nari.   -"Narrmi"!
+Dialogue: 0,1:00:34.21,1:00:35.46,ZH,,0,0,0,,{\rZH\blur0.8}纳尔里！\N{\rEN\blur0.8}Narrri!
+Dialogue: 0,1:00:36.38,1:00:38.43,ZH,,0,0,0,,{\rZH\blur0.8}Txur ni'ul。更强。\N{\rEN\blur0.8}Txur ni'ul. Stronger.
+Dialogue: 0,1:00:43.06,1:00:46.73,ZH,,0,0,0,,{\rZH\blur0.8}奈蒂莉叫我skxawng，意思是白痴。\N{\rEN\blur0.8}Neytiri calls me skxawng. It means moron.
+Dialogue: 0,1:00:49.02,1:00:50.56,ZH,,0,0,0,,{\rZH\blur0.8}这是其中很重要的一部分。\N{\rEN\blur0.8}This is a very important part of it.
+Dialogue: 0,1:00:50.56,1:00:52.73,ZH,,0,0,0,,{\rZH\blur0.8}-诺姆最近态度好多了。  -我看见你。我看见你。\N{\rEN\blur0.8}-Norm''s attitude has improved lately.   -I see you. I see you.
+Dialogue: 0,1:00:52.73,1:00:55.24,ZH,,0,0,0,,{\rZH\blur0.8}但不只是“我看见眼前的你”，\N{\rEN\blur0.8}But it's not just, "I'm seeing you in front of me,"
+Dialogue: 0,1:00:55.24,1:00:56.94,ZH,,0,0,0,,{\rZH\blur0.8}而是“我看进你心里。我看见你。”\N{\rEN\blur0.8}it's "I see into you. I See you."
+Dialogue: 0,1:00:56.94,1:00:59.61,ZH,,0,0,0,,{\rZH\blur0.8}他回来帮忙是好事，但他也觉得我是个白痴。\N{\rEN\blur0.8}It's good he's back on board, but he thinks I'm a skxawng, too.
+Dialogue: 0,1:00:59.70,1:01:01.95,ZH,,0,0,0,,{\rZH\blur0.8}“我接纳你。我理解你。”这你得掌握，好吗？\N{\rEN\blur0.8}"I'm accepting you. I understand you." So you gotta get this, okay?
+Dialogue: 0,1:01:02.28,1:01:05.24,ZH,,0,0,0,,{\rZH\blur0.8}我得跑了！好吗？走吧。\N{\rEN\blur0.8}I gotta run! Okay? Let's go.
+Dialogue: 0,1:01:06.04,1:01:09.62,ZH,,0,0,0,,{\rZH\blur0.8}我的脚越来越结实了，每天能跑得更远。\N{\rEN\blur0.8}My feet are getting tougher. I can run farther every day.
+Dialogue: 0,1:01:11.50,1:01:14.63,ZH,,0,0,0,,{\rZH\blur0.8}我得相信身体知道该怎么做。\N{\rEN\blur0.8}I have to trust my body to know what to do.
+Dialogue: 0,1:01:19.76,1:01:21.47,ZH,,0,0,0,,{\rZH\blur0.8}好！看这个！\N{\rEN\blur0.8}Yeah! Check it out!
+Dialogue: 0,1:01:22.26,1:01:23.56,ZH,,0,0,0,,{\rZH\blur0.8}糟糕！\N{\rEN\blur0.8}Oh, crap!
+Dialogue: 0,1:01:27.81,1:01:32.77,ZH,,0,0,0,,{\rZH\blur0.8}每天都得辨认路径、水洼边的足迹，\N{\rEN\blur0.8}Every day it's reading the trails, the tracks at the waterhole,
+Dialogue: 0,1:01:32.77,1:01:34.98,ZH,,0,0,0,,{\rZH\blur0.8}最细微的气味和声音。\N{\rEN\blur0.8}the tiniest scents and sounds.
+Dialogue: 0,1:01:40.53,1:01:45.33,ZH,,0,0,0,,{\rZH\blur0.8}她总在讲能量的流动、动物的灵魂。\N{\rEN\blur0.8}She's always going on about the flow of energy, the spirits of animals.
+Dialogue: 0,1:01:46.12,1:01:48.87,ZH,,0,0,0,,{\rZH\blur0.8}真希望考试不考这些抱树派的鬼话。\N{\rEN\blur0.8}I really hope this tree-hugger crap isn't on the final.
+Dialogue: 0,1:01:48.87,1:01:52.63,ZH,,0,0,0,,{\rZH\blur0.8}在那边可不只是手眼协调，你知道的。\N{\rEN\blur0.8}This isn't just about eye-hand coordination out there, you know.
+Dialogue: 0,1:01:52.63,1:01:55.38,ZH,,0,0,0,,{\rZH\blur0.8}你得听她说的。\N{\rEN\blur0.8}You need to listen to what she says.
+Dialogue: 0,1:01:55.38,1:01:58.63,ZH,,0,0,0,,{\rZH\blur0.8}试着用她的眼睛看森林。\N{\rEN\blur0.8}Try to see the forest through her eyes.
+Dialogue: 0,1:01:58.63,1:02:01.22,ZH,,0,0,0,,{\rZH\blur0.8}抱歉，这是我的视频日志。\N{\rEN\blur0.8}Excuse me. This is my video log here.
+Dialogue: 0,1:02:16.61,1:02:19.19,ZH,,0,0,0,,{\rZH\blur0.8}跟着奈蒂莉，要么学得快，要么死。\N{\rEN\blur0.8}With Neytiri, it's learn fast or die.
+Dialogue: 0,1:02:20.49,1:02:22.61,ZH,,0,0,0,,{\rZH\blur0.8}你在开玩笑吧。\N{\rEN\blur0.8}You gotta be kidding me.
+Dialogue: 0,1:02:51.68,1:02:54.02,ZH,,0,0,0,,{\rZH\blur0.8}我说服了莫阿特让格蕾丝进村子。\N{\rEN\blur0.8}I talked Mo'at into letting Grace into the village.
+Dialogue: 0,1:02:54.02,1:02:55.10,ZH,,0,0,0,,{\rZH\blur0.8}看看你长多大了。\N{\rEN\blur0.8}Look how big you are.
+Dialogue: 0,1:02:55.10,1:02:57.52,ZH,,0,0,0,,{\rZH\blur0.8}这是她学校被关闭后第一次来。\N{\rEN\blur0.8}It's the first time since her school was closed down.
+Dialogue: 0,1:02:57.52,1:02:59.32,ZH,,0,0,0,,{\rZH\blur0.8}你真漂亮。\N{\rEN\blur0.8}You are so pretty.
+Dialogue: 0,1:03:00.94,1:03:03.78,ZH,,0,0,0,,{\rZH\blur0.8}不行，你别跑。回来。\N{\rEN\blur0.8}No, you don't. Come back here.
+Dialogue: 0,1:03:05.57,1:03:06.66,ZH,,0,0,0,,{\rZH\blur0.8}好好享用。\N{\rEN\blur0.8}Bon appétit.
+Dialogue: 0,1:03:34.23,1:03:35.85,ZH,,0,0,0,,{\rZH\blur0.8}来吧，陆战队员。\N{\rEN\blur0.8}Come on, Marine.
+Dialogue: 0,1:04:01.09,1:04:03.76,ZH,,0,0,0,,{\rZH\blur0.8}我想弄明白这种深厚的联系，\N{\rEN\blur0.8}I'm trying to understand this deep connection
+Dialogue: 0,1:04:03.84,1:04:06.09,ZH,,0,0,0,,{\rZH\blur0.8}族人和森林之间的联系。\N{\rEN\blur0.8}the people have to the forest.
+Dialogue: 0,1:04:06.55,1:04:09.39,ZH,,0,0,0,,{\rZH\blur0.8}她说到一个能量网络，\N{\rEN\blur0.8}She talks about a network of energy
+Dialogue: 0,1:04:10.18,1:04:12.77,ZH,,0,0,0,,{\rZH\blur0.8}它流经所有生物。\N{\rEN\blur0.8}that flows through all living things.
+Dialogue: 0,1:04:13.64,1:04:16.98,ZH,,0,0,0,,{\rZH\blur0.8}她说所有能量都只是借来的，\N{\rEN\blur0.8}She says all energy is only borrowed,
+Dialogue: 0,1:04:17.90,1:04:20.48,ZH,,0,0,0,,{\rZH\blur0.8}总有一天你得还回去。\N{\rEN\blur0.8}and one day you have to give it back.
+Dialogue: 0,1:04:43.38,1:04:44.59,ZH,,0,0,0,,{\rZH\blur0.8}我看见你……\N{\rEN\blur0.8}I see you...
+Dialogue: 0,1:04:44.59,1:04:45.76,ZH,,0,0,0,,{\rZH\blur0.8}……兄弟\N{\rEN\blur0.8}...Brother
+Dialogue: 0,1:04:46.22,1:04:48.43,ZH,,0,0,0,,{\rZH\blur0.8}谢谢你。\N{\rEN\blur0.8}and thank you.
+Dialogue: 0,1:04:52.56,1:04:54.43,ZH,,0,0,0,,{\rZH\blur0.8}你的灵魂与艾娃同在。\N{\rEN\blur0.8}Your spirit goes with Eywa.
+Dialogue: 0,1:04:55.02,1:04:56.77,ZH,,0,0,0,,{\rZH\blur0.8}你的身体留在这里……\N{\rEN\blur0.8}Your body stays behind...
+Dialogue: 0,1:04:57.10,1:04:59.77,ZH,,0,0,0,,{\rZH\blur0.8}……成为族人的一部分。\N{\rEN\blur0.8}...to become part of The People.
+Dialogue: 0,1:05:03.52,1:05:04.98,ZH,,0,0,0,,{\rZH\blur0.8}干净利落的一击。\N{\rEN\blur0.8}A clean kill.
+Dialogue: 0,1:05:08.32,1:05:09.82,ZH,,0,0,0,,{\rZH\blur0.8}你准备好了。\N{\rEN\blur0.8}You are ready.
+Dialogue: 0,1:05:35.47,1:05:38.85,ZH,,0,0,0,,{\rZH\blur0.8}学骑伊卡兰——我们叫它们女妖翼兽，\N{\rEN\blur0.8}Learning to ride an ikran, we call them banshees,
+Dialogue: 0,1:05:38.94,1:05:41.52,ZH,,0,0,0,,{\rZH\blur0.8}是每个年轻猎人必须通过的考验。\N{\rEN\blur0.8}is the test every young hunter has to pass.
+Dialogue: 0,1:05:43.73,1:05:47.07,ZH,,0,0,0,,{\rZH\blur0.8}但要通过，你得去女妖翼兽的地盘。\N{\rEN\blur0.8}But to do that, you gotta go where the banshees are.
+Dialogue: 0,1:05:47.90,1:05:49.11,ZH,,0,0,0,,{\rZH\blur0.8}呜啦！\N{\rEN\blur0.8}Oo-rah.
+Dialogue: 0,1:06:20.60,1:06:21.90,ZH,,0,0,0,,{\rZH\blur0.8}现在怎么办？\N{\rEN\blur0.8}Now what?
+Dialogue: 0,1:07:51.86,1:07:53.82,ZH,,0,0,0,,{\rZH\blur0.8}杰克萨利先来。\N{\rEN\blur0.8}Jakesully will go first.
+Dialogue: 0,1:08:26.69,1:08:30.69,ZH,,0,0,0,,{\rZH\blur0.8}现在你选你的伊卡兰，得用心去感受。\N{\rEN\blur0.8}Now you choose your lkran. This you must feel inside.
+Dialogue: 0,1:08:31.61,1:08:34.65,ZH,,0,0,0,,{\rZH\blur0.8}如果它也选了你，就照我教你的快速动手。\N{\rEN\blur0.8}If he also chooses you, move quick like I showed.
+Dialogue: 0,1:08:34.65,1:08:37.53,ZH,,0,0,0,,{\rZH\blur0.8}你只有一次机会，杰克。\N{\rEN\blur0.8}You will have one chance, Jake.
+Dialogue: 0,1:08:37.53,1:08:39.78,ZH,,0,0,0,,{\rZH\blur0.8}我怎么知道它选了我？\N{\rEN\blur0.8}How will I know if he chooses me?
+Dialogue: 0,1:08:39.78,1:08:41.74,ZH,,0,0,0,,{\rZH\blur0.8}它会试图杀了你。\N{\rEN\blur0.8}He will try to kill you.
+Dialogue: 0,1:08:42.91,1:08:44.33,ZH,,0,0,0,,{\rZH\blur0.8}太棒了。\N{\rEN\blur0.8}Outstanding.
+Dialogue: 0,1:09:44.60,1:09:46.02,ZH,,0,0,0,,{\rZH\blur0.8}来跳舞吧。\N{\rEN\blur0.8}Let's dance.
+Dialogue: 0,1:09:52.10,1:09:53.98,ZH,,0,0,0,,{\rZH\blur0.8}那白痴会死的。\N{\rEN\blur0.8}That moron's going to die.
+Dialogue: 0,1:10:17.88,1:10:19.63,ZH,,0,0,0,,{\rZH\blur0.8}别怕，战士。\N{\rEN\blur0.8}Don't be afraid, warrior.
+Dialogue: 0,1:10:19.76,1:10:21.26,ZH,,0,0,0,,{\rZH\blur0.8}建立联结！\N{\rEN\blur0.8}Make the bond!
+Dialogue: 0,1:10:24.64,1:10:25.68,ZH,,0,0,0,,{\rZH\blur0.8}不！\N{\rEN\blur0.8}No!
+Dialogue: 0,1:10:29.64,1:10:30.77,ZH,,0,0,0,,{\rZH\blur0.8}杰克！\N{\rEN\blur0.8}Jake!
+Dialogue: 0,1:10:44.82,1:10:46.41,ZH,,0,0,0,,{\rZH\blur0.8}联结，杰克。\N{\rEN\blur0.8}Tsaheylu, Jake.
+Dialogue: 0,1:10:48.79,1:10:50.04,ZH,,0,0,0,,{\rZH\blur0.8}联结！\N{\rEN\blur0.8}Tsaheylu!
+Dialogue: 0,1:11:00.17,1:11:01.26,ZH,,0,0,0,,{\rZH\blur0.8}停下！\N{\rEN\blur0.8}Stop!
+Dialogue: 0,1:11:09.89,1:11:15.02,ZH,,0,0,0,,{\rZH\blur0.8}对，就是这样。你是我的了。嗯？\N{\rEN\blur0.8}Yeah, that's right. You're mine. Huh?
+Dialogue: 0,1:11:28.20,1:11:31.16,ZH,,0,0,0,,{\rZH\blur0.8}首飞才能定下联结，不能等。\N{\rEN\blur0.8}First flight seals the bond. You cannot wait.
+Dialogue: 0,1:11:32.66,1:11:34.87,ZH,,0,0,0,,{\rZH\blur0.8}想着“飞！” -飞？\N{\rEN\blur0.8}-Think, "Fly!"   -Fly?
+Dialogue: 0,1:11:43.47,1:11:44.72,ZH,,0,0,0,,{\rZH\blur0.8}天哪！\N{\rEN\blur0.8}God damn!
+Dialogue: 0,1:11:49.14,1:11:50.39,ZH,,0,0,0,,{\rZH\blur0.8}糟了！\N{\rEN\blur0.8}Oh, shit!
+Dialogue: 0,1:11:59.86,1:12:02.07,ZH,,0,0,0,,{\rZH\blur0.8}闭嘴，飞直了！\N{\rEN\blur0.8}Shut up and fly straight!
+Dialogue: 0,1:12:12.29,1:12:14.62,ZH,,0,0,0,,{\rZH\blur0.8}就是这样。左倾！\N{\rEN\blur0.8}That's it. Bank left!
+Dialogue: 0,1:12:23.92,1:12:25.76,ZH,,0,0,0,,{\rZH\blur0.8}拉平！就这样。\N{\rEN\blur0.8}Level out! That's it.
+Dialogue: 0,1:12:31.22,1:12:32.56,ZH,,0,0,0,,{\rZH\blur0.8}杰克萨利！\N{\rEN\blur0.8}Jakesully!
+Dialogue: 0,1:12:57.33,1:12:58.42,ZH,,0,0,0,,{\rZH\blur0.8}嘿！\N{\rEN\blur0.8}Hey!
+Dialogue: 0,1:13:04.46,1:13:05.76,ZH,,0,0,0,,{\rZH\blur0.8}走！\N{\rEN\blur0.8}Let's go!
+Dialogue: 0,1:13:18.19,1:13:20.10,ZH,,0,0,0,,{\rZH\blur0.8}好样的，这我行！\N{\rEN\blur0.8}Yeah, baby, I got this!
+Dialogue: 0,1:13:20.94,1:13:22.19,ZH,,0,0,0,,{\rZH\blur0.8}糟了！\N{\rEN\blur0.8}Oh, shit!
+Dialogue: 0,1:13:27.49,1:13:31.24,ZH,,0,0,0,,{\rZH\blur0.8}我骑马可能不行，但我天生就是干这个的。\N{\rEN\blur0.8}I may not be much of a horse guy, but I was born to do this.
+Dialogue: 0,1:13:32.07,1:13:33.16,ZH,,0,0,0,,{\rZH\blur0.8}耶！\N{\rEN\blur0.8}Yeah!
+Dialogue: 0,1:13:34.16,1:13:37.33,ZH,,0,0,0,,{\rZH\blur0.8}-我这样过来，这是你。  -对，对。\N{\rEN\blur0.8}-I came like this. This you.   -Yeah, yeah.
+Dialogue: 0,1:13:37.33,1:13:42.34,ZH,,0,0,0,,{\rZH\blur0.8}-我转弯，我感到风，我转得很猛。  -看，对，你瞧，我倾得那么狠……\N{\rEN\blur0.8}-I turn. I feel the wind. I turn very strong.   -Look, yeah, see, I banked so hard...
+Dialogue: 0,1:14:44.40,1:14:46.40,ZH,,0,0,0,,{\rZH\blur0.8}灵魂之树。\N{\rEN\blur0.8}The Tree of Souls.
+Dialogue: 0,1:14:49.78,1:14:51.99,ZH,,0,0,0,,{\rZH\blur0.8}那是他们最神圣的地方。\N{\rEN\blur0.8}It's their most sacred place.
+Dialogue: 0,1:14:52.74,1:14:55.66,ZH,,0,0,0,,{\rZH\blur0.8}看到这些假彩色图像里的通量涡流了吗？\N{\rEN\blur0.8}See the Flux Vortex in these false color images?
+Dialogue: 0,1:14:55.66,1:14:57.83,ZH,,0,0,0,,{\rZH\blur0.8}对，就是它干扰了我的仪器。\N{\rEN\blur0.8}Yeah, that's what messes up my instruments.
+Dialogue: 0,1:14:57.83,1:15:02.42,ZH,,0,0,0,,{\rZH\blur0.8}那里的生物活动很有意思。\N{\rEN\blur0.8}There is something really interesting going on in there biologically.
+Dialogue: 0,1:15:03.75,1:15:05.88,ZH,,0,0,0,,{\rZH\blur0.8}我死也要弄到样本。\N{\rEN\blur0.8}I would die to get samples.
+Dialogue: 0,1:15:06.42,1:15:09.34,ZH,,0,0,0,,{\rZH\blur0.8}外人严禁进入。\N{\rEN\blur0.8}Outsiders are strictly forbidden.
+Dialogue: 0,1:15:09.34,1:15:10.76,ZH,,0,0,0,,{\rZH\blur0.8}你这幸运的混蛋。\N{\rEN\blur0.8}You lucky swine.
+Dialogue: 0,1:15:18.01,1:15:21.77,ZH,,0,0,0,,{\rZH\blur0.8}我是个冷酷的空中猎手。从天而降的死神。\N{\rEN\blur0.8}I was a Stone-cold aerial hunter. Death from above.
+Dialogue: 0,1:15:23.10,1:15:26.10,ZH,,0,0,0,,{\rZH\blur0.8}唯一的问题是，不止你一个。\N{\rEN\blur0.8}Only problem is, you're not the only one.
+Dialogue: 0,1:15:29.98,1:15:31.11,ZH,,0,0,0,,{\rZH\blur0.8}俯冲！\N{\rEN\blur0.8}Dive!
+Dialogue: 0,1:15:53.84,1:15:55.05,ZH,,0,0,0,,{\rZH\blur0.8}快，快！\N{\rEN\blur0.8}Go, go!
+Dialogue: 0,1:16:03.23,1:16:04.56,ZH,,0,0,0,,{\rZH\blur0.8}跟我来！\N{\rEN\blur0.8}Follow me!
+Dialogue: 0,1:16:51.02,1:16:53.61,ZH,,0,0,0,,{\rZH\blur0.8}我们的人叫它“大灵鹫”。\N{\rEN\blur0.8}Our guys call ita Great Leonopteryx.
+Dialogue: 0,1:16:54.48,1:16:57.53,ZH,,0,0,0,,{\rZH\blur0.8}是托鲁克。“最后的影子”。\N{\rEN\blur0.8}It is Toruk. Last Shadow.
+Dialogue: 0,1:16:59.28,1:17:02.41,ZH,,0,0,0,,{\rZH\blur0.8}是啊，你见到的最后一个东西。\N{\rEN\blur0.8}Yeah, right. It's the last one you ever see.
+Dialogue: 0,1:17:07.04,1:17:10.79,ZH,,0,0,0,,{\rZH\blur0.8}我爷爷的爷爷是托鲁克·马克托。\N{\rEN\blur0.8}My grandfather's grandfather was Toruk Macto.
+Dialogue: 0,1:17:11.46,1:17:13.25,ZH,,0,0,0,,{\rZH\blur0.8}“最后的影子”的骑手。\N{\rEN\blur0.8}Rider of Last Shadow.
+Dialogue: 0,1:17:14.63,1:17:16.09,ZH,,0,0,0,,{\rZH\blur0.8}他骑过这个？\N{\rEN\blur0.8}He rode this?
+Dialogue: 0,1:17:17.72,1:17:19.34,ZH,,0,0,0,,{\rZH\blur0.8}是托鲁克选择了他。\N{\rEN\blur0.8}Toruk chose him.
+Dialogue: 0,1:17:19.72,1:17:23.56,ZH,,0,0,0,,{\rZH\blur0.8}从“第一首歌”时代到现在，只发生过五次。\N{\rEN\blur0.8}It has only happened five times since the time of the First Songs.
+Dialogue: 0,1:17:23.64,1:17:25.64,ZH,,0,0,0,,{\rZH\blur0.8}-那可真够久的。  -是的。\N{\rEN\blur0.8}-That's a long time.   -Yes.
+Dialogue: 0,1:17:26.35,1:17:28.23,ZH,,0,0,0,,{\rZH\blur0.8}托鲁克·马克托很强大。\N{\rEN\blur0.8}Toruk Macto was mighty.
+Dialogue: 0,1:17:30.06,1:17:33.90,ZH,,0,0,0,,{\rZH\blur0.8}他在大悲痛时期把各部落团结在一起。\N{\rEN\blur0.8}He brought the clans together in a time of great sorrow.
+Dialogue: 0,1:17:33.90,1:17:36.23,ZH,,0,0,0,,{\rZH\blur0.8}所有纳威人都知道这个故事。\N{\rEN\blur0.8}All Na'vi people know the story.
+Dialogue: 0,1:17:42.95,1:17:47.16,ZH,,0,0,0,,{\rZH\blur0.8}现在一切都颠倒了。好像外面才是真实世界\N{\rEN\blur0.8}Everything is backwards now. Like out there is the true world
+Dialogue: 0,1:17:48.29,1:17:50.29,ZH,,0,0,0,,{\rZH\blur0.8}而这里才是梦。\N{\rEN\blur0.8}and in here is the dream.
+Dialogue: 0,1:18:10.90,1:18:13.61,ZH,,0,0,0,,{\rZH\blur0.8}真难相信才过了三个月。\N{\rEN\blur0.8}It's hard to believe it's only been three months.
+Dialogue: 0,1:18:16.65,1:18:19.11,ZH,,0,0,0,,{\rZH\blur0.8}我几乎记不起以前的生活了。\N{\rEN\blur0.8}I can barely remember my old life.
+Dialogue: 0,1:18:22.62,1:18:24.49,ZH,,0,0,0,,{\rZH\blur0.8}我都不知道自己是谁了。\N{\rEN\blur0.8}I don't know who I am anymore.
+Dialogue: 0,1:18:43.26,1:18:46.10,ZH,,0,0,0,,{\rZH\blur0.8}你没在树林里迷路吧？\N{\rEN\blur0.8}Haven't gotten lost in the woods, have you?
+Dialogue: 0,1:18:49.27,1:18:52.19,ZH,,0,0,0,,{\rZH\blur0.8}你上次汇报是两个多星期前了。\N{\rEN\blur0.8}Your last report was more than two weeks ago.
+Dialogue: 0,1:18:54.40,1:18:56.90,ZH,,0,0,0,,{\rZH\blur0.8}我开始怀疑你的决心了！\N{\rEN\blur0.8}I'm starting to doubt your resolve!
+Dialogue: 0,1:18:59.48,1:19:02.07,ZH,,0,0,0,,{\rZH\blur0.8}我看，是时候终止任务了。\N{\rEN\blur0.8}The way I see it, it's time to terminate the mission.
+Dialogue: 0,1:19:02.07,1:19:03.99,ZH,,0,0,0,,{\rZH\blur0.8}不，我能做到。\N{\rEN\blur0.8}No, I can do this.
+Dialogue: 0,1:19:03.99,1:19:05.66,ZH,,0,0,0,,{\rZH\blur0.8}你已经做到了。\N{\rEN\blur0.8}You already have.
+Dialogue: 0,1:19:06.58,1:19:08.87,ZH,,0,0,0,,{\rZH\blur0.8}你给我提供了好用、可用的情报。\N{\rEN\blur0.8}You give me good, usable intel.
+Dialogue: 0,1:19:08.87,1:19:11.08,ZH,,0,0,0,,{\rZH\blur0.8}这个“灵魂之树”的地方。\N{\rEN\blur0.8}This Tree of Souls place.
+Dialogue: 0,1:19:11.50,1:19:15.00,ZH,,0,0,0,,{\rZH\blur0.8}是啊，等事情变成一场烂仗，我就能靠它捏住他们的命根子，\N{\rEN\blur0.8}Yeah, I got them by the balls with that when this turns into a shit fight,
+Dialogue: 0,1:19:15.00,1:19:16.75,ZH,,0,0,0,,{\rZH\blur0.8}肯定会变成烂仗。对。\N{\rEN\blur0.8}which it will. Yeah.
+Dialogue: 0,1:19:17.67,1:19:19.67,ZH,,0,0,0,,{\rZH\blur0.8}现在该回来了。\N{\rEN\blur0.8}Now it's time to come in.
+Dialogue: 0,1:19:21.17,1:19:23.05,ZH,,0,0,0,,{\rZH\blur0.8}顺便说一句，\N{\rEN\blur0.8}By the way,
+Dialogue: 0,1:19:23.55,1:19:25.55,ZH,,0,0,0,,{\rZH\blur0.8}你能重新拥有自己的腿。\N{\rEN\blur0.8}you gonna get your legs back.
+Dialogue: 0,1:19:26.43,1:19:30.10,ZH,,0,0,0,,{\rZH\blur0.8}对。公司已经批准了。这事定了。\N{\rEN\blur0.8}Yeah. I got your corporate approval. It's a done deal.
+Dialogue: 0,1:19:30.10,1:19:32.64,ZH,,0,0,0,,{\rZH\blur0.8}今晚就送你上穿梭机。\N{\rEN\blur0.8}Gonna have you on a shuttle tonight.
+Dialogue: 0,1:19:32.64,1:19:34.44,ZH,,0,0,0,,{\rZH\blur0.8}我说话算数。\N{\rEN\blur0.8}I'm a man of my word.
+Dialogue: 0,1:19:37.36,1:19:39.11,ZH,,0,0,0,,{\rZH\blur0.8}我得把这事做完。\N{\rEN\blur0.8}I gotta finish this.
+Dialogue: 0,1:19:41.36,1:19:42.94,ZH,,0,0,0,,{\rZH\blur0.8}还有一件事。\N{\rEN\blur0.8}There's one more thing.
+Dialogue: 0,1:19:43.65,1:19:48.62,ZH,,0,0,0,,{\rZH\blur0.8}仪式。这是成为男人的最后一步。\N{\rEN\blur0.8}Ceremony. It's the final stage of becoming a man.
+Dialogue: 0,1:19:51.12,1:19:53.25,ZH,,0,0,0,,{\rZH\blur0.8}我完成了，就是他们的一员。\N{\rEN\blur0.8}If I do it, I'm one of them.
+Dialogue: 0,1:19:54.71,1:19:56.54,ZH,,0,0,0,,{\rZH\blur0.8}他们就会信任我。\N{\rEN\blur0.8}And they'll trust me.
+Dialogue: 0,1:20:00.17,1:20:03.38,ZH,,0,0,0,,{\rZH\blur0.8}我就能谈他们的搬迁条件。\N{\rEN\blur0.8}And I can negotiate the terms of their relocation.
+Dialogue: 0,1:20:16.98,1:20:19.48,ZH,,0,0,0,,{\rZH\blur0.8}那你最好把它办成，下士。\N{\rEN\blur0.8}Well, then, you'd better get it done, Corporal.
+Dialogue: 0,1:20:36.92,1:20:40.92,ZH,,0,0,0,,{\rZH\blur0.8}纳威人说，每个人都会出生两次。\N{\rEN\blur0.8}The Na'vi say that every person is born twice.
+Dialogue: 0,1:20:42.92,1:20:48.34,ZH,,0,0,0,,{\rZH\blur0.8}第二次是你在族人中赢得永久位置的时候。\N{\rEN\blur0.8}The second time is when you earn your place among The People forever.
+Dialogue: 0,1:20:53.60,1:20:58.15,ZH,,0,0,0,,{\rZH\blur0.8}你现在是奥马提卡亚之子。\N{\rEN\blur0.8}You are now a son of the Omaticaya.
+Dialogue: 0,1:20:59.31,1:21:02.61,ZH,,0,0,0,,{\rZH\blur0.8}你是族人的一员了。\N{\rEN\blur0.8}You are part of The People.
+Dialogue: 0,1:21:48.90,1:21:50.91,ZH,,0,0,0,,{\rZH\blur0.8}来。来。\N{\rEN\blur0.8}Come. Come.
+Dialogue: 0,1:22:08.51,1:22:11.26,ZH,,0,0,0,,{\rZH\blur0.8}这里是祈祷被听见的地方。\N{\rEN\blur0.8}This is a place for prayers to be heard.
+Dialogue: 0,1:22:12.84,1:22:14.76,ZH,,0,0,0,,{\rZH\blur0.8}有时也会得到回应。\N{\rEN\blur0.8}And sometimes answered.
+Dialogue: 0,1:22:22.60,1:22:25.31,ZH,,0,0,0,,{\rZH\blur0.8}我们把这些树叫作“乌特瑞亚·莫克里”。\N{\rEN\blur0.8}We call these trees Utraya Mokri.
+Dialogue: 0,1:22:26.32,1:22:28.03,ZH,,0,0,0,,{\rZH\blur0.8}声音之树。\N{\rEN\blur0.8}The Tree of Voices.
+Dialogue: 0,1:22:30.07,1:22:32.20,ZH,,0,0,0,,{\rZH\blur0.8}我们祖先的声音。\N{\rEN\blur0.8}The voices of our ancestors.
+Dialogue: 0,1:22:47.21,1:22:48.84,ZH,,0,0,0,,{\rZH\blur0.8}我能听见他们。\N{\rEN\blur0.8}I can hear them.
+Dialogue: 0,1:22:53.76,1:22:55.39,ZH,,0,0,0,,{\rZH\blur0.8}他们活着，杰克，\N{\rEN\blur0.8}They live, Jake,
+Dialogue: 0,1:22:57.43,1:22:58.85,ZH,,0,0,0,,{\rZH\blur0.8}在艾娃之中。\N{\rEN\blur0.8}within Eywa.
+Dialogue: 0,1:23:03.02,1:23:04.90,ZH,,0,0,0,,{\rZH\blur0.8}你现在是奥马提卡亚的人了。\N{\rEN\blur0.8}You are Omaticaya now.
+Dialogue: 0,1:23:05.61,1:23:08.73,ZH,,0,0,0,,{\rZH\blur0.8}你可以用家园树的木头做你的弓。\N{\rEN\blur0.8}You may make your bow from the wood of Hometree.
+Dialogue: 0,1:23:14.32,1:23:16.41,ZH,,0,0,0,,{\rZH\blur0.8}你也可以选一个女人。\N{\rEN\blur0.8}And you may choose a woman.
+Dialogue: 0,1:23:18.58,1:23:20.54,ZH,,0,0,0,,{\rZH\blur0.8}我们有很多好女人。\N{\rEN\blur0.8}We have many fine women.
+Dialogue: 0,1:23:21.75,1:23:23.75,ZH,,0,0,0,,{\rZH\blur0.8}妮娜特是最会唱歌的。\N{\rEN\blur0.8}Ninat is the best singer.
+Dialogue: 0,1:23:26.58,1:23:28.50,ZH,,0,0,0,,{\rZH\blur0.8}但我不想要妮娜特。\N{\rEN\blur0.8}But I don't want Ninat.
+Dialogue: 0,1:23:32.80,1:23:34.76,ZH,,0,0,0,,{\rZH\blur0.8}佩瑞尔是个好猎手。\N{\rEN\blur0.8}Peyral is a good hunter.
+Dialogue: 0,1:23:36.43,1:23:38.56,ZH,,0,0,0,,{\rZH\blur0.8}是啊，她是个好猎手。\N{\rEN\blur0.8}Yeah, she is a good hunter.
+Dialogue: 0,1:23:40.60,1:23:42.39,ZH,,0,0,0,,{\rZH\blur0.8}我已经选好了。\N{\rEN\blur0.8}I've already chosen.
+Dialogue: 0,1:23:45.90,1:23:48.40,ZH,,0,0,0,,{\rZH\blur0.8}但这个女人也必须选择我。\N{\rEN\blur0.8}But this woman must also choose me.
+Dialogue: 0,1:23:52.40,1:23:53.99,ZH,,0,0,0,,{\rZH\blur0.8}她已经选了。\N{\rEN\blur0.8}She already has.
+Dialogue: 0,1:24:24.56,1:24:26.52,ZH,,0,0,0,,{\rZH\blur0.8}我现在和你在一起了，杰克。\N{\rEN\blur0.8}I am with you now, Jake.
+Dialogue: 0,1:24:28.10,1:24:29.98,ZH,,0,0,0,,{\rZH\blur0.8}我们结为终身伴侣。\N{\rEN\blur0.8}We are mated for life.
+Dialogue: 0,1:24:36.32,1:24:38.32,ZH,,0,0,0,,{\rZH\blur0.8}你到底在干什么，杰克？\N{\rEN\blur0.8}What the hell are you doing, Jake?
+Dialogue: 0,1:25:08.81,1:25:10.02,ZH,,0,0,0,,{\rZH\blur0.8}我的杰克！\N{\rEN\blur0.8}Ma Jake!
+Dialogue: 0,1:25:10.02,1:25:11.36,ZH,,0,0,0,,{\rZH\blur0.8}别忘了相位整合。\N{\rEN\blur0.8}Don't forget your phase integration.
+Dialogue: 0,1:25:11.36,1:25:12.82,ZH,,0,0,0,,{\rZH\blur0.8}-杰克！  -不，不，是中间那个按钮。\N{\rEN\blur0.8}-Jake!   -No, no, the middle button.
+Dialogue: 0,1:25:12.82,1:25:14.69,ZH,,0,0,0,,{\rZH\blur0.8}-你得吃点东西。  -好，就这样。\N{\rEN\blur0.8}-You gotta eat something.   -Yeah, there you go.
+Dialogue: 0,1:25:23.16,1:25:28.12,ZH,,0,0,0,,{\rZH\blur0.8}杰克！杰克，醒醒！杰克，求你了！\N{\rEN\blur0.8}Jake! Jake. Wake up! Jake, please!
+Dialogue: 0,1:25:28.75,1:25:31.25,ZH,,0,0,0,,{\rZH\blur0.8}别逼我给一个残疾人强行喂饭。\N{\rEN\blur0.8}Don't make me force-feed a cripple.
+Dialogue: 0,1:25:32.38,1:25:34.00,ZH,,0,0,0,,{\rZH\blur0.8}格蕾丝，我不想……喂！\N{\rEN\blur0.8}Grace, I don't want... Hey!
+Dialogue: 0,1:25:37.80,1:25:38.88,ZH,,0,0,0,,{\rZH\blur0.8}杰克！\N{\rEN\blur0.8}Jake!
+Dialogue: 0,1:25:47.85,1:25:48.94,ZH,,0,0,0,,{\rZH\blur0.8}好。\N{\rEN\blur0.8}Okay.
+Dialogue: 0,1:26:00.03,1:26:02.12,ZH,,0,0,0,,{\rZH\blur0.8}给。我弄完了。走吧。\N{\rEN\blur0.8}Here. I'm done. Let's go.
+Dialogue: 0,1:26:02.12,1:26:04.45,ZH,,0,0,0,,{\rZH\blur0.8}你上次洗澡是什么时候？\N{\rEN\blur0.8}And when was the last time you took a shower?
+Dialogue: 0,1:26:04.45,1:26:06.54,ZH,,0,0,0,,{\rZH\blur0.8}-我不需要洗澡。  -天哪，陆战队员。\N{\rEN\blur0.8}-I don't need a shower.   -Jesus, Marine.
+Dialogue: 0,1:26:10.67,1:26:11.92,ZH,,0,0,0,,{\rZH\blur0.8}杰克！\N{\rEN\blur0.8}Jake!
+Dialogue: 0,1:26:18.72,1:26:23.68,ZH,,0,0,0,,{\rZH\blur0.8}杰克！醒醒！杰克！醒醒！\N{\rEN\blur0.8}Jake! Wake up! Jake! Wake up!
+Dialogue: 0,1:26:27.14,1:26:28.48,ZH,,0,0,0,,{\rZH\blur0.8}喂！\N{\rEN\blur0.8}Hey!
+Dialogue: 0,1:26:29.18,1:26:31.69,ZH,,0,0,0,,{\rZH\blur0.8}停下！停下！\N{\rEN\blur0.8}Stop! Stop!
+Dialogue: 0,1:26:31.69,1:26:34.48,ZH,,0,0,0,,{\rZH\blur0.8}-杰克！  -回去，停下！\N{\rEN\blur0.8}-Jake!   -Go back, stop!
+Dialogue: 0,1:26:38.69,1:26:40.03,ZH,,0,0,0,,{\rZH\blur0.8}嘿，头儿。\N{\rEN\blur0.8}Hey, boss.
+Dialogue: 0,1:26:40.49,1:26:41.70,ZH,,0,0,0,,{\rZH\blur0.8}喂！\N{\rEN\blur0.8}Hey!
+Dialogue: 0,1:26:44.28,1:26:45.45,ZH,,0,0,0,,{\rZH\blur0.8}-什么？  -我这儿有个土著\N{\rEN\blur0.8}-What?   -I got a native
+Dialogue: 0,1:26:45.45,1:26:48.45,ZH,,0,0,0,,{\rZH\blur0.8}在这儿跳怪舞。他挡着我的推土铲。\N{\rEN\blur0.8}doing the funky chicken here. He's blocking my blade.
+Dialogue: 0,1:26:48.45,1:26:51.66,ZH,,0,0,0,,{\rZH\blur0.8}那就继续开。他会让开的。\N{\rEN\blur0.8}Well, keep going. He'll move.
+Dialogue: 0,1:26:51.66,1:26:54.96,ZH,,0,0,0,,{\rZH\blur0.8}这些人得明白，我们不会停。快点，走，走，走。\N{\rEN\blur0.8}These people have to learn that we don't stop. Come on, go, go, go.
+Dialogue: 0,1:26:57.30,1:26:59.46,ZH,,0,0,0,,{\rZH\blur0.8}停下！喂！\N{\rEN\blur0.8}Stop! Hey!
+Dialogue: 0,1:26:59.59,1:27:01.88,ZH,,0,0,0,,{\rZH\blur0.8}走！走！\N{\rEN\blur0.8}Go! Go!
+Dialogue: 0,1:27:02.88,1:27:04.30,ZH,,0,0,0,,{\rZH\blur0.8}看吧？他让开了。\N{\rEN\blur0.8}There, see? He moved.
+Dialogue: 0,1:27:16.69,1:27:18.44,ZH,,0,0,0,,{\rZH\blur0.8}老兄，老兄。哇，老兄！老兄，别！\N{\rEN\blur0.8}Dude, dude. Whoa, dude! Dude, no!
+Dialogue: 0,1:27:19.32,1:27:20.57,ZH,,0,0,0,,{\rZH\blur0.8}我瞎了。\N{\rEN\blur0.8}I'm blind.
+Dialogue: 0,1:27:32.50,1:27:34.79,ZH,,0,0,0,,{\rZH\blur0.8}-杰克！  -奈蒂莉！\N{\rEN\blur0.8}-Jake!   -Neytiri!
+Dialogue: 0,1:27:36.33,1:27:38.00,ZH,,0,0,0,,{\rZH\blur0.8}这儿，快！\N{\rEN\blur0.8}Here, come on!
+Dialogue: 0,1:28:02.94,1:28:05.53,ZH,,0,0,0,,{\rZH\blur0.8}画面定格在这儿。\N{\rEN\blur0.8}Freeze it right there.
+Dialogue: 0,1:28:07.07,1:28:09.53,ZH,,0,0,0,,{\rZH\blur0.8}放大。增强。\N{\rEN\blur0.8}Scale up. Enhance.
+Dialogue: 0,1:28:11.20,1:28:12.70,ZH,,0,0,0,,{\rZH\blur0.8}狗娘养的。\N{\rEN\blur0.8}Son of a bitch.
+Dialogue: 0,1:28:14.21,1:28:15.71,ZH,,0,0,0,,{\rZH\blur0.8}难以置信。\N{\rEN\blur0.8}Unbelievable.
+Dialogue: 0,1:28:16.75,1:28:18.88,ZH,,0,0,0,,{\rZH\blur0.8}-给我叫个飞行员。  -是，长官。\N{\rEN\blur0.8}-Get me a pilot.   -Yes, Sir.
+Dialogue: 0,1:28:25.68,1:28:27.97,ZH,,0,0,0,,{\rZH\blur0.8}苏泰将率领战团。\N{\rEN\blur0.8}Tsu'tey will lead the war party.
+Dialogue: 0,1:28:34.48,1:28:35.73,ZH,,0,0,0,,{\rZH\blur0.8}请停下，我……\N{\rEN\blur0.8}Stop please I
+Dialogue: 0,1:28:37.27,1:28:39.36,ZH,,0,0,0,,{\rZH\blur0.8}这只会让事情更糟。\N{\rEN\blur0.8}This will only make it worse.
+Dialogue: 0,1:28:39.52,1:28:41.19,ZH,,0,0,0,,{\rZH\blur0.8}你在这里没有发言权！\N{\rEN\blur0.8}You do not speak here!
+Dialogue: 0,1:28:42.23,1:28:44.28,ZH,,0,0,0,,{\rZH\blur0.8}我们要直击他们的心脏。\N{\rEN\blur0.8}We will strike them in the heart.
+Dialogue: 0,1:28:51.91,1:28:54.08,ZH,,0,0,0,,{\rZH\blur0.8}苏泰！别这样。\N{\rEN\blur0.8}Tsu'tey! Don't do this.
+Dialogue: 0,1:28:57.25,1:28:58.75,ZH,,0,0,0,,{\rZH\blur0.8}-你！  -听我说，兄弟……\N{\rEN\blur0.8}-You!   -Listen. Brother...
+Dialogue: 0,1:29:04.26,1:29:07.42,ZH,,0,0,0,,{\rZH\blur0.8}-你和这个女人结合了？  -哦，糟了。\N{\rEN\blur0.8}-You mated with this woman?   -Oh, shit.
+Dialogue: 0,1:29:08.68,1:29:10.64,ZH,,0,0,0,,{\rZH\blur0.8}这是真的吗？\N{\rEN\blur0.8}Is this true?
+Dialogue: 0,1:29:12.18,1:29:15.39,ZH,,0,0,0,,{\rZH\blur0.8}我们已在艾娃面前结合。已成定局。\N{\rEN\blur0.8}We are mated before Eywaa. It is done.
+Dialogue: 0,1:29:16.77,1:29:17.98,ZH,,0,0,0,,{\rZH\blur0.8}兄弟，求你。\N{\rEN\blur0.8}Brother, please.
+Dialogue: 0,1:29:17.98,1:29:21.86,ZH,,0,0,0,,{\rZH\blur0.8}别攻击天空人。否则会有很多奥马提卡亚人死去。\N{\rEN\blur0.8}Do not attack the Sky People. Many Omaticaya will die if you do.
+Dialogue: 0,1:29:21.86,1:29:24.15,ZH,,0,0,0,,{\rZH\blur0.8}你不是我兄弟！\N{\rEN\blur0.8}You are not my brother!
+Dialogue: 0,1:29:27.36,1:29:29.11,ZH,,0,0,0,,{\rZH\blur0.8}我也不是你们的敌人！\N{\rEN\blur0.8}And I am not your enemy!
+Dialogue: 0,1:29:30.78,1:29:33.62,ZH,,0,0,0,,{\rZH\blur0.8}敌人在外面，而且他们非常强大！\N{\rEN\blur0.8}The enemy is out there, and they are very powerful!
+Dialogue: 0,1:29:35.91,1:29:37.66,ZH,,0,0,0,,{\rZH\blur0.8}走！走！走！\N{\rEN\blur0.8}Go! Go! Go!
+Dialogue: 0,1:29:40.92,1:29:43.34,ZH,,0,0,0,,{\rZH\blur0.8}-我可以跟他们谈。  -不用再谈了。\N{\rEN\blur0.8}-I can talk to them.   -No more talk.
+Dialogue: 0,1:29:43.42,1:29:44.80,ZH,,0,0,0,,{\rZH\blur0.8}苏泰！\N{\rEN\blur0.8}Tsu'tey!
+Dialogue: 0,1:29:51.01,1:29:53.97,ZH,,0,0,0,,{\rZH\blur0.8}我是奥马提卡亚人。我是你们中的一员。\N{\rEN\blur0.8}I am Omaticaya. I am one of you.
+Dialogue: 0,1:29:54.76,1:29:56.98,ZH,,0,0,0,,{\rZH\blur0.8}我有权说话。\N{\rEN\blur0.8}And I have the right to speak.
+Dialogue: 0,1:30:01.52,1:30:03.48,ZH,,0,0,0,,{\rZH\blur0.8}我有话要说……\N{\rEN\blur0.8}I have something to Say...
+Dialogue: 0,1:30:05.82,1:30:07.53,ZH,,0,0,0,,{\rZH\blur0.8}……对你们所有人。\N{\rEN\blur0.8}...tO all of you.
+Dialogue: 0,1:30:11.32,1:30:13.45,ZH,,0,0,0,,{\rZH\blur0.8}这些话像石头压在我心里。\N{\rEN\blur0.8}The words are like stones in my heart.
+Dialogue: 0,1:30:17.79,1:30:19.79,ZH,,0,0,0,,{\rZH\blur0.8}长官，对不起。不，不，不！等等！\N{\rEN\blur0.8}Sir, I'm sorry. No, no, no! Hold on!
+Dialogue: 0,1:30:19.79,1:30:22.04,ZH,,0,0,0,,{\rZH\blur0.8}你不能中断进行中的链接！\N{\rEN\blur0.8}You can't interrupt a link in progress!
+Dialogue: 0,1:30:23.21,1:30:24.59,ZH,,0,0,0,,{\rZH\blur0.8}这非常危险！\N{\rEN\blur0.8}It's very dangerous!
+Dialogue: 0,1:30:27.17,1:30:28.34,ZH,,0,0,0,,{\rZH\blur0.8}格蕾丝！\N{\rEN\blur0.8}Grace!
+Dialogue: 0,1:30:29.59,1:30:30.80,ZH,,0,0,0,,{\rZH\blur0.8}哦，不。\N{\rEN\blur0.8}Oh, no.
+Dialogue: 0,1:30:31.01,1:30:33.01,ZH,,0,0,0,,{\rZH\blur0.8}-等等！  -别起来，长官。\N{\rEN\blur0.8}-Wait!   -Stay down, sir.
+Dialogue: 0,1:30:34.51,1:30:36.76,ZH,,0,0,0,,{\rZH\blur0.8}好吧。听我说……\N{\rEN\blur0.8}Okay. Look...
+Dialogue: 0,1:30:37.85,1:30:39.18,ZH,,0,0,0,,{\rZH\blur0.8}我被派到这里是为了……\N{\rEN\blur0.8}I was sent here to...
+Dialogue: 0,1:30:42.77,1:30:44.19,ZH,,0,0,0,,{\rZH\blur0.8}看到了吗？\N{\rEN\blur0.8}You see?
+Dialogue: 0,1:30:44.36,1:30:47.02,ZH,,0,0,0,,{\rZH\blur0.8}这是个披着假躯壳的恶魔。\N{\rEN\blur0.8}lt is a demon ina false body.
+Dialogue: 0,1:31:06.71,1:31:10.13,ZH,,0,0,0,,{\rZH\blur0.8}-你他妈疯了吗？  -你越界了。\N{\rEN\blur0.8}-Are you out of your goddamn mind?   -You crossed the line.
+Dialogue: 0,1:31:13.55,1:31:15.72,ZH,,0,0,0,,{\rZH\blur0.8}把这具肉体推出去。\N{\rEN\blur0.8}Wheel this meat out of here.
+Dialogue: 0,1:31:17.47,1:31:20.02,ZH,,0,0,0,,{\rZH\blur0.8}杰克！到底怎么回事？\N{\rEN\blur0.8}Jake! What the hell is going on here?
+Dialogue: 0,1:31:23.23,1:31:25.06,ZH,,0,0,0,,{\rZH\blur0.8}你让我失望了，孩子。\N{\rEN\blur0.8}You let me down, son.
+Dialogue: 0,1:31:27.02,1:31:28.27,ZH,,0,0,0,,{\rZH\blur0.8}所以，怎么，\N{\rEN\blur0.8}So, what,
+Dialogue: 0,1:31:29.78,1:31:31.86,ZH,,0,0,0,,{\rZH\blur0.8}你找了个本地妞\N{\rEN\blur0.8}you find yourself some local tail
+Dialogue: 0,1:31:31.86,1:31:35.12,ZH,,0,0,0,,{\rZH\blur0.8}就彻底忘了自己在为哪边效力？\N{\rEN\blur0.8}and you just completely forget what team you're playing for?
+Dialogue: 0,1:31:35.12,1:31:37.74,ZH,,0,0,0,,{\rZH\blur0.8}帕克，还有时间挽回局面。\N{\rEN\blur0.8}Parker, there is time to salvage the situation.
+Dialogue: 0,1:31:37.74,1:31:40.33,ZH,,0,0,0,,{\rZH\blur0.8}-帕克……  -闭上你的嘴！\N{\rEN\blur0.8}-Parker...   -Shut your pie hole!
+Dialogue: 0,1:31:40.33,1:31:44.58,ZH,,0,0,0,,{\rZH\blur0.8}不然呢，巡逻兵？你要开枪打我吗？\N{\rEN\blur0.8}Or what, Ranger Rick? You gonna shoot me?
+Dialogue: 0,1:31:44.58,1:31:47.42,ZH,,0,0,0,,{\rZH\blur0.8}-我可以。  -你该管好你的狗。\N{\rEN\blur0.8}-I could do that.   -You need to muzzle your dog.
+Dialogue: 0,1:31:47.42,1:31:50.26,ZH,,0,0,0,,{\rZH\blur0.8}对，我们能不能都冷静一点？\N{\rEN\blur0.8}Yeah, can we just take this down a couple of notches, please?
+Dialogue: 0,1:31:50.26,1:31:52.84,ZH,,0,0,0,,{\rZH\blur0.8}你说想让你的手下活着？\N{\rEN\blur0.8}You say you want to keep your people alive?
+Dialogue: 0,1:31:52.84,1:31:54.93,ZH,,0,0,0,,{\rZH\blur0.8}那就先听她说。\N{\rEN\blur0.8}You start by listening to her.
+Dialogue: 0,1:31:54.93,1:31:57.30,ZH,,0,0,0,,{\rZH\blur0.8}那些树对奥马提卡亚人是神圣的\N{\rEN\blur0.8}Those trees were sacred to the Omaticaya
+Dialogue: 0,1:31:57.30,1:31:59.18,ZH,,0,0,0,,{\rZH\blur0.8}-以你无法想象的方式。  -你知道吗？\N{\rEN\blur0.8}-iNn a way you can't imagine.   -You know what?
+Dialogue: 0,1:31:59.18,1:32:01.47,ZH,,0,0,0,,{\rZH\blur0.8}你在这儿随便扔根棍子，\N{\rEN\blur0.8}You throw a stick in the air around here,
+Dialogue: 0,1:32:01.56,1:32:04.60,ZH,,0,0,0,,{\rZH\blur0.8}都会砸到某种神圣的蕨类，\N{\rEN\blur0.8}it's gonna land on some sacred fern,
+Dialogue: 0,1:32:04.60,1:32:06.06,ZH,,0,0,0,,{\rZH\blur0.8}-老天啊！  -我说的不是\N{\rEN\blur0.8}-for Christ's sake!   -I'm not talking
+Dialogue: 0,1:32:06.06,1:32:10.48,ZH,,0,0,0,,{\rZH\blur0.8}什么异教巫术。我说的是真实存在的东西，\N{\rEN\blur0.8}about some kind of pagan voodoo here. I'm talking about something real,
+Dialogue: 0,1:32:10.57,1:32:13.28,ZH,,0,0,0,,{\rZH\blur0.8}能在森林生物学里测量出来的东西。\N{\rEN\blur0.8}something measurable in the biology of the forest.
+Dialogue: 0,1:32:13.28,1:32:14.78,ZH,,0,0,0,,{\rZH\blur0.8}到底是什么？\N{\rEN\blur0.8}Which is what, exactly?
+Dialogue: 0,1:32:15.82,1:32:17.24,ZH,,0,0,0,,{\rZH\blur0.8}我们目前所知道的\N{\rEN\blur0.8}What we think we know
+Dialogue: 0,1:32:17.24,1:32:20.70,ZH,,0,0,0,,{\rZH\blur0.8}是树根之间存在某种电化学交流\N{\rEN\blur0.8}is that there is some kind of electrochemical communication
+Dialogue: 0,1:32:20.70,1:32:25.16,ZH,,0,0,0,,{\rZH\blur0.8}就像神经元之间的突触。\N{\rEN\blur0.8}between the roots of the trees, like the synapses between neurons.
+Dialogue: 0,1:32:25.16,1:32:29.84,ZH,,0,0,0,,{\rZH\blur0.8}每棵树与周围树木有一万条连接。\N{\rEN\blur0.8}And each tree has ten-to-the-fourth connections to the trees around it.
+Dialogue: 0,1:32:29.84,1:32:33.05,ZH,,0,0,0,,{\rZH\blur0.8}而潘多拉上有一万亿棵树。\N{\rEN\blur0.8}And there are ten-to-the-twelfth trees on Pandora.
+Dialogue: 0,1:32:33.92,1:32:36.26,ZH,,0,0,0,,{\rZH\blur0.8}我猜，那是很多。\N{\rEN\blur0.8}Which is a lot, I'm guessing.
+Dialogue: 0,1:32:36.26,1:32:38.64,ZH,,0,0,0,,{\rZH\blur0.8}连接数比人脑还多。\N{\rEN\blur0.8}It's more connections than the human brain.
+Dialogue: 0,1:32:39.80,1:32:42.43,ZH,,0,0,0,,{\rZH\blur0.8}明白吗？这是一个网络。\N{\rEN\blur0.8}Get it? It's a network.
+Dialogue: 0,1:32:42.43,1:32:45.52,ZH,,0,0,0,,{\rZH\blur0.8}一个全球网络，纳威人能接入它。\N{\rEN\blur0.8}It's a global network, and the Na'vi can access it.
+Dialogue: 0,1:32:45.52,1:32:49.10,ZH,,0,0,0,,{\rZH\blur0.8}他们能上传和下载数据。记忆。\N{\rEN\blur0.8}They can upload and download data. Memories.
+Dialogue: 0,1:32:49.10,1:32:51.82,ZH,,0,0,0,,{\rZH\blur0.8}就在你刚摧毁的那种地方。\N{\rEN\blur0.8}At sites like the one you just destroyed.
+Dialogue: 0,1:32:52.44,1:32:53.48,ZH,,0,0,0,,{\rZH\blur0.8}对！\N{\rEN\blur0.8}Yes!
+Dialogue: 0,1:32:54.69,1:32:58.82,ZH,,0,0,0,,{\rZH\blur0.8}你们在外面到底抽了什么？\N{\rEN\blur0.8}What the hell have you people been smoking out there?
+Dialogue: 0,1:32:59.49,1:33:01.58,ZH,,0,0,0,,{\rZH\blur0.8}它们就是他妈的树！\N{\rEN\blur0.8}They're just goddamn trees!
+Dialogue: 0,1:33:03.33,1:33:06.12,ZH,,0,0,0,,{\rZH\blur0.8}-你该醒醒了，帕克。  -不，你才该醒醒。\N{\rEN\blur0.8}-You need to wake up, Parker.   -No. You need to wake up.
+Dialogue: 0,1:33:06.12,1:33:10.67,ZH,,0,0,0,,{\rZH\blur0.8}这个世界的财富不在地下。就在我们周围。\N{\rEN\blur0.8}The wealth of this world isn't in the ground. It's all around us.
+Dialogue: 0,1:33:10.67,1:33:14.51,ZH,,0,0,0,,{\rZH\blur0.8}纳威人知道，他们在为保卫它而战。\N{\rEN\blur0.8}The Na'vi know that, and they are fighting to defend it.
+Dialogue: 0,1:33:14.51,1:33:18.84,ZH,,0,0,0,,{\rZH\blur0.8}如果你想和他们共享这个世界，就得了解他们。\N{\rEN\blur0.8}If you want to share this world with them, you need to understand them.
+Dialogue: 0,1:33:18.84,1:33:23.56,ZH,,0,0,0,,{\rZH\blur0.8}我得说我们很了解他们，多亏了杰克。\N{\rEN\blur0.8}I'd say we understand them just fine, thanks to Jake here.
+Dialogue: 0,1:33:25.31,1:33:27.85,ZH,,0,0,0,,{\rZH\blur0.8}嘿，博士，过来看看。\N{\rEN\blur0.8}Hey, Doc, come take a look.
+Dialogue: 0,1:33:27.85,1:33:30.06,ZH,,0,0,0,,{\rZH\blur0.8}他们不会放弃家园。\N{\rEN\blur0.8}They're not gonna give up their home.
+Dialogue: 0,1:33:31.86,1:33:33.52,ZH,,0,0,0,,{\rZH\blur0.8}他们不会做交易。\N{\rEN\blur0.8}They're not gonna make a deal.
+Dialogue: 0,1:33:34.57,1:33:36.86,ZH,,0,0,0,,{\rZH\blur0.8}换什么？淡啤酒？\N{\rEN\blur0.8}For what? Lite beer?
+Dialogue: 0,1:33:37.49,1:33:39.03,ZH,,0,0,0,,{\rZH\blur0.8}还有蓝牛仔裤？\N{\rEN\blur0.8}And blue jeans?
+Dialogue: 0,1:33:42.24,1:33:45.16,ZH,,0,0,0,,{\rZH\blur0.8}我们没有任何他们想要的东西。\N{\rEN\blur0.8}There's nothing that we have that they want.
+Dialogue: 0,1:33:47.04,1:33:50.08,ZH,,0,0,0,,{\rZH\blur0.8}他们派我来做的一切都是浪费时间。\N{\rEN\blur0.8}Everything they sent me out here to do is a waste of time.
+Dialogue: 0,1:33:55.05,1:33:56.92,ZH,,0,0,0,,{\rZH\blur0.8}他们永远不会离开家园树。\N{\rEN\blur0.8}They're never gonna leave Hometree.
+Dialogue: 0,1:33:59.34,1:34:05.35,ZH,,0,0,0,,{\rZH\blur0.8}既然谈不成，事情就简单了。\N{\rEN\blur0.8}So, since a deal can't be made, I guess things get real simple.
+Dialogue: 0,1:34:05.56,1:34:10.10,ZH,,0,0,0,,{\rZH\blur0.8}杰克，谢谢。我都感动了。\N{\rEN\blur0.8}Jake, thanks. I'm getting all emotional.
+Dialogue: 0,1:34:10.10,1:34:12.73,ZH,,0,0,0,,{\rZH\blur0.8}我差点要给你一个湿吻。\N{\rEN\blur0.8}I might just give you a big wet kiss.
+Dialogue: 0,1:34:19.74,1:34:23.07,ZH,,0,0,0,,{\rZH\blur0.8}我会把原住民的伤亡降到最低。\N{\rEN\blur0.8}I'll do it with minimal casualties to the indigenous.
+Dialogue: 0,1:34:23.99,1:34:26.49,ZH,,0,0,0,,{\rZH\blur0.8}我先用催泪瓦斯把他们赶出来。\N{\rEN\blur0.8}I'll drive them out with gas first.
+Dialogue: 0,1:34:27.74,1:34:29.33,ZH,,0,0,0,,{\rZH\blur0.8}这是人道做法。\N{\rEN\blur0.8}It'll be humane.
+Dialogue: 0,1:34:30.92,1:34:32.42,ZH,,0,0,0,,{\rZH\blur0.8}差不多吧。\N{\rEN\blur0.8}More or less.
+Dialogue: 0,1:34:34.08,1:34:35.96,ZH,,0,0,0,,{\rZH\blur0.8}好，动手吧。\N{\rEN\blur0.8}All right, let's pull the trigger.
+Dialogue: 0,1:34:39.59,1:34:41.59,ZH,,0,0,0,,{\rZH\blur0.8}-大家快点。  -天哪。\N{\rEN\blur0.8}-Come on, people.   -Oh, man.
+Dialogue: 0,1:34:41.59,1:34:43.39,ZH,,0,0,0,,{\rZH\blur0.8}收拾东西，走。\N{\rEN\blur0.8}Let's pack it up, let's go.
+Dialogue: 0,1:34:43.39,1:34:45.26,ZH,,0,0,0,,{\rZH\blur0.8}事情就是这么办的。\N{\rEN\blur0.8}This is how it's done.
+Dialogue: 0,1:34:48.27,1:34:51.60,ZH,,0,0,0,,{\rZH\blur0.8}当人们占着你想的东西不放，\N{\rEN\blur0.8}When people are sitting on shit that you want,
+Dialogue: 0,1:34:51.60,1:34:55.77,ZH,,0,0,0,,{\rZH\blur0.8}你就把他们变成敌人。这样你抢起来就名正言顺了。\N{\rEN\blur0.8}you make them your enemy. Then you're justified in taking it.
+Dialogue: 0,1:34:55.77,1:34:59.32,ZH,,0,0,0,,{\rZH\blur0.8}夸里奇要出动炮艇了。他要去打家园树。\N{\rEN\blur0.8}Quaritch is rolling the gunships. He's gonna hit Hometree.
+Dialogue: 0,1:34:59.32,1:35:00.36,ZH,,0,0,0,,{\rZH\blur0.8}我的天。\N{\rEN\blur0.8}My God.
+Dialogue: 0,1:35:06.62,1:35:10.91,ZH,,0,0,0,,{\rZH\blur0.8}-奥古斯汀博士！你不能上来！  -退后！\N{\rEN\blur0.8}-Dr. Augustine! You cannot be up here!   -Back off!
+Dialogue: 0,1:35:10.91,1:35:14.63,ZH,,0,0,0,,{\rZH\blur0.8}帕克。等等。住手。这些人是你要……\N{\rEN\blur0.8}Parker. Wait. Stop. These are people you're about to...
+Dialogue: 0,1:35:14.71,1:35:15.88,ZH,,0,0,0,,{\rZH\blur0.8}-不，不不不不。  -我说了退后！\N{\rEN\blur0.8}-No. No, no, no, no.   -I said back off!
+Dialogue: 0,1:35:15.88,1:35:19.38,ZH,,0,0,0,,{\rZH\blur0.8}他们不过是住在树上的野蛮人！\N{\rEN\blur0.8}They're fly-bitten savages that live in a tree!
+Dialogue: 0,1:35:19.38,1:35:21.13,ZH,,0,0,0,,{\rZH\blur0.8}行吗？你看看周围！\N{\rEN\blur0.8}All right? Look around!
+Dialogue: 0,1:35:21.13,1:35:24.97,ZH,,0,0,0,,{\rZH\blur0.8}我不知道你怎么想，但我看到处都是树！他们可以搬走！\N{\rEN\blur0.8}I don't know about you, but I see a lot of trees! They can move!
+Dialogue: 0,1:35:24.97,1:35:26.47,ZH,,0,0,0,,{\rZH\blur0.8}-你们能不能就……  -是，长官。\N{\rEN\blur0.8}-Can you guys just please...   -Yes, Sir.
+Dialogue: 0,1:35:26.47,1:35:29.10,ZH,,0,0,0,,{\rZH\blur0.8}里面有家庭。有孩子。还有婴儿。\N{\rEN\blur0.8}There are families in there. There are children. Babies.
+Dialogue: 0,1:35:29.10,1:35:30.48,ZH,,0,0,0,,{\rZH\blur0.8}你要杀孩子吗？\N{\rEN\blur0.8}Are you gonna kill children?
+Dialogue: 0,1:35:30.48,1:35:34.48,ZH,,0,0,0,,{\rZH\blur0.8}你不会想让这种血沾在手上。相信我。\N{\rEN\blur0.8}You don't want that kind of blood on your hands. Believe me.
+Dialogue: 0,1:35:34.48,1:35:36.86,ZH,,0,0,0,,{\rZH\blur0.8}让我去劝他们搬走。\N{\rEN\blur0.8}Just let me try to talk them out.
+Dialogue: 0,1:35:37.65,1:35:39.15,ZH,,0,0,0,,{\rZH\blur0.8}他们相信我。\N{\rEN\blur0.8}They trust me.
+Dialogue: 0,1:35:42.44,1:35:44.95,ZH,,0,0,0,,{\rZH\blur0.8}快速校准。我们马上进去。\N{\rEN\blur0.8}Calibrate fast. We're going in, right now.
+Dialogue: 0,1:35:44.95,1:35:46.95,ZH,,0,0,0,,{\rZH\blur0.8}正在校准三号和四号。\N{\rEN\blur0.8}Calibrating three and four.
+Dialogue: 0,1:35:46.95,1:35:49.91,ZH,,0,0,0,,{\rZH\blur0.8}-启动序列。  -开始。三十秒。\N{\rEN\blur0.8}-Run sequence.   -Initiating. Thirty seconds.
+Dialogue: 0,1:35:54.29,1:35:56.08,ZH,,0,0,0,,{\rZH\blur0.8}听我说。你只有一个小时。\N{\rEN\blur0.8}Listen to me. You've got one hour.
+Dialogue: 0,1:35:56.08,1:35:58.67,ZH,,0,0,0,,{\rZH\blur0.8}除非你想让你女朋友也在里面，等斧头落下来，\N{\rEN\blur0.8}Unless you want your girlfriend in there when the ax comes down,
+Dialogue: 0,1:35:58.75,1:36:01.38,ZH,,0,0,0,,{\rZH\blur0.8}你就让他们撤离。一个小时。\N{\rEN\blur0.8}you get them to evacuate. One hour.
+Dialogue: 0,1:36:07.26,1:36:08.60,ZH,,0,0,0,,{\rZH\blur0.8}父亲！\N{\rEN\blur0.8}Father!
+Dialogue: 0,1:36:08.76,1:36:09.85,ZH,,0,0,0,,{\rZH\blur0.8}母亲！\N{\rEN\blur0.8}Mother!
+Dialogue: 0,1:36:09.85,1:36:13.14,ZH,,0,0,0,,{\rZH\blur0.8}埃图坎，我有话要说。\N{\rEN\blur0.8}Eytukan, I have something to say.
+Dialogue: 0,1:36:13.14,1:36:14.48,ZH,,0,0,0,,{\rZH\blur0.8}听我说！\N{\rEN\blur0.8}Listen!
+Dialogue: 0,1:36:15.52,1:36:17.06,ZH,,0,0,0,,{\rZH\blur0.8}说吧，杰克苏里。\N{\rEN\blur0.8}Speak, Jakesully.
+Dialogue: 0,1:36:18.36,1:36:21.44,ZH,,0,0,0,,{\rZH\blur0.8}一场大祸降临到我们头上……\N{\rEN\blur0.8}A great evil is upon US...
+Dialogue: 0,1:36:21.73,1:36:23.57,ZH,,0,0,0,,{\rZH\blur0.8}天空人来了……\N{\rEN\blur0.8}The Sky People are coming...
+Dialogue: 0,1:36:23.86,1:36:26.32,ZH,,0,0,0,,{\rZH\blur0.8}……要摧毁家园树。\N{\rEN\blur0.8}...tO destroy Hometree.
+Dialogue: 0,1:36:28.82,1:36:30.24,ZH,,0,0,0,,{\rZH\blur0.8}告诉他们，他们很快就到。\N{\rEN\blur0.8}Look, tell them they're gonna be here soon.
+Dialogue: 0,1:36:32.83,1:36:35.66,ZH,,0,0,0,,{\rZH\blur0.8}你们必须离开，不然会死的。\N{\rEN\blur0.8}You have to leave, or you're gonna die.
+Dialogue: 0,1:36:35.66,1:36:37.62,ZH,,0,0,0,,{\rZH\blur0.8}你确定吗？\N{\rEN\blur0.8}Are you certain of this?
+Dialogue: 0,1:36:41.38,1:36:45.09,ZH,,0,0,0,,{\rZH\blur0.8}他们派我来学习你们的方式，\N{\rEN\blur0.8}Look, they sent me here to learn your ways
+Dialogue: 0,1:36:46.30,1:36:49.55,ZH,,0,0,0,,{\rZH\blur0.8}就是为了有一天我能带来这个消息，让你们相信。\N{\rEN\blur0.8}so one day I could bring this message and that you would believe it.
+Dialogue: 0,1:36:52.10,1:36:55.73,ZH,,0,0,0,,{\rZH\blur0.8}你在说什么，杰克？你早就知道会这样？\N{\rEN\blur0.8}What are you saying, Jake? You knew this would happen?
+Dialogue: 0,1:36:58.94,1:37:00.52,ZH,,0,0,0,,{\rZH\blur0.8}是。\N{\rEN\blur0.8}Yes.
+Dialogue: 0,1:37:00.52,1:37:02.94,ZH,,0,0,0,,{\rZH\blur0.8}一开始只是命令，\N{\rEN\blur0.8}Look, at first it was just orders,
+Dialogue: 0,1:37:04.44,1:37:06.78,ZH,,0,0,0,,{\rZH\blur0.8}后来一切都变了。\N{\rEN\blur0.8}and then everything changed.
+Dialogue: 0,1:37:06.86,1:37:08.66,ZH,,0,0,0,,{\rZH\blur0.8}好吗？我爱上了。\N{\rEN\blur0.8}Okay? I fell in love.
+Dialogue: 0,1:37:09.28,1:37:14.58,ZH,,0,0,0,,{\rZH\blur0.8}我爱上了这片森林，爱上了奥马提卡亚族。\N{\rEN\blur0.8}I fell in love with the forest and with the Omaticaya people.
+Dialogue: 0,1:37:15.75,1:37:17.25,ZH,,0,0,0,,{\rZH\blur0.8}也爱上了你。\N{\rEN\blur0.8}And with you.
+Dialogue: 0,1:37:18.21,1:37:20.08,ZH,,0,0,0,,{\rZH\blur0.8}-我信任你。  -爱你。爱你。\N{\rEN\blur0.8}-I trusted you.   -With you. With you.
+Dialogue: 0,1:37:20.08,1:37:22.96,ZH,,0,0,0,,{\rZH\blur0.8}-我信任你！  -现在相信我，求你了。\N{\rEN\blur0.8}-I trusted you!   -Trust me now, please.
+Dialogue: 0,1:37:30.34,1:37:32.76,ZH,,0,0,0,,{\rZH\blur0.8}你永远不会成为我们的一员！\N{\rEN\blur0.8}You will never be one of The People!
+Dialogue: 0,1:37:32.85,1:37:34.72,ZH,,0,0,0,,{\rZH\blur0.8}-我不该……  -我们试过阻止他们！\N{\rEN\blur0.8}-I shouldn't have...   -We tried to stop them!
+Dialogue: 0,1:37:34.72,1:37:36.77,ZH,,0,0,0,,{\rZH\blur0.8}奈蒂莉，求你了！求你。\N{\rEN\blur0.8}Neytiri, please! Please.
+Dialogue: 0,1:37:41.61,1:37:42.77,ZH,,0,0,0,,{\rZH\blur0.8}把他们绑起来。\N{\rEN\blur0.8}Bind them.
+Dialogue: 0,1:37:44.44,1:37:45.61,ZH,,0,0,0,,{\rZH\blur0.8}快走！\N{\rEN\blur0.8}Leave now!
+Dialogue: 0,1:37:45.78,1:37:49.11,ZH,,0,0,0,,{\rZH\blur0.8}你们得走。他们来了！\N{\rEN\blur0.8}You have to go. They're coming!
+Dialogue: 0,1:38:02.96,1:38:05.21,ZH,,0,0,0,,{\rZH\blur0.8}抵达目标时间，一分钟。\N{\rEN\blur0.8}Time on target, one mike.
+Dialogue: 0,1:38:05.21,1:38:07.26,ZH,,0,0,0,,{\rZH\blur0.8}收到。我们看到目标了。\N{\rEN\blur0.8}Copy. We have a visual.
+Dialogue: 0,1:38:07.26,1:38:10.34,ZH,,0,0,0,,{\rZH\blur0.8}收到。保持航向030。\N{\rEN\blur0.8}Roger that. Stay on heading 030.
+Dialogue: 0,1:38:10.34,1:38:11.72,ZH,,0,0,0,,{\rZH\blur0.8}收到，030。\N{\rEN\blur0.8}Roger, 030.
+Dialogue: 0,1:38:25.48,1:38:27.53,ZH,,0,0,0,,{\rZH\blur0.8}-快跑进森林！  -他们来了！\N{\rEN\blur0.8}-Run to the forest!   -They're coming!
+Dialogue: 0,1:38:29.15,1:38:32.99,ZH,,0,0,0,,{\rZH\blur0.8}-他们会毁掉这里。  -奈蒂莉，你现在必须走！\N{\rEN\blur0.8}-They will destroy this place.   -Neytiri, you must go now!
+Dialogue: 0,1:38:36.79,1:38:39.08,ZH,,0,0,0,,{\rZH\blur0.8}跑进森林！快跑！\N{\rEN\blur0.8}Run to the forest! Run!
+Dialogue: 0,1:38:41.46,1:38:42.88,ZH,,0,0,0,,{\rZH\blur0.8}快跑！快跑！\N{\rEN\blur0.8}Run! Run!
+Dialogue: 0,1:38:42.88,1:38:46.50,ZH,,0,0,0,,{\rZH\blur0.8}不要怕。\N{\rEN\blur0.8}Have no fear.
+Dialogue: 0,1:39:03.31,1:39:07.02,ZH,,0,0,0,,{\rZH\blur0.8}不！该死的，快跑！\N{\rEN\blur0.8}No! God damn it, run!
+Dialogue: 0,1:39:07.23,1:39:08.78,ZH,,0,0,0,,{\rZH\blur0.8}骑上伊卡兰……\N{\rEN\blur0.8}Take the ikran...
+Dialogue: 0,1:39:08.78,1:39:10.36,ZH,,0,0,0,,{\rZH\blur0.8}……从上方攻击。\N{\rEN\blur0.8}_.attack from above.
+Dialogue: 0,1:39:14.66,1:39:16.87,ZH,,0,0,0,,{\rZH\blur0.8}真他妈是一棵大树。\N{\rEN\blur0.8}That is one big damn tree.
+Dialogue: 0,1:39:24.38,1:39:28.55,ZH,,0,0,0,,{\rZH\blur0.8}好啊，好啊。看来外交失败了。\N{\rEN\blur0.8}Well, well, well. I'd say diplomacy has failed.
+Dialogue: 0,1:39:30.55,1:39:32.72,ZH,,0,0,0,,{\rZH\blur0.8}好了，各位，把这事办了！\N{\rEN\blur0.8}All right, people, let's get this done!
+Dialogue: 0,1:39:32.72,1:39:35.64,ZH,,0,0,0,,{\rZH\blur0.8}把所有瓦斯弹都给我打进正门。\N{\rEN\blur0.8}I want every gas round you got right in the front door.
+Dialogue: 0,1:39:35.64,1:39:37.68,ZH,,0,0,0,,{\rZH\blur0.8}收到。CS.40准备发射。\N{\rEN\blur0.8}Roger. CS.40's going hot.
+Dialogue: 0,1:39:38.06,1:39:39.22,ZH,,0,0,0,,{\rZH\blur0.8}-开火。  -开火。\N{\rEN\blur0.8}-Fire.   -Firing.
+Dialogue: 0,1:39:50.69,1:39:52.74,ZH,,0,0,0,,{\rZH\blur0.8}命中。射得漂亮，王牌。\N{\rEN\blur0.8}Bingo. Mighty good shooting, ace.
+Dialogue: 0,1:40:00.66,1:40:02.29,ZH,,0,0,0,,{\rZH\blur0.8}长官，他们开火了。\N{\rEN\blur0.8}Sir, they've opened fire.
+Dialogue: 0,1:40:04.21,1:40:05.92,ZH,,0,0,0,,{\rZH\blur0.8}开什么玩笑！\N{\rEN\blur0.8}You've got to be kidding me!
+Dialogue: 0,1:40:18.47,1:40:21.10,ZH,,0,0,0,,{\rZH\blur0.8}这帮蠢货就是不听劝。\N{\rEN\blur0.8}These dumb bastards ain't getting the message.
+Dialogue: 0,1:40:21.10,1:40:22.85,ZH,,0,0,0,,{\rZH\blur0.8}好，加大火力。\N{\rEN\blur0.8}All right, let's turn up the heat.
+Dialogue: 0,1:40:22.85,1:40:25.85,ZH,,0,0,0,,{\rZH\blur0.8}-换燃烧弹！  -换燃烧弹。\N{\rEN\blur0.8}-Switch incendiaries!   -Switching incendiaries.
+Dialogue: 0,1:40:25.85,1:40:26.94,ZH,,0,0,0,,{\rZH\blur0.8}开火。\N{\rEN\blur0.8}Fire.
+Dialogue: 0,1:40:30.27,1:40:31.32,ZH,,0,0,0,,{\rZH\blur0.8}不！\N{\rEN\blur0.8}No!
+Dialogue: 0,1:40:44.50,1:40:46.29,ZH,,0,0,0,,{\rZH\blur0.8}让所有人撤到森林去。\N{\rEN\blur0.8}Get everyone to the forest.
+Dialogue: 0,1:40:49.71,1:40:51.92,ZH,,0,0,0,,{\rZH\blur0.8}蟑螂就是这么驱散的。\N{\rEN\blur0.8}And that's how you scatter the roaches.
+Dialogue: 0,1:40:55.63,1:40:56.88,ZH,,0,0,0,,{\rZH\blur0.8}奈蒂莉！\N{\rEN\blur0.8}Neytiri!
+Dialogue: 0,1:41:05.56,1:41:08.65,ZH,,0,0,0,,{\rZH\blur0.8}我们得走！他要炸掉支柱！\N{\rEN\blur0.8}We gotta move! He's gonna blow the columns!
+Dialogue: 0,1:41:08.65,1:41:09.98,ZH,,0,0,0,,{\rZH\blur0.8}我的天！\N{\rEN\blur0.8}My God!
+Dialogue: 0,1:41:28.50,1:41:31.88,ZH,,0,0,0,,{\rZH\blur0.8}-莫阿特！不！  -如果你是我们的一员，\N{\rEN\blur0.8}-Mo'at! No!   -If you are one of us,
+Dialogue: 0,1:41:33.38,1:41:34.76,ZH,,0,0,0,,{\rZH\blur0.8}就帮我们。\N{\rEN\blur0.8}help us.
+Dialogue: 0,1:41:42.51,1:41:44.52,ZH,,0,0,0,,{\rZH\blur0.8}所有呼号，切换导弹。\N{\rEN\blur0.8}All call signs, switch missiles.
+Dialogue: 0,1:41:44.68,1:41:47.10,ZH,,0,0,0,,{\rZH\blur0.8}给我用高爆弹打西侧支柱底部。\N{\rEN\blur0.8}Give me HE's at the base of the west columns.
+Dialogue: 0,1:41:49.02,1:41:50.31,ZH,,0,0,0,,{\rZH\blur0.8}这边！\N{\rEN\blur0.8}This way!
+Dialogue: 0,1:41:51.44,1:41:53.36,ZH,,0,0,0,,{\rZH\blur0.8}骑兵分队，切换导弹。\N{\rEN\blur0.8}Rider section, switch missiles.
+Dialogue: 0,1:41:53.36,1:41:55.40,ZH,,0,0,0,,{\rZH\blur0.8}-一号可以。  -二号就位。\N{\rEN\blur0.8}-One's good.   -Two's rocks up.
+Dialogue: 0,1:41:55.40,1:41:57.99,ZH,,0,0,0,,{\rZH\blur0.8}-三号就位。  -来吧，宝贝，开打！\N{\rEN\blur0.8}-Three's up.   -Yeah, baby, get some!
+Dialogue: 0,1:41:58.53,1:42:00.86,ZH,,0,0,0,,{\rZH\blur0.8}查理奥斯卡，炮手待命。\N{\rEN\blur0.8}Charlie Oscar, Gunrunner standing by.
+Dialogue: 0,1:42:00.86,1:42:02.24,ZH,,0,0,0,,{\rZH\blur0.8}-打下来。  -准许开火。\N{\rEN\blur0.8}-Bring it down.   -Cleared hot.
+Dialogue: 0,1:42:09.33,1:42:10.88,ZH,,0,0,0,,{\rZH\blur0.8}快，格蕾丝，走！\N{\rEN\blur0.8}Come on, Grace, move!
+Dialogue: 0,1:42:13.54,1:42:15.13,ZH,,0,0,0,,{\rZH\blur0.8}趴下！低头！\N{\rEN\blur0.8}Down! Head down!
+Dialogue: 0,1:42:17.72,1:42:19.92,ZH,,0,0,0,,{\rZH\blur0.8}快，快！趴下！\N{\rEN\blur0.8}Come on, come on! Down!
+Dialogue: 0,1:42:24.72,1:42:26.77,ZH,,0,0,0,,{\rZH\blur0.8}-全部命中。  -石弹全部命中目标。\N{\rEN\blur0.8}-Solid hits.   -Solid rocks on target.
+Dialogue: 0,1:42:26.77,1:42:27.98,ZH,,0,0,0,,{\rZH\blur0.8}去他的。\N{\rEN\blur0.8}Screw this.
+Dialogue: 0,1:42:29.23,1:42:31.27,ZH,,0,0,0,,{\rZH\blur0.8}喂！你到底在干什么？\N{\rEN\blur0.8}Hey! What the hell are you doing?
+Dialogue: 0,1:42:31.27,1:42:33.06,ZH,,0,0,0,,{\rZH\blur0.8}我可没报名干这种事！\N{\rEN\blur0.8}I didn't sign up for this shit!
+Dialogue: 0,1:42:42.74,1:42:44.62,ZH,,0,0,0,,{\rZH\blur0.8}重复，连续射击。\N{\rEN\blur0.8}Repeat. Ripple fire.
+Dialogue: 0,1:43:28.20,1:43:29.74,ZH,,0,0,0,,{\rZH\blur0.8}快！快！快！\N{\rEN\blur0.8}Go! Go! Go!
+Dialogue: 0,1:44:02.82,1:44:05.32,ZH,,0,0,0,,{\rZH\blur0.8}不，不，退后！退后！\N{\rEN\blur0.8}No, no, get back! Back!
+Dialogue: 0,1:44:24.34,1:44:26.89,ZH,,0,0,0,,{\rZH\blur0.8}快！快，动起来！快走！\N{\rEN\blur0.8}Come on! Come on, move! Move!
+Dialogue: 0,1:45:11.89,1:45:15.56,ZH,,0,0,0,,{\rZH\blur0.8}干得好，各位。今晚第一轮酒我请。\N{\rEN\blur0.8}That's good work, people. First round's on me tonight.
+Dialogue: 0,1:45:16.23,1:45:17.48,ZH,,0,0,0,,{\rZH\blur0.8}撤吧。\N{\rEN\blur0.8}Let's boogie.
+Dialogue: 0,1:45:17.90,1:45:20.27,ZH,,0,0,0,,{\rZH\blur0.8}龙式机左转，返航。\N{\rEN\blur0.8}Dragon coming left, heading home.
+Dialogue: 0,1:45:20.73,1:45:22.73,ZH,,0,0,0,,{\rZH\blur0.8}枪手左转。\N{\rEN\blur0.8}Gunrunner coming left.
+Dialogue: 0,1:45:22.73,1:45:25.28,ZH,,0,0,0,,{\rZH\blur0.8}-雷霆收到。  -骑兵小队收到。\N{\rEN\blur0.8}-Thunder copies.   -Rider section copies.
+Dialogue: 0,1:45:32.91,1:45:33.91,ZH,,0,0,0,,{\rZH\blur0.8}父亲！\N{\rEN\blur0.8}Father!
+Dialogue: 0,1:45:49.88,1:45:51.10,ZH,,0,0,0,,{\rZH\blur0.8}女儿……\N{\rEN\blur0.8}Daughter...
+Dialogue: 0,1:45:52.30,1:45:55.56,ZH,,0,0,0,,{\rZH\blur0.8}接过……我的……弓。\N{\rEN\blur0.8}take...my...bow.
+Dialogue: 0,1:45:59.52,1:46:04.02,ZH,,0,0,0,,{\rZH\blur0.8}保护族人。\N{\rEN\blur0.8}Protect The People.
+Dialogue: 0,1:46:12.41,1:46:13.62,ZH,,0,0,0,,{\rZH\blur0.8}奈蒂莉！\N{\rEN\blur0.8}Neytiri!
+Dialogue: 0,1:46:23.67,1:46:27.42,ZH,,0,0,0,,{\rZH\blur0.8}-对不起。对不起。  -滚开。\N{\rEN\blur0.8}-I'm sorry. I'm sorry.   -Get away.
+Dialogue: 0,1:46:28.09,1:46:29.34,ZH,,0,0,0,,{\rZH\blur0.8}滚开！\N{\rEN\blur0.8}Get away!
+Dialogue: 0,1:46:30.47,1:46:32.18,ZH,,0,0,0,,{\rZH\blur0.8}滚出这里！\N{\rEN\blur0.8}Get away from here!
+Dialogue: 0,1:46:33.64,1:46:35.26,ZH,,0,0,0,,{\rZH\blur0.8}永远别回来！\N{\rEN\blur0.8}Never come back!
+Dialogue: 0,1:46:52.95,1:46:54.07,ZH,,0,0,0,,{\rZH\blur0.8}切断连接。\N{\rEN\blur0.8}Pull the plug.
+Dialogue: 0,1:46:55.03,1:46:57.74,ZH,,0,0,0,,{\rZH\blur0.8}-不，你们不能这样！  -你们不能这样！\N{\rEN\blur0.8}-No, you can't do that!   -You can't do that!
+Dialogue: 0,1:46:57.74,1:46:59.70,ZH,,0,0,0,,{\rZH\blur0.8}-冷静！冷静！  -不！求你们了！\N{\rEN\blur0.8}-Calm down! Calm down!   -No! Please!
+Dialogue: 0,1:47:15.89,1:47:18.47,ZH,,0,0,0,,{\rZH\blur0.8}我曾是个战士，梦想着能带来和平。\N{\rEN\blur0.8}I was a warrior who dreamed he could bring peace.
+Dialogue: 0,1:47:19.85,1:47:23.77,ZH,,0,0,0,,{\rZH\blur0.8}可是，人总有一天得醒来。\N{\rEN\blur0.8}Sooner or later, though, you always have to wake up.
+Dialogue: 0,1:47:26.56,1:47:28.02,ZH,,0,0,0,,{\rZH\blur0.8}走吧！\N{\rEN\blur0.8}Let's go!
+Dialogue: 0,1:47:35.87,1:47:37.49,ZH,,0,0,0,,{\rZH\blur0.8}放开他！\N{\rEN\blur0.8}Put him down!
+Dialogue: 0,1:47:40.87,1:47:43.58,ZH,,0,0,0,,{\rZH\blur0.8}你这个杀人凶手！\N{\rEN\blur0.8}You murderer!
+Dialogue: 0,1:48:30.25,1:48:32.42,ZH,,0,0,0,,{\rZH\blur0.8}怎么了，兄弟？好久不见。\N{\rEN\blur0.8}What's going on, brother? Long time no see.
+Dialogue: 0,1:48:32.42,1:48:33.46,ZH,,0,0,0,,{\rZH\blur0.8}嘿。\N{\rEN\blur0.8}Hey.
+Dialogue: 0,1:48:34.84,1:48:37.59,ZH,,0,0,0,,{\rZH\blur0.8}说实话，我觉得这些抱树的叛徒不配吃牛排。\N{\rEN\blur0.8}Personally, I don't feel these tree-hugging traitors deserve steak.
+Dialogue: 0,1:48:37.59,1:48:40.97,ZH,,0,0,0,,{\rZH\blur0.8}他们有牛排？扯淡。让我看看。\N{\rEN\blur0.8}They get steak? That's bullshit. Let me see that.
+Dialogue: 0,1:48:42.02,1:48:44.60,ZH,,0,0,0,,{\rZH\blur0.8}对，你知道那是什么。咽下去。\N{\rEN\blur0.8}Yeah. You know what that is. Down.
+Dialogue: 0,1:48:44.60,1:48:47.15,ZH,,0,0,0,,{\rZH\blur0.8}-楚迪！  -全咽下去。\N{\rEN\blur0.8}-Trudy!   -All the way down.
+Dialogue: 0,1:48:50.57,1:48:51.78,ZH,,0,0,0,,{\rZH\blur0.8}马克斯！\N{\rEN\blur0.8}Max!
+Dialogue: 0,1:49:01.83,1:49:04.37,ZH,,0,0,0,,{\rZH\blur0.8}楚迪，发动飞机！快！\N{\rEN\blur0.8}Trudy, fire up the ship! Go!
+Dialogue: 0,1:49:04.96,1:49:06.04,ZH,,0,0,0,,{\rZH\blur0.8}给。\N{\rEN\blur0.8}Here.
+Dialogue: 0,1:49:18.14,1:49:20.60,ZH,,0,0,0,,{\rZH\blur0.8}-安全。快。  -给你。\N{\rEN\blur0.8}-Clear. Come on.   -Here you go.
+Dialogue: 0,1:49:36.15,1:49:40.12,ZH,,0,0,0,,{\rZH\blur0.8}马克斯，你留在这。我需要里面有个信得过的人。\N{\rEN\blur0.8}Max, stay here. I need someone on the inside I can trust.
+Dialogue: 0,1:49:40.12,1:49:41.37,ZH,,0,0,0,,{\rZH\blur0.8}好。快走。\N{\rEN\blur0.8}Okay. Go.
+Dialogue: 0,1:49:55.17,1:49:56.34,ZH,,0,0,0,,{\rZH\blur0.8}安全。\N{\rEN\blur0.8}Clear.
+Dialogue: 0,1:49:58.34,1:49:59.55,ZH,,0,0,0,,{\rZH\blur0.8}快，宝贝。\N{\rEN\blur0.8}Come on, baby.
+Dialogue: 0,1:49:59.64,1:50:02.43,ZH,,0,0,0,,{\rZH\blur0.8}上校？长官？我这儿有情况。\N{\rEN\blur0.8}Colonel? Sir? I got a situation here.
+Dialogue: 0,1:50:06.02,1:50:09.06,ZH,,0,0,0,,{\rZH\blur0.8}是萨姆森1-6。未经许可启动引擎。\N{\rEN\blur0.8}It's Samson 1-6. Unauthorized engine start.
+Dialogue: 0,1:50:12.15,1:50:13.40,ZH,,0,0,0,,{\rZH\blur0.8}三！\N{\rEN\blur0.8}Three!
+Dialogue: 0,1:50:16.24,1:50:17.49,ZH,,0,0,0,,{\rZH\blur0.8}快！\N{\rEN\blur0.8}Come on!
+Dialogue: 0,1:50:19.45,1:50:20.78,ZH,,0,0,0,,{\rZH\blur0.8}戴上面罩！\N{\rEN\blur0.8}Mask on!
+Dialogue: 0,1:50:23.37,1:50:25.20,ZH,,0,0,0,,{\rZH\blur0.8}毒气，毒气，毒气！\N{\rEN\blur0.8}Gas, gas, gas!
+Dialogue: 0,1:50:26.83,1:50:28.87,ZH,,0,0,0,,{\rZH\blur0.8}有人朝我开枪！快走！\N{\rEN\blur0.8}I'm taking fire! Let's go!
+Dialogue: 0,1:50:31.33,1:50:34.46,ZH,,0,0,0,,{\rZH\blur0.8}抓住我的手！快，进来了。走！\N{\rEN\blur0.8}Grab my hand! Come on, we're in. Let's go!
+Dialogue: 0,1:50:35.42,1:50:37.26,ZH,,0,0,0,,{\rZH\blur0.8}快，走！走，走！\N{\rEN\blur0.8}Come on, let's go! Let's go, go!
+Dialogue: 0,1:50:49.89,1:50:51.23,ZH,,0,0,0,,{\rZH\blur0.8}上校！\N{\rEN\blur0.8}Colonel!
+Dialogue: 0,1:50:57.98,1:51:01.53,ZH,,0,0,0,,{\rZH\blur0.8}-太好了！太好了！  -好！太棒了！\N{\rEN\blur0.8}-Yeah! Yeah!   -All right! Yes!
+Dialogue: 0,1:51:04.74,1:51:07.45,ZH,,0,0,0,,{\rZH\blur0.8}-该死。  -后面的人都还好吗？\N{\rEN\blur0.8}-Crap.   -Everybody all right back there?
+Dialogue: 0,1:51:07.45,1:51:09.04,ZH,,0,0,0,,{\rZH\blur0.8}哦，太棒了，宝贝！\N{\rEN\blur0.8}Oh, yeah, baby!
+Dialogue: 0,1:51:09.04,1:51:10.91,ZH,,0,0,0,,{\rZH\blur0.8}-诺姆，你没事吧？  -没事！\N{\rEN\blur0.8}-Norm, you good?   -Yeah!
+Dialogue: 0,1:51:11.79,1:51:14.13,ZH,,0,0,0,,{\rZH\blur0.8}这会毁了我一整天。\N{\rEN\blur0.8}This is gonna ruin my whole day.
+Dialogue: 0,1:51:14.42,1:51:16.21,ZH,,0,0,0,,{\rZH\blur0.8}-格蕾丝中弹了！  -什么？\N{\rEN\blur0.8}-Grace is hit!   -What?
+Dialogue: 0,1:51:17.34,1:51:19.01,ZH,,0,0,0,,{\rZH\blur0.8}-拿急救包。  -急救包！\N{\rEN\blur0.8}-Get the trauma kit.   -Trauma kit!
+Dialogue: 0,1:51:19.01,1:51:22.59,ZH,,0,0,0,,{\rZH\blur0.8}-按住，格蕾丝。  -急救包在前面，舱壁上。\N{\rEN\blur0.8}-Keep the pressure on, Grace.   -Trauma kit's forward, on the bulkhead.
+Dialogue: 0,1:51:22.59,1:51:27.10,ZH,,0,0,0,,{\rZH\blur0.8}-撑住，格蕾丝。  -没关系。没事的。\N{\rEN\blur0.8}-Hang on, Grace.   -Doesn't matter. It's fine.
+Dialogue: 0,1:51:30.43,1:51:32.90,ZH,,0,0,0,,{\rZH\blur0.8}-可以了。  -起飞！\N{\rEN\blur0.8}-You're good to go.   -Take it up!
+Dialogue: 0,1:51:34.06,1:51:35.90,ZH,,0,0,0,,{\rZH\blur0.8}抓紧。我来拉杆。\N{\rEN\blur0.8}Hold on. I'm pulling pitch.
+Dialogue: 0,1:51:40.28,1:51:41.78,ZH,,0,0,0,,{\rZH\blur0.8}可以走了！\N{\rEN\blur0.8}You're clear!
+Dialogue: 0,1:51:49.66,1:51:52.50,ZH,,0,0,0,,{\rZH\blur0.8}一直往北飞。带我们进深山。\N{\rEN\blur0.8}Just keep going north. Get us deep in the mountains.
+Dialogue: 0,1:51:52.50,1:51:53.96,ZH,,0,0,0,,{\rZH\blur0.8}收到。\N{\rEN\blur0.8}Copy that.
+Dialogue: 0,1:52:00.92,1:52:04.22,ZH,,0,0,0,,{\rZH\blur0.8}-诺姆，你那边还好吗？  -嗯！还活着。\N{\rEN\blur0.8}-Norm, you all good up there?   -Yep! Still here.
+Dialogue: 0,1:52:06.09,1:52:10.81,ZH,,0,0,0,,{\rZH\blur0.8}至少在这儿他们追踪不到我们。深入旋涡这么远。\N{\rEN\blur0.8}Well, at least they can't track us up here. Not this far into the Vortex.
+Dialogue: 0,1:52:10.81,1:52:12.98,ZH,,0,0,0,,{\rZH\blur0.8}灵魂之树那里最强，对吧？\N{\rEN\blur0.8}It's strongest at the Tree of Souls, right?
+Dialogue: 0,1:52:12.98,1:52:14.52,ZH,,0,0,0,,{\rZH\blur0.8}对。\N{\rEN\blur0.8}Yeah.
+Dialogue: 0,1:52:14.52,1:52:16.48,ZH,,0,0,0,,{\rZH\blur0.8}好。因为我们就去那儿。\N{\rEN\blur0.8}Good. 'Cause that's where we're going.
+Dialogue: 0,1:52:25.32,1:52:26.49,ZH,,0,0,0,,{\rZH\blur0.8}哎哟。\N{\rEN\blur0.8}Ouch.
+Dialogue: 0,1:52:29.91,1:52:31.33,ZH,,0,0,0,,{\rZH\blur0.8}你这个娇气包。\N{\rEN\blur0.8}You big baby.
+Dialogue: 0,1:52:32.66,1:52:34.16,ZH,,0,0,0,,{\rZH\blur0.8}我们出发了。\N{\rEN\blur0.8}We're moving.
+Dialogue: 0,1:52:34.66,1:52:36.75,ZH,,0,0,0,,{\rZH\blur0.8}我会找人来救你，格蕾丝。\N{\rEN\blur0.8}I'm gonna get you some help, Grace.
+Dialogue: 0,1:52:37.67,1:52:39.84,ZH,,0,0,0,,{\rZH\blur0.8}我是科学家，记得吗？\N{\rEN\blur0.8}I'm a scientist, remember?
+Dialogue: 0,1:52:40.80,1:52:43.22,ZH,,0,0,0,,{\rZH\blur0.8}我不信童话。\N{\rEN\blur0.8}I don't believe in fairy tales.
+Dialogue: 0,1:52:44.05,1:52:46.01,ZH,,0,0,0,,{\rZH\blur0.8}族人能救你。\N{\rEN\blur0.8}The People can help you.
+Dialogue: 0,1:52:46.47,1:52:47.76,ZH,,0,0,0,,{\rZH\blur0.8}我知道。\N{\rEN\blur0.8}I know it.
+Dialogue: 0,1:52:49.72,1:52:51.64,ZH,,0,0,0,,{\rZH\blur0.8}他们为什么要帮我们？\N{\rEN\blur0.8}Why would they help us?
+Dialogue: 0,1:53:07.66,1:53:10.74,ZH,,0,0,0,,{\rZH\blur0.8}族人说艾娃会赐予。\N{\rEN\blur0.8}The People say Eywa will provide.
+Dialogue: 0,1:53:12.70,1:53:15.37,ZH,,0,0,0,,{\rZH\blur0.8}没有家，没有希望，\N{\rEN\blur0.8}With no home, no hope,
+Dialogue: 0,1:53:16.46,1:53:18.62,ZH,,0,0,0,,{\rZH\blur0.8}他们只有一个地方可去。\N{\rEN\blur0.8}there was only one place they could go.
+Dialogue: 0,1:53:33.06,1:53:34.22,ZH,,0,0,0,,{\rZH\blur0.8}连接已启动。\N{\rEN\blur0.8}Link's running.
+Dialogue: 0,1:53:34.93,1:53:37.94,ZH,,0,0,0,,{\rZH\blur0.8}-杰克，你有什么计划？  -没有计划。\N{\rEN\blur0.8}-What's the plan here, Jake?   -There's no plan.
+Dialogue: 0,1:53:39.02,1:53:43.69,ZH,,0,0,0,,{\rZH\blur0.8}苏泰现在是族长了。他不会让你靠近那地方。\N{\rEN\blur0.8}Tsu'tey is Olo'eyktan now. He's not gonna let you near that place.
+Dialogue: 0,1:53:44.65,1:53:46.07,ZH,,0,0,0,,{\rZH\blur0.8}我必须试试。\N{\rEN\blur0.8}I gotta try.
+Dialogue: 0,1:53:48.78,1:53:50.12,ZH,,0,0,0,,{\rZH\blur0.8}开始连接。\N{\rEN\blur0.8}Launching.
+Dialogue: 0,1:54:11.60,1:54:12.85,ZH,,0,0,0,,{\rZH\blur0.8}弃民。\N{\rEN\blur0.8}Outcast.
+Dialogue: 0,1:54:13.60,1:54:14.89,ZH,,0,0,0,,{\rZH\blur0.8}叛徒。\N{\rEN\blur0.8}Betrayer.
+Dialogue: 0,1:54:15.93,1:54:17.10,ZH,,0,0,0,,{\rZH\blur0.8}异类。\N{\rEN\blur0.8}Alien.
+Dialogue: 0,1:54:18.64,1:54:21.40,ZH,,0,0,0,,{\rZH\blur0.8}我去了眼睛看不见的地方。\N{\rEN\blur0.8}I was in the place the eye does not see.
+Dialogue: 0,1:54:32.57,1:54:36.45,ZH,,0,0,0,,{\rZH\blur0.8}我需要他们的帮助，他们也需要我的。\N{\rEN\blur0.8}I needed their help, and they needed mine.
+Dialogue: 0,1:54:37.33,1:54:39.41,ZH,,0,0,0,,{\rZH\blur0.8}但要再面对他们，\N{\rEN\blur0.8}But to ever face them again,
+Dialogue: 0,1:54:39.41,1:54:41.92,ZH,,0,0,0,,{\rZH\blur0.8}我得把这事提升到全新的层次。\N{\rEN\blur0.8}I was gonna have to take it to a whole new level.
+Dialogue: 0,1:54:50.47,1:54:53.80,ZH,,0,0,0,,{\rZH\blur0.8}有时候你的一生就归结为一个疯狂的举动。\N{\rEN\blur0.8}Sometimes your whole life boils down to one insane move.
+Dialogue: 0,1:54:56.56,1:54:58.98,ZH,,0,0,0,,{\rZH\blur0.8}我们得去做一件事。\N{\rEN\blur0.8}There's something we gotta do.
+Dialogue: 0,1:54:58.98,1:55:00.73,ZH,,0,0,0,,{\rZH\blur0.8}你不会喜欢的。\N{\rEN\blur0.8}You're not gonna like it.
+Dialogue: 0,1:55:10.74,1:55:14.62,ZH,,0,0,0,,{\rZH\blur0.8}按我的想法，魅影是天空中最凶的猛兽。\N{\rEN\blur0.8}The way I had it figured, Toruk is the baddest cat in the sky.
+Dialogue: 0,1:55:14.62,1:55:16.28,ZH,,0,0,0,,{\rZH\blur0.8}没有东西敢攻击它。\N{\rEN\blur0.8}Nothing attacks him.
+Dialogue: 0,1:55:16.78,1:55:18.12,ZH,,0,0,0,,{\rZH\blur0.8}稳住，伙计。\N{\rEN\blur0.8}Easy, boy.
+Dialogue: 0,1:55:18.54,1:55:20.37,ZH,,0,0,0,,{\rZH\blur0.8}那它怎么会往上看呢？\N{\rEN\blur0.8}So why would he ever look up?
+Dialogue: 0,1:55:21.50,1:55:23.17,ZH,,0,0,0,,{\rZH\blur0.8}不过这只是个推测。\N{\rEN\blur0.8}But that was just a theory.
+Dialogue: 0,1:56:33.86,1:56:35.45,ZH,,0,0,0,,{\rZH\blur0.8}魅影骑士？\N{\rEN\blur0.8}Toruk Macto?
+Dialogue: 0,1:57:15.28,1:57:16.78,ZH,,0,0,0,,{\rZH\blur0.8}我看见你。\N{\rEN\blur0.8}I See you.
+Dialogue: 0,1:57:19.87,1:57:21.20,ZH,,0,0,0,,{\rZH\blur0.8}我看见你。\N{\rEN\blur0.8}I See you.
+Dialogue: 0,1:57:29.46,1:57:31.21,ZH,,0,0,0,,{\rZH\blur0.8}我曾经害怕，杰克。\N{\rEN\blur0.8}I was afraid, Jake.
+Dialogue: 0,1:57:32.63,1:57:34.13,ZH,,0,0,0,,{\rZH\blur0.8}为我的族人。\N{\rEN\blur0.8}For my people.
+Dialogue: 0,1:57:37.13,1:57:38.80,ZH,,0,0,0,,{\rZH\blur0.8}现在不怕了。\N{\rEN\blur0.8}I'm not anymore.
+Dialogue: 0,1:57:48.23,1:57:50.52,ZH,,0,0,0,,{\rZH\blur0.8}苏泰，阿特尤之子……\N{\rEN\blur0.8}Tsu'tey, son of Ateyo...
+Dialogue: 0,1:57:51.19,1:57:53.15,ZH,,0,0,0,,{\rZH\blur0.8}我站在你面前……\N{\rEN\blur0.8}I stand before you...
+Dialogue: 0,1:57:54.19,1:57:57.32,ZH,,0,0,0,,{\rZH\blur0.8}……准备为奥马提卡亚族效力。\N{\rEN\blur0.8}...ready to serve the Omaticaya people.
+Dialogue: 0,1:57:59.99,1:58:04.24,ZH,,0,0,0,,{\rZH\blur0.8}你是族长，你是伟大的战士。\N{\rEN\blur0.8}You are Olo'eyktan, and you are a great warrior.
+Dialogue: 0,1:58:05.41,1:58:07.54,ZH,,0,0,0,,{\rZH\blur0.8}没有你，我做不到。\N{\rEN\blur0.8}I can't do this without you.
+Dialogue: 0,1:58:14.63,1:58:16.01,ZH,,0,0,0,,{\rZH\blur0.8}魅影骑士，\N{\rEN\blur0.8}Toruk Macto,
+Dialogue: 0,1:58:23.85,1:58:25.64,ZH,,0,0,0,,{\rZH\blur0.8}我愿与你同飞。\N{\rEN\blur0.8}I will fly with you.
+Dialogue: 0,1:58:28.94,1:58:30.69,ZH,,0,0,0,,{\rZH\blur0.8}我的朋友快死了。\N{\rEN\blur0.8}My friend is dying.
+Dialogue: 0,1:58:33.02,1:58:34.61,ZH,,0,0,0,,{\rZH\blur0.8}格蕾丝快死了。\N{\rEN\blur0.8}Grace is dying.
+Dialogue: 0,1:58:36.57,1:58:38.49,ZH,,0,0,0,,{\rZH\blur0.8}我恳求艾娃的帮助。\N{\rEN\blur0.8}I beg the help of Eywa.
+Dialogue: 0,1:58:50.37,1:58:52.38,ZH,,0,0,0,,{\rZH\blur0.8}看看我们在哪儿，格蕾丝。\N{\rEN\blur0.8}Look where we are, Grace.
+Dialogue: 0,1:58:59.05,1:59:01.43,ZH,,0,0,0,,{\rZH\blur0.8}我得取些样本。\N{\rEN\blur0.8}I need to take some samples.
+Dialogue: 0,1:59:24.91,1:59:29.00,ZH,,0,0,0,,{\rZH\blur0.8}伟大的母亲也许会选择把她的一切\N{\rEN\blur0.8}The Great Mother may choose to save all that she is
+Dialogue: 0,1:59:30.20,1:59:31.66,ZH,,0,0,0,,{\rZH\blur0.8}都留在这具身体里。\N{\rEN\blur0.8}in this body.
+Dialogue: 0,1:59:34.21,1:59:35.92,ZH,,0,0,0,,{\rZH\blur0.8}这可能吗？\N{\rEN\blur0.8}Is that possible?
+Dialogue: 0,1:59:35.92,1:59:40.42,ZH,,0,0,0,,{\rZH\blur0.8}她必须穿过艾娃之眼才能回来。\N{\rEN\blur0.8}She must pass through the eye of Eywa and return.
+Dialogue: 0,1:59:41.72,1:59:43.26,ZH,,0,0,0,,{\rZH\blur0.8}可是，杰克苏利，\N{\rEN\blur0.8}But, Jakesully,
+Dialogue: 0,1:59:44.26,1:59:45.89,ZH,,0,0,0,,{\rZH\blur0.8}她太虚弱了。\N{\rEN\blur0.8}she is very weak.
+Dialogue: 0,1:59:47.35,1:59:50.18,ZH,,0,0,0,,{\rZH\blur0.8}坚持住，格蕾丝。他们会治好你的。\N{\rEN\blur0.8}Hang on, Grace. They're gonna fix you up.
+Dialogue: 0,1:59:53.40,1:59:55.98,ZH,,0,0,0,,{\rZH\blur0.8}请听我们说，圣母。\N{\rEN\blur0.8}Hear us please, All Mother.
+Dialogue: 0,1:59:56.56,1:59:58.86,ZH,,0,0,0,,{\rZH\blur0.8}艾娃，帮帮她。\N{\rEN\blur0.8}Cywa, help her.
+Dialogue: 0,1:59:59.57,2:00:01.78,ZH,,0,0,0,,{\rZH\blur0.8}把这个灵魂接纳于你……\N{\rEN\blur0.8}Take this spirit into you...
+Dialogue: 0,2:00:05.32,2:00:07.49,ZH,,0,0,0,,{\rZH\blur0.8}……再把她呼吸回我们身边。\N{\rEN\blur0.8}...and breathe her back to us.
+Dialogue: 0,2:00:11.37,2:00:13.00,ZH,,0,0,0,,{\rZH\blur0.8}让她行走在我们中间……\N{\rEN\blur0.8}Let her walk among us...
+Dialogue: 0,2:00:15.50,2:00:17.46,ZH,,0,0,0,,{\rZH\blur0.8}……成为族人的一员。\N{\rEN\blur0.8}_..as one of The People.
+Dialogue: 0,2:00:46.36,2:00:47.49,ZH,,0,0,0,,{\rZH\blur0.8}杰克。\N{\rEN\blur0.8}Jake.
+Dialogue: 0,2:00:49.91,2:00:51.08,ZH,,0,0,0,,{\rZH\blur0.8}格蕾丝。\N{\rEN\blur0.8}Grace.
+Dialogue: 0,2:00:53.16,2:00:54.91,ZH,,0,0,0,,{\rZH\blur0.8}我和她在一起，杰克。\N{\rEN\blur0.8}I'm with her, Jake.
+Dialogue: 0,2:00:56.92,2:00:58.29,ZH,,0,0,0,,{\rZH\blur0.8}她真的存在！\N{\rEN\blur0.8}She's reall!
+Dialogue: 0,2:01:01.34,2:01:04.51,ZH,,0,0,0,,{\rZH\blur0.8}格蕾丝？格蕾丝，求你了。格蕾丝！\N{\rEN\blur0.8}Grace? Grace, please. Grace!
+Dialogue: 0,2:01:05.68,2:01:07.30,ZH,,0,0,0,,{\rZH\blur0.8}怎么回事？\N{\rEN\blur0.8}What's happening?
+Dialogue: 0,2:01:08.26,2:01:09.89,ZH,,0,0,0,,{\rZH\blur0.8}怎么回事？\N{\rEN\blur0.8}What's happening?
+Dialogue: 0,2:01:14.22,2:01:15.39,ZH,,0,0,0,,{\rZH\blur0.8}格蕾丝！\N{\rEN\blur0.8}Grace!
+Dialogue: 0,2:01:16.14,2:01:17.31,ZH,,0,0,0,,{\rZH\blur0.8}格蕾丝！\N{\rEN\blur0.8}Grace!
+Dialogue: 0,2:01:19.36,2:01:21.02,ZH,,0,0,0,,{\rZH\blur0.8}怎么回事？\N{\rEN\blur0.8}What's happening?
+Dialogue: 0,2:01:27.28,2:01:28.70,ZH,,0,0,0,,{\rZH\blur0.8}成功了吗？\N{\rEN\blur0.8}Did it work?
+Dialogue: 0,2:01:34.37,2:01:38.42,ZH,,0,0,0,,{\rZH\blur0.8}她的伤太重了，时间不够。\N{\rEN\blur0.8}Her wounds were too great. It was not enough time.
+Dialogue: 0,2:01:40.08,2:01:41.88,ZH,,0,0,0,,{\rZH\blur0.8}她现在和艾娃在一起了。\N{\rEN\blur0.8}She is with Eywa now.
+Dialogue: 0,2:02:15.62,2:02:18.33,ZH,,0,0,0,,{\rZH\blur0.8}若你允许，我现在要说几句。\N{\rEN\blur0.8}With your permission, I will speak now.
+Dialogue: 0,2:02:20.71,2:02:23.13,ZH,,0,0,0,,{\rZH\blur0.8}请你替我翻译，我会很荣幸。\N{\rEN\blur0.8}You would honor me by translating.
+Dialogue: 0,2:02:30.26,2:02:32.43,ZH,,0,0,0,,{\rZH\blur0.8}天空人给我们送来一个讯息\N{\rEN\blur0.8}The Sky People have sent us a message
+Dialogue: 0,2:02:35.85,2:02:38.27,ZH,,0,0,0,,{\rZH\blur0.8}他们想要什么就能拿走什么\N{\rEN\blur0.8}that they can take whatever they want
+Dialogue: 0,2:02:40.06,2:02:41.86,ZH,,0,0,0,,{\rZH\blur0.8}没人能阻止他们。\N{\rEN\blur0.8}and no one can stop them.
+Dialogue: 0,2:02:45.44,2:02:47.24,ZH,,0,0,0,,{\rZH\blur0.8}那我们就给他们回一个讯息。\N{\rEN\blur0.8}Well, we will send them a message.
+Dialogue: 0,2:02:49.82,2:02:52.20,ZH,,0,0,0,,{\rZH\blur0.8}你们骑上坐骑，像风一样飞奔。\N{\rEN\blur0.8}You ride out as fast as the wind can carry you.
+Dialogue: 0,2:02:55.45,2:02:57.87,ZH,,0,0,0,,{\rZH\blur0.8}告诉其他部族前来。\N{\rEN\blur0.8}You tell the other clans to come.
+Dialogue: 0,2:03:00.96,2:03:03.46,ZH,,0,0,0,,{\rZH\blur0.8}告诉他们，魅影骑士召唤他们。\N{\rEN\blur0.8}You tell them Toruk Macto calls to them.
+Dialogue: 0,2:03:05.67,2:03:08.46,ZH,,0,0,0,,{\rZH\blur0.8}现在，跟我一起飞！\N{\rEN\blur0.8}And you fly now with me!
+Dialogue: 0,2:03:09.51,2:03:12.01,ZH,,0,0,0,,{\rZH\blur0.8}我的兄弟姐妹们！\N{\rEN\blur0.8}My brothers! Sisters!
+Dialogue: 0,2:03:13.14,2:03:15.22,ZH,,0,0,0,,{\rZH\blur0.8}我们要让天空人看看\N{\rEN\blur0.8}And we will show the Sky People
+Dialogue: 0,2:03:16.22,2:03:18.10,ZH,,0,0,0,,{\rZH\blur0.8}他们不能想拿什么就拿什么，\N{\rEN\blur0.8}that they cannot take whatever they want,
+Dialogue: 0,2:03:19.60,2:03:21.02,ZH,,0,0,0,,{\rZH\blur0.8}而这里，\N{\rEN\blur0.8}and that this,
+Dialogue: 0,2:03:21.77,2:03:22.81,ZH,,0,0,0,,{\rZH\blur0.8}这里是我们的土地！\N{\rEN\blur0.8}this is our land!
+Dialogue: 0,2:03:29.90,2:03:31.32,ZH,,0,0,0,,{\rZH\blur0.8}呀！\N{\rEN\blur0.8}Yah!
+Dialogue: 0,2:03:46.46,2:03:47.84,ZH,,0,0,0,,{\rZH\blur0.8}呀！\N{\rEN\blur0.8}Yah!
+Dialogue: 0,2:04:17.24,2:04:18.66,ZH,,0,0,0,,{\rZH\blur0.8}呀！\N{\rEN\blur0.8}Yah!
+Dialogue: 0,2:04:36.18,2:04:37.68,ZH,,0,0,0,,{\rZH\blur0.8}我们驰向四方。\N{\rEN\blur0.8}We rode out to the four winds.
+Dialogue: 0,2:04:40.39,2:04:42.85,ZH,,0,0,0,,{\rZH\blur0.8}前往平原的马族。\N{\rEN\blur0.8}To the horse clans of the plain.
+Dialogue: 0,2:04:45.81,2:04:46.90,ZH,,0,0,0,,{\rZH\blur0.8}回应星辰的召唤！\N{\rEN\blur0.8}Back to the stars!
+Dialogue: 0,2:04:46.90,2:04:49.19,ZH,,0,0,0,,{\rZH\blur0.8}前往东海之滨的伊卡兰部族。\N{\rEN\blur0.8}To the ikran people of the Eastern Sea.
+Dialogue: 0,2:04:49.19,2:04:50.57,ZH,,0,0,0,,{\rZH\blur0.8}为了我们子孙的子孙！\N{\rEN\blur0.8}For our children's children!
+Dialogue: 0,2:04:50.57,2:04:53.11,ZH,,0,0,0,,{\rZH\blur0.8}魅影骑士一召唤，他们就来了。\N{\rEN\blur0.8}When Toruk Macto called them, they came.
+Dialogue: 0,2:04:56.95,2:04:58.37,ZH,,0,0,0,,{\rZH\blur0.8}呀！\N{\rEN\blur0.8}Yah!
+Dialogue: 0,2:05:34.53,2:05:37.11,ZH,,0,0,0,,{\rZH\blur0.8}这个基地上的每个人，你们每一个人，\N{\rEN\blur0.8}Everyone on this base, every one of you,
+Dialogue: 0,2:05:37.11,2:05:38.99,ZH,,0,0,0,,{\rZH\blur0.8}都在为生存而战。\N{\rEN\blur0.8}is fighting for survival.
+Dialogue: 0,2:05:38.99,2:05:40.49,ZH,,0,0,0,,{\rZH\blur0.8}这是事实！\N{\rEN\blur0.8}That's a fact!
+Dialogue: 0,2:05:41.37,2:05:45.12,ZH,,0,0,0,,{\rZH\blur0.8}外面有一群土著正在集结，准备进攻。\N{\rEN\blur0.8}There's an aboriginal horde out there massing for an attack.
+Dialogue: 0,2:05:46.20,2:05:50.08,ZH,,0,0,0,,{\rZH\blur0.8}这些轨道图像告诉我\N{\rEN\blur0.8}Now, these orbital images tell me
+Dialogue: 0,2:05:50.46,2:05:53.76,ZH,,0,0,0,,{\rZH\blur0.8}敌军的数量已经从几百人\N{\rEN\blur0.8}that the hostiles' numbers have gone from a few hundred
+Dialogue: 0,2:05:53.76,2:05:56.30,ZH,,0,0,0,,{\rZH\blur0.8}在一天之内涨到了两千多。\N{\rEN\blur0.8}to well over 2,000 in one day.
+Dialogue: 0,2:05:56.88,2:05:58.84,ZH,,0,0,0,,{\rZH\blur0.8}而且还有更多人在涌来。\N{\rEN\blur0.8}And more are pouring in.
+Dialogue: 0,2:06:01.30,2:06:04.81,ZH,,0,0,0,,{\rZH\blur0.8}一周之内，他们可能有两万人。\N{\rEN\blur0.8}In a week's time, there could be 20,000 of them.
+Dialogue: 0,2:06:04.81,2:06:07.23,ZH,,0,0,0,,{\rZH\blur0.8}到那时，他们就会突破我们的防线。\N{\rEN\blur0.8}At that point, they will overrun our perimeter.
+Dialogue: 0,2:06:07.23,2:06:09.48,ZH,,0,0,0,,{\rZH\blur0.8}那绝不可能发生！\N{\rEN\blur0.8}Well, that's not gonna happen!
+Dialogue: 0,2:06:11.02,2:06:14.73,ZH,,0,0,0,,{\rZH\blur0.8}我们唯一的安全就是先发制人。\N{\rEN\blur0.8}Our only security lies in pre-emptive attack.
+Dialogue: 0,2:06:14.73,2:06:17.15,ZH,,0,0,0,,{\rZH\blur0.8}我们要以恐怖对抗恐怖。\N{\rEN\blur0.8}We will fight terror with terror.
+Dialogue: 0,2:06:21.45,2:06:25.66,ZH,,0,0,0,,{\rZH\blur0.8}敌人相信他们这座山中的堡垒\N{\rEN\blur0.8}Now, the hostiles believe that this mountain stronghold of theirs
+Dialogue: 0,2:06:25.66,2:06:28.12,ZH,,0,0,0,,{\rZH\blur0.8}受他们的……\N{\rEN\blur0.8}is protected by their...
+Dialogue: 0,2:06:28.12,2:06:29.50,ZH,,0,0,0,,{\rZH\blur0.8}他们的神保护。\N{\rEN\blur0.8}Their deity.
+Dialogue: 0,2:06:30.83,2:06:32.96,ZH,,0,0,0,,{\rZH\blur0.8}等我们把它摧毁，\N{\rEN\blur0.8}And when we destroy it,
+Dialogue: 0,2:06:32.96,2:06:35.38,ZH,,0,0,0,,{\rZH\blur0.8}我们要在他们的民族记忆里炸出一个深坑\N{\rEN\blur0.8}we will blast a crater in their racial memory so deep
+Dialogue: 0,2:06:35.38,2:06:39.01,ZH,,0,0,0,,{\rZH\blur0.8}让他们再也不敢靠近这里一千公里之内。\N{\rEN\blur0.8}that they won't come within 1,000 klicks of this place ever again.
+Dialogue: 0,2:06:39.01,2:06:41.68,ZH,,0,0,0,,{\rZH\blur0.8}这也一样是事实。\N{\rEN\blur0.8}And that, too, is a fact.
+Dialogue: 0,2:06:42.39,2:06:44.18,ZH,,0,0,0,,{\rZH\blur0.8}对！对。\N{\rEN\blur0.8}Yeah! Yeah.
+Dialogue: 0,2:06:54.65,2:06:58.69,ZH,,0,0,0,,{\rZH\blur0.8}杰克，这里疯了。全面动员。他们正在把穿梭机改装成轰炸机。\N{\rEN\blur0.8}Jake, it's crazy here. It's full mobilization. They're rigging the shuttle as a bomber.
+Dialogue: 0,2:06:58.69,2:07:01.03,ZH,,0,0,0,,{\rZH\blur0.8}他们弄来了几大板矿用炸药。\N{\rEN\blur0.8}They've got these huge pallets of mine explosives.
+Dialogue: 0,2:07:01.03,2:07:04.03,ZH,,0,0,0,,{\rZH\blur0.8}是要搞什么震慑行动。\N{\rEN\blur0.8}It's for some kind of shock-and-awe campaign.
+Dialogue: 0,2:07:04.03,2:07:05.91,ZH,,0,0,0,,{\rZH\blur0.8}该死的雏菊切刀！\N{\rEN\blur0.8}Fricking daisy cutters!
+Dialogue: 0,2:07:07.45,2:07:10.37,ZH,,0,0,0,,{\rZH\blur0.8}夸里奇接管了。他已经动手了，没人拦得住他。\N{\rEN\blur0.8}Quaritch has taken over. He's rolling, and there's no stopping him.
+Dialogue: 0,2:07:10.37,2:07:12.54,ZH,,0,0,0,,{\rZH\blur0.8}-什么时候？  -明天早上六点。\N{\rEN\blur0.8}-When?   -0600 tomorrow.
+Dialogue: 0,2:07:12.54,2:07:14.38,ZH,,0,0,0,,{\rZH\blur0.8}-马克斯！马克斯！  -我得走了。\N{\rEN\blur0.8}-Max! Max!   -/ gotta go.
+Dialogue: 0,2:07:16.25,2:07:17.76,ZH,,0,0,0,,{\rZH\blur0.8}我们完蛋了！\N{\rEN\blur0.8}We're screwed!
+Dialogue: 0,2:07:19.22,2:07:21.51,ZH,,0,0,0,,{\rZH\blur0.8}我还指望能有个战术计划\N{\rEN\blur0.8}And I was hoping for some sort of tactical plan
+Dialogue: 0,2:07:21.51,2:07:23.72,ZH,,0,0,0,,{\rZH\blur0.8}不用去送死的那种。\N{\rEN\blur0.8}that didn't involve martyrdom.
+Dialogue: 0,2:07:25.22,2:07:28.56,ZH,,0,0,0,,{\rZH\blur0.8}我们要用弓箭对付武装直升机。\N{\rEN\blur0.8}We're going up against gunships with bows and arrows.
+Dialogue: 0,2:07:31.56,2:07:33.60,ZH,,0,0,0,,{\rZH\blur0.8}我有十五个部落在外头。\N{\rEN\blur0.8}I have 15 clans out there.
+Dialogue: 0,2:07:34.31,2:07:36.40,ZH,,0,0,0,,{\rZH\blur0.8}两千多名战士。\N{\rEN\blur0.8}That's over 2,000 warriors.
+Dialogue: 0,2:07:37.90,2:07:42.40,ZH,,0,0,0,,{\rZH\blur0.8}我们熟悉这些山。我们会飞，你也会飞。他们不会。\N{\rEN\blur0.8}Now, we know these mountains. We fly them. You fly them. They don't.
+Dialogue: 0,2:07:43.41,2:07:47.49,ZH,,0,0,0,,{\rZH\blur0.8}他们的仪器在这上面不管用。导弹追踪也不管用。\N{\rEN\blur0.8}Their instruments won't work up here. Missile tracking won't work.
+Dialogue: 0,2:07:47.95,2:07:49.58,ZH,,0,0,0,,{\rZH\blur0.8}他们只能直线瞄准射击。\N{\rEN\blur0.8}They'll have to fire a line of sight.
+Dialogue: 0,2:07:49.58,2:07:53.79,ZH,,0,0,0,,{\rZH\blur0.8}如果他们来这里打，我们就有主场优势。\N{\rEN\blur0.8}If they bring the fight to us, then we have the home-field advantage.
+Dialogue: 0,2:07:55.71,2:07:59.26,ZH,,0,0,0,,{\rZH\blur0.8}你知道他会直接把那架轰炸机派去灵魂之树。\N{\rEN\blur0.8}You know he's gonna commit that bomber straight to the Tree of Souls.
+Dialogue: 0,2:07:59.26,2:08:00.51,ZH,,0,0,0,,{\rZH\blur0.8}是啊，我知道。\N{\rEN\blur0.8}Yeah, I Know.
+Dialogue: 0,2:08:00.51,2:08:03.09,ZH,,0,0,0,,{\rZH\blur0.8}如果他们到了灵魂之树，就完了。\N{\rEN\blur0.8}If they get to the Tree of Souls, it's over.
+Dialogue: 0,2:08:03.09,2:08:06.30,ZH,,0,0,0,,{\rZH\blur0.8}那是他们与艾娃、与祖先的直接联系。\N{\rEN\blur0.8}That's their direct line to Eywa, their ancestors.
+Dialogue: 0,2:08:07.10,2:08:09.18,ZH,,0,0,0,,{\rZH\blur0.8}那会毁了他们。\N{\rEN\blur0.8}It'll destroy them.
+Dialogue: 0,2:08:09.18,2:08:11.60,ZH,,0,0,0,,{\rZH\blur0.8}那我想我们最好阻止他。\N{\rEN\blur0.8}Then I guess we'd better stop him.
+Dialogue: 0,2:08:26.70,2:08:29.70,ZH,,0,0,0,,{\rZH\blur0.8}我现在大概只是在跟一棵树说话。\N{\rEN\blur0.8}I'm probably just talking to a tree right now.
+Dialogue: 0,2:08:32.12,2:08:36.88,ZH,,0,0,0,,{\rZH\blur0.8}但如果你在听，我得提醒你一下。\N{\rEN\blur0.8}But if you're there, I need to give you a heads-up.
+Dialogue: 0,2:08:39.42,2:08:43.80,ZH,,0,0,0,,{\rZH\blur0.8}如果格蕾丝和你在一起，就看看她的记忆。\N{\rEN\blur0.8}If Grace is with you, look into her memories.
+Dialogue: 0,2:08:45.09,2:08:47.18,ZH,,0,0,0,,{\rZH\blur0.8}看看我们来自的世界。\N{\rEN\blur0.8}See the world we come from.
+Dialogue: 0,2:08:48.30,2:08:50.18,ZH,,0,0,0,,{\rZH\blur0.8}那里没有绿色。\N{\rEN\blur0.8}There's no green there.
+Dialogue: 0,2:08:51.60,2:08:53.60,ZH,,0,0,0,,{\rZH\blur0.8}他们杀死了自己的母亲。\N{\rEN\blur0.8}They killed their Mother.
+Dialogue: 0,2:08:54.35,2:08:56.85,ZH,,0,0,0,,{\rZH\blur0.8}他们也要在这里做同样的事。\N{\rEN\blur0.8}And they're gonna do the same here.
+Dialogue: 0,2:08:58.48,2:09:01.15,ZH,,0,0,0,,{\rZH\blur0.8}会有更多天空人来。\N{\rEN\blur0.8}More Sky People are gonna come.
+Dialogue: 0,2:09:01.15,2:09:04.24,ZH,,0,0,0,,{\rZH\blur0.8}他们会像永不停歇的雨一样到来。\N{\rEN\blur0.8}They're gonna come like a rain that never ends.
+Dialogue: 0,2:09:05.49,2:09:07.28,ZH,,0,0,0,,{\rZH\blur0.8}除非我们阻止他们。\N{\rEN\blur0.8}Unless we stop them.
+Dialogue: 0,2:09:09.82,2:09:12.95,ZH,,0,0,0,,{\rZH\blur0.8}听着，你选中我是有原因的。\N{\rEN\blur0.8}Look, you chose me for something.
+Dialogue: 0,2:09:14.37,2:09:16.29,ZH,,0,0,0,,{\rZH\blur0.8}我会站出来战斗。\N{\rEN\blur0.8}I will stand and fight.
+Dialogue: 0,2:09:17.33,2:09:18.92,ZH,,0,0,0,,{\rZH\blur0.8}你知道我会的。\N{\rEN\blur0.8}You know I will.
+Dialogue: 0,2:09:21.42,2:09:23.67,ZH,,0,0,0,,{\rZH\blur0.8}但我需要一点帮助。\N{\rEN\blur0.8}But I need a little help here.
+Dialogue: 0,2:09:29.80,2:09:32.85,ZH,,0,0,0,,{\rZH\blur0.8}我们的大地母亲不偏袒任何一方，杰克。\N{\rEN\blur0.8}Our Great Mother does not take sides, Jake.
+Dialogue: 0,2:09:34.64,2:09:38.06,ZH,,0,0,0,,{\rZH\blur0.8}她只守护生命的平衡。\N{\rEN\blur0.8}She protects only the balance of life.
+Dialogue: 0,2:09:49.86,2:09:51.62,ZH,,0,0,0,,{\rZH\blur0.8}值得一试。\N{\rEN\blur0.8}It was worth a try.
+Dialogue: 0,2:10:22.27,2:10:24.36,ZH,,0,0,0,,{\rZH\blur0.8}对！对！这才像话！\N{\rEN\blur0.8}Yeah! Yeah! That's what I'm talking about!
+Dialogue: 0,2:10:24.36,2:10:27.74,ZH,,0,0,0,,{\rZH\blur0.8}对！对！这才像话，伙计！\N{\rEN\blur0.8}Yeah! Yeah! That's what I'm talking about, man!
+Dialogue: 0,2:10:39.79,2:10:43.21,ZH,,0,0,0,,{\rZH\blur0.8}这里是领队。我们正在进入涡流区。\N{\rEN\blur0.8}This is Group Leader. We are entering the Flux Vortex.
+Dialogue: 0,2:10:43.59,2:10:47.13,ZH,,0,0,0,,{\rZH\blur0.8}-切换到手动飞行模式。  -收到。手动飞行模式。\N{\rEN\blur0.8}-Switch to manual flight mode.   -Copy. Manual flight mode.
+Dialogue: 0,2:11:22.08,2:11:24.00,ZH,,0,0,0,,{\rZH\blur0.8}这里是龙爸。\N{\rEN\blur0.8}This is Papa Dragon.
+Dialogue: 0,2:11:24.00,2:11:27.13,ZH,,0,0,0,,{\rZH\blur0.8}这次任务我要干净利落。我要赶回家吃晚饭。\N{\rEN\blur0.8}I want this mission high and tight. I want to be home for dinner.
+Dialogue: 0,2:11:34.64,2:11:38.39,ZH,,0,0,0,,{\rZH\blur0.8}-机甲小队，上。  -好了，姑娘们，让他们尝尝苦头！\N{\rEN\blur0.8}-Suit Team, go.   -All right, ladies, let's bring the pain!
+Dialogue: 0,2:11:48.94,2:11:50.57,ZH,,0,0,0,,{\rZH\blur0.8}快，快，快！\N{\rEN\blur0.8}Move, move, move!
+Dialogue: 0,2:11:56.16,2:11:57.99,ZH,,0,0,0,,{\rZH\blur0.8}布拉沃1-1，向左移动。\N{\rEN\blur0.8}Bravo 1-1, move left.
+Dialogue: 0,2:11:58.49,2:12:01.96,ZH,,0,0,0,,{\rZH\blur0.8}布拉沃1-1向左移动。注意侧翼。\N{\rEN\blur0.8}Bravo 1-1 moving left. Watch flank.
+Dialogue: 0,2:12:04.29,2:12:07.84,ZH,,0,0,0,,{\rZH\blur0.8}-保持队形。继续前进。  -收到。\N{\rEN\blur0.8}-Watch formation. Keep moving.   -Roger that.
+Dialogue: 0,2:12:07.92,2:12:10.38,ZH,,0,0,0,,{\rZH\blur0.8}查理2-1，注意间距。\N{\rEN\blur0.8}Charlie 2-1, watch your spacing.
+Dialogue: 0,2:12:10.38,2:12:11.80,ZH,,0,0,0,,{\rZH\blur0.8}收到。完毕。\N{\rEN\blur0.8}Copy that. Over.
+Dialogue: 0,2:12:11.80,2:12:16.51,ZH,,0,0,0,,{\rZH\blur0.8}抬头盯着。检查上方。留意热成像扫描。\N{\rEN\blur0.8}Eyes up. Check that overhead. And watch those thermal scans.
+Dialogue: 0,2:12:17.10,2:12:20.47,ZH,,0,0,0,,{\rZH\blur0.8}所有单位，龙爸领队，向目标推进。\N{\rEN\blur0.8}All call signs, Papa has lead, pushing to target.
+Dialogue: 0,2:12:20.47,2:12:22.89,ZH,,0,0,0,,{\rZH\blur0.8}护航机，紧跟着我的穿梭机。\N{\rEN\blur0.8}Escorts, stay close on my shuttle.
+Dialogue: 0,2:12:28.02,2:12:30.53,ZH,,0,0,0,,{\rZH\blur0.8}我们在这儿得掉点漆了。\N{\rEN\blur0.8}We are gonna lose some paint in here.
+Dialogue: 0,2:12:31.53,2:12:34.24,ZH,,0,0,0,,{\rZH\blur0.8}炮手们，脑袋放灵活点。\N{\rEN\blur0.8}Gun crews, keep your head on a swivel.
+Dialogue: 0,2:12:34.24,2:12:37.20,ZH,,0,0,0,,{\rZH\blur0.8}别搞错了，各位，他们就在外面。\N{\rEN\blur0.8}Make no mistake, people, they're out there.
+Dialogue: 0,2:12:38.74,2:12:42.08,ZH,,0,0,0,,{\rZH\blur0.8}好了，各位，看到目标了。距离四公里。\N{\rEN\blur0.8}All right, people, target in sight. Range, four klicks.
+Dialogue: 0,2:12:42.08,2:12:44.33,ZH,,0,0,0,,{\rZH\blur0.8}女武神1-6，把载荷准备好。\N{\rEN\blur0.8}Valkyrie 1-6, get your payload ready.
+Dialogue: 0,2:12:44.46,2:12:46.92,ZH,,0,0,0,,{\rZH\blur0.8}-收到。准备投放。  -军士长，把武器架好。\N{\rEN\blur0.8}-Copy. Prepare to offload.   -Staff Sergeant, stage the weapon.
+Dialogue: 0,2:12:47.71,2:12:49.96,ZH,,0,0,0,,{\rZH\blur0.8}把它推到舱门！快！\N{\rEN\blur0.8}Roll it to the ramp! Let's go!
+Dialogue: 0,2:12:52.21,2:12:53.30,ZH,,0,0,0,,{\rZH\blur0.8}停！\N{\rEN\blur0.8}Hold!
+Dialogue: 0,2:13:01.26,2:13:03.39,ZH,,0,0,0,,{\rZH\blur0.8}查理2-1，发现大量移动。\N{\rEN\blur0.8}Charlie 2-1, got big movement.
+Dialogue: 0,2:13:03.39,2:13:04.89,ZH,,0,0,0,,{\rZH\blur0.8}-保持位置。  -等等，等等。\N{\rEN\blur0.8}-Hold position.   -Hold up, hold up.
+Dialogue: 0,2:13:04.89,2:13:09.06,ZH,,0,0,0,,{\rZH\blur0.8}-外面有动静，五百米。  -查理2-1，保持位置。\N{\rEN\blur0.8}-We got movement out there, 500 meters.   -Charlie 2-1, hold position.
+Dialogue: 0,2:13:15.20,2:13:18.20,ZH,,0,0,0,,{\rZH\blur0.8}长官，地面有动静！正在快速接近。\N{\rEN\blur0.8}Sir, ground has movement! Fast approaching.
+Dialogue: 0,2:13:18.20,2:13:20.74,ZH,,0,0,0,,{\rZH\blur0.8}-查理奥斯卡，骑兵分队。  -射击线！\N{\rEN\blur0.8}-Charlie Oscar, Rider section.   -Firing line!
+Dialogue: 0,2:13:21.16,2:13:23.87,ZH,,0,0,0,,{\rZH\blur0.8}目标逼近。距离四百米。\N{\rEN\blur0.8}Targets closing. Range, 400 meters.
+Dialogue: 0,2:13:24.58,2:13:27.29,ZH,,0,0,0,,{\rZH\blur0.8}-你不能把画面清干净吗？  -不行，长官。是涡流。\N{\rEN\blur0.8}-Can't you clean it up?   -No, sir. It's the Flux.
+Dialogue: 0,2:13:55.61,2:13:58.28,ZH,,0,0,0,,{\rZH\blur0.8}兄弟，我来打开缺口。你跟着我冲。\N{\rEN\blur0.8}Brother, I'm gonna punch a hole. You follow me through.
+Dialogue: 0,2:14:39.99,2:14:42.78,ZH,,0,0,0,,{\rZH\blur0.8}所有飞机，自由开火！自由开火！\N{\rEN\blur0.8}All aircraft, weapons free! Weapons free!
+Dialogue: 0,2:14:43.87,2:14:45.12,ZH,,0,0,0,,{\rZH\blur0.8}右转脱离。绕回来。\N{\rEN\blur0.8}Break right. Come around.
+Dialogue: 0,2:14:48.66,2:14:50.16,ZH,,0,0,0,,{\rZH\blur0.8}给我打！\N{\rEN\blur0.8}Light them up!
+Dialogue: 0,2:14:57.80,2:15:00.01,ZH,,0,0,0,,{\rZH\blur0.8}散开队形，攻击所有敌人。\N{\rEN\blur0.8}Break formation, engage all hostiles.
+Dialogue: 0,2:15:07.22,2:15:09.14,ZH,,0,0,0,,{\rZH\blur0.8}对！干掉他们！\N{\rEN\blur0.8}Yeah! Get some!
+Dialogue: 0,2:15:48.14,2:15:49.93,ZH,,0,0,0,,{\rZH\blur0.8}蝎式机，追击并摧毁。\N{\rEN\blur0.8}Scorpions, pursue and destroy.
+Dialogue: 0,2:16:00.78,2:16:02.57,ZH,,0,0,0,,{\rZH\blur0.8}杰克！杰克！听到吗？\N{\rEN\blur0.8}Jake! Jake! You copy?
+Dialogue: 0,2:16:03.24,2:16:06.08,ZH,,0,0,0,,{\rZH\blur0.8}我们在撤退！我们被打惨了！\N{\rEN\blur0.8}We're falling back! We're getting hammered!
+Dialogue: 0,2:16:06.08,2:16:07.08,ZH,,0,0,0,,{\rZH\blur0.8}收到。撤出来。\N{\rEN\blur0.8}Copy. Get out of there.
+Dialogue: 0,2:16:12.16,2:16:13.58,ZH,,0,0,0,,{\rZH\blur0.8}就是他。追上去！\N{\rEN\blur0.8}That's him. Get after him!
+Dialogue: 0,2:16:30.52,2:16:31.98,ZH,,0,0,0,,{\rZH\blur0.8}干掉他！\N{\rEN\blur0.8}Take him out!
+Dialogue: 0,2:16:40.28,2:16:41.78,ZH,,0,0,0,,{\rZH\blur0.8}给我打！\N{\rEN\blur0.8}Light her up!
+Dialogue: 0,2:16:50.79,2:16:52.16,ZH,,0,0,0,,{\rZH\blur0.8}就在那儿！\N{\rEN\blur0.8}Right there!
+Dialogue: 0,2:16:52.29,2:16:54.58,ZH,,0,0,0,,{\rZH\blur0.8}有枪的不止你一个，贱人。\N{\rEN\blur0.8}You're not the only one with a gun, bitch.
+Dialogue: 0,2:16:54.79,2:16:56.54,ZH,,0,0,0,,{\rZH\blur0.8}-把她锁定在视野里。  -排放中。补充泄漏。\N{\rEN\blur0.8}-Keep her in your sights.   -Purging. Feeding the leak.
+Dialogue: 0,2:16:56.54,2:16:57.63,ZH,,0,0,0,,{\rZH\blur0.8}所有弹舱准备。\N{\rEN\blur0.8}Arming all pods.
+Dialogue: 0,2:17:03.30,2:17:04.42,ZH,,0,0,0,,{\rZH\blur0.8}就是这样！\N{\rEN\blur0.8}That's it!
+Dialogue: 0,2:17:35.08,2:17:36.17,ZH,,0,0,0,,{\rZH\blur0.8}塞兹！\N{\rEN\blur0.8}Seze!
+Dialogue: 0,2:18:40.14,2:18:42.36,ZH,,0,0,0,,{\rZH\blur0.8}侠盗一号中弹了。我要冲进去了。\N{\rEN\blur0.8}Rogue One is hit. I'm going in.
+Dialogue: 0,2:18:43.23,2:18:44.61,ZH,,0,0,0,,{\rZH\blur0.8}对不起，杰克。\N{\rEN\blur0.8}Sorry, Jake.
+Dialogue: 0,2:18:53.45,2:18:54.58,ZH,,0,0,0,,{\rZH\blur0.8}开火。\N{\rEN\blur0.8}Fire.
+Dialogue: 0,2:19:12.64,2:19:15.18,ZH,,0,0,0,,{\rZH\blur0.8}楚泰！兄弟，听到吗？\N{\rEN\blur0.8}Tsu'tey! Brother, do you read?
+Dialogue: 0,2:19:17.98,2:19:19.64,ZH,,0,0,0,,{\rZH\blur0.8}侠盗一号，听到吗？\N{\rEN\blur0.8}Rogue One, you copy?
+Dialogue: 0,2:19:21.64,2:19:22.81,ZH,,0,0,0,,{\rZH\blur0.8}楚迪！\N{\rEN\blur0.8}Trudy!
+Dialogue: 0,2:19:33.74,2:19:35.03,ZH,,0,0,0,,{\rZH\blur0.8}距目标两分钟。\N{\rEN\blur0.8}Time to target, two minutes.
+Dialogue: 0,2:19:35.33,2:19:37.83,ZH,,0,0,0,,{\rZH\blur0.8}女武神1-6，已获准，可以投放。\N{\rEN\blur0.8}Valkyrie 1-6, you are cleared and hot.
+Dialogue: 0,2:19:37.83,2:19:40.04,ZH,,0,0,0,,{\rZH\blur0.8}收到，龙号。开始投弹。\N{\rEN\blur0.8}Copy, Dragon. We are starting our bomb run.
+Dialogue: 0,2:19:45.84,2:19:49.72,ZH,,0,0,0,,{\rZH\blur0.8}-一号准备！  -一号已准备！\N{\rEN\blur0.8}-Arm number one!   -Number one armed!
+Dialogue: 0,2:19:51.09,2:19:52.30,ZH,,0,0,0,,{\rZH\blur0.8}我的杰克！\N{\rEN\blur0.8}Ma Jake!
+Dialogue: 0,2:19:54.26,2:19:55.43,ZH,,0,0,0,,{\rZH\blur0.8}我听到了。\N{\rEN\blur0.8}I read you.
+Dialogue: 0,2:20:04.52,2:20:06.56,ZH,,0,0,0,,{\rZH\blur0.8}-奈蒂莉！  -塞兹死了。\N{\rEN\blur0.8}-Neytiri!   -Seze's dead.
+Dialogue: 0,2:20:07.15,2:20:09.65,ZH,,0,0,0,,{\rZH\blur0.8}他们很近了。他们人很多。\N{\rEN\blur0.8}They are very close. They are many.
+Dialogue: 0,2:20:11.03,2:20:12.53,ZH,,0,0,0,,{\rZH\blur0.8}不要攻击。\N{\rEN\blur0.8}Do not attack.
+Dialogue: 0,2:20:13.16,2:20:15.12,ZH,,0,0,0,,{\rZH\blur0.8}能听到吗，奈蒂莉？\N{\rEN\blur0.8}Do you read me, Neytiri?
+Dialogue: 0,2:20:17.66,2:20:18.99,ZH,,0,0,0,,{\rZH\blur0.8}不要攻击！\N{\rEN\blur0.8}Do not attack!
+Dialogue: 0,2:20:19.33,2:20:22.50,ZH,,0,0,0,,{\rZH\blur0.8}马上撤退。快离开那儿！这是命令！\N{\rEN\blur0.8}Fall back now. Get out of there! That's an order!
+Dialogue: 0,2:20:30.55,2:20:31.80,ZH,,0,0,0,,{\rZH\blur0.8}奈蒂莉！\N{\rEN\blur0.8}Neytiri!
+Dialogue: 0,2:20:33.84,2:20:35.84,ZH,,0,0,0,,{\rZH\blur0.8}有动静，有动静。\N{\rEN\blur0.8}I got movement, I got movement.
+Dialogue: 0,2:20:35.84,2:20:38.18,ZH,,0,0,0,,{\rZH\blur0.8}原地待命。有东西过来了。\N{\rEN\blur0.8}Hold position. Something's coming.
+Dialogue: 0,2:20:38.18,2:20:40.06,ZH,,0,0,0,,{\rZH\blur0.8}布拉沃1-1，我这儿有个大信号。把画面切过来。\N{\rEN\blur0.8}Bravo 1-1, I got a big seating. Turn screens over.
+Dialogue: 0,2:20:40.06,2:20:42.31,ZH,,0,0,0,,{\rZH\blur0.8}-两百米外有动静。  -保持队形。\N{\rEN\blur0.8}-We got movement 200 meters.   -Hold your formation.
+Dialogue: 0,2:20:42.31,2:20:44.02,ZH,,0,0,0,,{\rZH\blur0.8}-做好准备。  -注意两翼。\N{\rEN\blur0.8}-Be ready.   -Watch your flanks.
+Dialogue: 0,2:20:49.19,2:20:50.69,ZH,,0,0,0,,{\rZH\blur0.8}一百米，正快速逼近。\N{\rEN\blur0.8}Hundred meters and closing fast.
+Dialogue: 0,2:21:07.21,2:21:09.21,ZH,,0,0,0,,{\rZH\blur0.8}我们得撤了！\N{\rEN\blur0.8}We gotta get out of here!
+Dialogue: 0,2:21:10.71,2:21:12.55,ZH,,0,0,0,,{\rZH\blur0.8}-撤退！撤退！  -快走！快走！快走！\N{\rEN\blur0.8}-Fall back! Fall back!   -Move! Move! Move!
+Dialogue: 0,2:21:12.55,2:21:14.97,ZH,,0,0,0,,{\rZH\blur0.8}撤退！快跑！快跑！\N{\rEN\blur0.8}Fall back! On the run! On the run!
+Dialogue: 0,2:21:22.06,2:21:24.77,ZH,,0,0,0,,{\rZH\blur0.8}杰克，艾娃听到了你。\N{\rEN\blur0.8}Jake, Eywa has heard you.
+Dialogue: 0,2:21:31.65,2:21:33.40,ZH,,0,0,0,,{\rZH\blur0.8}艾娃听到了你！\N{\rEN\blur0.8}Eywa has heard you!
+Dialogue: 0,2:21:44.00,2:21:45.41,ZH,,0,0,0,,{\rZH\blur0.8}上啊！\N{\rEN\blur0.8}Come on!
+Dialogue: 0,2:21:57.68,2:21:59.55,ZH,,0,0,0,,{\rZH\blur0.8}撤退！快走！快走！\N{\rEN\blur0.8}Fall back! Move! Move!
+Dialogue: 0,2:22:24.04,2:22:26.75,ZH,,0,0,0,,{\rZH\blur0.8}长官！所有护航机都被击落或撤退了。\N{\rEN\blur0.8}Sir! All escorts are down or falling back.
+Dialogue: 0,2:22:26.75,2:22:30.96,ZH,,0,0,0,,{\rZH\blur0.8}把这事了结掉。女武神1-6，我是龙号。\N{\rEN\blur0.8}Let's get this done. Valkyrie 1-6, this is Dragon.
+Dialogue: 0,2:22:30.96,2:22:33.88,ZH,,0,0,0,,{\rZH\blur0.8}-向目标逼近。  -收到。向目标逼近。\N{\rEN\blur0.8}-Press to target.   -Copy. Pressing to target.
+Dialogue: 0,2:22:33.88,2:22:35.92,ZH,,0,0,0,,{\rZH\blur0.8}准备投弹，30秒。\N{\rEN\blur0.8}Stand by to drop, 30 seconds.
+Dialogue: 0,2:22:55.73,2:22:58.24,ZH,,0,0,0,,{\rZH\blur0.8}听我口令。二，一，投！\N{\rEN\blur0.8}On my mark. Two, one, mark.
+Dialogue: 0,2:22:58.24,2:23:00.99,ZH,,0,0,0,,{\rZH\blur0.8}投！投！投！快，快，快，快！\N{\rEN\blur0.8}Drop! Drop! Drop! Go, go, go, go!
+Dialogue: 0,2:23:34.69,2:23:35.86,ZH,,0,0,0,,{\rZH\blur0.8}抓稳！\N{\rEN\blur0.8}Brace!
+Dialogue: 0,2:23:52.87,2:23:54.25,ZH,,0,0,0,,{\rZH\blur0.8}是苏利。\N{\rEN\blur0.8}It's Sully.
+Dialogue: 0,2:24:07.97,2:24:10.22,ZH,,0,0,0,,{\rZH\blur0.8}-戴上面罩！  -失压警报！\N{\rEN\blur0.8}-Mask on!   -Breach alarm!
+Dialogue: 0,2:26:47.42,2:26:49.30,ZH,,0,0,0,,{\rZH\blur0.8}来吧。到爸爸这儿来。\N{\rEN\blur0.8}Come on. Come to papa.
+Dialogue: 0,2:27:16.75,2:27:18.58,ZH,,0,0,0,,{\rZH\blur0.8}投降吧，夸里奇！\N{\rEN\blur0.8}Give it up, Quaritch!
+Dialogue: 0,2:27:21.58,2:27:23.08,ZH,,0,0,0,,{\rZH\blur0.8}一切都结束了。\N{\rEN\blur0.8}It's all over.
+Dialogue: 0,2:27:24.38,2:27:26.92,ZH,,0,0,0,,{\rZH\blur0.8}只要我还有一口气，就没结束。\N{\rEN\blur0.8}Nothing's over while I'm breathing.
+Dialogue: 0,2:27:26.92,2:27:29.22,ZH,,0,0,0,,{\rZH\blur0.8}我就盼着你这么说。\N{\rEN\blur0.8}I kind of hoped you'd say that.
+Dialogue: 0,2:28:25.31,2:28:26.56,ZH,,0,0,0,,{\rZH\blur0.8}来吧！\N{\rEN\blur0.8}Come on!
+Dialogue: 0,2:28:42.46,2:28:46.54,ZH,,0,0,0,,{\rZH\blur0.8}嘿，苏利，背叛自己种族的感觉怎么样？\N{\rEN\blur0.8}Hey, Sully, how's it feel to betray your own race?
+Dialogue: 0,2:28:51.17,2:28:53.38,ZH,,0,0,0,,{\rZH\blur0.8}你以为你是他们的一员？\N{\rEN\blur0.8}You think you're one of them?
+Dialogue: 0,2:28:54.63,2:28:56.26,ZH,,0,0,0,,{\rZH\blur0.8}该醒来了。\N{\rEN\blur0.8}Time to wake up.
+Dialogue: 0,2:30:40.45,2:30:41.53,ZH,,0,0,0,,{\rZH\blur0.8}杰克？\N{\rEN\blur0.8}Jake?
+Dialogue: 0,2:30:55.25,2:30:56.34,ZH,,0,0,0,,{\rZH\blur0.8}杰克。\N{\rEN\blur0.8}Jake.
+Dialogue: 0,2:31:14.32,2:31:15.73,ZH,,0,0,0,,{\rZH\blur0.8}杰克。\N{\rEN\blur0.8}Jake.
+Dialogue: 0,2:31:31.79,2:31:33.79,ZH,,0,0,0,,{\rZH\blur0.8}杰克！我的杰克！\N{\rEN\blur0.8}Jake! Ma Jake!
+Dialogue: 0,2:32:15.42,2:32:16.75,ZH,,0,0,0,,{\rZH\blur0.8}我看见你。\N{\rEN\blur0.8}I See you.
+Dialogue: 0,2:32:22.42,2:32:23.76,ZH,,0,0,0,,{\rZH\blur0.8}我看见你。\N{\rEN\blur0.8}I See you.
+Dialogue: 0,2:32:35.36,2:32:38.19,ZH,,0,0,0,,{\rZH\blur0.8}外星人回到了他们垂死的世界。\N{\rEN\blur0.8}The aliens went back to their dying world.
+Dialogue: 0,2:32:40.36,2:32:43.24,ZH,,0,0,0,,{\rZH\blur0.8}只有少数人被选中留下。\N{\rEN\blur0.8}Only a few were chosen to Stay.
+Dialogue: 0,2:32:55.42,2:32:57.96,ZH,,0,0,0,,{\rZH\blur0.8}大悲痛的时代结束了。\N{\rEN\blur0.8}The time of great sorrow was ending.
+Dialogue: 0,2:33:00.05,2:33:02.42,ZH,,0,0,0,,{\rZH\blur0.8}托鲁克·马克托不再被需要了。\N{\rEN\blur0.8}Toruk Macto was no longer needed.
+Dialogue: 0,2:33:14.98,2:33:18.90,ZH,,0,0,0,,{\rZH\blur0.8}好吧，这大概是我最后一次视频日志了。\N{\rEN\blur0.8}Well, I guess this is my last video log.
+Dialogue: 0,2:33:20.73,2:33:24.53,ZH,,0,0,0,,{\rZH\blur0.8}因为不管今晚发生什么，不管怎样，我都……\N{\rEN\blur0.8}'Cause whatever happens tonight, either way, I'm...
+Dialogue: 0,2:33:25.57,2:33:28.41,ZH,,0,0,0,,{\rZH\blur0.8}我都不会再回到这个地方了。\N{\rEN\blur0.8}I'm not gonna be coming back to this place.
+Dialogue: 0,2:33:31.99,2:33:34.12,ZH,,0,0,0,,{\rZH\blur0.8}好吧，我该走了。\N{\rEN\blur0.8}Well, I guess I'd better go.
+Dialogue: 0,2:33:36.71,2:33:39.79,ZH,,0,0,0,,{\rZH\blur0.8}是啊，我自己的派对可不能迟到。\N{\rEN\blur0.8}Yeah, I don't want to be late for my own party.
+Dialogue: 0,2:33:43.13,2:33:45.55,ZH,,0,0,0,,{\rZH\blur0.8}是啊，毕竟今天是我生日。\N{\rEN\blur0.8}Yeah, it's my birthday, after all.
+Dialogue: 0,2:33:48.09,2:33:50.39,ZH,,0,0,0,,{\rZH\blur0.8}我是杰克·苏利，通话结束。\N{\rEN\blur0.8}This is Jake Sully signing off.
+Dialogue: 0,2:41:36.94,2:41:37.94,ZH,,0,0,0,,{\rZH\blur0.8}英语 - 美国\N{\rEN\blur0.8}English - US
+Dialogue: 10,0:06:30.14,0:06:36.99,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 692 0 l 692 166 l 0 166
+Dialogue: 11,0:06:30.14,0:06:36.99,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:06:30.14,0:06:36.99,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}不在堪萨斯{\b0\fs24\1c&H00C8C8C8}  典故
+Dialogue: 12,0:06:30.14,0:06:36.99,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}典出《绿野仙踪》：
+Dialogue: 12,0:06:30.14,0:06:36.99,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}桃乐丝到奥兹国后说；意为已身处陌生异境。
+Dialogue: 10,0:08:03.52,0:08:10.52,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 596 0 l 596 166 l 0 166
+Dialogue: 11,0:08:03.52,0:08:10.52,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:08:03.52,0:08:10.52,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}阿凡达{\b0\fs24\1c&H00C8C8C8}  典故
+Dialogue: 12,0:08:03.52,0:08:10.52,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}源自梵语“化身”，指神以肉身显现；
+Dialogue: 12,0:08:03.52,0:08:10.52,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}片中指人类操控的混合躯体。
+Dialogue: 10,0:13:35.44,0:13:43.34,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 760.8 0 l 760.8 166 l 0 166
+Dialogue: 11,0:13:35.44,0:13:43.34,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:13:35.44,0:13:43.34,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}超导矿石{\b0\fs24\1c&H00C8C8C8}  双关
+Dialogue: 12,0:13:35.44,0:13:43.34,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}虚构元素名，取自 unobtainable（无法获得），
+Dialogue: 12,0:13:35.44,0:13:43.34,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}指片中珍贵矿石。
+Dialogue: 10,0:22:22.38,0:22:29.53,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 541.6 0 l 541.6 166 l 0 166
+Dialogue: 11,0:22:22.38,0:22:29.53,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:22:22.38,0:22:29.53,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}海军陆战队员{\b0\fs24\1c&H00C8C8C8}  俚语
+Dialogue: 12,0:22:22.38,0:22:29.53,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}gyrene 是美军俚语，
+Dialogue: 12,0:22:22.38,0:22:29.53,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}指海军陆战队员；recon 指侦察。
+Dialogue: 10,0:43:10.34,0:43:16.59,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 468 0 l 468 166 l 0 166
+Dialogue: 11,0:43:10.34,0:43:16.59,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:43:10.34,0:43:16.59,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}沙希克{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,0:43:10.34,0:43:16.59,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}纳威语，指部落的精神领袖，
+Dialogue: 12,0:43:10.34,0:43:16.59,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}负责解读神意和主持仪式。
+Dialogue: 10,0:45:05.37,0:45:11.92,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 564 0 l 564 166 l 0 166
+Dialogue: 11,0:45:05.37,0:45:11.92,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:45:05.37,0:45:11.92,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}艾娃{\b0\fs24\1c&H00C8C8C8}  神祇
+Dialogue: 12,0:45:05.37,0:45:11.92,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}纳威人信仰的大地母神，
+Dialogue: 12,0:45:05.37,0:45:11.92,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}被认为存在于万物与生命网络之中。
+Dialogue: 10,0:46:29.74,0:46:36.14,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 628 0 l 628 166 l 0 166
+Dialogue: 11,0:46:29.74,0:46:36.14,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:46:29.74,0:46:36.14,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}锅盖头部落{\b0\fs24\1c&H00C8C8C8}  双关
+Dialogue: 12,0:46:29.74,0:46:36.14,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}杰克把美军俚语“锅盖头”说成部落名，
+Dialogue: 12,0:46:29.74,0:46:36.14,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}纳威人信以为真。
+Dialogue: 10,0:50:42.79,0:50:48.89,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 468 0 l 468 166 l 0 166
+Dialogue: 11,0:50:42.79,0:50:48.89,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:50:42.79,0:50:48.89,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}胡萝卜加大棒{\b0\fs24\1c&H00C8C8C8}  俚语
+Dialogue: 12,0:50:42.79,0:50:48.89,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}英语习语“胡萝卜加大棒”，
+Dialogue: 12,0:50:42.79,0:50:48.89,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}用利诱与威胁使人就范。
+Dialogue: 10,0:55:21.40,0:55:27.50,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 532 0 l 532 166 l 0 166
+Dialogue: 11,0:55:21.40,0:55:27.50,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:55:21.40,0:55:27.50,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}磁通涡流{\b0\fs24\1c&H00C8C8C8}  地点
+Dialogue: 12,0:55:21.40,0:55:27.50,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}潘多拉强磁场区域，
+Dialogue: 12,0:55:21.40,0:55:27.50,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}会干扰仪器，飞机只能目视飞行。
+Dialogue: 10,1:01:46.12,1:01:52.22,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 468 0 l 468 166 l 0 166
+Dialogue: 11,1:01:46.12,1:01:52.22,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,1:01:46.12,1:01:52.22,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}抱树派{\b0\fs24\1c&H00C8C8C8}  俚语
+Dialogue: 12,1:01:46.12,1:01:52.22,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}贬义俚语，指热心环保的人；
+Dialogue: 12,1:01:46.12,1:01:52.22,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}杰克用来调侃纳威信仰。
+Dialogue: 10,1:05:35.47,1:05:42.02,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 596 0 l 596 166 l 0 166
+Dialogue: 11,1:05:35.47,1:05:42.02,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,1:05:35.47,1:05:42.02,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}女妖翼兽{\b0\fs24\1c&H00C8C8C8}  典故
+Dialogue: 12,1:05:35.47,1:05:42.02,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}爱尔兰神话中的女妖，
+Dialogue: 12,1:05:35.47,1:05:42.02,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}哀嚎预示死亡；人类以此称呼伊卡兰。
+Dialogue: 10,1:05:47.90,1:05:53.55,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 724 0 l 724 124 l 0 124
+Dialogue: 11,1:05:47.90,1:05:53.55,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,1:05:47.90,1:05:53.55,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}陆战队口号{\b0\fs24\1c&H00C8C8C8}  俚语
+Dialogue: 12,1:05:47.90,1:05:53.55,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}美国海军陆战队的呐喊口号，表示士气与认同。
+Dialogue: 10,1:17:07.04,1:17:13.89,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 628 0 l 628 166 l 0 166
+Dialogue: 11,1:17:07.04,1:17:13.89,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,1:17:07.04,1:17:13.89,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}托鲁克·马克托{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,1:17:07.04,1:17:13.89,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}纳威语称号，意为“最后的影子骑士”，
+Dialogue: 12,1:17:07.04,1:17:13.89,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}指驯服巨兽的传奇英雄。
+Dialogue: 10,2:07:04.03,2:07:10.58,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 500 0 l 500 166 l 0 166
+Dialogue: 11,2:07:04.03,2:07:10.58,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,2:07:04.03,2:07:10.58,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}雏菊切刀{\b0\fs24\1c&H00C8C8C8}  典故
+Dialogue: 12,2:07:04.03,2:07:10.58,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}美军对大型空爆炸弹的称呼，
+Dialogue: 12,2:07:04.03,2:07:10.58,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}杀伤范围极大，越战时期使用。

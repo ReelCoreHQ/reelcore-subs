@@ -49,6 +49,12 @@ class Tree(unittest.TestCase):
         self.assertIn("Noto Sans CJK SC", errs)
         self.assertIn("source.frames 或 source.duration", errs)
 
+    def test_crop(self):
+        good = self.make({"movie/1/meta.toml": MOVIE_META + "crop = [0, 140, 0, 140]\n", "movie/1/zh-Hans.ass": ASS})
+        self.assertEqual(check.check_tree(good), [])
+        bad = self.make({"movie/1/meta.toml": MOVIE_META + "crop = [0, 140]\n", "movie/1/zh-Hans.ass": ASS})
+        self.assertTrue(any("source.crop" in e for e in check.check_tree(bad)))
+
     def test_bad_paths(self):
         d = self.make({"movie/重庆森林/zh.ass": ASS, "tv/1399/s1/e01.zh-Hans.ass": ASS, "x.txt": ""})
         self.assertEqual(len(check.check_tree(d)), 3)
@@ -102,3 +108,9 @@ class Keys(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class Refs(unittest.TestCase):
+    def test_claim_refs(self):
+        self.assertEqual(check.claim_refs("认领 #3\nCloses #4，claim #5 和 #6"), [3, 4, 5])
+

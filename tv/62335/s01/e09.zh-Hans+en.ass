@@ -1,0 +1,889 @@
+[Script Info]
+Title: UnREAL S01E09
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ZH,Noto Sans CJK SC,58,&H00F4F4F4,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,80,80,70,1
+Style: EN,Noto Sans CJK SC,38,&H0066D9FF,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.25,0,1,1.8,0.8,2,80,80,36,1
+Style: NOTE,Noto Sans CJK SC,28,&H00EDEDED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0.5,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.20,0:00:04.11,ZH,,0,0,0,,{\rZH\blur0.8}欢迎来到《永恒》。\N{\rEN\blur0.8}Welcome to "Everlasting."
+Dialogue: 0,0:00:04.14,0:00:06.81,ZH,,0,0,0,,{\rZH\blur0.8}但其中一次约会必须在我纳帕的酒店工地。\N{\rEN\blur0.8}But one of the dates has to be at my hotel site in Napa.
+Dialogue: 0,0:00:06.84,0:00:08.31,ZH,,0,0,0,,{\rZH\blur0.8}成交，行吗？\N{\rEN\blur0.8}Done, all right?
+Dialogue: 0,0:00:08.34,0:00:10.18,ZH,,0,0,0,,{\rZH\blur0.8}现在回去干活吧，你个英国佬混蛋。\N{\rEN\blur0.8}Now just get back to work, you limey prick.
+Dialogue: 0,0:00:10.21,0:00:12.31,ZH,,0,0,0,,{\rZH\blur0.8}不如我们下一季偷偷塞个衍生剧？\N{\rEN\blur0.8}What if we backdoor a spin-off for next season?
+Dialogue: 0,0:00:12.35,0:00:13.71,ZH,,0,0,0,,{\rZH\blur0.8}就叫《皇家之恋》。\N{\rEN\blur0.8}We'll call it "Royal Love."
+Dialogue: 0,0:00:13.75,0:00:15.65,ZH,,0,0,0,,{\rZH\blur0.8}你让他娶那个墨西哥比基尼模特，\N{\rEN\blur0.8}You get him to marry the Mexican bikini model,
+Dialogue: 0,0:00:15.68,0:00:17.18,ZH,,0,0,0,,{\rZH\blur0.8}那这买卖就成了。\N{\rEN\blur0.8}and you've got yourselves a deal.
+Dialogue: 0,0:00:17.22,0:00:19.22,ZH,,0,0,0,,{\rZH\blur0.8}算我签了。行。\N{\rEN\blur0.8}Consider me signed. All right.
+Dialogue: 0,0:00:19.25,0:00:22.19,ZH,,0,0,0,,{\rZH\blur0.8}我签约只做这一季。就一季，仅此而已。\N{\rEN\blur0.8}I signed on for one season of this. One season, that's it.
+Dialogue: 0,0:00:22.22,0:00:23.62,ZH,,0,0,0,,{\rZH\blur0.8}我不打算再留一季。\N{\rEN\blur0.8}I don't intend to stick around for another.
+Dialogue: 0,0:00:23.66,0:00:25.13,ZH,,0,0,0,,{\rZH\blur0.8}好，假设我能把他劝回来。\N{\rEN\blur0.8}All right, let's say I can turn him around.
+Dialogue: 0,0:00:25.16,0:00:26.46,ZH,,0,0,0,,{\rZH\blur0.8}我能得到什么？做买卖吗？\N{\rEN\blur0.8}What's in it for me? Wheeling and dealing?
+Dialogue: 0,0:00:26.49,0:00:28.40,ZH,,0,0,0,,{\rZH\blur0.8}你想要什么？我自己的节目。\N{\rEN\blur0.8}What do you want? My own show.
+Dialogue: 0,0:00:28.43,0:00:30.60,ZH,,0,0,0,,{\rZH\blur0.8}拿下《皇家之恋》。谈成这个节目，\N{\rEN\blur0.8}Take "Royal Love." Cut a deal for the show,
+Dialogue: 0,0:00:30.63,0:00:32.77,ZH,,0,0,0,,{\rZH\blur0.8}然后你坚持让他们在葡萄园拍摄，\N{\rEN\blur0.8}and you insist that they shoot it at the vineyard
+Dialogue: 0,0:00:32.80,0:00:35.20,ZH,,0,0,0,,{\rZH\blur0.8}拍成《皇家翻新》。\N{\rEN\blur0.8}as "Royal Renovations."
+Dialogue: 0,0:00:35.24,0:00:37.37,ZH,,0,0,0,,{\rZH\blur0.8}选安娜。这主意其实不赖。\N{\rEN\blur0.8}Pick Anna. It's actually not a bad idea.
+Dialogue: 0,0:00:37.40,0:00:39.47,ZH,,0,0,0,,{\rZH\blur0.8}安娜，我知道你和我之间有感觉。\N{\rEN\blur0.8}Anna, I know that you and I have a connection.
+Dialogue: 0,0:00:42.68,0:00:45.25,ZH,,0,0,0,,{\rZH\blur0.8}你愿意嫁给我吗？愿意，愿意。\N{\rEN\blur0.8}Will you marry me? Yes, yes.
+Dialogue: 0,0:00:49.25,0:00:51.48,ZH,,0,0,0,,{\rZH\blur0.8}我和莉齐分手了。你什么？\N{\rEN\blur0.8}I broke up with Lizzie. You what?
+Dialogue: 0,0:01:35.70,0:01:37.53,ZH,,0,0,0,,{\rZH\blur0.8}第二轮之前你就要走？\N{\rEN\blur0.8}Are you leaving before round two?
+Dialogue: 0,0:01:37.56,0:01:39.57,ZH,,0,0,0,,{\rZH\blur0.8}嗯。我……杰里米……我……\N{\rEN\blur0.8}Yeah. I... Jeremy... I...
+Dialogue: 0,0:01:39.60,0:01:41.84,ZH,,0,0,0,,{\rZH\blur0.8}瑞秋……天啊。这真是个天大的错误。\N{\rEN\blur0.8}Rachel... Oh, my God. This was a huge mistake.
+Dialogue: 0,0:01:57.58,0:01:59.55,ZH,,0,0,0,,{\rZH\blur0.8}嘿。嗨。\N{\rEN\blur0.8}Hey. Hi.
+Dialogue: 0,0:01:59.59,0:02:00.89,ZH,,0,0,0,,{\rZH\blur0.8}嘿。\N{\rEN\blur0.8}Hey.
+Dialogue: 0,0:02:00.92,0:02:02.29,ZH,,0,0,0,,{\rZH\blur0.8}嗨。\N{\rEN\blur0.8}Hi.
+Dialogue: 0,0:02:02.32,0:02:03.59,ZH,,0,0,0,,{\rZH\blur0.8}你怎么了？\N{\rEN\blur0.8}What happened to you?
+Dialogue: 0,0:02:03.62,0:02:06.43,ZH,,0,0,0,,{\rZH\blur0.8}我……和奎因在一起。\N{\rEN\blur0.8}I...was with Quinn.
+Dialogue: 0,0:02:06.46,0:02:08.86,ZH,,0,0,0,,{\rZH\blur0.8}抱歉。\N{\rEN\blur0.8}Sorry.
+Dialogue: 0,0:02:08.90,0:02:11.90,ZH,,0,0,0,,{\rZH\blur0.8}我送你回家吧。\N{\rEN\blur0.8}Let me take you home.
+Dialogue: 0,0:02:11.93,0:02:13.93,ZH,,0,0,0,,{\rZH\blur0.8}回哪儿，你家？\N{\rEN\blur0.8}Where, to your house?
+Dialogue: 0,0:02:13.97,0:02:15.47,ZH,,0,0,0,,{\rZH\blur0.8}嗯。\N{\rEN\blur0.8}Yeah.
+Dialogue: 0,0:02:15.50,0:02:20.57,ZH,,0,0,0,,{\rZH\blur0.8}好好洗个澡，睡张真正的床。\N{\rEN\blur0.8}Take a real shower, sleep in an actual bed.
+Dialogue: 0,0:02:20.61,0:02:23.34,ZH,,0,0,0,,{\rZH\blur0.8}我不是要你搬进来什么的。\N{\rEN\blur0.8}I'm not asking you to move in or anything.
+Dialogue: 0,0:02:23.38,0:02:26.48,ZH,,0,0,0,,{\rZH\blur0.8}就一晚，别过得跟无家可归似的。\N{\rEN\blur0.8}Just stop living like a homeless person for a night.
+Dialogue: 0,0:02:33.52,0:02:34.92,ZH,,0,0,0,,{\rZH\blur0.8}嘿。\N{\rEN\blur0.8}Hey.
+Dialogue: 0,0:02:34.96,0:02:36.32,ZH,,0,0,0,,{\rZH\blur0.8}戒指呢？\N{\rEN\blur0.8}Where's the ring?
+Dialogue: 0,0:02:36.36,0:02:38.86,ZH,,0,0,0,,{\rZH\blur0.8}呃，我摘了，行吗？我摘了。\N{\rEN\blur0.8}Uh, I took it off, okay? I took it off.
+Dialogue: 0,0:02:38.89,0:02:40.86,ZH,,0,0,0,,{\rZH\blur0.8}不是，工作戴着太大了，好吗？\N{\rEN\blur0.8}No, it's too big to wear at work, okay?
+Dialogue: 0,0:02:40.89,0:02:43.20,ZH,,0,0,0,,{\rZH\blur0.8}你得戴着戒指，宝贝。嘘。嘘。\N{\rEN\blur0.8}You got to wear the ring, baby. Shh. Shh.
+Dialogue: 0,0:02:43.23,0:02:45.20,ZH,,0,0,0,,{\rZH\blur0.8}让全世界知道你就值这该死的十克拉。\N{\rEN\blur0.8}Tell the world you're worth 10 friggin' carats.
+Dialogue: 0,0:02:45.23,0:02:46.83,ZH,,0,0,0,,{\rZH\blur0.8}这地方弄出来真棒。\N{\rEN\blur0.8}This place turned out really amazing.
+Dialogue: 0,0:02:46.87,0:02:48.20,ZH,,0,0,0,,{\rZH\blur0.8}谢谢。\N{\rEN\blur0.8}Thanks.
+Dialogue: 0,0:02:48.24,0:02:50.64,ZH,,0,0,0,,{\rZH\blur0.8}这都是你自己弄的？\N{\rEN\blur0.8}You do this all yourself?
+Dialogue: 0,0:02:50.67,0:02:51.87,ZH,,0,0,0,,{\rZH\blur0.8}大部分是，嗯。\N{\rEN\blur0.8}Mostly, yeah.
+Dialogue: 0,0:02:51.90,0:02:54.48,ZH,,0,0,0,,{\rZH\blur0.8}大概能让我保持理智吧。\N{\rEN\blur0.8}I guess it keeps me sane.
+Dialogue: 0,0:02:54.51,0:02:56.21,ZH,,0,0,0,,{\rZH\blur0.8}嗯，你也没那么理智。\N{\rEN\blur0.8}Well, you're not that sane.
+Dialogue: 0,0:02:56.24,0:02:59.75,ZH,,0,0,0,,{\rZH\blur0.8}你……你还陪着我。\N{\rEN\blur0.8}You're... you're still with me.
+Dialogue: 0,0:02:59.78,0:03:03.22,ZH,,0,0,0,,{\rZH\blur0.8}没错。\N{\rEN\blur0.8}That's true.
+Dialogue: 0,0:03:05.39,0:03:08.82,ZH,,0,0,0,,{\rZH\blur0.8}我得去冲个澡。\N{\rEN\blur0.8}I have to take a shower.
+Dialogue: 0,0:03:08.86,0:03:12.39,ZH,,0,0,0,,{\rZH\blur0.8}好。都归你用。\N{\rEN\blur0.8}All right. All yours.
+Dialogue: 0,0:03:16.93,0:03:21.50,ZH,,0,0,0,,{\rZH\blur0.8}嘿。\N{\rEN\blur0.8}Hey.
+Dialogue: 0,0:03:23.44,0:03:26.81,ZH,,0,0,0,,{\rZH\blur0.8}有你在真好。\N{\rEN\blur0.8}It was right having you here.
+Dialogue: 0,0:03:26.84,0:03:30.28,ZH,,0,0,0,,{\rZH\blur0.8}我爱你，瑞秋。\N{\rEN\blur0.8}I love you, Rach.
+Dialogue: 0,0:03:34.55,0:03:36.52,ZH,,0,0,0,,{\rZH\blur0.8}我也是。\N{\rEN\blur0.8}Me, too.
+Dialogue: 0,0:03:36.55,0:03:37.85,ZH,,0,0,0,,{\rZH\blur0.8}好，行，来吧，我们得小心点，好吗？\N{\rEN\blur0.8}Okay, all right, come on, we got to be careful, all right?
+Dialogue: 0,0:03:37.88,0:03:39.25,ZH,,0,0,0,,{\rZH\blur0.8}我快到了。\N{\rEN\blur0.8}I got to get off.
+Dialogue: 0,0:03:39.29,0:03:40.92,ZH,,0,0,0,,{\rZH\blur0.8}我快到了。不，不。不。\N{\rEN\blur0.8}I got to get off. No, no. No.
+Dialogue: 0,0:03:40.95,0:03:42.92,ZH,,0,0,0,,{\rZH\blur0.8}我想要个孩子。来吧。\N{\rEN\blur0.8}I want to make a baby. Come on.
+Dialogue: 0,0:03:42.96,0:03:44.42,ZH,,0,0,0,,{\rZH\blur0.8}来吧。\N{\rEN\blur0.8}Come on.
+Dialogue: 0,0:03:44.46,0:03:46.93,ZH,,0,0,0,,{\rZH\blur0.8}你说过你想要个孩子的。来吧。\N{\rEN\blur0.8}You said you wanted to make a baby. Come on.
+Dialogue: 0,0:03:48.43,0:03:49.86,ZH,,0,0,0,,{\rZH\blur0.8}好吧。好吧。\N{\rEN\blur0.8}Okay. Okay.
+Dialogue: 0,0:03:49.90,0:03:52.53,ZH,,0,0,0,,{\rZH\blur0.8}嗯，来吧。\N{\rEN\blur0.8}Yeah, go ahead.
+Dialogue: 0,0:04:00.97,0:04:02.41,ZH,,0,0,0,,{\rZH\blur0.8}好了。嘿，宝贝。\N{\rEN\blur0.8}Okay. Hey, baby.
+Dialogue: 0,0:04:02.44,0:04:04.41,ZH,,0,0,0,,{\rZH\blur0.8}把手机递给我，好吗？\N{\rEN\blur0.8}Hand me my phone, will you?
+Dialogue: 0,0:04:08.98,0:04:11.45,ZH,,0,0,0,,{\rZH\blur0.8}欢迎回到《永恒》。\N{\rEN\blur0.8}Welcome back to "Everlasting."
+Dialogue: 0,0:04:11.48,0:04:15.32,ZH,,0,0,0,,{\rZH\blur0.8}现在我们到了……最后三位幸运女士，\N{\rEN\blur0.8}And here we are... the final troika of lucky ladies,
+Dialogue: 0,0:04:15.36,0:04:17.49,ZH,,0,0,0,,{\rZH\blur0.8}安娜、格蕾丝和费丝。\N{\rEN\blur0.8}Anna, Grace, and Faith.
+Dialogue: 0,0:04:17.52,0:04:18.99,ZH,,0,0,0,,{\rZH\blur0.8}外面现在风好大。\N{\rEN\blur0.8}It's so windy outside right now.
+Dialogue: 0,0:04:19.03,0:04:21.36,ZH,,0,0,0,,{\rZH\blur0.8}本周，我们最后三位选手中的每一位\N{\rEN\blur0.8}This week, each one of our final three contestants
+Dialogue: 0,0:04:21.40,0:04:24.30,ZH,,0,0,0,,{\rZH\blur0.8}都将有机会和亚当享受一次单独约会\N{\rEN\blur0.8}is gonna get a chance to enjoy a solo date with Adam
+Dialogue: 0,0:04:24.33,0:04:25.73,ZH,,0,0,0,,{\rZH\blur0.8}在他的葡萄园里。\N{\rEN\blur0.8}at his vineyard.
+Dialogue: 0,0:04:25.77,0:04:27.83,ZH,,0,0,0,,{\rZH\blur0.8}每一场约会都是向亚当展示\N{\rEN\blur0.8}Each one of these dates is a chance to show Adam
+Dialogue: 0,0:04:27.87,0:04:30.00,ZH,,0,0,0,,{\rZH\blur0.8}谁是最适合他的伴侣\N{\rEN\blur0.8}who is the best partner for him
+Dialogue: 0,0:04:30.04,0:04:32.31,ZH,,0,0,0,,{\rZH\blur0.8}在他开启为期一年的建设与改造之际，\N{\rEN\blur0.8}as he embarks on a year of construction and overhaul,
+Dialogue: 0,0:04:32.34,0:04:33.97,ZH,,0,0,0,,{\rZH\blur0.8}这段旅程将被记录\N{\rEN\blur0.8}a journey that will be chronicled
+Dialogue: 0,0:04:34.01,0:04:37.58,ZH,,0,0,0,,{\rZH\blur0.8}在我们下一季的新节目……《皇家翻新》中。\N{\rEN\blur0.8}in our new show next season... "Royal Renovations."
+Dialogue: 0,0:04:37.61,0:04:40.98,ZH,,0,0,0,,{\rZH\blur0.8}看看这个……有格调，优雅，完全符合品牌调性。\N{\rEN\blur0.8}Look at that... classy, elegant, totally on-brand.
+Dialogue: 0,0:04:41.01,0:04:42.85,ZH,,0,0,0,,{\rZH\blur0.8}这就是我们。\N{\rEN\blur0.8}That's us.
+Dialogue: 0,0:04:42.88,0:04:44.72,ZH,,0,0,0,,{\rZH\blur0.8}超级有格调。但这些约会结束时，\N{\rEN\blur0.8}Super classy. But at the end of these dates,
+Dialogue: 0,0:04:44.75,0:04:46.45,ZH,,0,0,0,,{\rZH\blur0.8}亚当将必须选出一位幸运女士\N{\rEN\blur0.8}Adam will have to choose one lucky lady
+Dialogue: 0,0:04:46.49,0:04:48.72,ZH,,0,0,0,,{\rZH\blur0.8}与他共度浪漫一夜。\N{\rEN\blur0.8}to spend a romantic night alone with.
+Dialogue: 0,0:04:48.76,0:04:50.52,ZH,,0,0,0,,{\rZH\blur0.8}因为本周之后，各位，\N{\rEN\blur0.8}Because after this week, folks,
+Dialogue: 0,0:04:50.56,0:04:52.63,ZH,,0,0,0,,{\rZH\blur0.8}我们将只剩下最后两位女士，\N{\rEN\blur0.8}we're down to our final two women,
+Dialogue: 0,0:04:52.66,0:04:58.00,ZH,,0,0,0,,{\rZH\blur0.8}其中一位可能成为下一任亚当·克伦威尔夫人。\N{\rEN\blur0.8}one of whom could be the next Mrs. Adam Cromwell.
+Dialogue: 0,0:05:01.64,0:05:04.57,ZH,,0,0,0,,{\rZH\blur0.8}嘿，嘿。你感觉怎么样？感觉不错。我感觉真的很好。\N{\rEN\blur0.8}Hey, hey. How you feeling? Feeling good. I'm feeling really good.
+Dialogue: 0,0:05:04.60,0:05:06.81,ZH,,0,0,0,,{\rZH\blur0.8}很好，很好，因为你有很多活儿要干，知道吗？\N{\rEN\blur0.8}That's good, good, 'cause you got a lot of work to do, you know?
+Dialogue: 0,0:05:06.84,0:05:09.61,ZH,,0,0,0,,{\rZH\blur0.8}你得去现场，确保一切都达标。\N{\rEN\blur0.8}You got to get out there, and you got to make sure everything's up to snuff.
+Dialogue: 0,0:05:09.64,0:05:11.01,ZH,,0,0,0,,{\rZH\blur0.8}老兄，我知道怎么推销场地。\N{\rEN\blur0.8}Dude, I know how to sell a location.
+Dialogue: 0,0:05:11.04,0:05:12.71,ZH,,0,0,0,,{\rZH\blur0.8}很好，因为我想让这个葡萄园成为\N{\rEN\blur0.8}That's good because I want this vineyard to be
+Dialogue: 0,0:05:12.75,0:05:14.48,ZH,,0,0,0,,{\rZH\blur0.8}自上帝创造\N{\rEN\blur0.8}the most enticing vacation spot since God invented
+Dialogue: 0,0:05:14.52,0:05:15.85,ZH,,0,0,0,,{\rZH\blur0.8}-斐济以来最诱人的度假胜地，好吗？  -我觉得不错。\N{\rEN\blur0.8}-the Fijis, okay?   -Sounds good to me.
+Dialogue: 0,0:05:15.88,0:05:17.35,ZH,,0,0,0,,{\rZH\blur0.8}这会是很刺激的一年。\N{\rEN\blur0.8}It's gonna be an exciting year.
+Dialogue: 0,0:05:17.38,0:05:18.75,ZH,,0,0,0,,{\rZH\blur0.8}嘿。早上好，先生。早上好。\N{\rEN\blur0.8}Hey. Good morning, sir. Good morning.
+Dialogue: 0,0:05:18.79,0:05:20.09,ZH,,0,0,0,,{\rZH\blur0.8}哦，嘿，瑞秋。哦！\N{\rEN\blur0.8}Oh, hey, Rachel. Oh!
+Dialogue: 0,0:05:20.12,0:05:21.79,ZH,,0,0,0,,{\rZH\blur0.8}嗯。\N{\rEN\blur0.8}Yeah.
+Dialogue: 0,0:05:21.82,0:05:24.02,ZH,,0,0,0,,{\rZH\blur0.8}呃，你一个人负责葡萄园的所有准备工作没问题吧？\N{\rEN\blur0.8}Um, are you okay covering all the vineyard prep on your own?
+Dialogue: 0,0:05:24.06,0:05:25.76,ZH,,0,0,0,,{\rZH\blur0.8}因为我得去洛杉矶。\N{\rEN\blur0.8}'Cause I got to go to L.A.
+Dialogue: 0,0:05:25.79,0:05:27.50,ZH,,0,0,0,,{\rZH\blur0.8}太好了。我跟你一起去。\N{\rEN\blur0.8}Awesome. I'll go with you.
+Dialogue: 0,0:05:27.53,0:05:29.36,ZH,,0,0,0,,{\rZH\blur0.8}我带你去看看房子，然后，你知道，\N{\rEN\blur0.8}I'll show you the house, and, you know,
+Dialogue: 0,0:05:29.40,0:05:31.66,ZH,,0,0,0,,{\rZH\blur0.8}我们可以挑挑灯具、瓷砖之类的玩意儿。\N{\rEN\blur0.8}we can pick up fixtures and tiles and that kind of crap.
+Dialogue: 0,0:05:31.70,0:05:34.50,ZH,,0,0,0,,{\rZH\blur0.8}不，呃，其实，是，呃，是我要去看妇科医生\N{\rEN\blur0.8}No, uh, actually, it's, uh, it's a lady-doctor appointment
+Dialogue: 0,0:05:34.54,0:05:35.97,ZH,,0,0,0,,{\rZH\blur0.8}得去一趟。哦。哇。\N{\rEN\blur0.8}that I need to take. Oh. Wow.
+Dialogue: 0,0:05:36.00,0:05:37.80,ZH,,0,0,0,,{\rZH\blur0.8}听着，嘿，关于孩子的事……\N{\rEN\blur0.8}Listen, hey, about the baby thing...
+Dialogue: 0,0:05:37.84,0:05:39.51,ZH,,0,0,0,,{\rZH\blur0.8}那个你不用担心，\N{\rEN\blur0.8}I wouldn't worry about that,
+Dialogue: 0,0:05:39.54,0:05:41.58,ZH,,0,0,0,,{\rZH\blur0.8}因为我用仇恨性爱把我前妻搞怀孕了。\N{\rEN\blur0.8}because I knocked up my ex-wife with hate sex.
+Dialogue: 0,0:05:41.61,0:05:43.51,ZH,,0,0,0,,{\rZH\blur0.8}想象一下我能为你做什么。\N{\rEN\blur0.8}Imagine what I can do for you.
+Dialogue: 0,0:05:43.54,0:05:46.01,ZH,,0,0,0,,{\rZH\blur0.8}哦，我……我知道你能做什么，相信我。\N{\rEN\blur0.8}Oh, I... I know what you can do, believe me.
+Dialogue: 0,0:05:46.05,0:05:47.78,ZH,,0,0,0,,{\rZH\blur0.8}一路平安。我爱你。\N{\rEN\blur0.8}Safe flight. I love you.
+Dialogue: 0,0:05:47.82,0:05:49.62,ZH,,0,0,0,,{\rZH\blur0.8}我也爱你。\N{\rEN\blur0.8}You, too.
+Dialogue: 0,0:05:49.65,0:05:52.39,ZH,,0,0,0,,{\rZH\blur0.8}哦，嘿，麦迪逊。\N{\rEN\blur0.8}Oh, hey, Madison.
+Dialogue: 0,0:05:52.42,0:05:54.69,ZH,,0,0,0,,{\rZH\blur0.8}切特跟我说你干得很棒，\N{\rEN\blur0.8}Chet tells me that you're doing a great job,
+Dialogue: 0,0:05:54.72,0:05:58.06,ZH,,0,0,0,,{\rZH\blur0.8}你就继续保持现在这样就行。\N{\rEN\blur0.8}so just keep doing whatever it is that you're doing.
+Dialogue: 0,0:06:04.63,0:06:07.07,ZH,,0,0,0,,{\rZH\blur0.8}一年？还要做一整档新节目？\N{\rEN\blur0.8}A year? And a whole nother show?
+Dialogue: 0,0:06:07.10,0:06:09.60,ZH,,0,0,0,,{\rZH\blur0.8}太让人激动了。\N{\rEN\blur0.8}It's so exciting.
+Dialogue: 0,0:06:09.64,0:06:12.07,ZH,,0,0,0,,{\rZH\blur0.8}真不敢相信他们现在才告诉我们，对吧？\N{\rEN\blur0.8}I can't believe that they're just telling us about it right now, right?
+Dialogue: 0,0:06:12.10,0:06:14.17,ZH,,0,0,0,,{\rZH\blur0.8}是啊。真够意外的。\N{\rEN\blur0.8}I know. Shocker.
+Dialogue: 0,0:06:14.21,0:06:16.88,ZH,,0,0,0,,{\rZH\blur0.8}是啊。我最爱拆房子砸墙了。\N{\rEN\blur0.8}Yeah. I just love demolition and busting up walls.
+Dialogue: 0,0:06:16.91,0:06:18.71,ZH,,0,0,0,,{\rZH\blur0.8}我就喜欢那种事。\N{\rEN\blur0.8}I just love that sort of thing.
+Dialogue: 0,0:06:18.75,0:06:19.98,ZH,,0,0,0,,{\rZH\blur0.8}我打赌你确实喜欢。\N{\rEN\blur0.8}I bet you do.
+Dialogue: 0,0:06:20.01,0:06:21.68,ZH,,0,0,0,,{\rZH\blur0.8}她可不是唯一一个。\N{\rEN\blur0.8}Well, she's not the only one.
+Dialogue: 0,0:06:21.72,0:06:23.12,ZH,,0,0,0,,{\rZH\blur0.8}菲丝，你说得太对了。\N{\rEN\blur0.8}Faith, you're absolutely right.
+Dialogue: 0,0:06:23.15,0:06:25.69,ZH,,0,0,0,,{\rZH\blur0.8}亚当需要的是真正的搭档，\N{\rEN\blur0.8}What Adam needs is a real partner in this,
+Dialogue: 0,0:06:25.72,0:06:28.42,ZH,,0,0,0,,{\rZH\blur0.8}一个真正能上手干活的人。\N{\rEN\blur0.8}someone who'll really dig their hands into the project.
+Dialogue: 0,0:06:28.46,0:06:30.09,ZH,,0,0,0,,{\rZH\blur0.8}而不是那种只会去逛街购物、\N{\rEN\blur0.8}Not just some diva who'll go shopping
+Dialogue: 0,0:06:30.12,0:06:31.76,ZH,,0,0,0,,{\rZH\blur0.8}给他挑色卡的娇小姐。\N{\rEN\blur0.8}and pick out swatches for him.
+Dialogue: 0,0:06:31.79,0:06:33.16,ZH,,0,0,0,,{\rZH\blur0.8}同意。\N{\rEN\blur0.8}Agreed.
+Dialogue: 0,0:06:33.19,0:06:36.86,ZH,,0,0,0,,{\rZH\blur0.8}亚当身边需要一个坚强自信的女人。\N{\rEN\blur0.8}Adam needs a strong, confident woman by his side.
+Dialogue: 0,0:06:36.90,0:06:39.10,ZH,,0,0,0,,{\rZH\blur0.8}要是他最后跟个可怜虫在一起就太糟了，\N{\rEN\blur0.8}It'd be awful if he ended up with some sad sack
+Dialogue: 0,0:06:39.13,0:06:41.50,ZH,,0,0,0,,{\rZH\blur0.8}死了爹，还连饭都咽不下去。\N{\rEN\blur0.8}with a dead daddy that can't keep her dinner down.
+Dialogue: 0,0:06:44.60,0:06:46.44,ZH,,0,0,0,,{\rZH\blur0.8}你满意了？\N{\rEN\blur0.8}You happy?
+Dialogue: 0,0:06:46.47,0:06:47.98,ZH,,0,0,0,,{\rZH\blur0.8}闭嘴。\N{\rEN\blur0.8}Shut up.
+Dialogue: 0,0:06:52.61,0:06:54.72,ZH,,0,0,0,,{\rZH\blur0.8}好，把它降下来。\N{\rEN\blur0.8}All right, bring it on down.
+Dialogue: 0,0:06:54.75,0:06:58.12,ZH,,0,0,0,,{\rZH\blur0.8}嘿，我想我们准备，呃，\N{\rEN\blur0.8}Hey, so, I think we're gonna, um,
+Dialogue: 0,0:06:58.15,0:07:00.69,ZH,,0,0,0,,{\rZH\blur0.8}先从骑马那场开始。好。\N{\rEN\blur0.8}start with the whole, uh, horseback-riding thing. Okay.
+Dialogue: 0,0:07:00.72,0:07:03.09,ZH,,0,0,0,,{\rZH\blur0.8}好，我需要一个车载支架和稳定云台。\N{\rEN\blur0.8}All right, so, I'm gonna need a truck mount and a stabilized head.
+Dialogue: 0,0:07:03.12,0:07:04.99,ZH,,0,0,0,,{\rZH\blur0.8}你可以从摇臂上拆一个下来。\N{\rEN\blur0.8}You can pull the one off the crane.
+Dialogue: 0,0:07:05.02,0:07:07.06,ZH,,0,0,0,,{\rZH\blur0.8}说得挺专业，好像我真懂行一样。\N{\rEN\blur0.8}That was official, like I know what I'm doing.
+Dialogue: 0,0:07:07.09,0:07:08.46,ZH,,0,0,0,,{\rZH\blur0.8}抱歉，呃，我能借用瑞秋一下吗？\N{\rEN\blur0.8}Sorry, uh, can I steal Rachel for a second?
+Dialogue: 0,0:07:08.50,0:07:09.86,ZH,,0,0,0,,{\rZH\blur0.8}哦，我们……其实\N{\rEN\blur0.8}Oh, um, we... we're actually
+Dialogue: 0,0:07:09.90,0:07:12.00,ZH,,0,0,0,,{\rZH\blur0.8}现在正忙着呢。\N{\rEN\blur0.8}kind of in the middle of something right now.
+Dialogue: 0,0:07:12.03,0:07:13.60,ZH,,0,0,0,,{\rZH\blur0.8}没事。我来吧。\N{\rEN\blur0.8}It's okay. I got it.
+Dialogue: 0,0:07:13.63,0:07:17.80,ZH,,0,0,0,,{\rZH\blur0.8}你们该干什么干什么，好吗？\N{\rEN\blur0.8}Um, you guys do whatever you need to do, okay?
+Dialogue: 0,0:07:17.84,0:07:19.91,ZH,,0,0,0,,{\rZH\blur0.8}不厚道啊。跟我来。\N{\rEN\blur0.8}Not cool. Come with me.
+Dialogue: 0,0:07:19.94,0:07:22.04,ZH,,0,0,0,,{\rZH\blur0.8}好，把它抬起来。\N{\rEN\blur0.8}All right, let's lift it up.
+Dialogue: 0,0:07:27.18,0:07:29.02,ZH,,0,0,0,,{\rZH\blur0.8}嘿，让我解开几颗扣子，\N{\rEN\blur0.8}Hey, let me undo a couple of buttons
+Dialogue: 0,0:07:29.05,0:07:30.55,ZH,,0,0,0,,{\rZH\blur0.8}这样你上马的时候，我们能露一点……\N{\rEN\blur0.8}so when you're up on the horse, we see a little bit...
+Dialogue: 0,0:07:30.58,0:07:32.92,ZH,,0,0,0,,{\rZH\blur0.8}对，让那对奶子颠起来。\N{\rEN\blur0.8}Oh, right, get those tits bouncing.
+Dialogue: 0,0:07:32.95,0:07:35.62,ZH,,0,0,0,,{\rZH\blur0.8}这就对了。你行的，姑娘。因为我是性感担当，对吧？\N{\rEN\blur0.8}There you go. You've got it, girl. 'Cause I'm the sexy one, right?
+Dialogue: 0,0:07:35.66,0:07:37.02,ZH,,0,0,0,,{\rZH\blur0.8}你当然是。来吧。\N{\rEN\blur0.8}You certainly are. Come on.
+Dialogue: 0,0:07:37.06,0:07:39.09,ZH,,0,0,0,,{\rZH\blur0.8}而你，混蛋，什么都得不到！\N{\rEN\blur0.8}And you, caralho, are getting absolutely nothing!
+Dialogue: 0,0:07:39.13,0:07:40.89,ZH,,0,0,0,,{\rZH\blur0.8}嘿。什么？嘿。真的？\N{\rEN\blur0.8}Hey. What? Hey. Really?
+Dialogue: 0,0:07:40.93,0:07:43.50,ZH,,0,0,0,,{\rZH\blur0.8}我签了新节目的合同。哎哟。\N{\rEN\blur0.8}I signed a contract for that new show. Ow.
+Dialogue: 0,0:07:43.53,0:07:45.63,ZH,,0,0,0,,{\rZH\blur0.8}我答应了要嫁给亚当。\N{\rEN\blur0.8}I promised I'd marry Adam.
+Dialogue: 0,0:07:45.67,0:07:49.24,ZH,,0,0,0,,{\rZH\blur0.8}疯狂的是，我还真的想嫁。\N{\rEN\blur0.8}And the crazy thing is, I actually wanted to.
+Dialogue: 0,0:07:49.27,0:07:52.17,ZH,,0,0,0,,{\rZH\blur0.8}你也许还有机会。你说过我是稳赢的！\N{\rEN\blur0.8}You still might. You said I had it guaranteed!
+Dialogue: 0,0:07:52.20,0:07:54.81,ZH,,0,0,0,,{\rZH\blur0.8}现在我还得跟安娜抢他？\N{\rEN\blur0.8}And now I have to fight with Anna over him?
+Dialogue: 0,0:07:54.84,0:07:57.04,ZH,,0,0,0,,{\rZH\blur0.8}这差不多就是节目的设定，对吧？\N{\rEN\blur0.8}Well, that's kind of the premise of the show, right?
+Dialogue: 0,0:07:57.08,0:08:00.65,ZH,,0,0,0,,{\rZH\blur0.8}你签的合同给了我们行使续约权的权利。\N{\rEN\blur0.8}You signed a contract that gives us the right to exercise your options.
+Dialogue: 0,0:08:00.68,0:08:03.92,ZH,,0,0,0,,{\rZH\blur0.8}去你的合同，也去你的。\N{\rEN\blur0.8}Well, screw your contract, and screw you.
+Dialogue: 0,0:08:03.95,0:08:06.05,ZH,,0,0,0,,{\rZH\blur0.8}嘿，格蕾丝，你……你要去哪儿？\N{\rEN\blur0.8}Hey, Grace, y... um, where you going?
+Dialogue: 0,0:08:06.09,0:08:07.82,ZH,,0,0,0,,{\rZH\blur0.8}亚当，你知道，我勘查过这个地方，所以……\N{\rEN\blur0.8}Adam, you know, I've scouted this place, so...
+Dialogue: 0,0:08:07.86,0:08:09.26,ZH,,0,0,0,,{\rZH\blur0.8}是，我知道。好吧。我就是说说。\N{\rEN\blur0.8}Yeah, I know. Okay. I'm just saying.
+Dialogue: 0,0:08:09.29,0:08:11.19,ZH,,0,0,0,,{\rZH\blur0.8}再、再看一眼吧，因为这……\N{\rEN\blur0.8}Well, just h-have another look, 'cause th-this is...
+Dialogue: 0,0:08:11.22,0:08:13.19,ZH,,0,0,0,,{\rZH\blur0.8}这是我爱上这处房产的原因。\N{\rEN\blur0.8}This is what made me fall in love with the property.
+Dialogue: 0,0:08:13.23,0:08:14.70,ZH,,0,0,0,,{\rZH\blur0.8}好吧，听着，我很抱歉。\N{\rEN\blur0.8}Okay, look, I am so sorry.
+Dialogue: 0,0:08:14.73,0:08:16.86,ZH,,0,0,0,,{\rZH\blur0.8}我只是需要把你从我心里清出去。\N{\rEN\blur0.8}I just needed to get you out of my system.
+Dialogue: 0,0:08:16.90,0:08:18.20,ZH,,0,0,0,,{\rZH\blur0.8}但我现在跟杰瑞米在一起了。\N{\rEN\blur0.8}But I am with Jeremy now.
+Dialogue: 0,0:08:18.23,0:08:20.07,ZH,,0,0,0,,{\rZH\blur0.8}真的？你又要回头找他？\N{\rEN\blur0.8}Really? You going back to that well?
+Dialogue: 0,0:08:20.10,0:08:21.87,ZH,,0,0,0,,{\rZH\blur0.8}是啊。我是说，你知道，他人真的很好。\N{\rEN\blur0.8}Yeah. I mean, you know, he's a really good guy.
+Dialogue: 0,0:08:21.90,0:08:23.54,ZH,,0,0,0,,{\rZH\blur0.8}而且他对我好。\N{\rEN\blur0.8}And he's good for me.
+Dialogue: 0,0:08:23.57,0:08:25.07,ZH,,0,0,0,,{\rZH\blur0.8}那你把我们的事告诉他了？\N{\rEN\blur0.8}So you told him about us?
+Dialogue: 0,0:08:25.10,0:08:26.54,ZH,,0,0,0,,{\rZH\blur0.8}我能跟他说什么？\N{\rEN\blur0.8}What would I have told him?
+Dialogue: 0,0:08:26.57,0:08:28.18,ZH,,0,0,0,,{\rZH\blur0.8}那没什么。哦，真的？\N{\rEN\blur0.8}It was nothing. Oh, really?
+Dialogue: 0,0:08:28.21,0:08:30.58,ZH,,0,0,0,,{\rZH\blur0.8}你可以继续这么骗自己，\N{\rEN\blur0.8}You can keep telling yourself that,
+Dialogue: 0,0:08:30.61,0:08:32.58,ZH,,0,0,0,,{\rZH\blur0.8}但我们都知道那不是真的。\N{\rEN\blur0.8}but we both know it's not true.
+Dialogue: 0,0:08:32.61,0:08:34.95,ZH,,0,0,0,,{\rZH\blur0.8}再说，老往我床上爬的人是你。\N{\rEN\blur0.8}And besides, you're the one who keeps crawling into my bed.
+Dialogue: 0,0:08:34.98,0:08:36.18,ZH,,0,0,0,,{\rZH\blur0.8}而且你第一次爬上来的时候，\N{\rEN\blur0.8}And the first time you did,
+Dialogue: 0,0:08:36.22,0:08:37.95,ZH,,0,0,0,,{\rZH\blur0.8}我们只是聊了你的……\N{\rEN\blur0.8}all we did was talk about your...
+Dialogue: 0,0:08:37.98,0:08:40.62,ZH,,0,0,0,,{\rZH\blur0.8}你的小说，还有非洲的艾滋病宝宝……拯救他们。还有……\N{\rEN\blur0.8}Your novel, and African AIDS babies... saving them. And...
+Dialogue: 0,0:08:40.65,0:08:41.92,ZH,,0,0,0,,{\rZH\blur0.8}我显然在界限方面有点问题。\N{\rEN\blur0.8}I clearly have issues with my boundaries.
+Dialogue: 0,0:08:41.96,0:08:43.12,ZH,,0,0,0,,{\rZH\blur0.8}我喜欢你的界限。\N{\rEN\blur0.8}I like your boundaries.
+Dialogue: 0,0:08:43.16,0:08:44.83,ZH,,0,0,0,,{\rZH\blur0.8}我觉得挺好的。\N{\rEN\blur0.8}I think they're great.
+Dialogue: 0,0:08:44.86,0:08:48.33,ZH,,0,0,0,,{\rZH\blur0.8}可是，瑞秋，你当时跟杰瑞米在一起，\N{\rEN\blur0.8}But, Rachel, you were with Jeremy,
+Dialogue: 0,0:08:48.36,0:08:49.96,ZH,,0,0,0,,{\rZH\blur0.8}显然，那还不够。\N{\rEN\blur0.8}and clearly, it wasn't enough.
+Dialogue: 0,0:08:50.00,0:08:51.83,ZH,,0,0,0,,{\rZH\blur0.8}你需要一个能跟你并肩奔跑的人，\N{\rEN\blur0.8}You need someone who you can run with,
+Dialogue: 0,0:08:51.86,0:08:53.87,ZH,,0,0,0,,{\rZH\blur0.8}一个能把你逼到极限的人。\N{\rEN\blur0.8}someone who's gonna push you to the edge.
+Dialogue: 0,0:08:53.90,0:08:55.97,ZH,,0,0,0,,{\rZH\blur0.8}这不是真的。我们活在童话里。\N{\rEN\blur0.8}This isn't real. We're living in a fairytale.
+Dialogue: 0,0:08:56.00,0:08:57.57,ZH,,0,0,0,,{\rZH\blur0.8}我是说，我们在拍摄现场。\N{\rEN\blur0.8}I mean, we're on location.
+Dialogue: 0,0:08:57.60,0:08:59.81,ZH,,0,0,0,,{\rZH\blur0.8}没错。这一切都是假的。\N{\rEN\blur0.8}Exactly. This is all fake.
+Dialogue: 0,0:08:59.84,0:09:03.84,ZH,,0,0,0,,{\rZH\blur0.8}这……安娜和格蕾丝……那只是虚构的。\N{\rEN\blur0.8}It's... It's... Anna and Grace... it's just fiction.
+Dialogue: 0,0:09:03.88,0:09:10.85,ZH,,0,0,0,,{\rZH\blur0.8}可你和我，你知道我们之间是真的。\N{\rEN\blur0.8}With you and me, you know we have something real.
+Dialogue: 0,0:09:10.88,0:09:13.99,ZH,,0,0,0,,{\rZH\blur0.8}不，我们没有。\N{\rEN\blur0.8}No, we don't.
+Dialogue: 0,0:09:14.02,0:09:15.99,ZH,,0,0,0,,{\rZH\blur0.8}真的？\N{\rEN\blur0.8}Really?
+Dialogue: 0,0:09:23.06,0:09:25.20,ZH,,0,0,0,,{\rZH\blur0.8}我感觉挺真实的。\N{\rEN\blur0.8}That felt pretty real to me.
+Dialogue: 0,0:09:25.23,0:09:28.24,ZH,,0,0,0,,{\rZH\blur0.8}是啊，你看，这就是你的问题，亚当。\N{\rEN\blur0.8}Yeah, see, that's the thing with you, Adam.
+Dialogue: 0,0:09:28.27,0:09:30.74,ZH,,0,0,0,,{\rZH\blur0.8}你跟谁都感觉挺真实的。\N{\rEN\blur0.8}It feels pretty real with everyone.
+Dialogue: 0,0:09:38.95,0:09:40.91,ZH,,0,0,0,,{\rZH\blur0.8}你去哪儿？因为我们，呃，租马的时间\N{\rEN\blur0.8}Where are you going? 'Cause we, uh, got the horses
+Dialogue: 0,0:09:41.98,0:09:43.85,ZH,,0,0,0,,{\rZH\blur0.8}还有大概三个小时，而且我们还有一堆布景要做。\N{\rEN\blur0.8}for like another three hours, and we have a lot of setup.
+Dialogue: 0,0:09:43.88,0:09:45.69,ZH,,0,0,0,,{\rZH\blur0.8}呃……嘿，Grace？嘿。\N{\rEN\blur0.8}Uh... hey, Grace? Hey.
+Dialogue: 0,0:09:45.72,0:09:47.96,ZH,,0,0,0,,{\rZH\blur0.8}Maddie，去叫Rachel，快点。Rachel！\N{\rEN\blur0.8}Maddie, get Rachel, please. Rachel!
+Dialogue: 0,0:09:47.99,0:09:50.22,ZH,,0,0,0,,{\rZH\blur0.8}呃，你能不能冷静点，Grace？\N{\rEN\blur0.8}Uh, would you calm down, Grace?
+Dialogue: 0,0:09:50.26,0:09:51.69,ZH,,0,0,0,,{\rZH\blur0.8}而且，呃……\N{\rEN\blur0.8}A-And, uh...
+Dialogue: 0,0:09:51.72,0:09:52.96,ZH,,0,0,0,,{\rZH\blur0.8}冷静？\N{\rEN\blur0.8}Calm down?
+Dialogue: 0,0:09:52.99,0:09:55.73,ZH,,0,0,0,,{\rZH\blur0.8}我不只是个风骚的萨尔萨舞女\N{\rEN\blur0.8}I am not just some slutty salsa dancer
+Dialogue: 0,0:09:55.76,0:09:58.40,ZH,,0,0,0,,{\rZH\blur0.8}也不是你眼里看到的什么货色。\N{\rEN\blur0.8}or whatever you see when you look at me.
+Dialogue: 0,0:09:58.43,0:10:01.23,ZH,,0,0,0,,{\rZH\blur0.8}我还有其他追求者，你知道吗，\N{\rEN\blur0.8}I have other suitors, you know,
+Dialogue: 0,0:10:01.27,0:10:04.37,ZH,,0,0,0,,{\rZH\blur0.8}他们想要我，渴望的是真正的我，\N{\rEN\blur0.8}who want me and desire me for who I am,
+Dialogue: 0,0:10:04.40,0:10:06.84,ZH,,0,0,0,,{\rZH\blur0.8}不只是为了这些、为了这个。\N{\rEN\blur0.8}not just for these or this.
+Dialogue: 0,0:10:08.74,0:10:10.04,ZH,,0,0,0,,{\rZH\blur0.8}嘿，呃……\N{\rEN\blur0.8}Hey, uh...
+Dialogue: 0,0:10:10.08,0:10:11.78,ZH,,0,0,0,,{\rZH\blur0.8}嘿！\N{\rEN\blur0.8}Hey!
+Dialogue: 0,0:10:11.81,0:10:13.75,ZH,,0,0,0,,{\rZH\blur0.8}你去哪儿了？\N{\rEN\blur0.8}Where have you been?
+Dialogue: 0,0:10:13.78,0:10:16.12,ZH,,0,0,0,,{\rZH\blur0.8}你干了什么？搞定那些女人是……那是你的活！\N{\rEN\blur0.8}What did you do? Dealing with the women is... that's your job!
+Dialogue: 0,0:10:16.15,0:10:18.12,ZH,,0,0,0,,{\rZH\blur0.8}嘿，抱歉。刚被蒂华纳终结者大卸八块。\N{\rEN\blur0.8}Hey, I'm sorry. Hacked apart by the Tijuana Terminator.
+Dialogue: 0,0:10:18.15,0:10:20.29,ZH,,0,0,0,,{\rZH\blur0.8}告诉我发生了什么。快告诉我发生了什么。\N{\rEN\blur0.8}Tell me what happened. Just tell me what happened.
+Dialogue: 0,0:10:20.32,0:10:22.72,ZH,,0,0,0,,{\rZH\blur0.8}发生了什么……她炸了。你跟她说了什么？\N{\rEN\blur0.8}What happened... she freaked out. What did you say to her?
+Dialogue: 0,0:10:22.76,0:10:24.02,ZH,,0,0,0,,{\rZH\blur0.8}我只是……想把气氛搞得性感点……\N{\rEN\blur0.8}I was... was trying to sex things up...
+Dialogue: 0,0:10:24.06,0:10:26.13,ZH,,0,0,0,,{\rZH\blur0.8}天哪，Chet。然后她就发飙了。\N{\rEN\blur0.8}Oh, my God, Chet. And she flipped out.
+Dialogue: 0,0:10:26.16,0:10:27.43,ZH,,0,0,0,,{\rZH\blur0.8}她彻底疯了，\N{\rEN\blur0.8}She went completely loco,
+Dialogue: 0,0:10:27.46,0:10:30.66,ZH,,0,0,0,,{\rZH\blur0.8}你得把这破事收住，行吗？\N{\rEN\blur0.8}and you got to reel that crap in, okay?
+Dialogue: 0,0:10:30.70,0:10:32.43,ZH,,0,0,0,,{\rZH\blur0.8}呃，嘿。对。你好。\N{\rEN\blur0.8}Uh, hey. Yes. Hi.
+Dialogue: 0,0:10:32.46,0:10:34.87,ZH,,0,0,0,,{\rZH\blur0.8}我是，呃，Quinn King。\N{\rEN\blur0.8}This is, uh, Quinn King.
+Dialogue: 0,0:10:34.90,0:10:38.00,ZH,,0,0,0,,{\rZH\blur0.8}对，我……我只是，呃，确认一下我的预约\N{\rEN\blur0.8}Yeah, I... I'm just, uh, confirming my appointment
+Dialogue: 0,0:10:38.04,0:10:39.27,ZH,,0,0,0,,{\rZH\blur0.8}今天下午的。\N{\rEN\blur0.8}for this afternoon.
+Dialogue: 0,0:10:39.31,0:10:41.37,ZH,,0,0,0,,{\rZH\blur0.8}呃，好，我等着。\N{\rEN\blur0.8}Uh, yeah, I'll hold.
+Dialogue: 0,0:10:41.41,0:10:43.01,ZH,,0,0,0,,{\rZH\blur0.8}太好了。\N{\rEN\blur0.8}Great.
+Dialogue: 0,0:10:43.04,0:10:45.28,ZH,,0,0,0,,{\rZH\blur0.8}还有，能不能替我谢谢他抽空见我？\N{\rEN\blur0.8}And can you please thank him for fitting me in?
+Dialogue: 0,0:10:45.31,0:10:47.45,ZH,,0,0,0,,{\rZH\blur0.8}是的，这……这非常重要。\N{\rEN\blur0.8}Yes, well, i-it... it's very important.
+Dialogue: 0,0:10:47.48,0:10:50.12,ZH,,0,0,0,,{\rZH\blur0.8}不然的话，我……我也不会专程下来。\N{\rEN\blur0.8}Otherwise, I... I wouldn't be coming down there.
+Dialogue: 0,0:10:50.15,0:10:54.15,ZH,,0,0,0,,{\rZH\blur0.8}好。是的，谢谢你。\N{\rEN\blur0.8}Okay. Yes, thank you.
+Dialogue: 0,0:10:54.19,0:10:56.76,ZH,,0,0,0,,{\rZH\blur0.8}Grace，抱歉他这么混蛋。\N{\rEN\blur0.8}Grace, I'm sorry he's such an idiot.
+Dialogue: 0,0:10:56.79,0:10:59.89,ZH,,0,0,0,,{\rZH\blur0.8}他说“把衬衫解开”，好像我是一块肉。\N{\rEN\blur0.8}"Unbutton your shirt," he said, like I'm a piece of meat.
+Dialogue: 0,0:10:59.93,0:11:01.46,ZH,,0,0,0,,{\rZH\blur0.8}听着，他是个混蛋，但我真的觉得\N{\rEN\blur0.8}Listen, he's an idiot, but I really think that
+Dialogue: 0,0:11:01.49,0:11:03.43,ZH,,0,0,0,,{\rZH\blur0.8}那只是他那种想帮你的方式。\N{\rEN\blur0.8}that was just, like, his version of trying to help you.
+Dialogue: 0,0:11:03.46,0:11:05.03,ZH,,0,0,0,,{\rZH\blur0.8}Adam知道我很性感。\N{\rEN\blur0.8}Adam knows I'm hot.
+Dialogue: 0,0:11:05.06,0:11:08.07,ZH,,0,0,0,,{\rZH\blur0.8}我有脑子也有心。他得看到这一点。\N{\rEN\blur0.8}I have a brain and a heart. He needs to see that.
+Dialogue: 0,0:11:08.10,0:11:10.34,ZH,,0,0,0,,{\rZH\blur0.8}你知道吗？不一定非得二选一。\N{\rEN\blur0.8}You know something? It doesn't have to be eitherlor.
+Dialogue: 0,0:11:10.37,0:11:13.31,ZH,,0,0,0,,{\rZH\blur0.8}我不会回避你和Adam之间的化学反应\N{\rEN\blur0.8}I wouldn't shy away from the chemistry that you have with Adam
+Dialogue: 0,0:11:13.34,0:11:16.11,ZH,,0,0,0,,{\rZH\blur0.8}因为那是感情里非常重要的一部分。\N{\rEN\blur0.8}because that is a very important part of a relationship.
+Dialogue: 0,0:11:16.14,0:11:18.08,ZH,,0,0,0,,{\rZH\blur0.8}“荡妇就得淘汰”那句话呢？\N{\rEN\blur0.8}What happened to "sluts get cut"?
+Dialogue: 0,0:11:18.11,0:11:20.95,ZH,,0,0,0,,{\rZH\blur0.8}现在那个冰公主冲到前面去了，\N{\rEN\blur0.8}And now that ice princess is pulling into the lead,
+Dialogue: 0,0:11:20.98,0:11:22.42,ZH,,0,0,0,,{\rZH\blur0.8}而我却只是……\N{\rEN\blur0.8}and I'm just...
+Dialogue: 0,0:11:22.45,0:11:24.18,ZH,,0,0,0,,{\rZH\blur0.8}Grace，你们俩从第一天就有感觉。\N{\rEN\blur0.8}Grace, you guys have had a connection since day one.
+Dialogue: 0,0:11:24.22,0:11:26.32,ZH,,0,0,0,,{\rZH\blur0.8}你真觉得他想要那种，\N{\rEN\blur0.8}Do you really think that he wants some, like,
+Dialogue: 0,0:11:26.35,0:11:27.79,ZH,,0,0,0,,{\rZH\blur0.8}娇弱的小花朵吗？\N{\rEN\blur0.8}delicate, little flower?
+Dialogue: 0,0:11:27.82,0:11:29.79,ZH,,0,0,0,,{\rZH\blur0.8}Adam是个感官型的男人。\N{\rEN\blur0.8}Adam's a sensual guy.
+Dialogue: 0,0:11:29.82,0:11:32.49,ZH,,0,0,0,,{\rZH\blur0.8}说真的，你真的有机会\N{\rEN\blur0.8}Seriously, you've got, like, a real shot
+Dialogue: 0,0:11:32.52,0:11:35.23,ZH,,0,0,0,,{\rZH\blur0.8}下周拿到那个求婚。\N{\rEN\blur0.8}at getting that proposal next week.
+Dialogue: 0,0:11:37.40,0:11:38.93,ZH,,0,0,0,,{\rZH\blur0.8}机架一直铺到底。\N{\rEN\blur0.8}The rigs go all the way down.
+Dialogue: 0,0:11:38.97,0:11:40.13,ZH,,0,0,0,,{\rZH\blur0.8}希望别下雨。\N{\rEN\blur0.8}I hope it doesn't rain.
+Dialogue: 0,0:11:40.17,0:11:41.47,ZH,,0,0,0,,{\rZH\blur0.8}外面已经够泥泞了。\N{\rEN\blur0.8}It's so muddy out there already.
+Dialogue: 0,0:11:41.50,0:11:45.24,ZH,,0,0,0,,{\rZH\blur0.8}哦，明白了。\N{\rEN\blur0.8}Oh, got it.
+Dialogue: 0,0:11:45.27,0:11:47.47,ZH,,0,0,0,,{\rZH\blur0.8}嘿。\N{\rEN\blur0.8}Hey.
+Dialogue: 0,0:11:47.51,0:11:49.34,ZH,,0,0,0,,{\rZH\blur0.8}嘿。她有点容易受惊。\N{\rEN\blur0.8}Hey. So, she's a little skittish.
+Dialogue: 0,0:11:49.38,0:11:50.81,ZH,,0,0,0,,{\rZH\blur0.8}我只要你，呃，\N{\rEN\blur0.8}I just need you to, uh,
+Dialogue: 0,0:11:50.84,0:11:52.38,ZH,,0,0,0,,{\rZH\blur0.8}提醒她，她才是那个人，好吗？\N{\rEN\blur0.8}remind her that she's the one, okay?
+Dialogue: 0,0:11:52.41,0:11:55.25,ZH,,0,0,0,,{\rZH\blur0.8}是吗？在你求婚之前，她们都是那个人。\N{\rEN\blur0.8}Is she? Well, until you propose, they're all the one.
+Dialogue: 0,0:11:55.28,0:11:58.22,ZH,,0,0,0,,{\rZH\blur0.8}那真是你想要的吗？我要是追她，就一定拿下她。\N{\rEN\blur0.8}Is that really what you want? If I go for her, I'm gonna get her.
+Dialogue: 0,0:11:58.25,0:11:59.82,ZH,,0,0,0,,{\rZH\blur0.8}那正是我想要的。\N{\rEN\blur0.8}That's exactly what I want.
+Dialogue: 0,0:11:59.85,0:12:01.15,ZH,,0,0,0,,{\rZH\blur0.8}好吧。\N{\rEN\blur0.8}All right.
+Dialogue: 0,0:12:03.52,0:12:04.86,ZH,,0,0,0,,{\rZH\blur0.8}嗨。嘿。\N{\rEN\blur0.8}Hi. Hey.
+Dialogue: 0,0:12:04.89,0:12:06.83,ZH,,0,0,0,,{\rZH\blur0.8}那么，呃，你准备好了吗？\N{\rEN\blur0.8}So, uh, you ready?
+Dialogue: 0,0:12:06.86,0:12:08.00,ZH,,0,0,0,,{\rZH\blur0.8}好了。\N{\rEN\blur0.8}Yeah.
+Dialogue: 0,0:12:13.13,0:12:14.87,ZH,,0,0,0,,{\rZH\blur0.8}呼！谢谢。\N{\rEN\blur0.8}Whew! Thank you.
+Dialogue: 0,0:12:23.48,0:12:25.98,ZH,,0,0,0,,{\rZH\blur0.8}-—干杯。  -—不客气。\N{\rEN\blur0.8}-Cheers.   -No problem.
+Dialogue: 0,0:12:27.28,0:12:28.82,ZH,,0,0,0,,{\rZH\blur0.8}期待美好的一天。\N{\rEN\blur0.8}Looking forward to a wonderful day.
+Dialogue: 0,0:12:28.85,0:12:30.88,ZH,,0,0,0,,{\rZH\blur0.8}我也是。\N{\rEN\blur0.8}Me, too.
+Dialogue: 0,0:12:30.92,0:12:33.45,ZH,,0,0,0,,{\rZH\blur0.8}Rachel，嗨。呃，我听说你和Grace有点麻烦。\N{\rEN\blur0.8}Rachel, hi. Um, I heard you were having some trouble with Grace.
+Dialogue: 0,0:12:33.49,0:12:35.12,ZH,,0,0,0,,{\rZH\blur0.8}呃，没有，她没事。\N{\rEN\blur0.8}Uh, no, she's fine.
+Dialogue: 0,0:12:35.16,0:12:36.39,ZH,,0,0,0,,{\rZH\blur0.8}哦。\N{\rEN\blur0.8}Oh.
+Dialogue: 0,0:12:36.42,0:12:39.33,ZH,,0,0,0,,{\rZH\blur0.8}那你呢？你怎么样？\N{\rEN\blur0.8}Well, what about you? How are you doing?
+Dialogue: 0,0:12:39.36,0:12:41.13,ZH,,0,0,0,,{\rZH\blur0.8}都好。还有别的事吗？\N{\rEN\blur0.8}All good. Anything else?
+Dialogue: 0,0:12:41.16,0:12:43.40,ZH,,0,0,0,,{\rZH\blur0.8}没了，谢谢。能喊卡吗？\N{\rEN\blur0.8}No, thank you. Can we cut, please?
+Dialogue: 0,0:12:43.43,0:12:45.40,ZH,,0,0,0,,{\rZH\blur0.8}让替身上马吧。\N{\rEN\blur0.8}And let's get those doubles on the horses.
+Dialogue: 0,0:12:45.43,0:12:48.87,ZH,,0,0,0,,{\rZH\blur0.8}收到。\N{\rEN\blur0.8}Copy that.
+Dialogue: 0,0:12:58.18,0:13:02.28,ZH,,0,0,0,,{\rZH\blur0.8}好，赶紧让Adam上马架。\N{\rEN\blur0.8}Okay, let's get Adam on the rig A.S.A.P.
+Dialogue: 0,0:13:11.36,0:13:13.56,ZH,,0,0,0,,{\rZH\blur0.8}我以为他们真骑马。\N{\rEN\blur0.8}I thought they rode.
+Dialogue: 0,0:13:13.59,0:13:15.93,ZH,,0,0,0,,{\rZH\blur0.8}不。他们不骑。\N{\rEN\blur0.8}No. They don't.
+Dialogue: 0,0:13:17.20,0:13:19.07,ZH,,0,0,0,,{\rZH\blur0.8}嘿。Quinn！\N{\rEN\blur0.8}Hey. Quinn!
+Dialogue: 0,0:13:19.10,0:13:21.07,ZH,,0,0,0,,{\rZH\blur0.8}真是意外。\N{\rEN\blur0.8}This is a surprise.
+Dialogue: 0,0:13:21.10,0:13:23.14,ZH,,0,0,0,,{\rZH\blur0.8}幸会。哦，请。\N{\rEN\blur0.8}Pleasure. Oh, please.
+Dialogue: 0,0:13:23.17,0:13:25.00,ZH,,0,0,0,,{\rZH\blur0.8}相信我，是我的荣幸。\N{\rEN\blur0.8}Trust me, the pleasure's all mine.
+Dialogue: 0,0:13:25.04,0:13:26.21,ZH,,0,0,0,,{\rZH\blur0.8}坐。\N{\rEN\blur0.8}Sit.
+Dialogue: 0,0:13:26.24,0:13:28.51,ZH,,0,0,0,,{\rZH\blur0.8}所以，专程来洛杉矶一日游？\N{\rEN\blur0.8}So, a day trip to L.A.?
+Dialogue: 0,0:13:28.54,0:13:31.04,ZH,,0,0,0,,{\rZH\blur0.8}你要么是辞职，要么是节目出了坏消息。\N{\rEN\blur0.8}You're either quitting or it's bad news about the show.
+Dialogue: 0,0:13:31.08,0:13:33.88,ZH,,0,0,0,,{\rZH\blur0.8}我没辞职，节目好得很。\N{\rEN\blur0.8}Well, I'm not quitting, and the show's great.
+Dialogue: 0,0:13:33.91,0:13:36.12,ZH,,0,0,0,,{\rZH\blur0.8}但是……说实话。\N{\rEN\blur0.8}But... let's be honest.
+Dialogue: 0,0:13:36.15,0:13:39.05,ZH,,0,0,0,,{\rZH\blur0.8}我们都知道这个系列已经是老古董了。\N{\rEN\blur0.8}We both know that this franchise is a dinosaur.
+Dialogue: 0,0:13:39.09,0:13:42.09,ZH,,0,0,0,,{\rZH\blur0.8}你得找下一个大项目。\N{\rEN\blur0.8}You need to be looking for your next big thing.
+Dialogue: 0,0:13:42.12,0:13:45.36,ZH,,0,0,0,,{\rZH\blur0.8}说点我每天不对员工吼一千遍的话。\N{\rEN\blur0.8}Tell me something I don't yell at my staff a thousand times a day.
+Dialogue: 0,0:13:45.39,0:13:48.93,ZH,,0,0,0,,{\rZH\blur0.8}《Everlasting》是我的点子。那场官司我赢了。\N{\rEN\blur0.8}"Everlasting" was my idea. I won that lawsuit.
+Dialogue: 0,0:13:48.96,0:13:50.20,ZH,,0,0,0,,{\rZH\blur0.8}我知道。\N{\rEN\blur0.8}I know.
+Dialogue: 0,0:13:50.23,0:13:52.87,ZH,,0,0,0,,{\rZH\blur0.8}我还有一百万个点子。\N{\rEN\blur0.8}And I have a million more ideas.
+Dialogue: 0,0:13:52.90,0:13:55.27,ZH,,0,0,0,,{\rZH\blur0.8}Chet知道你来这儿吗？\N{\rEN\blur0.8}Chet know you're here?
+Dialogue: 0,0:13:55.30,0:13:57.04,ZH,,0,0,0,,{\rZH\blur0.8}那重要吗？\N{\rEN\blur0.8}Does that matter?
+Dialogue: 0,0:13:57.07,0:14:01.07,ZH,,0,0,0,,{\rZH\blur0.8}我要是不再向Chet汇报点子，那口井就干涸了。\N{\rEN\blur0.8}If I stopped running my ideas by Chet, that well would run dry.
+Dialogue: 0,0:14:01.11,0:14:03.48,ZH,,0,0,0,,{\rZH\blur0.8}我想跳过中间人。\N{\rEN\blur0.8}I want to cut out the middleman.
+Dialogue: 0,0:14:03.51,0:14:05.14,ZH,,0,0,0,,{\rZH\blur0.8}胆子不小啊，Quinn。\N{\rEN\blur0.8}Ballsy move, Quinn.
+Dialogue: 0,0:14:05.18,0:14:07.15,ZH,,0,0,0,,{\rZH\blur0.8}你凭什么觉得我不会直接打个电话，\N{\rEN\blur0.8}What makes you think I won't just pick up the phone,
+Dialogue: 0,0:14:07.18,0:14:09.22,ZH,,0,0,0,,{\rZH\blur0.8}打电话给切特，告诉他你在搞什么鬼？\N{\rEN\blur0.8}call Chet, and tell him what you're up to?
+Dialogue: 0,0:14:10.52,0:14:13.35,ZH,,0,0,0,,{\rZH\blur0.8}布拉德，大家都知道你需要一档新的热门节目\N{\rEN\blur0.8}Brad, everyone knows that you need a new hit show
+Dialogue: 0,0:14:13.39,0:14:15.99,ZH,,0,0,0,,{\rZH\blur0.8}比需要酒友更迫切。\N{\rEN\blur0.8}more than you need a drinking buddy.
+Dialogue: 0,0:14:18.66,0:14:21.26,ZH,,0,0,0,,{\rZH\blur0.8}好吧。\N{\rEN\blur0.8}All right.
+Dialogue: 0,0:14:21.29,0:14:24.00,ZH,,0,0,0,,{\rZH\blur0.8}你只有一次机会。把一切准备妥当。\N{\rEN\blur0.8}You get one shot. Get your ducks in a row.
+Dialogue: 0,0:14:24.03,0:14:27.10,ZH,,0,0,0,,{\rZH\blur0.8}等你准备好推销你最好的点子，就打给我。\N{\rEN\blur0.8}Call me when you're ready to pitch your best ideas.
+Dialogue: 0,0:14:27.13,0:14:29.97,ZH,,0,0,0,,{\rZH\blur0.8}好。太好了。\N{\rEN\blur0.8}Okay. Great.
+Dialogue: 0,0:14:37.34,0:14:38.34,ZH,,0,0,0,,{\rZH\blur0.8}一次约会结束，还剩两次。\N{\rEN\blur0.8}One date down, two to go.
+Dialogue: 0,0:14:39.45,0:14:41.41,ZH,,0,0,0,,{\rZH\blur0.8}但现在轮到安娜了。\N{\rEN\blur0.8}But now it is Anna's turn.
+Dialogue: 0,0:14:41.45,0:14:45.55,ZH,,0,0,0,,{\rZH\blur0.8}亚当和格蕾丝的火热约会之后，竞争很激烈。\N{\rEN\blur0.8}The stakes are high after Adam and Grace's sizzling date.
+Dialogue: 0,0:14:45.58,0:14:49.22,ZH,,0,0,0,,{\rZH\blur0.8}但安娜能应对这个局面吗？\N{\rEN\blur0.8}But will Anna rise to the occasion?
+Dialogue: 0,0:14:51.19,0:14:53.03,ZH,,0,0,0,,{\rZH\blur0.8}亚当。\N{\rEN\blur0.8}Adam.
+Dialogue: 0,0:14:53.06,0:14:55.40,ZH,,0,0,0,,{\rZH\blur0.8}所以，我可以见识安娜·马丁不为人知的那一面？\N{\rEN\blur0.8}So, I can just get the unauthorized version of Anna Martin?
+Dialogue: 0,0:14:55.43,0:14:57.40,ZH,,0,0,0,,{\rZH\blur0.8}那你想知道什么？\N{\rEN\blur0.8}Well, what do you want to know?
+Dialogue: 0,0:14:57.43,0:15:00.43,ZH,,0,0,0,,{\rZH\blur0.8}我知道你是个大律师，但你平时怎么玩？\N{\rEN\blur0.8}I know you're a big-shot lawyer, but what about fun?
+Dialogue: 0,0:15:00.47,0:15:01.67,ZH,,0,0,0,,{\rZH\blur0.8}我不知道。\N{\rEN\blur0.8}I don't know.
+Dialogue: 0,0:15:01.70,0:15:04.70,ZH,,0,0,0,,{\rZH\blur0.8}我喜欢，嗯……我喜欢书呆子那一类的东西。\N{\rEN\blur0.8}I like, um... I like nerdy stuff.
+Dialogue: 0,0:15:04.74,0:15:07.07,ZH,,0,0,0,,{\rZH\blur0.8}比如什么？\N{\rEN\blur0.8}Like what?
+Dialogue: 0,0:15:07.11,0:15:10.58,ZH,,0,0,0,,{\rZH\blur0.8}比如美术馆、书和戏剧。\N{\rEN\blur0.8}Like art galleries and books and theater.
+Dialogue: 0,0:15:10.61,0:15:13.31,ZH,,0,0,0,,{\rZH\blur0.8}这算吗？当然算。\N{\rEN\blur0.8}Does that count? Well, of course it does.
+Dialogue: 0,0:15:14.65,0:15:16.42,ZH,,0,0,0,,{\rZH\blur0.8}我觉得你会爱上伦敦。\N{\rEN\blur0.8}I think you'd love London.
+Dialogue: 0,0:15:16.45,0:15:18.48,ZH,,0,0,0,,{\rZH\blur0.8}怎么，你不觉得我们明年会住在这里，\N{\rEN\blur0.8}What, you don't see us living here next year,
+Dialogue: 0,0:15:18.52,0:15:19.72,ZH,,0,0,0,,{\rZH\blur0.8}翻修这座葡萄园吗？\N{\rEN\blur0.8}renovating the vineyard?
+Dialogue: 0,0:15:19.75,0:15:21.32,ZH,,0,0,0,,{\rZH\blur0.8}哦，是啊是啊。\N{\rEN\blur0.8}Oh, yeah, yeah, yeah.
+Dialogue: 0,0:15:21.35,0:15:23.32,ZH,,0,0,0,,{\rZH\blur0.8}不，我是说等这一切都结束之后。\N{\rEN\blur0.8}No, I mean just once that's all... all done.
+Dialogue: 0,0:15:23.36,0:15:24.72,ZH,,0,0,0,,{\rZH\blur0.8}我喜欢春天的巴黎，\N{\rEN\blur0.8}I like Paris in spring,
+Dialogue: 0,0:15:24.76,0:15:26.59,ZH,,0,0,0,,{\rZH\blur0.8}还有秋天的布宜诺斯艾利斯马球赛。\N{\rEN\blur0.8}and polo in Buenos Aires in the autumn.
+Dialogue: 0,0:15:26.63,0:15:28.33,ZH,,0,0,0,,{\rZH\blur0.8}圣诞节呢，\N{\rEN\blur0.8}And Christmas,
+Dialogue: 0,0:15:28.36,0:15:30.36,ZH,,0,0,0,,{\rZH\blur0.8}我们就去我家在苏格兰高地的城堡。\N{\rEN\blur0.8}we're at my family's castle in the Highlands.
+Dialogue: 0,0:15:30.40,0:15:31.96,ZH,,0,0,0,,{\rZH\blur0.8}所以，是啊。\N{\rEN\blur0.8}So, yeah.
+Dialogue: 0,0:15:32.00,0:15:34.27,ZH,,0,0,0,,{\rZH\blur0.8}听起来很完美。是啊，可以很完美，\N{\rEN\blur0.8}That sounds perfect. Yeah, it can be,
+Dialogue: 0,0:15:34.30,0:15:36.10,ZH,,0,0,0,,{\rZH\blur0.8}只要身边是对的人。\N{\rEN\blur0.8}if you have the right person to share it with.
+Dialogue: 0,0:15:36.14,0:15:37.64,ZH,,0,0,0,,{\rZH\blur0.8}不过，也不全是玩乐。\N{\rEN\blur0.8}It's not all fun and games, though.
+Dialogue: 0,0:15:37.67,0:15:39.61,ZH,,0,0,0,,{\rZH\blur0.8}我是说，民众需要知道我们关心他们，\N{\rEN\blur0.8}I mean, the people need to know that we care,
+Dialogue: 0,0:15:39.64,0:15:41.47,ZH,,0,0,0,,{\rZH\blur0.8}所以我妻子就得做戴妃那一套……\N{\rEN\blur0.8}so my wife would be expected to do the Princess Di thing...
+Dialogue: 0,0:15:41.51,0:15:44.08,ZH,,0,0,0,,{\rZH\blur0.8}选个慈善机构，真正投入一项事业。\N{\rEN\blur0.8}Pick a charity and really get behind a cause.
+Dialogue: 0,0:15:44.11,0:15:45.61,ZH,,0,0,0,,{\rZH\blur0.8}比如……地雷？\N{\rEN\blur0.8}Like the... The land mines?
+Dialogue: 0,0:15:45.64,0:15:47.51,ZH,,0,0,0,,{\rZH\blur0.8}对，或者，我是说，清洁水源，或者……\N{\rEN\blur0.8}Yeah, or, I mean, clean water, or...
+Dialogue: 0,0:15:47.55,0:15:49.98,ZH,,0,0,0,,{\rZH\blur0.8}不知道，拯救非洲的艾滋病婴儿，\N{\rEN\blur0.8}don't know, saving African AIDS babies,
+Dialogue: 0,0:15:50.02,0:15:53.22,ZH,,0,0,0,,{\rZH\blur0.8}或者对抗肥胖……只要是你真正关心的事。\N{\rEN\blur0.8}or fighting obesity... as long as it's something that you really care about.
+Dialogue: 0,0:15:53.25,0:15:55.09,ZH,,0,0,0,,{\rZH\blur0.8}说实话，那会像是……\N{\rEN\blur0.8}Honestly, that would be, like...
+Dialogue: 0,0:15:56.42,0:15:58.56,ZH,,0,0,0,,{\rZH\blur0.8}我的梦想，能做出那么多贡献。\N{\rEN\blur0.8}my dream, to be able to do that much good.
+Dialogue: 0,0:15:58.59,0:16:00.43,ZH,,0,0,0,,{\rZH\blur0.8}安娜，这就是我对你的全部期望。\N{\rEN\blur0.8}That's all I want for you, Anna.
+Dialogue: 0,0:16:00.46,0:16:02.23,ZH,,0,0,0,,{\rZH\blur0.8}你必须追随自己的梦想。\N{\rEN\blur0.8}You have to follow your dreams.
+Dialogue: 0,0:16:05.70,0:16:08.64,ZH,,0,0,0,,{\rZH\blur0.8}伞！伞！\N{\rEN\blur0.8}Umbrella! Umbrella!
+Dialogue: 0,0:16:15.68,0:16:20.18,ZH,,0,0,0,,{\rZH\blur0.8}不错。去帮她一把。\N{\rEN\blur0.8}Nice. Help her out.
+Dialogue: 0,0:16:20.21,0:16:21.55,ZH,,0,0,0,,{\rZH\blur0.8}快来，快来。\N{\rEN\blur0.8}Come on, come on.
+Dialogue: 0,0:16:26.59,0:16:28.79,ZH,,0,0,0,,{\rZH\blur0.8}你……你没事吧？没事。\N{\rEN\blur0.8}You... You all right? Yeah.
+Dialogue: 0,0:16:30.22,0:16:31.62,ZH,,0,0,0,,{\rZH\blur0.8}哈！\N{\rEN\blur0.8}Ha!
+Dialogue: 0,0:16:31.66,0:16:33.03,ZH,,0,0,0,,{\rZH\blur0.8}那个安娜真不一般，是吧？\N{\rEN\blur0.8}That Anna's really something, huh?
+Dialogue: 0,0:16:33.06,0:16:34.43,ZH,,0,0,0,,{\rZH\blur0.8}是啊。哈！\N{\rEN\blur0.8}Yeah. Ha!
+Dialogue: 0,0:16:36.13,0:16:38.13,ZH,,0,0,0,,{\rZH\blur0.8}你要吗？我不用。\N{\rEN\blur0.8}You want? I'm good.
+Dialogue: 0,0:16:38.16,0:16:40.40,ZH,,0,0,0,,{\rZH\blur0.8}好吧。\N{\rEN\blur0.8}All right.
+Dialogue: 0,0:16:51.74,0:16:53.41,ZH,,0,0,0,,{\rZH\blur0.8}-嗨。谢谢。  -给你。\N{\rEN\blur0.8}-Hi. Thank you.   -There you go.
+Dialogue: 0,0:16:53.45,0:16:54.75,ZH,,0,0,0,,{\rZH\blur0.8}天哪，我看起来像只落汤鸡，是吧？\N{\rEN\blur0.8}God, I look like a drowned rat, huh?
+Dialogue: 0,0:16:54.78,0:16:56.68,ZH,,0,0,0,,{\rZH\blur0.8}我觉得你看起来像美人鱼。\N{\rEN\blur0.8}I think you look like a mermaid.
+Dialogue: 0,0:16:56.72,0:16:59.55,ZH,,0,0,0,,{\rZH\blur0.8}哦，完美。很像40年前的达丽尔·汉纳。\N{\rEN\blur0.8}Oh, perfect. Very Darryl Hannah 40 years ago.
+Dialogue: 0,0:16:59.59,0:17:00.75,ZH,,0,0,0,,{\rZH\blur0.8}啊。\N{\rEN\blur0.8}Ah.
+Dialogue: 0,0:17:00.79,0:17:02.46,ZH,,0,0,0,,{\rZH\blur0.8}看起来你们玩得很开心。\N{\rEN\blur0.8}Looked like you guys were having fun.
+Dialogue: 0,0:17:02.49,0:17:04.29,ZH,,0,0,0,,{\rZH\blur0.8}天哪，那真是……我是说，他太完美了。\N{\rEN\blur0.8}God, it was... I mean, he's everything.
+Dialogue: 0,0:17:04.32,0:17:06.16,ZH,,0,0,0,,{\rZH\blur0.8}你能想象和他一起看世界吗\N{\rEN\blur0.8}Can you imagine seeing the world with him
+Dialogue: 0,0:17:06.19,0:17:07.56,ZH,,0,0,0,,{\rZH\blur0.8}还有……做那些\N{\rEN\blur0.8}and... And doing things
+Dialogue: 0,0:17:07.59,0:17:10.06,ZH,,0,0,0,,{\rZH\blur0.8}真正能改变人们生活的事吗？\N{\rEN\blur0.8}that might actually change people's lives?
+Dialogue: 0,0:17:10.10,0:17:11.30,ZH,,0,0,0,,{\rZH\blur0.8}是啊，是啊。\N{\rEN\blur0.8}Yeah, yeah.
+Dialogue: 0,0:17:11.33,0:17:13.43,ZH,,0,0,0,,{\rZH\blur0.8}我是说，听起来真是，嗯，\N{\rEN\blur0.8}I mean, it sounds like a really, um,
+Dialogue: 0,0:17:13.47,0:17:15.54,ZH,,0,0,0,,{\rZH\blur0.8}他为你提供的迷人生活。\N{\rEN\blur0.8}amazing life that he's offering you.
+Dialogue: 0,0:17:15.57,0:17:17.10,ZH,,0,0,0,,{\rZH\blur0.8}对吧？是啊。\N{\rEN\blur0.8}Right? Yeah.
+Dialogue: 0,0:17:17.14,0:17:21.07,ZH,,0,0,0,,{\rZH\blur0.8}瑞秋，这听起来很傻，但是……\N{\rEN\blur0.8}Rachel, this is gonna sound stupid, but...
+Dialogue: 0,0:17:21.11,0:17:24.54,ZH,,0,0,0,,{\rZH\blur0.8}我觉得我真的爱上他了。\N{\rEN\blur0.8}I think I'm actually falling for him.
+Dialogue: 0,0:17:26.35,0:17:27.55,ZH,,0,0,0,,{\rZH\blur0.8}我知道我动心了。\N{\rEN\blur0.8}I know I am.
+Dialogue: 0,0:17:29.12,0:17:31.72,ZH,,0,0,0,,{\rZH\blur0.8}好了，我们得把这拍下来。\N{\rEN\blur0.8}Okay, well, we should get this on camera.
+Dialogue: 0,0:17:31.75,0:17:34.32,ZH,,0,0,0,,{\rZH\blur0.8}你能不能……我是不是很傻？\N{\rEN\blur0.8}Can you just... Am I being an idiot?
+Dialogue: 0,0:17:34.35,0:17:37.29,ZH,,0,0,0,,{\rZH\blur0.8}他也对别的女孩说这些话吗？\N{\rEN\blur0.8}Is he saying these things to the other girls?
+Dialogue: 0,0:17:39.63,0:17:41.33,ZH,,0,0,0,,{\rZH\blur0.8}拜托，你已经让我出过一次丑了。\N{\rEN\blur0.8}Come on, you made a fool of me once already.
+Dialogue: 0,0:17:41.36,0:17:44.46,ZH,,0,0,0,,{\rZH\blur0.8}他只对你说这些话。\N{\rEN\blur0.8}He's only saying this stuff to you.
+Dialogue: 0,0:17:57.51,0:18:00.78,ZH,,0,0,0,,{\rZH\blur0.8}艾滋病婴儿？\N{\rEN\blur0.8}AIDS babies?
+Dialogue: 0,0:18:19.80,0:18:22.50,ZH,,0,0,0,,{\rZH\blur0.8}杰里米害怕，因为他从没玩过啤酒乒乓。\N{\rEN\blur0.8}Jeremy's scared 'cause he's never played beer pong before.
+Dialogue: 0,0:18:22.54,0:18:24.50,ZH,,0,0,0,,{\rZH\blur0.8}是吗？\N{\rEN\blur0.8}Is that why?
+Dialogue: 0,0:18:26.41,0:18:27.57,ZH,,0,0,0,,{\rZH\blur0.8}干了，寿星！\N{\rEN\blur0.8}Chug it, birthday boy!
+Dialogue: 0,0:18:27.61,0:18:29.14,ZH,,0,0,0,,{\rZH\blur0.8}干了！干了！干了！干了！\N{\rEN\blur0.8}Chug! Chug! Chug! Chug!
+Dialogue: 0,0:18:29.18,0:18:31.48,ZH,,0,0,0,,{\rZH\blur0.8}嘿。嗨。干了！干了！干了！干了！干了！\N{\rEN\blur0.8}Hey. Hi. Chug! Chug! Chug! Chug! Chug!
+Dialogue: 0,0:18:31.51,0:18:33.81,ZH,,0,0,0,,{\rZH\blur0.8}哇。你好。你注意到了。\N{\rEN\blur0.8}Whoa. Hello. You noticed.
+Dialogue: 0,0:18:33.85,0:18:35.45,ZH,,0,0,0,,{\rZH\blur0.8}是啊，我注意到了。\N{\rEN\blur0.8}Yeah, I did.
+Dialogue: 0,0:18:35.48,0:18:37.78,ZH,,0,0,0,,{\rZH\blur0.8}你邀请我来派对，所以我想，我就……\N{\rEN\blur0.8}Well, you invited me to a party, so I figured, I'd...
+Dialogue: 0,0:18:37.82,0:18:39.52,ZH,,0,0,0,,{\rZH\blur0.8}是啊。嘿，杰尔。\N{\rEN\blur0.8}I did. Hey, Jer.
+Dialogue: 0,0:18:39.55,0:18:41.69,ZH,,0,0,0,,{\rZH\blur0.8}怎么了？你记得见过佩妮，对吧？\N{\rEN\blur0.8}Yeah? You remember meeting Penny, right?
+Dialogue: 0,0:18:41.72,0:18:43.56,ZH,,0,0,0,,{\rZH\blur0.8}记得！是啊是啊！佩妮……佩妮当时在\N{\rEN\blur0.8}Yes! Yeah, yeah, yeah, yeah! Penny... Penny was there
+Dialogue: 0,0:18:43.59,0:18:44.89,ZH,,0,0,0,,{\rZH\blur0.8}我们大家集体纹后腰纹身的那晚。\N{\rEN\blur0.8}the night that we all got tramp-stamped.
+Dialogue: 0,0:18:44.92,0:18:46.56,ZH,,0,0,0,,{\rZH\blur0.8}对！\N{\rEN\blur0.8}Yeah!
+Dialogue: 0,0:18:46.59,0:18:48.53,ZH,,0,0,0,,{\rZH\blur0.8}“我们集体纹了后腰纹身”？\N{\rEN\blur0.8}"We all got tramp-stamped"?
+Dialogue: 0,0:18:48.56,0:18:51.40,ZH,,0,0,0,,{\rZH\blur0.8}你没看过她们的？她看过我的。\N{\rEN\blur0.8}You haven't seen theirs? She's seen mine.
+Dialogue: 0,0:18:51.43,0:18:53.77,ZH,,0,0,0,,{\rZH\blur0.8}冈纳，杰米，过来！什么？\N{\rEN\blur0.8}Gunner, Jamie, come here! What?
+Dialogue: 0,0:18:53.80,0:18:56.54,ZH,,0,0,0,,{\rZH\blur0.8}杰米！走吧，伙计！等等，你看到这个了吗？\N{\rEN\blur0.8}Jamie! Let's go, buddy! Wait, have you seen this?
+Dialogue: 0,0:18:56.57,0:18:57.94,ZH,,0,0,0,,{\rZH\blur0.8}哦！你干了什么？\N{\rEN\blur0.8}Oh! What have you done?
+Dialogue: 0,0:18:57.97,0:18:59.54,ZH,,0,0,0,,{\rZH\blur0.8}冈纳，杰米。\N{\rEN\blur0.8}Gunner, Jamie.
+Dialogue: 0,0:18:59.57,0:19:00.91,ZH,,0,0,0,,{\rZH\blur0.8}好了，先生们。哦，不。\N{\rEN\blur0.8}All right, gentlemen. Oh, no.
+Dialogue: 0,0:19:00.94,0:19:03.21,ZH,,0,0,0,,{\rZH\blur0.8}好了，先生们。好了。我的天。\N{\rEN\blur0.8}All right, gents. All right. Oh, my God.
+Dialogue: 0,0:19:03.24,0:19:07.21,ZH,,0,0,0,,{\rZH\blur0.8}数到一半……亮出你们的狗。\N{\rEN\blur0.8}On the count of one half... present dogs.
+Dialogue: 0,0:19:07.25,0:19:09.52,ZH,,0,0,0,,{\rZH\blur0.8}耶！啊！\N{\rEN\blur0.8}Yeah! Aaah!
+Dialogue: 0,0:19:09.55,0:19:11.22,ZH,,0,0,0,,{\rZH\blur0.8}真不敢相信！\N{\rEN\blur0.8}I can't believe it!
+Dialogue: 0,0:19:11.25,0:19:13.29,ZH,,0,0,0,,{\rZH\blur0.8}呃！\N{\rEN\blur0.8}Ugh!
+Dialogue: 0,0:19:13.32,0:19:14.92,ZH,,0,0,0,,{\rZH\blur0.8}迷幻药，对吧？迷幻药？\N{\rEN\blur0.8}Acid, right? Acid?
+Dialogue: 0,0:19:14.95,0:19:17.42,ZH,,0,0,0,,{\rZH\blur0.8}你嗑药了？没有，我爸刚去世，\N{\rEN\blur0.8}Were you on acid? No, my dad just died,
+Dialogue: 0,0:19:17.46,0:19:20.73,ZH,,0,0,0,,{\rZH\blur0.8}这是杰瑞米想出来让我好受点的法子。\N{\rEN\blur0.8}and this was Jeremy's idea of how to make me feel better.
+Dialogue: 0,0:19:20.76,0:19:22.43,ZH,,0,0,0,,{\rZH\blur0.8}再说，我爸喜欢斗牛犬。\N{\rEN\blur0.8}Besides, my dad loved bulldogs.
+Dialogue: 0,0:19:22.46,0:19:25.27,ZH,,0,0,0,,{\rZH\blur0.8}那是波士顿梗，哥们。\N{\rEN\blur0.8}That's a Boston terrier, dude.
+Dialogue: 0,0:19:25.30,0:19:26.57,ZH,,0,0,0,,{\rZH\blur0.8}等等。\N{\rEN\blur0.8}Wait.
+Dialogue: 0,0:19:27.80,0:19:29.44,ZH,,0,0,0,,{\rZH\blur0.8}我跟你说过。\N{\rEN\blur0.8}I told you that.
+Dialogue: 0,0:19:29.47,0:19:31.90,ZH,,0,0,0,,{\rZH\blur0.8}我们喝得很醉，确实让我分了心，\N{\rEN\blur0.8}We were really drunk, and it did take my mind off things,
+Dialogue: 0,0:19:31.94,0:19:34.54,ZH,,0,0,0,,{\rZH\blur0.8}因为这哥们很会照顾人。\N{\rEN\blur0.8}because this guy knows how to look after us.
+Dialogue: 0,0:19:37.01,0:19:38.84,ZH,,0,0,0,,{\rZH\blur0.8}太棒了！\N{\rEN\blur0.8}Yes!
+Dialogue: 0,0:19:40.65,0:19:42.71,ZH,,0,0,0,,{\rZH\blur0.8}干了！干了！干了！干了！\N{\rEN\blur0.8}Chug! Chug! Chug! Chug!
+Dialogue: 0,0:19:46.39,0:19:47.59,ZH,,0,0,0,,{\rZH\blur0.8}耶！\N{\rEN\blur0.8}Yeah!
+Dialogue: 0,0:19:49.36,0:19:50.59,ZH,,0,0,0,,{\rZH\blur0.8}我想跳舞。\N{\rEN\blur0.8}I want to dance.
+Dialogue: 0,0:19:50.62,0:19:53.26,ZH,,0,0,0,,{\rZH\blur0.8}你愿意跟我跳舞吗？\N{\rEN\blur0.8}Will you dance with me?
+Dialogue: 0,0:19:53.29,0:19:54.76,ZH,,0,0,0,,{\rZH\blur0.8}好啊。说真的，我得说，\N{\rEN\blur0.8}Yeah. You know, I have to say,
+Dialogue: 0,0:19:54.79,0:19:56.73,ZH,,0,0,0,,{\rZH\blur0.8}你朋友们超酷，超酷。\N{\rEN\blur0.8}your friends are very cool, very cool.
+Dialogue: 0,0:19:56.76,0:19:58.73,ZH,,0,0,0,,{\rZH\blur0.8}是啊，我知道，我很喜欢他们。\N{\rEN\blur0.8}Yeah. I know. I know. I like them a lot.
+Dialogue: 0,0:19:58.77,0:20:00.37,ZH,,0,0,0,,{\rZH\blur0.8}我知道这儿不是巴黎，但……\N{\rEN\blur0.8}I know it's not Paris, but...
+Dialogue: 0,0:20:01.97,0:20:03.77,ZH,,0,0,0,,{\rZH\blur0.8}节目里对我来说不是这样的，你懂吗？\N{\rEN\blur0.8}It's just not like this for me on the show, you know?
+Dialogue: 0,0:20:03.80,0:20:05.27,ZH,,0,0,0,,{\rZH\blur0.8}是啊，可不是嘛。\N{\rEN\blur0.8}Yeah, you don't say.
+Dialogue: 0,0:20:05.30,0:20:06.87,ZH,,0,0,0,,{\rZH\blur0.8}那就辞职。\N{\rEN\blur0.8}So quit.
+Dialogue: 0,0:20:06.91,0:20:08.61,ZH,,0,0,0,,{\rZH\blur0.8}辞职？是啊。\N{\rEN\blur0.8}Quit? Right.
+Dialogue: 0,0:20:08.64,0:20:10.01,ZH,,0,0,0,,{\rZH\blur0.8}我们谈过了。切特刚让我成了节目合伙人。\N{\rEN\blur0.8}We talked about this. Chet just made me a show owner.
+Dialogue: 0,0:20:10.04,0:20:11.74,ZH,,0,0,0,,{\rZH\blur0.8}我不能辞。谁在乎啊？\N{\rEN\blur0.8}I can't quit it. Who gives a shit?
+Dialogue: 0,0:20:11.78,0:20:13.01,ZH,,0,0,0,,{\rZH\blur0.8}瑞秋，这剧组里唯一\N{\rEN\blur0.8}Rach, the only job on this set
+Dialogue: 0,0:20:13.04,0:20:14.61,ZH,,0,0,0,,{\rZH\blur0.8}比你还惨的工作就是奎恩的。\N{\rEN\blur0.8}that's worse than yours is Quinn's.
+Dialogue: 0,0:20:14.65,0:20:15.78,ZH,,0,0,0,,{\rZH\blur0.8}你真想过她那种生活？\N{\rEN\blur0.8}Do you really want her life?
+Dialogue: 0,0:20:15.82,0:20:18.82,ZH,,0,0,0,,{\rZH\blur0.8}我们走吧。\N{\rEN\blur0.8}Let's get out.
+Dialogue: 0,0:20:18.85,0:20:20.29,ZH,,0,0,0,,{\rZH\blur0.8}我到哪儿都能工作。\N{\rEN\blur0.8}I can work anywhere.
+Dialogue: 0,0:20:20.32,0:20:22.49,ZH,,0,0,0,,{\rZH\blur0.8}我们可以回洛杉矶，\N{\rEN\blur0.8}You know, we can go back to L.A.,
+Dialogue: 0,0:20:22.52,0:20:24.72,ZH,,0,0,0,,{\rZH\blur0.8}过真实的生活，交真正的朋友。\N{\rEN\blur0.8}have a real life and real friends.
+Dialogue: 0,0:20:29.93,0:20:31.36,ZH,,0,0,0,,{\rZH\blur0.8}是切特。\N{\rEN\blur0.8}It's Chet.
+Dialogue: 0,0:20:31.40,0:20:34.53,ZH,,0,0,0,,{\rZH\blur0.8}你得处理一下。\N{\rEN\blur0.8}And you have to handle it.
+Dialogue: 0,0:20:34.57,0:20:36.04,ZH,,0,0,0,,{\rZH\blur0.8}看来……\N{\rEN\blur0.8}Apparently...
+Dialogue: 0,0:20:37.94,0:20:39.97,ZH,,0,0,0,,{\rZH\blur0.8}不。你知道吗？\N{\rEN\blur0.8}No. You know what?
+Dialogue: 0,0:20:40.01,0:20:41.64,ZH,,0,0,0,,{\rZH\blur0.8}不。绝对不行。\N{\rEN\blur0.8}No. No way.
+Dialogue: 0,0:20:42.47,0:20:43.64,ZH,,0,0,0,,{\rZH\blur0.8}哇。\N{\rEN\blur0.8}Whoa.
+Dialogue: 0,0:20:43.68,0:20:46.71,ZH,,0,0,0,,{\rZH\blur0.8}大家！她刚把切特怼了！\N{\rEN\blur0.8}Everybody! She just burned Chet!
+Dialogue: 0,0:20:50.55,0:20:52.29,ZH,,0,0,0,,{\rZH\blur0.8}感觉怎么样？感觉真爽！\N{\rEN\blur0.8}How did it feel? It felt good!
+Dialogue: 0,0:20:52.32,0:20:54.52,ZH,,0,0,0,,{\rZH\blur0.8}真的很爽？真的很爽，非常爽。\N{\rEN\blur0.8}It felt really good? It felt really good, really good.
+Dialogue: 0,0:20:54.55,0:20:55.79,ZH,,0,0,0,,{\rZH\blur0.8}嗯哼，感觉真的很爽。\N{\rEN\blur0.8}Uh-huh. It felt really good.
+Dialogue: 0,0:21:04.33,0:21:05.96,ZH,,0,0,0,,{\rZH\blur0.8}伞！喂，伞！\N{\rEN\blur0.8}Umbrella! Hey, umbrella!
+Dialogue: 0,0:21:06.00,0:21:07.43,ZH,,0,0,0,,{\rZH\blur0.8}我来。\N{\rEN\blur0.8}Got it.
+Dialogue: 0,0:21:07.47,0:21:09.77,ZH,,0,0,0,,{\rZH\blur0.8}天啊，好主意，马林县，切特。\N{\rEN\blur0.8}Oh, God, great idea, Marin County, Chet.
+Dialogue: 0,0:21:09.80,0:21:12.70,ZH,,0,0,0,,{\rZH\blur0.8}看看你……执行制片人真的在制片了。\N{\rEN\blur0.8}So, look at you... executive producer actually producing.
+Dialogue: 0,0:21:12.74,0:21:14.51,ZH,,0,0,0,,{\rZH\blur0.8}我跟小怪人玩得可开心了。\N{\rEN\blur0.8}Little weirdo and I have been having a blast.
+Dialogue: 0,0:21:14.54,0:21:16.31,ZH,,0,0,0,,{\rZH\blur0.8}嘿，妇科医生那边怎么样？\N{\rEN\blur0.8}Hey, how'd everything go at the lady doctor?
+Dialogue: 0,0:21:16.34,0:21:17.48,ZH,,0,0,0,,{\rZH\blur0.8}挺好，挺好。\N{\rEN\blur0.8}Uh, great, great.
+Dialogue: 0,0:21:17.51,0:21:19.45,ZH,,0,0,0,,{\rZH\blur0.8}一切都很顺利。\N{\rEN\blur0.8}Everything is, uh, right as rain.
+Dialogue: 0,0:21:19.48,0:21:20.98,ZH,,0,0,0,,{\rZH\blur0.8}怀孕了？\N{\rEN\blur0.8}Pregnant?
+Dialogue: 0,0:21:21.01,0:21:23.05,ZH,,0,0,0,,{\rZH\blur0.8}是啊，切特，就是这么回事……你的超级精子\N{\rEN\blur0.8}Yeah, Chet, 'cause that's how it works... your super sperm
+Dialogue: 0,0:21:23.08,0:21:25.35,ZH,,0,0,0,,{\rZH\blur0.8}一跃就跳过了我的输卵管。\N{\rEN\blur0.8}jumping my fallopian tubes in a single bound.
+Dialogue: 0,0:21:27.35,0:21:28.92,ZH,,0,0,0,,{\rZH\blur0.8}嘿，麦迪！\N{\rEN\blur0.8}Hey, Maddie!
+Dialogue: 0,0:21:28.96,0:21:30.59,ZH,,0,0,0,,{\rZH\blur0.8}嗨。嘿。等等……嘿。\N{\rEN\blur0.8}Hi. Hey. Wait, uh... Hey.
+Dialogue: 0,0:21:30.62,0:21:33.39,ZH,,0,0,0,,{\rZH\blur0.8}嘿，麦迪逊，我们不如……\N{\rEN\blur0.8}Hey, uh, Madison, you know, why don't we, uh,
+Dialogue: 0,0:21:33.43,0:21:35.86,ZH,,0,0,0,,{\rZH\blur0.8}找个地方把这些放下？\N{\rEN\blur0.8}find somewhere where we can put these down?
+Dialogue: 0,0:21:35.90,0:21:37.40,ZH,,0,0,0,,{\rZH\blur0.8}你能拿一下吗？没问题。\N{\rEN\blur0.8}Can you take those? Sure.
+Dialogue: 0,0:21:37.43,0:21:38.73,ZH,,0,0,0,,{\rZH\blur0.8}太谢谢了。\N{\rEN\blur0.8}Thanks so much.
+Dialogue: 0,0:21:38.77,0:21:40.33,ZH,,0,0,0,,{\rZH\blur0.8}我们走一走，好吗？\N{\rEN\blur0.8}Um, why don't we take a little walk, okay?
+Dialogue: 0,0:21:40.37,0:21:41.90,ZH,,0,0,0,,{\rZH\blur0.8}听着，我知道发生了什么。\N{\rEN\blur0.8}Look, I know what happened.
+Dialogue: 0,0:21:41.93,0:21:43.87,ZH,,0,0,0,,{\rZH\blur0.8}天啊，奎恩，我很抱歉。\N{\rEN\blur0.8}Oh, my God, Quinn, I'm so sorry.
+Dialogue: 0,0:21:43.90,0:21:45.47,ZH,,0,0,0,,{\rZH\blur0.8}这不是你的错。\N{\rEN\blur0.8}This is not your fault.
+Dialogue: 0,0:21:45.51,0:21:46.77,ZH,,0,0,0,,{\rZH\blur0.8}他强迫你了吗？\N{\rEN\blur0.8}Did he force you?
+Dialogue: 0,0:21:46.81,0:21:48.88,ZH,,0,0,0,,{\rZH\blur0.8}我……你想让我说什么？\N{\rEN\blur0.8}I-I... What do you want me to say?
+Dialogue: 0,0:21:48.91,0:21:51.34,ZH,,0,0,0,,{\rZH\blur0.8}我想让你说实话。\N{\rEN\blur0.8}Well, I want you to tell me the truth.
+Dialogue: 0,0:21:51.38,0:21:53.08,ZH,,0,0,0,,{\rZH\blur0.8}切特和我只是在聊天……\N{\rEN\blur0.8}Well, Chet and I were just talking...
+Dialogue: 0,0:21:53.11,0:21:54.88,ZH,,0,0,0,,{\rZH\blur0.8}聊工作什么的……\N{\rEN\blur0.8}You know, about work and stuff...
+Dialogue: 0,0:21:54.91,0:21:56.75,ZH,,0,0,0,,{\rZH\blur0.8}然后事情就一发不可收拾，\N{\rEN\blur0.8}And then one thing led to another,
+Dialogue: 0,0:21:56.78,0:21:59.35,ZH,,0,0,0,,{\rZH\blur0.8}然后他的老二就在那儿，盯着我。\N{\rEN\blur0.8}and his penis was just right there, staring at me.
+Dialogue: 0,0:21:59.39,0:22:01.39,ZH,,0,0,0,,{\rZH\blur0.8}好吧，不管你知道与否，\N{\rEN\blur0.8}All right, whether you know it or not,
+Dialogue: 0,0:22:01.42,0:22:02.89,ZH,,0,0,0,,{\rZH\blur0.8}切特强迫了你。\N{\rEN\blur0.8}Chet forced himself on you.
+Dialogue: 0,0:22:02.92,0:22:04.06,ZH,,0,0,0,,{\rZH\blur0.8}事情就是这样。\N{\rEN\blur0.8}That's what happened.
+Dialogue: 0,0:22:04.09,0:22:05.72,ZH,,0,0,0,,{\rZH\blur0.8}但我没说不行。\N{\rEN\blur0.8}But I didn't say no.
+Dialogue: 0,0:22:05.76,0:22:07.93,ZH,,0,0,0,,{\rZH\blur0.8}好吧，抱歉。你多大了？\N{\rEN\blur0.8}Okay, I'm sorry. How old are you?
+Dialogue: 0,0:22:07.96,0:22:09.70,ZH,,0,0,0,,{\rZH\blur0.8}19？拜托。\N{\rEN\blur0.8}19? Please.
+Dialogue: 0,0:22:09.73,0:22:12.36,ZH,,0,0,0,,{\rZH\blur0.8}你的额叶都还没发育完全呢。\N{\rEN\blur0.8}Your frontal lobe hasn't even finished growing yet.
+Dialogue: 0,0:22:12.40,0:22:14.00,ZH,,0,0,0,,{\rZH\blur0.8}所以我从不提拔\N{\rEN\blur0.8}This is why I never promote anyone
+Dialogue: 0,0:22:14.03,0:22:16.64,ZH,,0,0,0,,{\rZH\blur0.8}26岁以下的人，懂吗？\N{\rEN\blur0.8}under the age of 26, okay?
+Dialogue: 0,0:22:16.67,0:22:18.37,ZH,,0,0,0,,{\rZH\blur0.8}切特就是这样，好吗？\N{\rEN\blur0.8}This is what Chet does, all right?
+Dialogue: 0,0:22:18.40,0:22:22.64,ZH,,0,0,0,,{\rZH\blur0.8}很久以前他对我也干过同样的事。\N{\rEN\blur0.8}He did the same thing to me a long time ago.
+Dialogue: 0,0:22:22.68,0:22:24.78,ZH,,0,0,0,,{\rZH\blur0.8}你只是被搞糊涂了，\N{\rEN\blur0.8}You were just confused,
+Dialogue: 0,0:22:24.81,0:22:27.68,ZH,,0,0,0,,{\rZH\blur0.8}不知道怎么拒绝。\N{\rEN\blur0.8}and you didn't know how to say no.
+Dialogue: 0,0:22:27.71,0:22:31.15,ZH,,0,0,0,,{\rZH\blur0.8}我是说，他是我老板啊。\N{\rEN\blur0.8}I mean, he is my boss.
+Dialogue: 0,0:22:31.18,0:22:33.65,ZH,,0,0,0,,{\rZH\blur0.8}但话说回来，你也是我老板，所以……\N{\rEN\blur0.8}But, then again, you're my boss, too, so...
+Dialogue: 0,0:22:33.69,0:22:36.66,ZH,,0,0,0,,{\rZH\blur0.8}所以……所以如果我现在让你给我口交，\N{\rEN\blur0.8}So... So... So if I asked you to go down on me right now,
+Dialogue: 0,0:22:36.69,0:22:37.96,ZH,,0,0,0,,{\rZH\blur0.8}你会吗？\N{\rEN\blur0.8}would you?
+Dialogue: 0,0:22:37.99,0:22:39.56,ZH,,0,0,0,,{\rZH\blur0.8}不会。\N{\rEN\blur0.8}No.
+Dialogue: 0,0:22:39.59,0:22:42.60,ZH,,0,0,0,,{\rZH\blur0.8}我……不是……这事就为这个？\N{\rEN\blur0.8}I m... I mean, n... Well, is that what this is about?
+Dialogue: 0,0:22:42.63,0:22:44.60,ZH,,0,0,0,,{\rZH\blur0.8}不是！行吗？\N{\rEN\blur0.8}No! All right?
+Dialogue: 0,0:22:44.63,0:22:46.87,ZH,,0,0,0,,{\rZH\blur0.8}拜托。好吧。\N{\rEN\blur0.8}Oh, come on. Okay.
+Dialogue: 0,0:22:46.90,0:22:50.44,ZH,,0,0,0,,{\rZH\blur0.8}我会给你找个律师，好吗？\N{\rEN\blur0.8}I am gonna get you a lawyer, okay?
+Dialogue: 0,0:22:50.47,0:22:53.54,ZH,,0,0,0,,{\rZH\blur0.8}我会帮你，好吗？\N{\rEN\blur0.8}I'm gonna help you, all right?
+Dialogue: 0,0:22:53.57,0:22:55.11,ZH,,0,0,0,,{\rZH\blur0.8}我们要让切特\N{\rEN\blur0.8}And we are going to make Chet
+Dialogue: 0,0:22:55.14,0:22:57.41,ZH,,0,0,0,,{\rZH\blur0.8}为他的所作所为负责。\N{\rEN\blur0.8}take responsibility for what he did.
+Dialogue: 0,0:22:58.71,0:23:00.55,ZH,,0,0,0,,{\rZH\blur0.8}谈得不错。\N{\rEN\blur0.8}Good talk.
+Dialogue: 0,0:23:00.58,0:23:02.42,ZH,,0,0,0,,{\rZH\blur0.8}可是，奎恩……\N{\rEN\blur0.8}But, Quinn...
+Dialogue: 0,0:23:02.45,0:23:04.02,ZH,,0,0,0,,{\rZH\blur0.8}对了，给我弄杯咖啡。\N{\rEN\blur0.8}Oh, and get me some coffee.
+Dialogue: 0,0:23:05.72,0:23:07.82,ZH,,0,0,0,,{\rZH\blur0.8}费丝的约会准备开拍。开始。\N{\rEN\blur0.8}Ready to roll on Faith's date. And action.
+Dialogue: 0,0:23:09.72,0:23:10.86,ZH,,0,0,0,,{\rZH\blur0.8}天啊！来吧。\N{\rEN\blur0.8}Oh, my gosh! Come on.
+Dialogue: 0,0:23:10.89,0:23:13.56,ZH,,0,0,0,,{\rZH\blur0.8}然后……\N{\rEN\blur0.8}And...
+Dialogue: 0,0:23:13.59,0:23:14.99,ZH,,0,0,0,,{\rZH\blur0.8}天啊。\N{\rEN\blur0.8}Oh, my gosh.
+Dialogue: 0,0:23:15.03,0:23:17.10,ZH,,0,0,0,,{\rZH\blur0.8}看那个。\N{\rEN\blur0.8}Look at that.
+Dialogue: 0,0:23:17.13,0:23:19.53,ZH,,0,0,0,,{\rZH\blur0.8}你觉得那是什么？不知道。也许是地窖。\N{\rEN\blur0.8}What do you think it was? I don't know. Maybe a root cellar.
+Dialogue: 0,0:23:19.57,0:23:21.70,ZH,,0,0,0,,{\rZH\blur0.8}可以改成不错的品酒室。你知道吗？\N{\rEN\blur0.8}Make a nice tasting room. You know what?
+Dialogue: 0,0:23:21.73,0:23:24.44,ZH,,0,0,0,,{\rZH\blur0.8}我相信你说得对。我都不知道这里还有个密室。\N{\rEN\blur0.8}I do believe you're right. I had no idea there was a secret room here.
+Dialogue: 0,0:23:24.47,0:23:25.87,ZH,,0,0,0,,{\rZH\blur0.8}对吧？\N{\rEN\blur0.8}Right?
+Dialogue: 0,0:23:25.90,0:23:29.71,ZH,,0,0,0,,{\rZH\blur0.8}这姑娘还真会看图纸。\N{\rEN\blur0.8}Damned if a girl can't read a blueprint.
+Dialogue: 0,0:23:29.74,0:23:31.58,ZH,,0,0,0,,{\rZH\blur0.8}停。停，各位。过了。\N{\rEN\blur0.8}And cut. Cut, guys. We got it.
+Dialogue: 0,0:23:31.61,0:23:33.48,ZH,,0,0,0,,{\rZH\blur0.8}说实话，很棒。真的？\N{\rEN\blur0.8}That was great, honestly. Really?
+Dialogue: 0,0:23:33.51,0:23:35.18,ZH,,0,0,0,,{\rZH\blur0.8}我觉得那好傻……用大锤砸泡沫砖。\N{\rEN\blur0.8}I feel like that was silly... Sledgehammering a foam brick.
+Dialogue: 0,0:23:35.21,0:23:37.58,ZH,,0,0,0,,{\rZH\blur0.8}不不不。我觉得，呃，上电视效果不错。\N{\rEN\blur0.8}Oh, no, no, no. I think it, uh, looks good on TV.
+Dialogue: 0,0:23:37.62,0:23:39.99,ZH,,0,0,0,,{\rZH\blur0.8}我们要不要，呃，把墙复位？我觉得已经拍好了。\N{\rEN\blur0.8}Should we, uh, reset the wall? I think we got it.
+Dialogue: 0,0:23:40.02,0:23:41.85,ZH,,0,0,0,,{\rZH\blur0.8}-是吗？  -没问题了。\N{\rEN\blur0.8}-Yeah?   -We're good.
+Dialogue: 0,0:23:41.89,0:23:43.02,ZH,,0,0,0,,{\rZH\blur0.8}好。谢谢。\N{\rEN\blur0.8}Okay. Thanks.
+Dialogue: 0,0:23:43.06,0:23:44.62,ZH,,0,0,0,,{\rZH\blur0.8}你们不如先休息一下\N{\rEN\blur0.8}Why don't you guys take a break
+Dialogue: 0,0:23:44.66,0:23:46.99,ZH,,0,0,0,,{\rZH\blur0.8}我们，呃，去布置那个货真价实的密室？\N{\rEN\blur0.8}while we, uh, set up the very real hidden room?
+Dialogue: 0,0:23:47.03,0:23:48.16,ZH,,0,0,0,,{\rZH\blur0.8}走吧。好，没问题。\N{\rEN\blur0.8}Come on. Yeah, sure.
+Dialogue: 0,0:23:53.80,0:23:55.60,ZH,,0,0,0,,{\rZH\blur0.8}哦。\N{\rEN\blur0.8}Oh.
+Dialogue: 0,0:23:55.64,0:23:56.94,ZH,,0,0,0,,{\rZH\blur0.8}嘿。嘿，你好。\N{\rEN\blur0.8}Hey. Hey, there.
+Dialogue: 0,0:23:56.97,0:23:59.74,ZH,,0,0,0,,{\rZH\blur0.8}我在想……\N{\rEN\blur0.8}So, I'm thinking...
+Dialogue: 0,0:23:59.77,0:24:01.14,ZH,,0,0,0,,{\rZH\blur0.8}嗯？\N{\rEN\blur0.8}Mm-hmm?
+Dialogue: 0,0:24:01.17,0:24:04.68,ZH,,0,0,0,,{\rZH\blur0.8}我想赢下这个。\N{\rEN\blur0.8}I want to win this thing.
+Dialogue: 0,0:24:04.71,0:24:06.85,ZH,,0,0,0,,{\rZH\blur0.8}认真的？对。\N{\rEN\blur0.8}Seriously? Yeah.
+Dialogue: 0,0:24:06.88,0:24:09.02,ZH,,0,0,0,,{\rZH\blur0.8}Faith，你和我，我、我、我们……\N{\rEN\blur0.8}Faith, you and I, w-w-w-w-we...
+Dialogue: 0,0:24:09.05,0:24:10.88,ZH,,0,0,0,,{\rZH\blur0.8}对，恶心。对，我知道。\N{\rEN\blur0.8}Yeah, ew. Yeah, I know that.
+Dialogue: 0,0:24:10.92,0:24:13.02,ZH,,0,0,0,,{\rZH\blur0.8}该死。这就是……这正是重点。\N{\rEN\blur0.8}Dang. That's... That's the point.
+Dialogue: 0,0:24:13.05,0:24:14.75,ZH,,0,0,0,,{\rZH\blur0.8}我没听懂。我不是……什么……\N{\rEN\blur0.8}I don't follow. I'm not... What...
+Dialogue: 0,0:24:14.79,0:24:16.26,ZH,,0,0,0,,{\rZH\blur0.8}好吧，听着。你和我可以把这个葡萄园整修好。\N{\rEN\blur0.8}Okay, look. You and I can fix up this vineyard.
+Dialogue: 0,0:24:16.29,0:24:18.62,ZH,,0,0,0,,{\rZH\blur0.8}你看到了……我干这活儿很在行。\N{\rEN\blur0.8}You saw... I'm real handy with this stuff.
+Dialogue: 0,0:24:18.66,0:24:20.53,ZH,,0,0,0,,{\rZH\blur0.8}还有Amy……她可以来这儿，\N{\rEN\blur0.8}And Amy... She could come up here,
+Dialogue: 0,0:24:20.56,0:24:22.63,ZH,,0,0,0,,{\rZH\blur0.8}我可以带她去旧金山。\N{\rEN\blur0.8}and I could take her to San Francisco.
+Dialogue: 0,0:24:22.66,0:24:25.96,ZH,,0,0,0,,{\rZH\blur0.8}我可以让她看到，我们不必当被排斥的人。\N{\rEN\blur0.8}And I could show her that we don't have to be outcasts.
+Dialogue: 0,0:24:26.00,0:24:27.60,ZH,,0,0,0,,{\rZH\blur0.8}听起来又得装一年。\N{\rEN\blur0.8}That sounds like another year of pretending.
+Dialogue: 0,0:24:27.63,0:24:29.17,ZH,,0,0,0,,{\rZH\blur0.8}老兄。\N{\rEN\blur0.8}Dude.
+Dialogue: 0,0:24:29.20,0:24:32.77,ZH,,0,0,0,,{\rZH\blur0.8}不知道有没有人告诉过你，你是个花花公子。\N{\rEN\blur0.8}I don't know if anyone's told you, but you are a player.
+Dialogue: 0,0:24:32.80,0:24:35.98,ZH,,0,0,0,,{\rZH\blur0.8}我要是在白纸上画个阴道，你说不定都会去搭讪。\N{\rEN\blur0.8}If I drew a vagina on a white piece of paper, you'd probably hit on it.
+Dialogue: 0,0:24:36.01,0:24:37.61,ZH,,0,0,0,,{\rZH\blur0.8}拜托。\N{\rEN\blur0.8}Come on.
+Dialogue: 0,0:24:37.64,0:24:40.91,ZH,,0,0,0,,{\rZH\blur0.8}我知道你还没准备好订婚……\N{\rEN\blur0.8}I know you're not ready to get engaged...
+Dialogue: 0,0:24:40.95,0:24:43.05,ZH,,0,0,0,,{\rZH\blur0.8}跟Anna或Grace都没准备好。\N{\rEN\blur0.8}To either Anna or Grace.
+Dialogue: 0,0:24:43.08,0:24:46.72,ZH,,0,0,0,,{\rZH\blur0.8}拜托，Adam。选我。\N{\rEN\blur0.8}Come on, Adam. Pick me.
+Dialogue: 0,0:24:46.75,0:24:48.19,ZH,,0,0,0,,{\rZH\blur0.8}你可以……\N{\rEN\blur0.8}You could get...
+Dialogue: 0,0:24:48.22,0:24:50.79,ZH,,0,0,0,,{\rZH\blur0.8}你可以在外面找任何你想要的女孩。\N{\rEN\blur0.8}You could get any girl that you want on the side.
+Dialogue: 0,0:24:50.82,0:24:53.19,ZH,,0,0,0,,{\rZH\blur0.8}老天知道我才不在乎。\N{\rEN\blur0.8}Lord knows I won't give a hoot.
+Dialogue: 0,0:24:53.22,0:24:54.99,ZH,,0,0,0,,{\rZH\blur0.8}Adam，这会很好的。\N{\rEN\blur0.8}Adam, this could be so good.
+Dialogue: 0,0:24:55.03,0:24:57.83,ZH,,0,0,0,,{\rZH\blur0.8}对我们俩都好。\N{\rEN\blur0.8}So good for both of us.
+Dialogue: 0,0:24:57.86,0:24:59.63,ZH,,0,0,0,,{\rZH\blur0.8}我们能去查一下\N{\rEN\blur0.8}Well, can we find out
+Dialogue: 0,0:24:59.67,0:25:01.80,ZH,,0,0,0,,{\rZH\blur0.8}从Napa来的最后一辆面包车到了没有？\N{\rEN\blur0.8}if the last van's shown up yet from Napa?
+Dialogue: 0,0:25:01.83,0:25:03.00,ZH,,0,0,0,,{\rZH\blur0.8}你能告诉我一声吗？\N{\rEN\blur0.8}Can you just let me know?
+Dialogue: 0,0:25:03.04,0:25:05.24,ZH,,0,0,0,,{\rZH\blur0.8}Faith想赢。\N{\rEN\blur0.8}Faith wants to win.
+Dialogue: 0,0:25:05.27,0:25:07.21,ZH,,0,0,0,,{\rZH\blur0.8}什么？哦，你？\N{\rEN\blur0.8}What? Oh, you?
+Dialogue: 0,0:25:07.24,0:25:08.54,ZH,,0,0,0,,{\rZH\blur0.8}呃。对。\N{\rEN\blur0.8}Ugh. Yeah.
+Dialogue: 0,0:25:08.58,0:25:09.91,ZH,,0,0,0,,{\rZH\blur0.8}嗯。她害怕了。\N{\rEN\blur0.8}Mm. She's scared.
+Dialogue: 0,0:25:09.94,0:25:12.01,ZH,,0,0,0,,{\rZH\blur0.8}她有个疯狂的想法，如果我选她，\N{\rEN\blur0.8}She has this crazy idea that if I pick her,
+Dialogue: 0,0:25:12.04,0:25:14.71,ZH,,0,0,0,,{\rZH\blur0.8}我们就能翻修葡萄园，然后她和Amy……是吗？\N{\rEN\blur0.8}we can renovate the vineyard, and then she and Amy... Yeah?
+Dialogue: 0,0:25:14.75,0:25:17.18,ZH,,0,0,0,,{\rZH\blur0.8}可以私奔去旧金山，从此幸福地生活\N{\rEN\blur0.8}Can run away to San Francisco and live happily ever after
+Dialogue: 0,0:25:17.22,0:25:19.62,ZH,,0,0,0,,{\rZH\blur0.8}不告诉家里任何人。\N{\rEN\blur0.8}without telling anyone back home.
+Dialogue: 0,0:25:19.65,0:25:21.69,ZH,,0,0,0,,{\rZH\blur0.8}她没胆子了，呃，我是说，\N{\rEN\blur0.8}She's losing her nerve, which, uh, I mean,
+Dialogue: 0,0:25:21.72,0:25:23.99,ZH,,0,0,0,,{\rZH\blur0.8}你肯定不会理解这种事吧？\N{\rEN\blur0.8}you wouldn't be able to relate to that, would you?
+Dialogue: 0,0:25:24.02,0:25:25.76,ZH,,0,0,0,,{\rZH\blur0.8}在考虑？\N{\rEN\blur0.8}Considering it?
+Dialogue: 0,0:25:25.79,0:25:28.23,ZH,,0,0,0,,{\rZH\blur0.8}好吧，Rachel，你和我可能搞砸了一些事……\N{\rEN\blur0.8}Okay, Rachel, you and I may have screwed some things up...
+Dialogue: 0,0:25:28.26,0:25:29.96,ZH,,0,0,0,,{\rZH\blur0.8}哦，你觉得？好吧，对。但是……\N{\rEN\blur0.8}Oh, you think? Okay, yeah. But...
+Dialogue: 0,0:25:30.00,0:25:32.00,ZH,,0,0,0,,{\rZH\blur0.8}你知道吗？我不行。我连这个都掺和不下去了。\N{\rEN\blur0.8}You know what? I can't. I can't even get into this anymore.
+Dialogue: 0,0:25:32.03,0:25:33.73,ZH,,0,0,0,,{\rZH\blur0.8}我应付不了这些别人的生活。\N{\rEN\blur0.8}I can't deal with all these other people's lives.
+Dialogue: 0,0:25:33.77,0:25:35.03,ZH,,0,0,0,,{\rZH\blur0.8}这对我来说太过分了。\N{\rEN\blur0.8}It's just way too much for me.
+Dialogue: 0,0:25:35.07,0:25:36.27,ZH,,0,0,0,,{\rZH\blur0.8}应付别人的生活？什么……\N{\rEN\blur0.8}Dealing with other people's lives? What...
+Dialogue: 0,0:25:36.30,0:25:37.74,ZH,,0,0,0,,{\rZH\blur0.8}这对我来说不健康。对不起，Adam。\N{\rEN\blur0.8}It's not healthy for me. I'm sorry, Adam.
+Dialogue: 0,0:25:37.77,0:25:39.04,ZH,,0,0,0,,{\rZH\blur0.8}这是电视节目，好吗？这不是真的。\N{\rEN\blur0.8}This is a TV show, okay? This isn't real.
+Dialogue: 0,0:25:39.07,0:25:40.87,ZH,,0,0,0,,{\rZH\blur0.8}对。我知道。这要结束了，对吧？\N{\rEN\blur0.8}Yeah. I know. This is ending. Right?
+Dialogue: 0,0:25:40.91,0:25:43.08,ZH,,0,0,0,,{\rZH\blur0.8}不，没有。我们还有一年要做。\N{\rEN\blur0.8}Well, it's not. We've got another year of this.
+Dialogue: 0,0:25:43.91,0:25:45.24,ZH,,0,0,0,,{\rZH\blur0.8}嗯，其实不是。\N{\rEN\blur0.8}Well, no, actually.
+Dialogue: 0,0:25:45.28,0:25:47.85,ZH,,0,0,0,,{\rZH\blur0.8}我在想我可能连《皇家翻修》都不做了。\N{\rEN\blur0.8}I'm thinking I may not even do "Royal Renovations."
+Dialogue: 0,0:25:47.88,0:25:49.25,ZH,,0,0,0,,{\rZH\blur0.8}我只是……什么？\N{\rEN\blur0.8}I just... What?
+Dialogue: 0,0:25:49.28,0:25:51.12,ZH,,0,0,0,,{\rZH\blur0.8}对。是你劝我做这个的。\N{\rEN\blur0.8}Yeah. You're the one who convinced me to do this.
+Dialogue: 0,0:25:51.15,0:25:53.89,ZH,,0,0,0,,{\rZH\blur0.8}现在你要消失了？听着，我让你做，\N{\rEN\blur0.8}Now you're gonna disappear? Listen, I told you to do it
+Dialogue: 0,0:25:53.92,0:25:55.99,ZH,,0,0,0,,{\rZH\blur0.8}是因为我觉得这对你来说是个明智之举\N{\rEN\blur0.8}because I thought it was something smart for you to do
+Dialogue: 0,0:25:56.02,0:25:57.76,ZH,,0,0,0,,{\rZH\blur0.8}为了你的未来，我现在仍然这么认为。\N{\rEN\blur0.8}for your future, and I still think that.
+Dialogue: 0,0:25:57.79,0:25:58.99,ZH,,0,0,0,,{\rZH\blur0.8}这……这真难以置信。\N{\rEN\blur0.8}That... That's unbelievable.
+Dialogue: 0,0:25:59.02,0:26:00.73,ZH,,0,0,0,,{\rZH\blur0.8}你能不能别那么自以为是？说真的。\N{\rEN\blur0.8}Will you get over yourself? Honestly.
+Dialogue: 0,0:26:00.76,0:26:02.29,ZH,,0,0,0,,{\rZH\blur0.8}好吧，过夜约会就选Grace吧，\N{\rEN\blur0.8}Okay, just pick Grace for the overnight,
+Dialogue: 0,0:26:02.33,0:26:04.20,ZH,,0,0,0,,{\rZH\blur0.8}我知道你迫不及待想这么做，然后往下走。\N{\rEN\blur0.8}which I know you're dying to do, and move on.
+Dialogue: 0,0:26:04.23,0:26:06.00,ZH,,0,0,0,,{\rZH\blur0.8}所以就认命吧，\N{\rEN\blur0.8}So just give in to the inevitable,
+Dialogue: 0,0:26:06.03,0:26:07.87,ZH,,0,0,0,,{\rZH\blur0.8}选性感不选格调，因为我就是个肤浅的种马。\N{\rEN\blur0.8}just pick sex over class 'cause I'm just a shallow manwhore.
+Dialogue: 0,0:26:07.90,0:26:09.60,ZH,,0,0,0,,{\rZH\blur0.8}对，差不多。\N{\rEN\blur0.8}Yeah, pretty much.
+Dialogue: 0,0:26:09.64,0:26:11.97,ZH,,0,0,0,,{\rZH\blur0.8}好，你可以选Grace，也可以选Anna。\N{\rEN\blur0.8}Okay, you can pick Grace, you can pick Anna.
+Dialogue: 0,0:26:12.00,0:26:13.91,ZH,,0,0,0,,{\rZH\blur0.8}你想做什么就做什么，好吗？\N{\rEN\blur0.8}You just do whatever you want to do, okay?
+Dialogue: 0,0:26:13.94,0:26:15.88,ZH,,0,0,0,,{\rZH\blur0.8}然后我想做什么就做什么。\N{\rEN\blur0.8}And then I will do whatever I want to do.
+Dialogue: 0,0:26:15.91,0:26:17.61,ZH,,0,0,0,,{\rZH\blur0.8}而我们知道这两件事……\N{\rEN\blur0.8}And we know that those two things...
+Dialogue: 0,0:26:17.64,0:26:19.61,ZH,,0,0,0,,{\rZH\blur0.8}它们根本不在同一个世界。\N{\rEN\blur0.8}They don't really run in the same universe.
+Dialogue: 0,0:26:26.08,0:26:28.19,ZH,,0,0,0,,{\rZH\blur0.8}哦，Rachel！太好了。\N{\rEN\blur0.8}Oh, Rachel! Great.
+Dialogue: 0,0:26:28.22,0:26:29.76,ZH,,0,0,0,,{\rZH\blur0.8}进来。坐吧。\N{\rEN\blur0.8}Come in. Have a seat.
+Dialogue: 0,0:26:29.79,0:26:31.66,ZH,,0,0,0,,{\rZH\blur0.8}那是什么？哦。\N{\rEN\blur0.8}What's that? Oh.
+Dialogue: 0,0:26:31.69,0:26:33.16,ZH,,0,0,0,,{\rZH\blur0.8}那真是一团乱。\N{\rEN\blur0.8}That is a mess.
+Dialogue: 0,0:26:33.19,0:26:38.06,ZH,,0,0,0,,{\rZH\blur0.8}但这个……是我八年来的点子，从没告诉过Chet。\N{\rEN\blur0.8}But this... is eight years of ideas I never told Chet about.
+Dialogue: 0,0:26:38.10,0:26:41.77,ZH,,0,0,0,,{\rZH\blur0.8}嗯。我要离开他。\N{\rEN\blur0.8}Hmm. I'm leaving him.
+Dialogue: 0,0:26:41.80,0:26:43.30,ZH,,0,0,0,,{\rZH\blur0.8}什么？他做了什么？\N{\rEN\blur0.8}What? What did he do?
+Dialogue: 0,0:26:43.34,0:26:44.80,ZH,,0,0,0,,{\rZH\blur0.8}你根本想不到。\N{\rEN\blur0.8}You have no idea.
+Dialogue: 0,0:26:44.84,0:26:46.77,ZH,,0,0,0,,{\rZH\blur0.8}而我会处理好。\N{\rEN\blur0.8}And I am handling it.
+Dialogue: 0,0:26:46.81,0:26:49.91,ZH,,0,0,0,,{\rZH\blur0.8}但首先，我得先准备好我的降落伞\N{\rEN\blur0.8}But first, I need to set up my parachute
+Dialogue: 0,0:26:49.94,0:26:52.08,ZH,,0,0,0,,{\rZH\blur0.8}才能挥下斧头。\N{\rEN\blur0.8}before I can sling the ax.
+Dialogue: 0,0:26:52.11,0:26:53.78,ZH,,0,0,0,,{\rZH\blur0.8}抱歉，那是什么意思？\N{\rEN\blur0.8}I'm sorry, what does that mean?
+Dialogue: 0,0:26:55.68,0:27:01.12,ZH,,0,0,0,,{\rZH\blur0.8}我刚意识到，我不想跟Chet在一起了。\N{\rEN\blur0.8}I just realized that I don't want to be with Chet.
+Dialogue: 0,0:27:01.15,0:27:02.79,ZH,,0,0,0,,{\rZH\blur0.8}我想成为Chet。\N{\rEN\blur0.8}I want to be Chet.
+Dialogue: 0,0:27:02.82,0:27:05.16,ZH,,0,0,0,,{\rZH\blur0.8}所以我要自己开公司，\N{\rEN\blur0.8}So I'm starting my own company,
+Dialogue: 0,0:27:05.19,0:27:06.79,ZH,,0,0,0,,{\rZH\blur0.8}我想你跟我一起。\N{\rEN\blur0.8}and I want you to come with me.
+Dialogue: 0,0:27:08.23,0:27:09.80,ZH,,0,0,0,,{\rZH\blur0.8}Quinn。\N{\rEN\blur0.8}Quinn.
+Dialogue: 0,0:27:09.83,0:27:11.13,ZH,,0,0,0,,{\rZH\blur0.8}哇。\N{\rEN\blur0.8}Oh, wow.
+Dialogue: 0,0:27:11.16,0:27:13.23,ZH,,0,0,0,,{\rZH\blur0.8}我……都不知道该说什么。\N{\rEN\blur0.8}I...don't even know what to say.
+Dialogue: 0,0:27:13.26,0:27:14.70,ZH,,0,0,0,,{\rZH\blur0.8}好，但不是当小喽啰。\N{\rEN\blur0.8}Okay, but not as a minion.
+Dialogue: 0,0:27:14.73,0:27:16.37,ZH,,0,0,0,,{\rZH\blur0.8}也不是做副手。\N{\rEN\blur0.8}Not even a-a right-hand woman.
+Dialogue: 0,0:27:16.40,0:27:18.67,ZH,,0,0,0,,{\rZH\blur0.8}完全的合伙人。\N{\rEN\blur0.8}Full partner.
+Dialogue: 0,0:27:18.70,0:27:19.94,ZH,,0,0,0,,{\rZH\blur0.8}太棒了。\N{\rEN\blur0.8}That's incredible.
+Dialogue: 0,0:27:19.97,0:27:21.81,ZH,,0,0,0,,{\rZH\blur0.8}真是太棒了。\N{\rEN\blur0.8}That's super incredible.
+Dialogue: 0,0:27:21.84,0:27:24.34,ZH,,0,0,0,,{\rZH\blur0.8}还有，呃……\N{\rEN\blur0.8}And, um...
+Dialogue: 0,0:27:24.38,0:27:26.71,ZH,,0,0,0,,{\rZH\blur0.8}哇，我很荣幸，但是，呃……\N{\rEN\blur0.8}Wow, yeah, I'm honored, but, um...
+Dialogue: 0,0:27:26.75,0:27:28.41,ZH,,0,0,0,,{\rZH\blur0.8}但是什么？拜托。\N{\rEN\blur0.8}But what? I mean, come on.
+Dialogue: 0,0:27:28.45,0:27:31.22,ZH,,0,0,0,,{\rZH\blur0.8}我们可以做真正有意义的电视，\N{\rEN\blur0.8}We can make TV that really matters,
+Dialogue: 0,0:27:31.25,0:27:34.25,ZH,,0,0,0,,{\rZH\blur0.8}不会让人觉得是贪求的、\N{\rEN\blur0.8}that doesn't make people feel like needy,
+Dialogue: 0,0:27:34.29,0:27:36.19,ZH,,0,0,0,,{\rZH\blur0.8}没用的肉袋子。\N{\rEN\blur0.8}useless bags of flesh.
+Dialogue: 0,0:27:36.22,0:27:39.69,ZH,,0,0,0,,{\rZH\blur0.8}只是Jeremy和我最近一直在谈……\N{\rEN\blur0.8}It's just that Jeremy and I have really started talking about...
+Dialogue: 0,0:27:39.73,0:27:41.03,ZH,,0,0,0,,{\rZH\blur0.8}退出这行。\N{\rEN\blur0.8}getting out.
+Dialogue: 0,0:27:41.06,0:27:42.70,ZH,,0,0,0,,{\rZH\blur0.8}Jeremy？\N{\rEN\blur0.8}Jeremy?
+Dialogue: 0,0:27:44.43,0:27:46.70,ZH,,0,0,0,,{\rZH\blur0.8}对，他……我们只是在说，那个，\N{\rEN\blur0.8}Yeah, he... We're just, like, talking about, like,
+Dialogue: 0,0:27:46.73,0:27:50.00,ZH,,0,0,0,,{\rZH\blur0.8}离开这行，然后……我懂，就是重新开始。\N{\rEN\blur0.8}leaving the business, and... I know, just, like starting new.
+Dialogue: 0,0:27:50.04,0:27:51.37,ZH,,0,0,0,,{\rZH\blur0.8}所以……\N{\rEN\blur0.8}So...
+Dialogue: 0,0:27:51.40,0:27:53.24,ZH,,0,0,0,,{\rZH\blur0.8}真的？\N{\rEN\blur0.8}Really?
+Dialogue: 0,0:27:55.07,0:27:59.71,ZH,,0,0,0,,{\rZH\blur0.8}你是说，你那个底层打杂、精打细算的男朋友\N{\rEN\blur0.8}I'm sorry, your below-the-line, coupon-cutting boyfriend
+Dialogue: 0,0:27:59.75,0:28:01.95,ZH,,0,0,0,,{\rZH\blur0.8}能给你比跟我五年合约\N{\rEN\blur0.8}is gonna offer you something more interesting
+Dialogue: 0,0:28:01.98,0:28:03.48,ZH,,0,0,0,,{\rZH\blur0.8}更有意思的东西？\N{\rEN\blur0.8}than a five-year deal with me?
+Dialogue: 0,0:28:03.52,0:28:05.75,ZH,,0,0,0,,{\rZH\blur0.8}Quinn，他人很好，而且他爱我。\N{\rEN\blur0.8}Quinn, he's a very nice guy, and he loves me.
+Dialogue: 0,0:28:07.29,0:28:09.79,ZH,,0,0,0,,{\rZH\blur0.8}我只是觉得我该给它一个机会。\N{\rEN\blur0.8}I just think I should give it a chance.
+Dialogue: 0,0:28:09.82,0:28:11.86,ZH,,0,0,0,,{\rZH\blur0.8}你要干什么？\N{\rEN\blur0.8}What are you gonna do?
+Dialogue: 0,0:28:11.89,0:28:14.86,ZH,,0,0,0,,{\rZH\blur0.8}去他的小木屋里过家家？\N{\rEN\blur0.8}Go play house in his little log cabin?
+Dialogue: 0,0:28:14.89,0:28:16.26,ZH,,0,0,0,,{\rZH\blur0.8}写你的小说？\N{\rEN\blur0.8}Write your novel?
+Dialogue: 0,0:28:16.30,0:28:19.03,ZH,,0,0,0,,{\rZH\blur0.8}去女性收容所做志愿者？\N{\rEN\blur0.8}Go volunteer at women's shelters?
+Dialogue: 0,0:28:19.06,0:28:21.27,ZH,,0,0,0,,{\rZH\blur0.8}拜托。也许吧。\N{\rEN\blur0.8}Please. Maybe.
+Dialogue: 0,0:28:21.30,0:28:22.94,ZH,,0,0,0,,{\rZH\blur0.8}“也许”，是吧。那就去吧。\N{\rEN\blur0.8}"Maybe," yeah. Go, then.
+Dialogue: 0,0:28:22.97,0:28:24.87,ZH,,0,0,0,,{\rZH\blur0.8}你知道吗？去吧，去做吧。\N{\rEN\blur0.8}You know what? Just go. Do it.
+Dialogue: 0,0:28:24.90,0:28:27.04,ZH,,0,0,0,,{\rZH\blur0.8}想的话就加入和平队，\N{\rEN\blur0.8}Join the Peace Corps if you want,
+Dialogue: 0,0:28:27.07,0:28:29.21,ZH,,0,0,0,,{\rZH\blur0.8}看看把那个当人生是什么感觉。\N{\rEN\blur0.8}and see how that feels as your life.
+Dialogue: 0,0:28:29.24,0:28:32.28,ZH,,0,0,0,,{\rZH\blur0.8}你知道吗？我就是不想做一个一辈子只有这个的女人。\N{\rEN\blur0.8}You know something? I just don't want to be a woman whose whole life is this.
+Dialogue: 0,0:28:33.91,0:28:35.75,ZH,,0,0,0,,{\rZH\blur0.8}你可能想成为Chet，\N{\rEN\blur0.8}You may want to be Chet,
+Dialogue: 0,0:28:35.78,0:28:37.92,ZH,,0,0,0,,{\rZH\blur0.8}但我不想成为你，Quinn。\N{\rEN\blur0.8}but I don't want to be you, Quinn.
+Dialogue: 0,0:28:46.22,0:28:47.86,ZH,,0,0,0,,{\rZH\blur0.8}现在我们到了，三人变成两人。\N{\rEN\blur0.8}And here we are, where three become two.
+Dialogue: 0,0:28:51.06,0:28:54.47,ZH,,0,0,0,,{\rZH\blur0.8}Adam，你做好决定了吗？\N{\rEN\blur0.8}Adam. Have you made your decision?
+Dialogue: 0,0:28:54.50,0:28:56.17,ZH,,0,0,0,,{\rZH\blur0.8}是的，做好了。\N{\rEN\blur0.8}Yes, I have.
+Dialogue: 0,0:28:56.20,0:28:59.77,ZH,,0,0,0,,{\rZH\blur0.8}安娜。费丝。格蕾丝。\N{\rEN\blur0.8}Anna. Faith. Grace.
+Dialogue: 0,0:28:59.81,0:29:03.21,ZH,,0,0,0,,{\rZH\blur0.8}我真的很享受了解你们每一个人。\N{\rEN\blur0.8}I've really enjoyed getting to know each of you.
+Dialogue: 0,0:29:03.24,0:29:05.21,ZH,,0,0,0,,{\rZH\blur0.8}你们都是了不起的女人。\N{\rEN\blur0.8}You are all remarkable women.
+Dialogue: 0,0:29:05.24,0:29:08.38,ZH,,0,0,0,,{\rZH\blur0.8}这个决定对我来说非常艰难。\N{\rEN\blur0.8}And this has been a very difficult decision for me.
+Dialogue: 0,0:29:08.41,0:29:11.92,ZH,,0,0,0,,{\rZH\blur0.8}但是……\N{\rEN\blur0.8}But...
+Dialogue: 0,0:29:11.95,0:29:15.42,ZH,,0,0,0,,{\rZH\blur0.8}Faith，你该回家了。\N{\rEN\blur0.8}Faith, it's time for you to go home.
+Dialogue: 0,0:29:17.56,0:29:20.23,ZH,,0,0,0,,{\rZH\blur0.8}我花了很长时间想象我们在一起的生活，\N{\rEN\blur0.8}I spent a long time trying to imagine our life together
+Dialogue: 0,0:29:20.26,0:29:23.06,ZH,,0,0,0,,{\rZH\blur0.8}想象我们在葡萄园会度过多么美妙的一年，\N{\rEN\blur0.8}and what an incredible year at the vineyard we might have,
+Dialogue: 0,0:29:23.10,0:29:25.23,ZH,,0,0,0,,{\rZH\blur0.8}但最终，我无法否认那种身体的化学反应\N{\rEN\blur0.8}but ultimately, I can't deny the physical chemistry
+Dialogue: 0,0:29:25.26,0:29:26.80,ZH,,0,0,0,,{\rZH\blur0.8}我和其他女人之间有。\N{\rEN\blur0.8}I have with the other women.
+Dialogue: 0,0:29:26.83,0:29:29.80,ZH,,0,0,0,,{\rZH\blur0.8}因为她们是真正的女人。\N{\rEN\blur0.8}'Cause they're women.
+Dialogue: 0,0:29:29.84,0:29:34.34,ZH,,0,0,0,,{\rZH\blur0.8}虽然我把你当朋友，以后也一直是，我……\N{\rEN\blur0.8}And while I see you as a friend and I always will, I...
+Dialogue: 0,0:29:34.37,0:29:36.34,ZH,,0,0,0,,{\rZH\blur0.8}我觉得我们不该结婚。\N{\rEN\blur0.8}I don't think we're meant to marry.
+Dialogue: 0,0:29:46.12,0:29:47.35,ZH,,0,0,0,,{\rZH\blur0.8}对不起。\N{\rEN\blur0.8}I'm sorry.
+Dialogue: 0,0:29:47.39,0:29:49.99,ZH,,0,0,0,,{\rZH\blur0.8}别道歉。\N{\rEN\blur0.8}Don't be.
+Dialogue: 0,0:29:50.02,0:29:53.36,ZH,,0,0,0,,{\rZH\blur0.8}我明白。\N{\rEN\blur0.8}I understand.
+Dialogue: 0,0:29:54.99,0:29:57.53,ZH,,0,0,0,,{\rZH\blur0.8}我希望你坚持走下去，好吗？\N{\rEN\blur0.8}I want you to stay the course, okay?
+Dialogue: 0,0:29:57.56,0:30:00.53,ZH,,0,0,0,,{\rZH\blur0.8}你是个很好的人，\N{\rEN\blur0.8}You are a wonderful person,
+Dialogue: 0,0:30:00.57,0:30:03.24,ZH,,0,0,0,,{\rZH\blur0.8}你绝对值得幸福。\N{\rEN\blur0.8}and you definitely deserve to be happy.
+Dialogue: 0,0:30:03.27,0:30:08.34,ZH,,0,0,0,,{\rZH\blur0.8}无论你选谁，都要听从内心，好吗？\N{\rEN\blur0.8}Whoever you choose, you choose from your heart, okay?
+Dialogue: 0,0:30:08.37,0:30:10.11,ZH,,0,0,0,,{\rZH\blur0.8}好。\N{\rEN\blur0.8}Yeah.
+Dialogue: 0,0:30:13.91,0:30:16.38,ZH,,0,0,0,,{\rZH\blur0.8}拜托，拜托，总该有点什么吧。\N{\rEN\blur0.8}Oh, come on, come on. There's got to be something.
+Dialogue: 0,0:30:16.42,0:30:18.35,ZH,,0,0,0,,{\rZH\blur0.8}无聊。\N{\rEN\blur0.8}Boring.
+Dialogue: 0,0:30:18.38,0:30:20.85,ZH,,0,0,0,,{\rZH\blur0.8}呃，不是这个。\N{\rEN\blur0.8}Ugh, not this.
+Dialogue: 0,0:30:36.34,0:30:39.54,ZH,,0,0,0,,{\rZH\blur0.8}现在到了你的下一个决定，Adam。\N{\rEN\blur0.8}And now it is time for your next decision, Adam.
+Dialogue: 0,0:30:39.57,0:30:42.04,ZH,,0,0,0,,{\rZH\blur0.8}这两位幸运的女士中\N{\rEN\blur0.8}Which one of these two lucky ladies
+Dialogue: 0,0:30:42.07,0:30:44.44,ZH,,0,0,0,,{\rZH\blur0.8}哪一位会和你共度良宵？\N{\rEN\blur0.8}will be spending the night with you?
+Dialogue: 0,0:30:44.48,0:30:48.98,ZH,,0,0,0,,{\rZH\blur0.8}呃，可能有人会觉得意外，但是，呃……\N{\rEN\blur0.8}Well, um, some may find this unexpected, but, um...
+Dialogue: 0,0:30:49.02,0:30:51.58,ZH,,0,0,0,,{\rZH\blur0.8}Anna。\N{\rEN\blur0.8}Anna.
+Dialogue: 0,0:30:51.62,0:30:53.28,ZH,,0,0,0,,{\rZH\blur0.8}你愿意和我共度今晚吗？\N{\rEN\blur0.8}Will you spend the evening with me?
+Dialogue: 0,0:30:53.32,0:30:55.39,ZH,,0,0,0,,{\rZH\blur0.8}愿意。\N{\rEN\blur0.8}Yes.
+Dialogue: 0,0:30:55.42,0:30:57.89,ZH,,0,0,0,,{\rZH\blur0.8}愿意，当然。\N{\rEN\blur0.8}Yes, of course.
+Dialogue: 0,0:30:57.92,0:31:00.93,ZH,,0,0,0,,{\rZH\blur0.8}谁能想到？希望他别伤了她。\N{\rEN\blur0.8}Who'd have thunk? Hope he doesn't break her.
+Dialogue: 0,0:31:06.46,0:31:07.63,ZH,,0,0,0,,{\rZH\blur0.8}嘿，呃……嘿。\N{\rEN\blur0.8}Hey, uh... Hey.
+Dialogue: 0,0:31:07.67,0:31:09.17,ZH,,0,0,0,,{\rZH\blur0.8}今晚的仪式办得好。\N{\rEN\blur0.8}Great job on the ceremony tonight.
+Dialogue: 0,0:31:09.20,0:31:10.44,ZH,,0,0,0,,{\rZH\blur0.8}看起来棒极了，谢谢。\N{\rEN\blur0.8}It looked fantastic. Thank you.
+Dialogue: 0,0:31:10.47,0:31:12.60,ZH,,0,0,0,,{\rZH\blur0.8}现在，呃，滚回你的办公室，\N{\rEN\blur0.8}Now, uh, get your ass into your office,
+Dialogue: 0,0:31:12.64,0:31:14.31,ZH,,0,0,0,,{\rZH\blur0.8}把你男朋友也带来。\N{\rEN\blur0.8}and bring your boyfriend.
+Dialogue: 0,0:31:14.34,0:31:15.98,ZH,,0,0,0,,{\rZH\blur0.8}Jeremy？\N{\rEN\blur0.8}Jeremy?
+Dialogue: 0,0:31:16.01,0:31:18.04,ZH,,0,0,0,,{\rZH\blur0.8}另一个。\N{\rEN\blur0.8}The other one.
+Dialogue: 0,0:31:22.15,0:31:24.02,ZH,,0,0,0,,{\rZH\blur0.8}糟了。\N{\rEN\blur0.8}Shit.
+Dialogue: 0,0:31:26.35,0:31:28.69,ZH,,0,0,0,,{\rZH\blur0.8}嗨。\N{\rEN\blur0.8}Hi.
+Dialogue: 0,0:31:28.72,0:31:31.22,ZH,,0,0,0,,{\rZH\blur0.8}呃……姑娘们有问题的时候\N{\rEN\blur0.8}Um... you talk to the girls
+Dialogue: 0,0:31:31.26,0:31:34.93,ZH,,0,0,0,,{\rZH\blur0.8}你会跟她们谈，对吧？\N{\rEN\blur0.8}when they have a problem and stuff, right?
+Dialogue: 0,0:31:34.96,0:31:36.10,ZH,,0,0,0,,{\rZH\blur0.8}我就知道。Grace。\N{\rEN\blur0.8}I knew it. Grace.
+Dialogue: 0,0:31:36.13,0:31:37.53,ZH,,0,0,0,,{\rZH\blur0.8}我看见她冲出去\N{\rEN\blur0.8}I saw her tear out of here
+Dialogue: 0,0:31:37.56,0:31:39.40,ZH,,0,0,0,,{\rZH\blur0.8}拿着一整个Entenmann's蛋糕和一把叉子。\N{\rEN\blur0.8}with an entire Entenmann's cake and a fork.
+Dialogue: 0,0:31:39.43,0:31:40.70,ZH,,0,0,0,,{\rZH\blur0.8}不，不是……不是Grace。\N{\rEN\blur0.8}No, it's not... It's not Grace.
+Dialogue: 0,0:31:40.73,0:31:42.23,ZH,,0,0,0,,{\rZH\blur0.8}她不太想谈这件事。\N{\rEN\blur0.8}She doesn't really want to talk about it.
+Dialogue: 0,0:31:42.27,0:31:45.60,ZH,,0,0,0,,{\rZH\blur0.8}但你想谈？不，不是关于Grace。\N{\rEN\blur0.8}But you do? No, not about Grace.
+Dialogue: 0,0:31:45.64,0:31:47.04,ZH,,0,0,0,,{\rZH\blur0.8}呃，我……Madison，怎么了？\N{\rEN\blur0.8}Um, I... Madison, what is it?
+Dialogue: 0,0:31:47.07,0:31:50.08,ZH,,0,0,0,,{\rZH\blur0.8}嗯……就是……Quinn想让我说……\N{\rEN\blur0.8}Well... it's just... Quinn wants me to say...
+Dialogue: 0,0:31:50.11,0:31:53.04,ZH,,0,0,0,,{\rZH\blur0.8}Chet强迫了我，但其实他没有，\N{\rEN\blur0.8}that Chet forced me, but he didn't really,
+Dialogue: 0,0:31:53.08,0:31:54.48,ZH,,0,0,0,,{\rZH\blur0.8}老实说，也不是什么大事。\N{\rEN\blur0.8}and honestly, it wasn't that big of a deal.
+Dialogue: 0,0:31:54.51,0:31:55.98,ZH,,0,0,0,,{\rZH\blur0.8}只是件小事。\N{\rEN\blur0.8}It was just a small thing.
+Dialogue: 0,0:31:56.02,0:31:57.38,ZH,,0,0,0,,{\rZH\blur0.8}你和切特做了什么？\N{\rEN\blur0.8}You did something with Chet?
+Dialogue: 0,0:31:59.58,0:32:01.35,ZH,,0,0,0,,{\rZH\blur0.8}你做了什么？\N{\rEN\blur0.8}What did you do?
+Dialogue: 0,0:32:01.39,0:32:07.59,ZH,,0,0,0,,{\rZH\blur0.8}我、我们只是待在一起，然后我给他……你懂的。\N{\rEN\blur0.8}W-We were just hanging out, and I gave him... you know.
+Dialogue: 0,0:32:09.43,0:32:11.23,ZH,,0,0,0,,{\rZH\blur0.8}啊，我懂了。嗯。\N{\rEN\blur0.8}Ah, I got it. Yeah.
+Dialogue: 0,0:32:11.26,0:32:14.53,ZH,,0,0,0,,{\rZH\blur0.8}呃，我是说……我觉得我只是太受宠若惊了\N{\rEN\blur0.8}Um, I mean... I think I was just really flattered
+Dialogue: 0,0:32:14.57,0:32:17.57,ZH,,0,0,0,,{\rZH\blur0.8}因为他居然真的对我感兴趣，\N{\rEN\blur0.8}because he was actually interested in me,
+Dialogue: 0,0:32:17.60,0:32:19.97,ZH,,0,0,0,,{\rZH\blur0.8}而且从来没人对我感兴趣。\N{\rEN\blur0.8}and nobody's ever interested in me.
+Dialogue: 0,0:32:20.01,0:32:21.51,ZH,,0,0,0,,{\rZH\blur0.8}哦，亲爱的。\N{\rEN\blur0.8}Oh, honey.
+Dialogue: 0,0:32:21.54,0:32:25.18,ZH,,0,0,0,,{\rZH\blur0.8}但后来奎恩开始说找律师、起诉切特\N{\rEN\blur0.8}But then Quinn started talking about lawyers and suing Chet
+Dialogue: 0,0:32:25.21,0:32:27.38,ZH,,0,0,0,,{\rZH\blur0.8}还……还想让我作证。\N{\rEN\blur0.8}and... and wanting me to testify.
+Dialogue: 0,0:32:27.41,0:32:29.52,ZH,,0,0,0,,{\rZH\blur0.8}你想这么做吗？\N{\rEN\blur0.8}Is that something you want to do?
+Dialogue: 0,0:32:29.55,0:32:30.72,ZH,,0,0,0,,{\rZH\blur0.8}我不知道。\N{\rEN\blur0.8}I don't know.
+Dialogue: 0,0:32:30.75,0:32:33.65,ZH,,0,0,0,,{\rZH\blur0.8}奎恩好像很在意这件事。\N{\rEN\blur0.8}Quinn seems really upset about this.
+Dialogue: 0,0:32:33.68,0:32:35.52,ZH,,0,0,0,,{\rZH\blur0.8}奎恩是个很复杂的人。\N{\rEN\blur0.8}Quinn is a complicated person.
+Dialogue: 0,0:32:35.55,0:32:37.42,ZH,,0,0,0,,{\rZH\blur0.8}什么意思？\N{\rEN\blur0.8}What do you mean?
+Dialogue: 0,0:32:37.46,0:32:40.69,ZH,,0,0,0,,{\rZH\blur0.8}这里没人做事是出于好心。\N{\rEN\blur0.8}Nobody here does anything to be nice.
+Dialogue: 0,0:32:42.29,0:32:46.03,ZH,,0,0,0,,{\rZH\blur0.8}你越早明白这点，就能活得越久。\N{\rEN\blur0.8}The quicker you learn that, the longer you'll survive.
+Dialogue: 0,0:32:47.73,0:32:51.44,ZH,,0,0,0,,{\rZH\blur0.8}好吧，但我是说，奎恩会非常生气\N{\rEN\blur0.8}Okay, but, I mean, Quinn is gonna be really angry
+Dialogue: 0,0:32:51.47,0:32:52.47,ZH,,0,0,0,,{\rZH\blur0.8}如果我不照做的话。\N{\rEN\blur0.8}if I don't.
+Dialogue: 0,0:32:52.50,0:32:54.44,ZH,,0,0,0,,{\rZH\blur0.8}放松，亲爱的。没事的。\N{\rEN\blur0.8}Relax, honey. It's okay.
+Dialogue: 0,0:32:54.47,0:32:58.14,ZH,,0,0,0,,{\rZH\blur0.8}我觉得也许还有别的办法解决这件事。\N{\rEN\blur0.8}I think there might be another way to solve this.
+Dialogue: 0,0:33:02.31,0:33:03.68,ZH,,0,0,0,,{\rZH\blur0.8}那我们来这儿干什么？\N{\rEN\blur0.8}So, what are we doing here?
+Dialogue: 0,0:33:03.72,0:33:07.15,ZH,,0,0,0,,{\rZH\blur0.8}学一课。\N{\rEN\blur0.8}Learning a lesson.
+Dialogue: 0,0:33:07.19,0:33:11.49,ZH,,0,0,0,,{\rZH\blur0.8}我猜你是把毛巾或运动衫\N{\rEN\blur0.8}Now, I'm assuming you threw a towel or your sweatshirt
+Dialogue: 0,0:33:11.52,0:33:16.03,ZH,,0,0,0,,{\rZH\blur0.8}或者什么东西盖在摄像头上了，但是……等着看。\N{\rEN\blur0.8}or something over the camera, but... just wait for it.
+Dialogue: 0,0:33:16.06,0:33:18.60,ZH,,0,0,0,,{\rZH\blur0.8}等着看。然后……\N{\rEN\blur0.8}Wait for it. And...
+Dialogue: 0,0:33:18.63,0:33:21.70,ZH,,0,0,0,,{\rZH\blur0.8}哦！来了。\N{\rEN\blur0.8}Oh! There it is.
+Dialogue: 0,0:33:21.73,0:33:25.50,ZH,,0,0,0,,{\rZH\blur0.8}哦，你们俩一起干这事可真厉害啊？\N{\rEN\blur0.8}Oh, aren't you two so great at that together?
+Dialogue: 0,0:33:29.58,0:33:32.08,ZH,,0,0,0,,{\rZH\blur0.8}那个……奎恩，那不代表什么。\N{\rEN\blur0.8}So... Quinn, that didn't mean anything.
+Dialogue: 0,0:33:32.11,0:33:34.41,ZH,,0,0,0,,{\rZH\blur0.8}不是……哦，我不在乎当时那不代表什么。\N{\rEN\blur0.8}It's not... Oh, I don't care that it didn't mean anything then.
+Dialogue: 0,0:33:34.45,0:33:37.28,ZH,,0,0,0,,{\rZH\blur0.8}但现在它肯定有意义了，不是吗？\N{\rEN\blur0.8}But it sure as hell means something now, doesn't it?
+Dialogue: 0,0:33:38.48,0:33:41.62,ZH,,0,0,0,,{\rZH\blur0.8}它的意思就是，你要来为我工作\N{\rEN\blur0.8}What it means is that you are gonna come and work for me
+Dialogue: 0,0:33:41.65,0:33:43.79,ZH,,0,0,0,,{\rZH\blur0.8}在我的新公司，不许问问题。\N{\rEN\blur0.8}at my new company, no questions asked.
+Dialogue: 0,0:33:43.82,0:33:46.62,ZH,,0,0,0,,{\rZH\blur0.8}如果你不同意，我就拿走那段录像，\N{\rEN\blur0.8}And if you don't agree, I'm gonna take that footage,
+Dialogue: 0,0:33:46.66,0:33:49.46,ZH,,0,0,0,,{\rZH\blur0.8}走到外面，把它放给\N{\rEN\blur0.8}and I'm gonna walk outside and I'm gonna show it
+Dialogue: 0,0:33:49.50,0:33:51.73,ZH,,0,0,0,,{\rZH\blur0.8}亲爱、忠诚的小杰瑞米看，\N{\rEN\blur0.8}to sweet, little, old, faithful Jeremy,
+Dialogue: 0,0:33:51.76,0:33:53.76,ZH,,0,0,0,,{\rZH\blur0.8}就在豪宅台阶上伤透他的心。\N{\rEN\blur0.8}break his heart right there on the mansion steps.
+Dialogue: 0,0:33:53.80,0:33:56.40,ZH,,0,0,0,,{\rZH\blur0.8}奎恩，别这样。哦，你知道我会做的。\N{\rEN\blur0.8}Quinn, come on. Oh, you know I'll do it.
+Dialogue: 0,0:33:56.44,0:33:59.20,ZH,,0,0,0,,{\rZH\blur0.8}还有你，无魅王子。\N{\rEN\blur0.8}And you, Prince Charmless.
+Dialogue: 0,0:33:59.24,0:34:02.34,ZH,,0,0,0,,{\rZH\blur0.8}你要给我一场婚礼。\N{\rEN\blur0.8}You're gonna give me a wedding.
+Dialogue: 0,0:34:02.37,0:34:04.81,ZH,,0,0,0,,{\rZH\blur0.8}我要一场真真正正、戴上戒指的、\N{\rEN\blur0.8}I want an honest-to-God, ring-on-the-finger,
+Dialogue: 0,0:34:04.84,0:34:07.38,ZH,,0,0,0,,{\rZH\blur0.8}床单见红的收视盛宴。\N{\rEN\blur0.8}blood-on-the-sheets ratings bonanza.
+Dialogue: 0,0:34:07.41,0:34:08.81,ZH,,0,0,0,,{\rZH\blur0.8}不是那种假求婚。\N{\rEN\blur0.8}Not some fake proposal.
+Dialogue: 0,0:34:08.85,0:34:10.62,ZH,,0,0,0,,{\rZH\blur0.8}那如果我说不呢？\N{\rEN\blur0.8}And what if I say no?
+Dialogue: 0,0:34:10.65,0:34:13.35,ZH,,0,0,0,,{\rZH\blur0.8}那我就泄露录像。\N{\rEN\blur0.8}Then I leak the tape.
+Dialogue: 0,0:34:14.59,0:34:16.12,ZH,,0,0,0,,{\rZH\blur0.8}糟了。\N{\rEN\blur0.8}Uh-oh.
+Dialogue: 0,0:34:16.16,0:34:18.22,ZH,,0,0,0,,{\rZH\blur0.8}你的名誉恢复计划就泡汤了，\N{\rEN\blur0.8}Your reputation-recovery plan goes up in smoke,
+Dialogue: 0,0:34:18.26,0:34:20.36,ZH,,0,0,0,,{\rZH\blur0.8}就像你其他那些烂生意一样。\N{\rEN\blur0.8}just like every other one of your other crap business deals.
+Dialogue: 0,0:34:20.39,0:34:22.23,ZH,,0,0,0,,{\rZH\blur0.8}你知道吗？去吧。放吧。\N{\rEN\blur0.8}You know what? Go ahead. Show it.
+Dialogue: 0,0:34:22.26,0:34:24.36,ZH,,0,0,0,,{\rZH\blur0.8}放录像吧。我以前在电视上当过坏小子。\N{\rEN\blur0.8}Show the tape. I've been a bad boy on TV before.
+Dialogue: 0,0:34:24.40,0:34:25.53,ZH,,0,0,0,,{\rZH\blur0.8}我可以再当一次。\N{\rEN\blur0.8}I'll be a bad boy again.
+Dialogue: 0,0:34:25.56,0:34:28.07,ZH,,0,0,0,,{\rZH\blur0.8}我不在乎。\N{\rEN\blur0.8}I don't care.
+Dialogue: 0,0:34:30.27,0:34:34.67,ZH,,0,0,0,,{\rZH\blur0.8}只不过……\N{\rEN\blur0.8}Except that...
+Dialogue: 0,0:34:34.71,0:34:37.61,ZH,,0,0,0,,{\rZH\blur0.8}你不想对亲爱的、\N{\rEN\blur0.8}you don't want to do that to sweet,
+Dialogue: 0,0:34:37.64,0:34:40.45,ZH,,0,0,0,,{\rZH\blur0.8}小瑞秋这么做，对吧？\N{\rEN\blur0.8}little, old Rachel, now, do you?
+Dialogue: 0,0:34:43.18,0:34:45.52,ZH,,0,0,0,,{\rZH\blur0.8}你真是个可恨又阴险的婊子。你知道吧？\N{\rEN\blur0.8}You are a hateful, conniving bitch. You know that?
+Dialogue: 0,0:34:45.55,0:34:47.25,ZH,,0,0,0,,{\rZH\blur0.8}谢谢。\N{\rEN\blur0.8}Thank you.
+Dialogue: 0,0:34:48.59,0:34:50.52,ZH,,0,0,0,,{\rZH\blur0.8}现在去开始计划蜜月吧，情人。\N{\rEN\blur0.8}Now, go start planning a honeymoon, lover.
+Dialogue: 0,0:34:56.30,0:34:58.86,ZH,,0,0,0,,{\rZH\blur0.8}所以，这就是你证明\N{\rEN\blur0.8}So, that is how you prove
+Dialogue: 0,0:34:58.90,0:35:01.47,ZH,,0,0,0,,{\rZH\blur0.8}你对杰瑞米永不磨灭的爱的方式，是吧？\N{\rEN\blur0.8}your undying love to Jeremy, huh?
+Dialogue: 0,0:35:01.50,0:35:03.30,ZH,,0,0,0,,{\rZH\blur0.8}以后别再那样对我撒谎。\N{\rEN\blur0.8}Don't ever lie to me like that again.
+Dialogue: 0,0:35:03.34,0:35:04.54,ZH,,0,0,0,,{\rZH\blur0.8}奎恩，别这样，好吗？\N{\rEN\blur0.8}Quinn, come on, okay?
+Dialogue: 0,0:35:04.57,0:35:05.84,ZH,,0,0,0,,{\rZH\blur0.8}我不属于你。我……\N{\rEN\blur0.8}I don't belong to you. I...
+Dialogue: 0,0:35:05.87,0:35:07.67,ZH,,0,0,0,,{\rZH\blur0.8}听着，你不属于任何人，瑞秋。\N{\rEN\blur0.8}Look, you don't belong to anyone, Rachel.
+Dialogue: 0,0:35:07.71,0:35:09.28,ZH,,0,0,0,,{\rZH\blur0.8}这就是问题所在。\N{\rEN\blur0.8}That's the problem.
+Dialogue: 0,0:35:09.31,0:35:10.54,ZH,,0,0,0,,{\rZH\blur0.8}你显然需要一个能强硬出手的人\N{\rEN\blur0.8}You clearly need somebody with a strong hand
+Dialogue: 0,0:35:10.58,0:35:12.28,ZH,,0,0,0,,{\rZH\blur0.8}把你引向正确的方向。\N{\rEN\blur0.8}to point you in the right direction.
+Dialogue: 0,0:35:12.31,0:35:13.68,ZH,,0,0,0,,{\rZH\blur0.8}天哪！你以为你是谁？\N{\rEN\blur0.8}Oh, my God! Who do you think you are?
+Dialogue: 0,0:35:13.71,0:35:14.88,ZH,,0,0,0,,{\rZH\blur0.8}我？对啊，你！\N{\rEN\blur0.8}Me? Yeah, you!
+Dialogue: 0,0:35:14.91,0:35:17.65,ZH,,0,0,0,,{\rZH\blur0.8}你以为你是谁？\N{\rEN\blur0.8}Who do you think you are?
+Dialogue: 0,0:35:17.68,0:35:19.35,ZH,,0,0,0,,{\rZH\blur0.8}我是说，从这段录像来看，\N{\rEN\blur0.8}I mean, judging from this tape,
+Dialogue: 0,0:35:19.39,0:35:21.62,ZH,,0,0,0,,{\rZH\blur0.8}你更像我们那些自我毁灭、\N{\rEN\blur0.8}you seem more like one of our self-destructive,
+Dialogue: 0,0:35:21.65,0:35:23.46,ZH,,0,0,0,,{\rZH\blur0.8}被洗脑的选手，\N{\rEN\blur0.8}brainwashed contestants
+Dialogue: 0,0:35:23.49,0:35:26.16,ZH,,0,0,0,,{\rZH\blur0.8}而不像知道怎么得到自己想要的东西的人。\N{\rEN\blur0.8}than somebody who knows how to get what they want.
+Dialogue: 0,0:35:26.19,0:35:28.19,ZH,,0,0,0,,{\rZH\blur0.8}选择权在你。\N{\rEN\blur0.8}Choice is yours.
+Dialogue: 0,0:35:28.23,0:35:30.70,ZH,,0,0,0,,{\rZH\blur0.8}我是说，算是吧。\N{\rEN\blur0.8}I mean, kind of.
+Dialogue: 0,0:35:30.73,0:35:33.73,ZH,,0,0,0,,{\rZH\blur0.8}所以，想好了告诉我你想怎么做。\N{\rEN\blur0.8}So, let me know what you want to do.
+Dialogue: 0,0:36:04.70,0:36:06.53,ZH,,0,0,0,,{\rZH\blur0.8}哦。\N{\rEN\blur0.8}Oh.
+Dialogue: 0,0:36:16.41,0:36:17.68,ZH,,0,0,0,,{\rZH\blur0.8}切特！\N{\rEN\blur0.8}Chet!
+Dialogue: 0,0:36:17.71,0:36:19.31,ZH,,0,0,0,,{\rZH\blur0.8}你有空吗？\N{\rEN\blur0.8}You have a minute?
+Dialogue: 0,0:36:19.34,0:36:21.22,ZH,,0,0,0,,{\rZH\blur0.8}哦，对你，我永远有空。\N{\rEN\blur0.8}Oh, for you, I've got all the time in the world.
+Dialogue: 0,0:36:23.58,0:36:26.22,ZH,,0,0,0,,{\rZH\blur0.8}嘿。\N{\rEN\blur0.8}Hey.
+Dialogue: 0,0:36:26.25,0:36:27.95,ZH,,0,0,0,,{\rZH\blur0.8}我今天去看了泌尿科医生。\N{\rEN\blur0.8}I went to the urologist today.
+Dialogue: 0,0:36:27.99,0:36:30.69,ZH,,0,0,0,,{\rZH\blur0.8}猜猜谁的精子数量像21岁小伙子？\N{\rEN\blur0.8}Guess who has the sperm count of a 21-year-old?
+Dialogue: 0,0:36:30.72,0:36:34.29,ZH,,0,0,0,,{\rZH\blur0.8}他们是不是得给麦迪逊洗胃才取到样本？\N{\rEN\blur0.8}Did they have to pump Madison's stomach to get the sample?
+Dialogue: 0,0:36:36.53,0:36:40.67,ZH,,0,0,0,,{\rZH\blur0.8}因为你还有个巨大的法律麻烦。\N{\rEN\blur0.8}'Cause you also have a massive legal problem.
+Dialogue: 0,0:36:40.70,0:36:43.34,ZH,,0,0,0,,{\rZH\blur0.8}说。\N{\rEN\blur0.8}Talk.
+Dialogue: 0,0:36:43.37,0:36:45.37,ZH,,0,0,0,,{\rZH\blur0.8}奎恩想让麦迪逊指控你\N{\rEN\blur0.8}Quinn wants Madison to charge you
+Dialogue: 0,0:36:45.40,0:36:47.51,ZH,,0,0,0,,{\rZH\blur0.8}性骚扰和性侵。\N{\rEN\blur0.8}with sexual harassment and assault.
+Dialogue: 0,0:36:47.54,0:36:48.84,ZH,,0,0,0,,{\rZH\blur0.8}奎恩？\N{\rEN\blur0.8}Quinn?
+Dialogue: 0,0:36:48.87,0:36:51.44,ZH,,0,0,0,,{\rZH\blur0.8}麦迪逊来找我咨询，\N{\rEN\blur0.8}Madison came to me for counsel,
+Dialogue: 0,0:36:51.48,0:36:54.98,ZH,,0,0,0,,{\rZH\blur0.8}所以也许有机会扭转局面。\N{\rEN\blur0.8}so there might be an opportunity to turn it around.
+Dialogue: 0,0:36:55.01,0:36:57.62,ZH,,0,0,0,,{\rZH\blur0.8}用什么交换……？\N{\rEN\blur0.8}In exchange for...?
+Dialogue: 0,0:36:57.65,0:37:00.62,ZH,,0,0,0,,{\rZH\blur0.8}我想要自己的环节，和女孩们一起工作，\N{\rEN\blur0.8}I want my own segments working with the girls,
+Dialogue: 0,0:37:00.65,0:37:03.49,ZH,,0,0,0,,{\rZH\blur0.8}帮她们解决亲密关系问题。\N{\rEN\blur0.8}helping them through their intimacy issues.
+Dialogue: 0,0:37:03.52,0:37:06.66,ZH,,0,0,0,,{\rZH\blur0.8}人们需要看看这些孩子经历了什么。\N{\rEN\blur0.8}People need to see what these kids go through.
+Dialogue: 0,0:37:06.69,0:37:07.86,ZH,,0,0,0,,{\rZH\blur0.8}为什么？\N{\rEN\blur0.8}Why?
+Dialogue: 0,0:37:07.89,0:37:09.86,ZH,,0,0,0,,{\rZH\blur0.8}嗯，这也能做点好事。\N{\rEN\blur0.8}Well, it could also do some good.
+Dialogue: 0,0:37:09.90,0:37:12.86,ZH,,0,0,0,,{\rZH\blur0.8}我在想，如果一切顺利，\N{\rEN\blur0.8}And I'm thinking if it all goes well,
+Dialogue: 0,0:37:12.90,0:37:15.33,ZH,,0,0,0,,{\rZH\blur0.8}也许我们可以谈谈衍生剧。\N{\rEN\blur0.8}maybe we could talk spin-off.
+Dialogue: 0,0:37:15.37,0:37:17.00,ZH,,0,0,0,,{\rZH\blur0.8}真的吗？为什么不行？\N{\rEN\blur0.8}Really? Why not?
+Dialogue: 0,0:37:17.04,0:37:20.00,ZH,,0,0,0,,{\rZH\blur0.8}菲尔博士也曾经是个无名小卒。\N{\rEN\blur0.8}Dr. Phil was a nobody once, too.
+Dialogue: 0,0:37:21.47,0:37:24.61,ZH,,0,0,0,,{\rZH\blur0.8}我受够了被忽视、被取笑，\N{\rEN\blur0.8}I'm tired of being ignored, made fun of,
+Dialogue: 0,0:37:24.64,0:37:28.25,ZH,,0,0,0,,{\rZH\blur0.8}更别说还被逼着干违法的事。\N{\rEN\blur0.8}not to mention pressured to do illegal shit.
+Dialogue: 0,0:37:43.66,0:37:46.56,ZH,,0,0,0,,{\rZH\blur0.8}瑞秋。\N{\rEN\blur0.8}Rach.
+Dialogue: 0,0:37:46.60,0:37:47.87,ZH,,0,0,0,,{\rZH\blur0.8}嘿。嘿，宝贝。\N{\rEN\blur0.8}Hey. Hey, babe.
+Dialogue: 0,0:37:47.90,0:37:49.50,ZH,,0,0,0,,{\rZH\blur0.8}你准备好走了吗？\N{\rEN\blur0.8}You ready to go?
+Dialogue: 0,0:37:49.54,0:37:51.54,ZH,,0,0,0,,{\rZH\blur0.8}嗯，我就是，呃，在收尾一些工作。\N{\rEN\blur0.8}Yeah, I was just, uh, finishing up some work.
+Dialogue: 0,0:37:51.57,0:37:54.07,ZH,,0,0,0,,{\rZH\blur0.8}我想我就留下来，搭交通组的车走。\N{\rEN\blur0.8}I think I'm just gonna stay behind, get a ride with transpo.
+Dialogue: 0,0:37:54.10,0:37:55.74,ZH,,0,0,0,,{\rZH\blur0.8}你开始慌了吗？\N{\rEN\blur0.8}You starting to wig out?
+Dialogue: 0,0:37:55.77,0:37:57.54,ZH,,0,0,0,,{\rZH\blur0.8}是因为你在我那儿放了几个垃圾袋吗？\N{\rEN\blur0.8}Is this 'cause you have some trash bags over at my place?
+Dialogue: 0,0:37:57.58,0:37:59.54,ZH,,0,0,0,,{\rZH\blur0.8}不，不。好吧。\N{\rEN\blur0.8}No, no. Okay.
+Dialogue: 0,0:37:59.58,0:38:00.78,ZH,,0,0,0,,{\rZH\blur0.8}行吧。家里见。\N{\rEN\blur0.8}All right. See you at home.
+Dialogue: 0,0:38:00.81,0:38:01.95,ZH,,0,0,0,,{\rZH\blur0.8}到时候见。回见，宝贝。\N{\rEN\blur0.8}I'll see you there. See ya, babe.
+Dialogue: 0,0:38:01.98,0:38:03.92,ZH,,0,0,0,,{\rZH\blur0.8}拜拜，宝贝。\N{\rEN\blur0.8}Bye, babe.
+Dialogue: 0,0:38:19.10,0:38:20.83,ZH,,0,0,0,,{\rZH\blur0.8}怎么了？\N{\rEN\blur0.8}What's going on?
+Dialogue: 0,0:38:20.87,0:38:22.43,ZH,,0,0,0,,{\rZH\blur0.8}你不是该在里面，\N{\rEN\blur0.8}Shouldn't you be inside,
+Dialogue: 0,0:38:22.47,0:38:24.97,ZH,,0,0,0,,{\rZH\blur0.8}跟你即将过门的未婚妻缠绵吗？\N{\rEN\blur0.8}making sweet love to your soon-to-be bride?
+Dialogue: 0,0:38:25.00,0:38:27.71,ZH,,0,0,0,,{\rZH\blur0.8}你还好意思说。你不是该跟你梦中的男人在别处吗？\N{\rEN\blur0.8}You should talk. Shouldn't you be off somewhere with the man of your dreams?
+Dialogue: 0,0:38:27.74,0:38:30.68,ZH,,0,0,0,,{\rZH\blur0.8}我刚才正想着你呢。\N{\rEN\blur0.8}I was just thinking about you.
+Dialogue: 0,0:38:30.71,0:38:32.98,ZH,,0,0,0,,{\rZH\blur0.8}真的吗？嗯。\N{\rEN\blur0.8}Really? Yep.
+Dialogue: 0,0:38:38.78,0:38:40.69,ZH,,0,0,0,,{\rZH\blur0.8}我们完蛋了，对吧？\N{\rEN\blur0.8}We're screwed, aren't we?
+Dialogue: 0,0:38:40.72,0:38:43.52,ZH,,0,0,0,,{\rZH\blur0.8}差不多吧，除非你想让奎因开口。\N{\rEN\blur0.8}Pretty much, unless you want Quinn to talk.
+Dialogue: 0,0:38:43.55,0:38:45.72,ZH,,0,0,0,,{\rZH\blur0.8}不，我不会那样对你。\N{\rEN\blur0.8}No, I'm not gonna do that to you.
+Dialogue: 0,0:38:45.76,0:38:48.46,ZH,,0,0,0,,{\rZH\blur0.8}不会，如果你真的想跟杰瑞米在一起。\N{\rEN\blur0.8}Not if you really want to be with Jeremy.
+Dialogue: 0,0:38:48.49,0:38:50.56,ZH,,0,0,0,,{\rZH\blur0.8}天哪。杰瑞米值得比这好得多的。\N{\rEN\blur0.8}Oh, my God. Jeremy deserves a lot better than this.
+Dialogue: 0,0:38:50.60,0:38:52.10,ZH,,0,0,0,,{\rZH\blur0.8}这就是你的问题所在。\N{\rEN\blur0.8}That's your problem, right there.
+Dialogue: 0,0:38:52.13,0:38:54.10,ZH,,0,0,0,,{\rZH\blur0.8}你不相信自己值得更好的，但你值得。\N{\rEN\blur0.8}You don't believe that you deserve better, but you do.
+Dialogue: 0,0:38:54.13,0:38:57.14,ZH,,0,0,0,,{\rZH\blur0.8}你值得拥有一切。你知道的，对吧？\N{\rEN\blur0.8}You deserve everything. You know that, right?
+Dialogue: 0,0:38:57.17,0:39:00.71,ZH,,0,0,0,,{\rZH\blur0.8}为什么今天每个人都在告诉我我的问题是什么？\N{\rEN\blur0.8}Why is everybody telling me what my problem is today?
+Dialogue: 0,0:39:00.74,0:39:01.91,ZH,,0,0,0,,{\rZH\blur0.8}为什么？\N{\rEN\blur0.8}Why?
+Dialogue: 0,0:39:01.94,0:39:04.11,ZH,,0,0,0,,{\rZH\blur0.8}因为你明显有问题。或者很多问题。\N{\rEN\blur0.8}'Cause you clearly have one. Or many.
+Dialogue: 0,0:39:04.14,0:39:06.71,ZH,,0,0,0,,{\rZH\blur0.8}瑞秋，我累了。\N{\rEN\blur0.8}Rachel, I am tired.
+Dialogue: 0,0:39:06.74,0:39:09.88,ZH,,0,0,0,,{\rZH\blur0.8}我厌倦了假装自己能逃避这一切。\N{\rEN\blur0.8}I am tired of pretending that I can run from this.
+Dialogue: 0,0:39:11.62,0:39:14.99,ZH,,0,0,0,,{\rZH\blur0.8}我想要的人是你。其他那些女孩都是纸娃娃。\N{\rEN\blur0.8}You're the one that I want. These other girls are paper dolls.
+Dialogue: 0,0:39:15.02,0:39:16.82,ZH,,0,0,0,,{\rZH\blur0.8}那太荒唐了。哪里荒唐了？\N{\rEN\blur0.8}That's just ridiculous. How is that ridiculous?
+Dialogue: 0,0:39:16.86,0:39:18.96,ZH,,0,0,0,,{\rZH\blur0.8}你是这里唯一配得上那枚戒指的女人，\N{\rEN\blur0.8}You are the only woman here who deserves that ring,
+Dialogue: 0,0:39:18.99,0:39:21.43,ZH,,0,0,0,,{\rZH\blur0.8}配得上"从此幸福快乐"。好吧。\N{\rEN\blur0.8}the "happily ever after." Okay.
+Dialogue: 0,0:39:21.46,0:39:24.46,ZH,,0,0,0,,{\rZH\blur0.8}不然你可以把自己熬成奎因那样的老姑婆。\N{\rEN\blur0.8}Or you can work yourself into spinsterhood like Quinn.
+Dialogue: 0,0:39:24.50,0:39:27.16,ZH,,0,0,0,,{\rZH\blur0.8}不，我是说，那……那也不会发生的，\N{\rEN\blur0.8}No, I mean, tha... That's not gonna happen, either,
+Dialogue: 0,0:39:27.20,0:39:28.87,ZH,,0,0,0,,{\rZH\blur0.8}因为杰瑞米和我……我们要离开这个节目了。\N{\rEN\blur0.8}'cause Jeremy and I... We're leaving the show.
+Dialogue: 0,0:39:28.90,0:39:30.50,ZH,,0,0,0,,{\rZH\blur0.8}行。我没意见，\N{\rEN\blur0.8}Fine. That's fine by me,
+Dialogue: 0,0:39:30.54,0:39:32.74,ZH,,0,0,0,,{\rZH\blur0.8}只要你不是跟杰瑞米私奔\N{\rEN\blur0.8}as long as you don't go running off with Jeremy
+Dialogue: 0,0:39:32.77,0:39:34.77,ZH,,0,0,0,,{\rZH\blur0.8}就因为他是唯一开口的人。\N{\rEN\blur0.8}because he's the only person who asked.
+Dialogue: 0,0:39:36.78,0:39:38.54,ZH,,0,0,0,,{\rZH\blur0.8}我在开口。\N{\rEN\blur0.8}I'm asking.
+Dialogue: 0,0:39:38.58,0:39:39.84,ZH,,0,0,0,,{\rZH\blur0.8}什么？\N{\rEN\blur0.8}What?
+Dialogue: 0,0:39:39.88,0:39:43.42,ZH,,0,0,0,,{\rZH\blur0.8}你在问我什么？\N{\rEN\blur0.8}What are you asking me?
+Dialogue: 0,0:39:43.45,0:39:46.48,ZH,,0,0,0,,{\rZH\blur0.8}跟我走吧。\N{\rEN\blur0.8}Run away with me.
+Dialogue: 0,0:39:46.52,0:39:50.89,ZH,,0,0,0,,{\rZH\blur0.8}就在今晚。我们可以坐飞机。\N{\rEN\blur0.8}Tonight. We can take a plane.
+Dialogue: 0,0:39:50.92,0:39:52.42,ZH,,0,0,0,,{\rZH\blur0.8}我们去圣特罗佩。\N{\rEN\blur0.8}We go to St. Tropez.
+Dialogue: 0,0:39:52.46,0:39:54.89,ZH,,0,0,0,,{\rZH\blur0.8}我们可以躺在沙滩上，泡在贝里尼鸡尾酒里，\N{\rEN\blur0.8}We can lie on the beach, neck-deep in Bellinis,
+Dialogue: 0,0:39:54.93,0:39:56.73,ZH,,0,0,0,,{\rZH\blur0.8}直到腻了，然后再想办法。\N{\rEN\blur0.8}until we're bored, and then we'll figure it out.
+Dialogue: 0,0:39:56.76,0:39:59.43,ZH,,0,0,0,,{\rZH\blur0.8}他们能怎样？\N{\rEN\blur0.8}What are they gonna do?
+Dialogue: 0,0:39:59.46,0:40:01.63,ZH,,0,0,0,,{\rZH\blur0.8}抓我们？给八卦小报打电话？\N{\rEN\blur0.8}They gonna arrest us? They gonna call the tabloids?
+Dialogue: 0,0:40:01.67,0:40:03.77,ZH,,0,0,0,,{\rZH\blur0.8}说实话，我不在乎，只要跟你在一起。\N{\rEN\blur0.8}Honestly, I don't care, as long as I'm with you.
+Dialogue: 0,0:40:03.80,0:40:06.64,ZH,,0,0,0,,{\rZH\blur0.8}听着，我知道你在乎杰瑞米，\N{\rEN\blur0.8}Look, I know you care about Jeremy,
+Dialogue: 0,0:40:06.67,0:40:08.91,ZH,,0,0,0,,{\rZH\blur0.8}他人也不错，但说实话，\N{\rEN\blur0.8}and he is a nice guy, but honestly,
+Dialogue: 0,0:40:08.94,0:40:11.61,ZH,,0,0,0,,{\rZH\blur0.8}过不了多久你就会给他叠衣服\N{\rEN\blur0.8}how long until you're folding his laundry
+Dialogue: 0,0:40:11.64,0:40:13.08,ZH,,0,0,0,,{\rZH\blur0.8}然后盼着他死？\N{\rEN\blur0.8}and wishing him dead?
+Dialogue: 0,0:40:15.05,0:40:16.55,ZH,,0,0,0,,{\rZH\blur0.8}你跟我一样。\N{\rEN\blur0.8}You're like me.
+Dialogue: 0,0:40:16.58,0:40:19.05,ZH,,0,0,0,,{\rZH\blur0.8}你生来就不是过平凡日子的。\N{\rEN\blur0.8}You were not made for the ordinary life.
+Dialogue: 0,0:40:19.08,0:40:23.19,ZH,,0,0,0,,{\rZH\blur0.8}只要你愿意，我能给你整个世界。\N{\rEN\blur0.8}I can offer you the world if you let me.
+Dialogue: 0,0:40:25.22,0:40:27.79,ZH,,0,0,0,,{\rZH\blur0.8}那就让我给吧。\N{\rEN\blur0.8}So let me.
+Dialogue: 10,0:16:56.72,0:17:01.77,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 596 0 l 596 124 l 0 124
+Dialogue: 11,0:16:56.72,0:17:01.77,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:16:56.72,0:17:01.77,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}达丽尔·汉纳{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,0:16:56.72,0:17:01.77,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}美国女演员，曾主演电影《美人鱼》。
+Dialogue: 10,0:37:17.04,0:37:22.23,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 628 0 l 628 124 l 0 124
+Dialogue: 11,0:37:17.04,0:37:22.23,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:37:17.04,0:37:22.23,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}菲尔博士{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,0:37:17.04,0:37:22.23,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}美国电视心理医生，以日间脱口秀闻名。

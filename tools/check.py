@@ -4,6 +4,7 @@
     python3 tools/check.py tree             检查整个仓库：目录、文件名、meta.toml、ASS、字体
     python3 tools/check.py pr <base>        PR：先查 tree，再查新加的片子 / 剧集有没有指派给作者的认领 issue
     python3 tools/check.py claim            认领 issue：统一标题、指派；和已有的重复就回复并关掉
+    python3 tools/check.py merged           PR 合并后：关掉描述里「认领 #号」的认领 issue
 
 pr / claim 要 GITHUB_TOKEN、GITHUB_REPOSITORY、GITHUB_EVENT_PATH（Actions 自带）。
 """
@@ -237,6 +238,10 @@ def check_tree(root: Path = ROOT) -> list[str]:
             miss.append("source.frames 或 source.duration")
         if miss:
             errs.append(f"{f}：meta.toml 缺 {'、'.join(miss)}")
+        crop = (meta.get("source") or {}).get("crop")
+        if crop is not None and not (isinstance(crop, list) and len(crop) == 4
+                                     and all(isinstance(x, int) and x >= 0 for x in crop)):
+            errs.append(f"{f}：source.crop 写成 [左, 上, 右, 下] 四个像素数")
         fps = str((meta.get("source") or {}).get("fps", ""))
         if fps and not re.fullmatch(r"\d+(?:/\d+)?(?:\.\d+)?", fps):
             errs.append(f"{f}：source.fps 写成 24000/1001 或 25 这种")
@@ -355,7 +360,7 @@ def cmd_pr(base: str) -> int:
     before = existing_keys(base_files)
     new = [k for k in existing_keys(tracked_files(ROOT)) if not any(b.overlaps(k) for b in before)]
     if new and pr:
-        refs = [int(x) for x in re.findall(r"(?:认领|claim|closes|fixes)\s*#(\d+)", pr.get("body") or "", re.I)]
+        refs = claim_refs(pr.get("body") or "")
         claims = []
         for r in refs:
             it = gh("GET", f"/issues/{r}")
@@ -363,13 +368,51 @@ def cmd_pr(base: str) -> int:
             if "认领" in {l["name"] for l in it.get("labels", [])} and author in names and it["state"] == "open":
                 if k := key_from_title(it["title"]):
                     claims.append(k)
+        # 有写权限的人（批量导入压制机做的字幕之类）不用先认领，但不能抢别人正在做的。
+        # 不看 author_association：组织成员身份不公开时，事件里会是 CONTRIBUTOR
+        member = can_write(author)
+        others = [] if not member else [(n, k, it) for n, k, it in open_claims(before=10**9)
+                                        if author not in {it["user"]["login"], *(a["login"] for a in it.get("assignees", []))}]
         for k in new:
-            if not any(c.overlaps(k) for c in claims):
+            if any(c.overlaps(k) for c in claims):
+                continue
+            if member:
+                for n, c, _ in others:
+                    if c.overlaps(k):
+                        errs.append(f"新加的 `{k}` 别人正在做（#{n}），先去那里商量")
+            else:
                 errs.append(f"新加的 `{k}` 没有你的认领 issue：先认领，PR 描述里写「认领 #号」")
     for e in errs:
         print(f"::error::{e}")
     print(f"{len(errs)} 个问题" if errs else "检查通过")
     return 1 if errs else 0
+
+
+def can_write(user: str) -> bool:
+    try:
+        perm = gh("GET", f"/collaborators/{user}/permission").get("permission")
+    except Exception:  # noqa: BLE001
+        return False
+    return perm in ("admin", "maintain", "write")
+
+
+def claim_refs(body: str) -> list[int]:
+    return [int(x) for x in re.findall(r"(?:认领|claim|closes|fixes)\s*#(\d+)", body or "", re.I)]
+
+
+def cmd_merged() -> int:
+    """「认领 #号」不是 GitHub 认的关键字，合并后自己关。"""
+    ev = json.loads(Path(os.environ["GITHUB_EVENT_PATH"]).read_text())
+    pr = ev["pull_request"]
+    if not pr.get("merged"):
+        return 0
+    for n in claim_refs(pr.get("body") or ""):
+        it = gh("GET", f"/issues/{n}")
+        if "pull_request" in it or it["state"] != "open" or "认领" not in {l["name"] for l in it.get("labels", [])}:
+            continue
+        gh("POST", f"/issues/{n}/comments", {"body": f"#{pr['number']} 已合并，做完了。"})
+        gh("PATCH", f"/issues/{n}", {"state": "closed", "state_reason": "completed"})
+    return 0
 
 
 def main(argv: list[str]) -> int:
@@ -384,6 +427,8 @@ def main(argv: list[str]) -> int:
         return cmd_pr(argv[2] if len(argv) > 2 else "origin/main")
     if cmd == "claim":
         return cmd_claim()
+    if cmd == "merged":
+        return cmd_merged()
     print(__doc__)
     return 2
 

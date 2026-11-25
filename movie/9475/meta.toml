@@ -1,0 +1,13 @@
+title = "闻香识女人"
+original_title = "Scent of a Woman"
+year = 1992
+authors = ["ReelCoreHQ"]
+origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+fonts = ["Noto Sans CJK SC"]
+
+[source]
+release = "Scent.of.a.Woman.1992.SF.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-CultFilms™"
+fps = "24000/1001"
+frames = 225672
+duration = "02:36:52.403"
+crop = [0, 22, 0, 22]                # 字幕画布对的是裁掉这些之后的画面（左、上、右、下）

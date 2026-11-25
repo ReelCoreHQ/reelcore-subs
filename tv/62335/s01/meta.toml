@@ -1,0 +1,18 @@
+authors = ["ReelCoreHQ"]
+origin = "reelcore-encode：WEB-DL 英文字幕 + 机器翻译"
+
+[source]
+release = "UnREAL.S01.1080p.AMZN.WEBRip.DD2.0.x264-RTN"
+fps = "24000/1001"
+
+[episodes]
+e01 = { frames = 64186 }
+e02 = { frames = 59634 }
+e03 = { frames = 60381 }
+e04 = { frames = 59153 }
+e05 = { frames = 60909 }
+e06 = { frames = 58407 }
+e07 = { frames = 58707 }
+e08 = { frames = 60628 }
+e09 = { frames = 59105 }
+e10 = { frames = 62411 }

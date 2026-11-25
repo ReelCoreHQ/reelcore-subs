@@ -1,0 +1,13 @@
+title = "剪刀手爱德华"
+original_title = "Edward Scissorhands"
+year = 1990
+authors = ["ReelCoreHQ"]
+origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+fonts = ["Noto Sans CJK SC"]
+
+[source]
+release = "Edward.Scissorhands.1990.2160p.USA.UHD.Blu-ray.DV.HDR.HEVC.TrueHD.7.1.Atmos-TMT"
+fps = "24000/1001"
+frames = 151073
+duration = "01:45:01.003"
+crop = [0, 42, 0, 42]                # 字幕画布对的是裁掉这些之后的画面（左、上、右、下）

@@ -1,0 +1,13 @@
+authors = ["ReelCoreHQ"]
+origin = "reelcore-encode：WEB-DL 英文字幕 + 机器翻译"
+
+[source]
+release = "UnREAL.S03.1080p.AMZN.WEB-DL.DDP2.0.H.264-AJP69"
+fps = "24000/1001"
+
+[episodes]
+e01 = { frames = 60045 }
+e02 = { frames = 60981 }
+e03 = { frames = 59743 }
+e04 = { frames = 60962 }
+e05 = { frames = 61056 }
