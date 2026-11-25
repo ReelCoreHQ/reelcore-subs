@@ -101,13 +101,47 @@ e02 = { frames = 80021 }
 - **商业字体不要传进仓库**（这是公开仓库），只写名字，大家自己装。
 - `fonts/` 只收能公开分发的字体（SIL OFL 等），同一个字体只放一份，旁边放许可证。单个文件不超过 20 MB。
 
-## 压制机怎么用
+## 压制机、makeiso 怎么用
 
-reelcore-encode 做字幕那一步先按 TMDB 编号到这里找 `movie/*-<tmdb>/`（含剪辑版本子目录）：
+**取**：做字幕之前先按 TMDB 编号到这里找 `movie/*-<tmdb>/`（含剪辑版本子目录）：
 `meta.toml` 的帧率和帧数（没写帧数就比时长，差 1 秒以内）和这张原盘对得上，就直接用这份 ASS，
-不再 OCR / 机器翻译；对不上就照常机器做，并在任务记录里写原因。
-语言挑 `zh-Hans+<原产地语言>` > `zh-Hans+en` > 其他 `zh-Hans+…` > `zh-Hans`。
-ASS 里用到的字体会封进 mkv：先在本仓库 `fonts/`、再在压制机自己的字体目录找，找不到这一步会报错（缺字体特效会走样）。
+不再 OCR / 翻译；对不上就照常自己做，并在任务记录里写原因。语言挑 `zh-Hans+<原产地语言>` > `zh-Hans+en` > 其他 `zh-Hans+…` > `zh-Hans`。
+
+- reelcore-encode：ASS 里用到的字体封进 mkv（本仓库 `fonts/`、压制机自己的字体目录、系统字体里找），找不到这一步报错。
+- reelcore-makeiso（DiY 中字）：双语 ASS 直接当简英轨，去掉 `EN` 开头样式的行当简中轨，繁体两条用 OpenCC 转；
+  字体镜像里没有就退回自己做。所以**英文行请用 `EN` 开头的样式名**。
+
+**推（自动进库）**：片子发布成功后，压制机 / makeiso 把这张盘的字幕直接推进 main（部署密钥，不走 PR）：
+- 同一张盘已有**同一个工具**（`origin` 冒号前，如 `reelcore-encode`、`reelcore-makeiso`）做的就更新；别的工具或人做的不动；
+- 这部片已有别的盘就按片源名另开剪辑版本目录；字幕本来取自本仓库的不推；
+- 推之前跑一遍 `tools/check.py tree`，不过就不推。
+
+## 部署密钥（自动进库要配）
+
+每台要推字幕的机器**单独一把**（哪台出问题只删那一把）。main 的规则里「部署密钥」可以绕过 PR，加了就能直推，不用改规则。
+
+1. 在那台机器上生成（不设密码）：
+   ```bash
+   ssh-keygen -t ed25519 -N "" -C "reelcore-encode@机器名" -f subs-deploy-key
+   ```
+2. 加到本仓库（要仓库管理员）：Settings → Deploy keys → Add deploy key，粘贴 `subs-deploy-key.pub`，**勾上 Allow write access**。
+   或者：`gh repo deploy-key add subs-deploy-key.pub -R ReelCoreHQ/reelcore-subs -w -t "压制机 机器名"`
+3. 私钥 base64 成一行，放进对应程序的密钥文件：
+   - **reelcore-encode**：worker 挂进容器的 secrets 文件（`/run/secrets/rce.env` 对应的宿主机文件，默认 `~/.config/reelcore-encode/secrets.env`，
+     有的机器在 `/etc/reelcore-encode/secrets.env`，看 `docker/compose*.yaml`）加一行：
+     ```bash
+     printf 'SUBS_DEPLOY_KEY=%s\n' "$(base64 -w0 subs-deploy-key)" >> 那个 secrets 文件
+     ```
+   - **reelcore-makeiso**：项目目录的 `.env` 加同样一行，再把 `docker-compose.yml` 里 `SUBS_DEPLOY_KEY` 那行的注释去掉。
+4. 删掉本地的 `subs-deploy-key`（私钥只留在密钥文件里），重启：encode `docker compose up -d --force-recreate --no-deps worker`，
+   makeiso `docker compose up -d`。
+5. 检查能不能连上（不会改仓库）：
+   ```bash
+   docker exec <worker 或 makeiso 容器> sh -c 'd=$(mktemp -d); echo "$SUBS_DEPLOY_KEY" | base64 -d > $d/k 2>/dev/null || grep ^SUBS_DEPLOY_KEY= /run/secrets/rce.env | cut -d= -f2- | base64 -d > $d/k; chmod 600 $d/k; GIT_SSH_COMMAND="ssh -i $d/k -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new" git ls-remote git@github.com:ReelCoreHQ/reelcore-subs.git main; rm -rf $d'
+   ```
+   打出一行 `… refs/heads/main` 就对了。
+
+不想推（只取不推）：不配 `SUBS_DEPLOY_KEY` 就行。不想用字幕库：encode 在配置里写 `[library] repo = ""`，makeiso 设环境变量 `SUBS_LIBRARY=`（空）。
 
 ## 检查（GitHub Actions）
 
