@@ -30,11 +30,11 @@
 ## 目录
 
 ```
-movie/11104/
+movie/11104-重庆森林/
   meta.toml
   zh-Hans.ass            简体中文
   zh-Hans+en.ass         中英双语（有就放）
-tv/1399/
+tv/1399-权力的游戏/
   meta.toml              剧名等公共信息、全剧共用的字体
   s01/
     meta.toml            这一季对应的视频版本
@@ -44,15 +44,18 @@ tv/1399/
 fonts/                   只放可以公开分发的免费字体（附许可证）
 ```
 
+片子目录叫 `<TMDB 编号>-<中文名>`（中文名用 TMDB 的简体中文片名，没有就用原名）。**程序只认前面的编号**，
+名字是给人看的，以后 TMDB 改了译名也不用跟着改；但同一个编号只能有一个目录。名字里别用 `/ \ : * ? " < > |`（中文全角标点可以）。
+
 文件名里的语言：`zh-Hans`（简体）、`zh-Hant`（繁体）、`ja`、`en`……双语用 `+` 连起来，中文在前：`zh-Hans+ja`。
 
-同一部片有**不同剪辑版本**（导演剪辑版、电视版 / BD 版帧率不同）时，在下面再分一层：`movie/11104/directors-cut/`、`tv/1399/s01/bd/`，每层都有自己的 `meta.toml`。
+同一部片有**不同剪辑版本**（导演剪辑版、电视版 / BD 版帧率不同）时，在下面再分一层：`movie/11104-重庆森林/directors-cut/`、`tv/1399-权力的游戏/s01/bd/`，每层都有自己的 `meta.toml`。
 
 ## meta.toml
 
 特效字幕是按帧对的，**一定要写清楚对的是哪个视频**，换个剪辑版本或帧率就错位。
 
-电影 `movie/<tmdb>/meta.toml`：
+电影 `movie/<tmdb>-<中文名>/meta.toml`：
 
 ```toml
 title = "重庆森林"
@@ -77,8 +80,8 @@ crop = [0, 140, 0, 140]           # 可选：字幕画布对的是裁掉黑边�
 
 `origin`（可选）：字幕怎么来的，比如 `"reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"`。
 
-剧集 `tv/<tmdb>/meta.toml` 写 `title`、`original_title`、`year`、全剧共用的 `fonts`；
-每季 `tv/<tmdb>/sNN/meta.toml` 写 `authors`、`[source]`（`release`、`fps`），每集帧数不同的话写在 `[episodes]` 里：
+剧集 `tv/<tmdb>-<中文名>/meta.toml` 写 `title`、`original_title`、`year`、全剧共用的 `fonts`；
+每季 `tv/<tmdb>-<中文名>/sNN/meta.toml` 写 `authors`、`[source]`（`release`、`fps`），每集帧数不同的话写在 `[episodes]` 里：
 
 ```toml
 authors = ["a", "b"]
@@ -100,7 +103,7 @@ e02 = { frames = 80021 }
 
 ## 压制机怎么用
 
-reelcore-encode 做字幕那一步先按 TMDB 编号到这里找 `movie/<tmdb>/`（含剪辑版本子目录）：
+reelcore-encode 做字幕那一步先按 TMDB 编号到这里找 `movie/<tmdb>-*/`（含剪辑版本子目录）：
 `meta.toml` 的帧率和帧数（没写帧数就比时长，差 1 秒以内）和这张原盘对得上，就直接用这份 ASS，
 不再 OCR / 机器翻译；对不上就照常机器做，并在任务记录里写原因。
 语言挑 `zh-Hans+<原产地语言>` > `zh-Hans+en` > 其他 `zh-Hans+…` > `zh-Hans`。
