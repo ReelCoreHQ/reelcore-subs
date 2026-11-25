@@ -39,35 +39,35 @@ class Tree(unittest.TestCase):
         return d
 
     def test_good_movie(self):
-        d = self.make({"movie/11104-重庆森林/meta.toml": MOVIE_META, "movie/11104-重庆森林/zh-Hans+en.ass": ASS})
+        d = self.make({"movie/重庆森林-11104/meta.toml": MOVIE_META, "movie/重庆森林-11104/zh-Hans+en.ass": ASS})
         self.assertEqual(check.check_tree(d), [])
 
     def test_missing_font_and_meta(self):
         meta = MOVIE_META.replace('"Noto Sans CJK SC"', '"x"').replace("frames = 147997\n", "")
-        d = self.make({"movie/11104-重庆森林/meta.toml": meta, "movie/11104-重庆森林/zh-Hans.ass": ASS})
+        d = self.make({"movie/重庆森林-11104/meta.toml": meta, "movie/重庆森林-11104/zh-Hans.ass": ASS})
         errs = "\n".join(check.check_tree(d))
         self.assertIn("Noto Sans CJK SC", errs)
         self.assertIn("source.frames 或 source.duration", errs)
 
     def test_crop(self):
-        good = self.make({"movie/1-甲/meta.toml": MOVIE_META + "crop = [0, 140, 0, 140]\n", "movie/1-甲/zh-Hans.ass": ASS})
+        good = self.make({"movie/甲-1/meta.toml": MOVIE_META + "crop = [0, 140, 0, 140]\n", "movie/甲-1/zh-Hans.ass": ASS})
         self.assertEqual(check.check_tree(good), [])
-        bad = self.make({"movie/1-甲/meta.toml": MOVIE_META + "crop = [0, 140]\n", "movie/1-甲/zh-Hans.ass": ASS})
+        bad = self.make({"movie/甲-1/meta.toml": MOVIE_META + "crop = [0, 140]\n", "movie/甲-1/zh-Hans.ass": ASS})
         self.assertTrue(any("source.crop" in e for e in check.check_tree(bad)))
 
     def test_bad_paths(self):
-        d = self.make({"movie/重庆森林/zh.ass": ASS, "tv/1399-权力的游戏/s1/e01.zh-Hans.ass": ASS, "movie/11104/zh-Hans.ass": ASS, "x.txt": ""})
+        d = self.make({"movie/重庆森林/zh.ass": ASS, "tv/权力的游戏-1399/s1/e01.zh-Hans.ass": ASS, "movie/11104/zh-Hans.ass": ASS, "x.txt": ""})
         self.assertEqual(len(check.check_tree(d)), 4)
 
     def test_tv_meta_inherits(self):
         show = 'title = "权力的游戏"\nyear = 2011\nfonts = ["方正兰亭黑_GBK", "Noto Sans CJK SC"]\n'
         season = 'authors = ["a"]\n[source]\nrelease = "GoT S01 BD"\nfps = "24000/1001"\n'
-        d = self.make({"tv/1399-权力的游戏/meta.toml": show, "tv/1399-权力的游戏/s01/meta.toml": season,
-                       "tv/1399-权力的游戏/s01/e01.zh-Hans.ass": ASS, "tv/1399-权力的游戏/s01/bd/e02.zh-Hans.ass": ASS})
+        d = self.make({"tv/权力的游戏-1399/meta.toml": show, "tv/权力的游戏-1399/s01/meta.toml": season,
+                       "tv/权力的游戏-1399/s01/e01.zh-Hans.ass": ASS, "tv/权力的游戏-1399/s01/bd/e02.zh-Hans.ass": ASS})
         self.assertEqual(check.check_tree(d), [])
 
     def test_ass_without_sections(self):
-        d = self.make({"movie/1-甲/meta.toml": MOVIE_META, "movie/1-甲/zh-Hans.ass": "hello"})
+        d = self.make({"movie/甲-1/meta.toml": MOVIE_META, "movie/甲-1/zh-Hans.ass": "hello"})
         errs = "\n".join(check.check_tree(d))
         self.assertIn("[Events]".lower(), errs.lower())
         self.assertIn("PlayResX", errs)
@@ -102,7 +102,7 @@ class Keys(unittest.TestCase):
             check.key_from_form(check.form_fields("### 类型\n\n剧集\n\n### TMDB 编号\n\n1399\n"))
 
     def test_existing(self):
-        ks = check.existing_keys(["movie/1-甲/meta.toml", "tv/2-乙/s01/e03.zh-Hans.ass", "tv/2-乙/s01/bd/e04.zh-Hans.ass"])
+        ks = check.existing_keys(["movie/甲-1/meta.toml", "tv/乙-2/s01/e03.zh-Hans.ass", "tv/乙-2/s01/bd/e04.zh-Hans.ass"])
         self.assertEqual([str(k) for k in ks], ["movie-1", "tv-2 s01e03", "tv-2 s01e04"])
 
 
@@ -117,13 +117,13 @@ class Refs(unittest.TestCase):
 
 class Named(unittest.TestCase):
     def test_one_dir_per_id(self):
-        d = Tree.make(None, {"movie/1-甲/meta.toml": MOVIE_META, "movie/1-甲/zh-Hans.ass": ASS,
-                             "movie/1-乙/meta.toml": MOVIE_META, "movie/1-乙/zh-Hans.ass": ASS})
+        d = Tree.make(None, {"movie/甲-1/meta.toml": MOVIE_META, "movie/甲-1/zh-Hans.ass": ASS,
+                             "movie/乙-1/meta.toml": MOVIE_META, "movie/乙-1/zh-Hans.ass": ASS})
         self.assertTrue(any("同一个编号" in e for e in check.check_tree(d)))
 
     def test_name_rules(self):
-        d = Tree.make(None, {"movie/1- 甲/meta.toml": MOVIE_META, "movie/1-/zh-Hans.ass": ASS,
-                             "movie/2-哈利·波特 与密室/meta.toml": MOVIE_META, "movie/2-哈利·波特 与密室/zh-Hans.ass": ASS})
+        d = Tree.make(None, {"movie/ 甲-1/meta.toml": MOVIE_META, "movie/-1/zh-Hans.ass": ASS,
+                             "movie/哈利·波特 与密室-2/meta.toml": MOVIE_META, "movie/哈利·波特 与密室-2/zh-Hans.ass": ASS})
         errs = check.check_tree(d)
         self.assertEqual(sum("路径或文件名" in e for e in errs), 2, errs)
 

@@ -29,12 +29,12 @@ FONT_EXT = (".ttf", ".otf", ".ttc", ".woff", ".woff2")
 MAX_FILE = 50 * 2**20
 MAX_FONT = 20 * 2**20
 
-# 片子目录：<TMDB 编号>-<中文名>，如 movie/11104-重庆森林；名字只是给人看的，程序只认前面的编号
+# 片子目录：<中文名>-<TMDB 编号>，如 movie/重庆森林-11104；名字只是给人看的，程序只认最后一个 - 后面的编号
 NAME = r'[^/\\:*?"<>|\s](?:[^/\\:*?"<>|]*[^/\\:*?"<>|\s])?'
 PATTERNS = [
-    re.compile(rf"movie/\d+-{NAME}/(?:{CUT}/)?(?:meta\.toml|{LANGS}\.ass)"),
-    re.compile(rf"tv/\d+-{NAME}/meta\.toml"),
-    re.compile(rf"tv/\d+-{NAME}/s\d{{2}}/(?:{CUT}/)?(?:meta\.toml|e\d{{2,3}}\.{LANGS}\.ass)"),
+    re.compile(rf"movie/{NAME}-\d+/(?:{CUT}/)?(?:meta\.toml|{LANGS}\.ass)"),
+    re.compile(rf"tv/{NAME}-\d+/meta\.toml"),
+    re.compile(rf"tv/{NAME}-\d+/s\d{{2}}/(?:{CUT}/)?(?:meta\.toml|e\d{{2,3}}\.{LANGS}\.ass)"),
     re.compile(r"fonts/[^/]+"),
 ]
 
@@ -124,9 +124,9 @@ def existing_keys(files: list[str]) -> list[Key]:
     """仓库里已经有的：电影按片，剧集按集。"""
     keys = set()
     for f in files:
-        if m := re.match(r"movie/(\d+)-[^/]+/", f):
+        if m := re.match(r"movie/[^/]*-(\d+)/", f):
             keys.add(Key("movie", int(m[1])))
-        elif m := re.match(r"tv/(\d+)-[^/]+/s(\d{2})/(?:[^/]+/)?e(\d{2,3})\.[^/]+\.ass$", f):
+        elif m := re.match(r"tv/[^/]*-(\d+)/s(\d{2})/(?:[^/]+/)?e(\d{2,3})\.[^/]+\.ass$", f):
             keys.add(Key("tv", int(m[1]), int(m[2]), frozenset({int(m[3])})))
     return sorted(keys, key=str)
 
@@ -253,7 +253,7 @@ def check_tree(root: Path = ROOT) -> list[str]:
 
     dirs: dict[tuple[str, str], set[str]] = {}   # 同一个编号只能有一个目录（名字不同也不行）
     for f in files:
-        if m := re.match(r"(movie|tv)/((\d+)-[^/]+)/", f):
+        if m := re.match(r"(movie|tv)/([^/]*-(\d+))/", f):
             dirs.setdefault((m[1], m[3]), set()).add(m[2])
     for (kind, num), names in sorted(dirs.items()):
         if len(names) > 1:
@@ -358,7 +358,7 @@ def cmd_claim() -> int:
 
 
 def _path_of(k: Key, files: list[str]) -> str:
-    top = next((f.split("/")[1] for f in files if re.match(rf"{k.kind}/{k.tmdb}-[^/]+/", f)), str(k.tmdb))
+    top = next((f.split("/")[1] for f in files if re.match(rf"{k.kind}/[^/]*-{k.tmdb}/", f)), str(k.tmdb))
     return f"movie/{top}/" if k.kind == "movie" else f"tv/{top}/s{k.season:02d}/e{min(k.episodes):02d}…"
 
 
