@@ -2,7 +2,7 @@ title = "美丽心灵"
 original_title = "A Beautiful Mind"
 year = 2001
 authors = ["ReelCoreHQ"]
-origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+origin = "reelcore-encode：原盘英文字幕 + 机器翻译中文"
 fonts = ["Noto Sans CJK SC"]
 
 [source]

@@ -2,7 +2,7 @@ title = "纵横四海"
 original_title = "縱橫四海"
 year = 1991
 authors = ["ReelCoreHQ"]
-origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+origin = "reelcore-encode：原盘英文字幕 + 机器翻译中文"
 fonts = ["LXGW WenKai", "Noto Sans CJK SC"]
 
 [source]

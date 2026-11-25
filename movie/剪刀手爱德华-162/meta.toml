@@ -2,7 +2,7 @@ title = "剪刀手爱德华"
 original_title = "Edward Scissorhands"
 year = 1990
 authors = ["ReelCoreHQ"]
-origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+origin = "reelcore-encode：原盘英文字幕 + 机器翻译中文"
 fonts = ["Noto Sans CJK SC"]
 
 [source]

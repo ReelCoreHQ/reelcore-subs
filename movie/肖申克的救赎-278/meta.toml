@@ -2,7 +2,7 @@ title = "肖申克的救赎"
 original_title = "The Shawshank Redemption"
 year = 1994
 authors = ["ReelCoreHQ"]
-origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+origin = "reelcore-encode：原盘中英字幕配对"
 fonts = ["Noto Sans CJK SC"]
 
 [source]

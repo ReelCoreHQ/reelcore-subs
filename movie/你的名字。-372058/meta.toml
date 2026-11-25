@@ -2,7 +2,7 @@ title = "你的名字。"
 original_title = "君の名は。"
 year = 2016
 authors = ["ReelCoreHQ"]
-origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+origin = "reelcore-encode：原盘中文字幕 + 外部原产地语言字幕配对"
 fonts = ["LXGW WenKai", "Noto Sans CJK SC"]
 
 [source]

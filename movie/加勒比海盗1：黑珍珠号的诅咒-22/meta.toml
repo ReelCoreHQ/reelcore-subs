@@ -2,7 +2,7 @@ title = "加勒比海盗1：黑珍珠号的诅咒"
 original_title = "Pirates of the Caribbean: The Curse of the Black Pearl"
 year = 2003
 authors = ["ReelCoreHQ"]
-origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+origin = "reelcore-encode：原盘中英字幕配对"
 fonts = ["Noto Sans CJK SC"]
 
 [source]

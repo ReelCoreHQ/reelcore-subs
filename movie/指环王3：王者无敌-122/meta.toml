@@ -2,7 +2,7 @@ title = "指环王3：王者无敌"
 original_title = "The Lord of the Rings: The Return of the King"
 year = 2003
 authors = ["ReelCoreHQ"]
-origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+origin = "reelcore-encode：原盘中英字幕配对"
 fonts = ["Noto Sans CJK SC"]
 
 [source]

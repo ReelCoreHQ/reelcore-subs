@@ -2,7 +2,7 @@ title = "七武士"
 original_title = "七人の侍"
 year = 1954
 authors = ["ReelCoreHQ"]
-origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+origin = "reelcore-encode：原盘英文字幕 + 机器翻译中文"
 fonts = ["LXGW WenKai", "Noto Sans CJK SC"]
 
 [source]
