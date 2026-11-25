@@ -368,8 +368,9 @@ def cmd_pr(base: str) -> int:
             if "认领" in {l["name"] for l in it.get("labels", [])} and author in names and it["state"] == "open":
                 if k := key_from_title(it["title"]):
                     claims.append(k)
-        # 组织成员（批量导入压制机做的字幕之类）不用先认领，但不能抢别人正在做的
-        member = pr.get("author_association") in ("OWNER", "MEMBER", "COLLABORATOR")
+        # 有写权限的人（批量导入压制机做的字幕之类）不用先认领，但不能抢别人正在做的。
+        # 不看 author_association：组织成员身份不公开时，事件里会是 CONTRIBUTOR
+        member = can_write(author)
         others = [] if not member else [(n, k, it) for n, k, it in open_claims(before=10**9)
                                         if author not in {it["user"]["login"], *(a["login"] for a in it.get("assignees", []))}]
         for k in new:
@@ -385,6 +386,14 @@ def cmd_pr(base: str) -> int:
         print(f"::error::{e}")
     print(f"{len(errs)} 个问题" if errs else "检查通过")
     return 1 if errs else 0
+
+
+def can_write(user: str) -> bool:
+    try:
+        perm = gh("GET", f"/collaborators/{user}/permission").get("permission")
+    except Exception:  # noqa: BLE001
+        return False
+    return perm in ("admin", "maintain", "write")
 
 
 def claim_refs(body: str) -> list[int]:
