@@ -1,0 +1,2050 @@
+[Script Info]
+Title: Fall 2: Deadpoint 2026
+ScriptType: v4.00+
+PlayResX: 3840
+PlayResY: 2160
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ZH,Noto Sans CJK SC,116,&H00FDF9F9,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,1,0,1,4.8,2.4,2,160,160,320,1
+Style: EN,Noto Sans CJK SC,92,&H0066D8FF,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.5,0,1,3.6,1.6,2,160,160,208,1
+Style: ZH_L,Noto Sans CJK SC,72,&H00BFDDE9,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,1,0,1,3.6,1.8,2,160,160,320,1
+Style: EN_L,Noto Sans CJK SC,52,&H008AC0D8,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.5,0,1,2.8,1.2,2,160,160,208,1
+Style: NOTE,Noto Sans CJK SC,56,&H00ECECEC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:01:31.21,0:01:33.17,ZH,,0,0,0,,{\rZH\blur1.6}太危险了！
+Dialogue: 1,0:01:31.21,0:01:33.17,EN,,0,0,0,,{\rEN\blur1.6}It's too dangerous!
+Dialogue: 2,0:01:33.17,0:01:34.42,ZH,,0,0,0,,{\rZH\blur1.6}别停！
+Dialogue: 1,0:01:33.17,0:01:34.42,EN,,0,0,0,,{\rEN\blur1.6}Keep moving!
+Dialogue: 2,0:01:34.42,0:01:36.54,ZH,,0,0,0,,{\rZH\blur1.6}就从这儿过去。
+Dialogue: 1,0:01:34.42,0:01:36.54,EN,,0,0,0,,{\rEN\blur1.6}This is the way through.
+Dialogue: 2,0:01:37.71,0:01:39.17,ZH,,0,0,0,,{\rZH\blur1.6}加油！
+Dialogue: 1,0:01:37.71,0:01:39.17,EN,,0,0,0,,{\rEN\blur1.6}Come on!
+Dialogue: 2,0:01:39.17,0:01:41.17,ZH,,0,0,0,,{\rZH\blur1.6}我没法再往前了。
+Dialogue: 1,0:01:39.17,0:01:41.17,EN,,0,0,0,,{\rEN\blur1.6}I can't go any further.
+Dialogue: 2,0:01:41.17,0:01:42.54,ZH,,0,0,0,,{\rZH\blur1.6}快动！
+Dialogue: 1,0:01:41.17,0:01:42.54,EN,,0,0,0,,{\rEN\blur1.6}Move!
+Dialogue: 2,0:02:03.83,0:02:05.29,ZH,,0,0,0,,{\rZH\blur1.6}地震了！
+Dialogue: 1,0:02:03.83,0:02:05.29,EN,,0,0,0,,{\rEN\blur1.6}Earthquake!
+Dialogue: 2,0:02:42.33,0:02:44.71,ZH,,0,0,0,,{\rZH\blur1.6}嗨，大伙儿！我是Danger D。
+Dialogue: 1,0:02:42.33,0:02:44.71,EN,,0,0,0,,{\rEN\blur1.6}Hey, guys! Danger D here.
+Dialogue: 2,0:02:44.75,0:02:47.25,ZH,,0,0,0,,{\rZH\blur1.6}全网都在聊FallGi rl，根本停不下来。
+Dialogue: 1,0:02:44.75,0:02:47.25,EN,,0,0,0,,{\rEN\blur1.6}The Internet cannot stop talking about FallGirl.
+Dialogue: 2,0:02:47.29,0:02:49.21,ZH,,0,0,0,,{\rZH\blur1.6}人气网红 Shiloh Hunter
+Dialogue: 1,0:02:47.29,0:02:49.21,EN,,0,0,0,,{\rEN\blur1.6}Popular influencer Shiloh Hunter
+Dialogue: 2,0:02:49.25,0:02:50.62,ZH,,0,0,0,,{\rZH\blur1.6}还有她的朋友Becky
+Dialogue: 1,0:02:49.25,0:02:50.62,EN,,0,0,0,,{\rEN\blur1.6}and her friend Becky
+Dialogue: 2,0:02:50.67,0:02:53.04,ZH,,0,0,0,,{\rZH\blur1.6}决定全靠自己爬上一座塔
+Dialogue: 1,0:02:50.67,0:02:53.04,EN,,0,0,0,,{\rEN\blur1.6}decided to climb a tower all by themselves
+Dialogue: 2,0:02:53.08,0:02:54.71,ZH,,0,0,0,,{\rZH\blur1.6}结果酿成了悲剧。
+Dialogue: 1,0:02:53.08,0:02:54.71,EN,,0,0,0,,{\rEN\blur1.6}and it ended in tragedy.
+Dialogue: 2,0:02:54.75,0:02:56.46,ZH,,0,0,0,,{\rZH\blur1.6}在2,000英尺高空
+Dialogue: 1,0:02:54.75,0:02:56.46,EN,,0,0,0,,{\rEN\blur1.6}2,000 feet in the air
+Dialogue: 2,0:02:56.46,0:02:58.29,ZH,,0,0,0,,{\rZH\blur1.6}在荒郊野外的一座塔上。
+Dialogue: 1,0:02:56.46,0:02:58.29,EN,,0,0,0,,{\rEN\blur1.6}on a tower in the middle of nowhere.
+Dialogue: 2,0:02:58.33,0:03:00.71,ZH,,0,0,0,,{\rZH\blur1.6}-我们成功了！  -耶！
+Dialogue: 1,0:02:58.33,0:03:00.71,EN,,0,0,0,,{\rEN\blur1.6}-We made it!   -Whoo!
+Dialogue: 2,0:03:00.75,0:03:02.92,ZH,,0,0,0,,{\rZH\blur1.6}现在爆火的那个视频，你看了吗？
+Dialogue: 1,0:03:00.75,0:03:02.92,EN,,0,0,0,,{\rEN\blur1.6}Did you see the video that's going viral right now?
+Dialogue: 2,0:03:02.96,0:03:05.42,ZH,,0,0,0,,{\rZH\blur1.6}小心，D！
+Dialogue: 1,0:03:02.96,0:03:05.42,EN,,0,0,0,,{\rEN\blur1.6}Danger D!
+Dialogue: 2,0:03:05.46,0:03:07.50,ZH,,0,0,0,,{\rZH\blur1.6}那段视频？摔下去那段？
+Dialogue: 1,0:03:05.46,0:03:07.50,EN,,0,0,0,,{\rEN\blur1.6}That clip? The one of the fall?
+Dialogue: 2,0:03:08.92,0:03:10.12,ZH,,0,0,0,,{\rZH\blur1.6}我的天啊！
+Dialogue: 1,0:03:08.92,0:03:10.12,EN,,0,0,0,,{\rEN\blur1.6}Oh, my God!
+Dialogue: 2,0:03:10.17,0:03:11.42,ZH,,0,0,0,,{\rZH\blur1.6}Hunter，你没事吧？
+Dialogue: 1,0:03:10.17,0:03:11.42,EN,,0,0,0,,{\rEN\blur1.6}Hunter, are you okay?
+Dialogue: 2,0:03:11.46,0:03:12.96,ZH,,0,0,0,,{\rZH\blur1.6}你得把我拉上去！
+Dialogue: 1,0:03:11.46,0:03:12.96,EN,,0,0,0,,{\rEN\blur1.6}You're gonna have to pull me up!
+Dialogue: 2,0:03:13.00,0:03:14.88,ZH,,0,0,0,,{\rZH\blur1.6}-这不该发到网上。  -我心跳都停了。
+Dialogue: 1,0:03:13.00,0:03:14.88,EN,,0,0,0,,{\rEN\blur1.6}-This should not be online.   -My heart stopped.
+Dialogue: 2,0:03:14.88,0:03:18.42,ZH,,0,0,0,,{\rZH\blur1.6}下不去，也没法求救。
+Dialogue: 1,0:03:14.88,0:03:18.42,EN,,0,0,0,,{\rEN\blur1.6}No way down and no way to call for help.
+Dialogue: 2,0:03:18.88,0:03:20.33,ZH,,0,0,0,,{\rZH\blur1.6}你本以为
+Dialogue: 1,0:03:18.88,0:03:20.33,EN,,0,0,0,,{\rEN\blur1.6}You would've thought
+Dialogue: 2,0:03:20.38,0:03:22.62,ZH,,0,0,0,,{\rZH\blur1.6}Hunter的故事就会到此为止。
+Dialogue: 1,0:03:20.38,0:03:22.62,EN,,0,0,0,,{\rEN\blur1.6}that Hunter's story would've ended there.
+Dialogue: 2,0:03:22.67,0:03:25.88,ZH,,0,0,0,,{\rZH\blur1.6}还有，眼看着Shil oh的悲剧成了潮流。
+Dialogue: 1,0:03:22.67,0:03:25.88,EN,,0,0,0,,{\rEN\blur1.6}And seeing Shiloh's tragedy turned into a trend.
+Dialogue: 2,0:03:25.92,0:03:27.00,ZH,,0,0,0,,{\rZH\blur1.6}网上到处都是。
+Dialogue: 1,0:03:25.92,0:03:27.00,EN,,0,0,0,,{\rEN\blur1.6}It's all over the internet.
+Dialogue: 2,0:03:27.25,0:03:31.25,ZH,,0,0,0,,{\rZH\blur1.6}她的粉丝都自称“跟摔粉”了。
+Dialogue: 1,0:03:27.25,0:03:31.25,EN,,0,0,0,,{\rEN\blur1.6}Fans are even calling themselves her 'fall-owers'.
+Dialogue: 2,0:03:31.25,0:03:34.04,ZH,,0,0,0,,{\rZH\blur1.6}Shiloh那辆破旧的Bronco 在eBay上出现了。
+Dialogue: 1,0:03:31.25,0:03:34.04,EN,,0,0,0,,{\rEN\blur1.6}Shiloh's crusty Bronco showed up on eBay.
+Dialogue: 2,0:03:34.08,0:03:35.54,ZH,,0,0,0,,{\rZH\blur1.6}是Hunter那辆 有名的Bronco！
+Dialogue: 1,0:03:34.08,0:03:35.54,EN,,0,0,0,,{\rEN\blur1.6}It's Hunter's famous Bronco!
+Dialogue: 2,0:03:35.58,0:03:38.00,ZH,,0,0,0,,{\rZH\blur1.6}这些人想干的事，简直太不尊重人了。
+Dialogue: 1,0:03:35.58,0:03:38.00,EN,,0,0,0,,{\rEN\blur1.6}It's just, like, disrespectful what these people try and do.
+Dialogue: 2,0:03:38.04,0:03:41.25,ZH,,0,0,0,,{\rZH\blur1.6}-那是FallGirl的妹妹！  -不！我不想拍照。
+Dialogue: 1,0:03:38.04,0:03:41.25,EN,,0,0,0,,{\rEN\blur1.6}-That's FallGirl's sister!   -No! I don't want any photos.
+Dialogue: 2,0:03:41.29,0:03:43.71,ZH,,0,0,0,,{\rZH\blur1.6}她做过的那些疯狂透顶的特技里，
+Dialogue: 1,0:03:41.29,0:03:43.71,EN,,0,0,0,,{\rEN\blur1.6}Amidst all the crazy, crazy stunts she's done,
+Dialogue: 2,0:03:43.75,0:03:45.92,ZH,,0,0,0,,{\rZH\blur1.6}我觉得她那番话里，真有些动人的东西。
+Dialogue: 1,0:03:43.75,0:03:45.92,EN,,0,0,0,,{\rEN\blur1.6}I think there's some real beauty in what she had to say.
+Dialogue: 2,0:03:45.96,0:03:49.71,ZH,,0,0,0,,{\rZH\blur1.6}你得做点让自己觉得真活着的事。
+Dialogue: 1,0:03:45.96,0:03:49.71,EN,,0,0,0,,{\rEN\blur1.6}You have to do something that makes you feel alive.
+Dialogue: 2,0:03:49.75,0:03:51.54,ZH,,0,0,0,,{\rZH\blur1.6}刚才太精彩了。
+Dialogue: 1,0:03:49.75,0:03:51.54,EN,,0,0,0,,{\rEN\blur1.6}That was amazing.
+Dialogue: 2,0:03:51.58,0:03:54.92,ZH,,0,0,0,,{\rZH\blur1.6}不过别担心，你掉下去也照样出名。
+Dialogue: 1,0:03:51.58,0:03:54.92,EN,,0,0,0,,{\rEN\blur1.6}But don't worry, you'll still be famous if you fall.
+Dialogue: 2,0:03:58.67,0:04:01.50,ZH,,0,0,0,,{\rZH\blur1.6}我姐说了不少你的事。
+Dialogue: 1,0:03:58.67,0:04:01.50,EN,,0,0,0,,{\rEN\blur1.6}My sister talked a lot about you.
+Dialogue: 2,0:04:02.08,0:04:03.83,ZH,,0,0,0,,{\rZH\blur1.6}把你当家人。
+Dialogue: 1,0:04:02.08,0:04:03.83,EN,,0,0,0,,{\rEN\blur1.6}Considered you family.
+Dialogue: 2,0:04:03.88,0:04:05.88,ZH,,0,0,0,,{\rZH\blur1.6}没想到咱俩以前从没见过。
+Dialogue: 1,0:04:03.88,0:04:05.88,EN,,0,0,0,,{\rEN\blur1.6}I'm surprised we never met.
+Dialogue: 2,0:04:06.88,0:04:09.54,ZH,,0,0,0,,{\rZH\blur1.6}呃……警察把它找回来了
+Dialogue: 1,0:04:06.88,0:04:09.54,EN,,0,0,0,,{\rEN\blur1.6}The, um... police recovered it
+Dialogue: 2,0:04:09.58,0:04:11.83,ZH,,0,0,0,,{\rZH\blur1.6}几周前。
+Dialogue: 1,0:04:09.58,0:04:11.83,EN,,0,0,0,,{\rEN\blur1.6}a few weeks back.
+Dialogue: 2,0:04:11.88,0:04:13.96,ZH,,0,0,0,,{\rZH\blur1.6}我收到过不少邀约，可……
+Dialogue: 1,0:04:11.88,0:04:13.96,EN,,0,0,0,,{\rEN\blur1.6}I had a lot of offers, but...
+Dialogue: 2,0:04:14.00,0:04:15.12,ZH,,0,0,0,,{\rZH\blur1.6}谢谢。
+Dialogue: 1,0:04:14.00,0:04:15.12,EN,,0,0,0,,{\rEN\blur1.6}Thank you.
+Dialogue: 2,0:04:15.92,0:04:19.25,ZH,,0,0,0,,{\rZH\blur1.6}我才不把它卖给那种疯狂的铁杆粉丝。
+Dialogue: 1,0:04:15.92,0:04:19.25,EN,,0,0,0,,{\rEN\blur1.6}I'm not gonna sell it to one of those crazy hardcore fans.
+Dialogue: 2,0:04:19.29,0:04:21.79,ZH,,0,0,0,,{\rZH\blur1.6}这我能理解。
+Dialogue: 1,0:04:19.29,0:04:21.79,EN,,0,0,0,,{\rEN\blur1.6}I can understand that.
+Dialogue: 2,0:04:23.04,0:04:24.79,ZH,,0,0,0,,{\rZH\blur1.6}天哪。
+Dialogue: 1,0:04:23.04,0:04:24.79,EN,,0,0,0,,{\rEN\blur1.6}Jesus.
+Dialogue: 2,0:04:31.17,0:04:33.50,ZH,,0,0,0,,{\rZH\blur1.6}这挺熟悉的。
+Dialogue: 1,0:04:31.17,0:04:33.50,EN,,0,0,0,,{\rEN\blur1.6}That's familiar.
+Dialogue: 2,0:04:38.88,0:04:41.00,ZH,,0,0,0,,{\rZH\blur1.6}哦呵呵。
+Dialogue: 1,0:04:38.88,0:04:41.00,EN,,0,0,0,,{\rEN\blur1.6}Oh-ho-ho.
+Dialogue: 2,0:04:41.04,0:04:42.46,ZH,,0,0,0,,{\rZH\blur1.6}靠。
+Dialogue: 1,0:04:41.04,0:04:42.46,EN,,0,0,0,,{\rEN\blur1.6}Shit.
+Dialogue: 2,0:04:43.00,0:04:44.83,ZH,,0,0,0,,{\rZH\blur1.6}哦。
+Dialogue: 1,0:04:43.00,0:04:44.83,EN,,0,0,0,,{\rEN\blur1.6}Oh.
+Dialogue: 2,0:04:47.21,0:04:48.62,ZH,,0,0,0,,{\rZH\blur1.6}是什么？
+Dialogue: 1,0:04:47.21,0:04:48.62,EN,,0,0,0,,{\rEN\blur1.6}What is it?
+Dialogue: 2,0:04:50.17,0:04:52.88,ZH,,0,0,0,,{\rZH\blur1.6}你姐妹发的帖子，你一条都没看？
+Dialogue: 1,0:04:50.17,0:04:52.88,EN,,0,0,0,,{\rEN\blur1.6}You didn't watch any of your sister's posts?
+Dialogue: 2,0:04:56.12,0:04:58.46,ZH,,0,0,0,,{\rZH\blur1.6}这算是她的终极人生愿望清单。
+Dialogue: 1,0:04:56.12,0:04:58.46,EN,,0,0,0,,{\rEN\blur1.6}It's, like, her ultimate bucket list.
+Dialogue: 2,0:04:58.50,0:05:03.17,ZH,,0,0,0,,{\rZH\blur1.6}她策划的每次疯狂冒险、 每场玩命特技
+Dialogue: 1,0:04:58.50,0:05:03.17,EN,,0,0,0,,{\rEN\blur1.6}Every single crazy adventure and insane stunt she planned
+Dialogue: 2,0:05:03.21,0:05:04.83,ZH,,0,0,0,,{\rZH\blur1.6}在这里面。
+Dialogue: 1,0:05:03.21,0:05:04.83,EN,,0,0,0,,{\rEN\blur1.6}is in here.
+Dialogue: 2,0:05:05.38,0:05:09.38,ZH,,0,0,0,,{\rZH\blur1.6}她正想办法熬过这一切，可……
+Dialogue: 1,0:05:05.38,0:05:09.38,EN,,0,0,0,,{\rEN\blur1.6}She was trying to make her way through it all, but...
+Dialogue: 2,0:05:09.42,0:05:11.92,ZH,,0,0,0,,{\rZH\blur1.6}……勉强才到一半。
+Dialogue: 1,0:05:09.42,0:05:11.92,EN,,0,0,0,,{\rEN\blur1.6}..barely made it half way.
+Dialogue: 2,0:05:15.79,0:05:18.67,ZH,,0,0,0,,{\rZH\blur1.6}我给这几页拍两张照片，可以吗？
+Dialogue: 1,0:05:15.79,0:05:18.67,EN,,0,0,0,,{\rEN\blur1.6}Do you mind if I take a couple of pictures of these pages?
+Dialogue: 2,0:05:18.71,0:05:19.88,ZH,,0,0,0,,{\rZH\blur1.6}嗯，当然。
+Dialogue: 1,0:05:18.71,0:05:19.88,EN,,0,0,0,,{\rEN\blur1.6}No, sure.
+Dialogue: 2,0:05:39.33,0:05:41.08,ZH,,0,0,0,,{\rZH\blur1.6}Shi，我改主意了。
+Dialogue: 1,0:05:39.33,0:05:41.08,EN,,0,0,0,,{\rEN\blur1.6}Shi, I changed my mind.
+Dialogue: 2,0:05:41.58,0:05:44.42,ZH,,0,0,0,,{\rZH\blur1.6}哎，拜托。别当怂包。
+Dialogue: 1,0:05:41.58,0:05:44.42,EN,,0,0,0,,{\rEN\blur1.6}Oh, come on. Don't be a little bitch.
+Dialogue: 2,0:05:47.08,0:05:49.42,ZH,,0,0,0,,{\rZH\blur1.6}都这时候了，我可不让你认怂。
+Dialogue: 1,0:05:47.08,0:05:49.42,EN,,0,0,0,,{\rEN\blur1.6}I am not letting you wuss out now.
+Dialogue: 2,0:05:59.04,0:06:01.04,ZH,,0,0,0,,{\rZH\blur1.6}这样吧，给你了。
+Dialogue: 1,0:05:59.04,0:06:01.04,EN,,0,0,0,,{\rEN\blur1.6}You know what? You can have it.
+Dialogue: 2,0:06:01.08,0:06:03.17,ZH,,0,0,0,,{\rZH\blur1.6}拿着吧。全拿去。
+Dialogue: 1,0:06:01.08,0:06:03.17,EN,,0,0,0,,{\rEN\blur1.6}Just take it. Take all of it.
+Dialogue: 2,0:06:03.21,0:06:05.42,ZH,,0,0,0,,{\rZH\blur1.6}你就……呃，就算帮我个忙。
+Dialogue: 1,0:06:03.21,0:06:05.42,EN,,0,0,0,,{\rEN\blur1.6}You'd be, uh... you'd be doing me a favour.
+Dialogue: 2,0:06:05.46,0:06:07.04,ZH,,0,0,0,,{\rZH\blur1.6}-你确定吗？  -嗯。
+Dialogue: 1,0:06:05.46,0:06:07.04,EN,,0,0,0,,{\rEN\blur1.6}-Are you sure?   -Mm-hm.
+Dialogue: 2,0:06:07.04,0:06:09.42,ZH,,0,0,0,,{\rZH\blur1.6}我是说，这……这都是Shiloh。
+Dialogue: 1,0:06:07.04,0:06:09.42,EN,,0,0,0,,{\rEN\blur1.6}I mean, this... this is all Shiloh.
+Dialogue: 2,0:06:09.46,0:06:12.46,ZH,,0,0,0,,{\rZH\blur1.6}嗯。不，你拿着吧。我……
+Dialogue: 1,0:06:09.46,0:06:12.46,EN,,0,0,0,,{\rEN\blur1.6}Yeah. No, please take it. I...
+Dialogue: 2,0:06:12.50,0:06:15.54,ZH,,0,0,0,,{\rZH\blur1.6}我厨房里还有一大堆呢，我没法……
+Dialogue: 1,0:06:12.50,0:06:15.54,EN,,0,0,0,,{\rEN\blur1.6}I have, like, a ton more in the kitchen and I can't...
+Dialogue: 2,0:06:15.58,0:06:18.04,ZH,,0,0,0,,{\rZH\blur1.6}我不……我不要。
+Dialogue: 1,0:06:15.58,0:06:18.04,EN,,0,0,0,,{\rEN\blur1.6}I don't... I don't want it.
+Dialogue: 2,0:06:18.08,0:06:19.42,ZH,,0,0,0,,{\rZH\blur1.6}嘿，没事的。
+Dialogue: 1,0:06:18.08,0:06:19.42,EN,,0,0,0,,{\rEN\blur1.6}Hey, it's okay.
+Dialogue: 2,0:06:19.46,0:06:22.58,ZH,,0,0,0,,{\rZH\blur1.6}-对不起。  -不用，不用道歉。
+Dialogue: 1,0:06:19.46,0:06:22.58,EN,,0,0,0,,{\rEN\blur1.6}-Sorry.   -No, don't apologise.
+Dialogue: 2,0:06:26.67,0:06:31.54,ZH,,0,0,0,,{\rZH\blur1.6}我最后一次看到那个， 也是最后一次见她。
+Dialogue: 1,0:06:26.67,0:06:31.54,EN,,0,0,0,,{\rEN\blur1.6}The last time I saw that was the last time I saw her.
+Dialogue: 2,0:06:31.58,0:06:34.67,ZH,,0,0,0,,{\rZH\blur1.6}我……我说了不该说的话
+Dialogue: 1,0:06:31.58,0:06:34.67,EN,,0,0,0,,{\rEN\blur1.6}I... I said something that I shouldn't have
+Dialogue: 2,0:06:34.67,0:06:36.58,ZH,,0,0,0,,{\rZH\blur1.6}我都快被这事折磨死了。
+Dialogue: 1,0:06:34.67,0:06:36.58,EN,,0,0,0,,{\rEN\blur1.6}and it's killing me.
+Dialogue: 2,0:06:38.04,0:06:39.67,ZH,,0,0,0,,{\rZH\blur1.6}还有，呃……
+Dialogue: 1,0:06:38.04,0:06:39.67,EN,,0,0,0,,{\rEN\blur1.6}And, uh...
+Dialogue: 2,0:06:40.71,0:06:44.71,ZH,,0,0,0,,{\rZH\blur1.6}我脑子转不动，饭也吃不下
+Dialogue: 1,0:06:40.71,0:06:44.71,EN,,0,0,0,,{\rEN\blur1.6}I can't think or eat
+Dialogue: 2,0:06:44.75,0:06:47.67,ZH,,0,0,0,,{\rZH\blur1.6}要不……睡觉，要不……
+Dialogue: 1,0:06:44.75,0:06:47.67,EN,,0,0,0,,{\rEN\blur1.6}or... sleep or...
+Dialogue: 2,0:06:47.67,0:06:49.04,ZH,,0,0,0,,{\rZH\blur1.6}嗨。
+Dialogue: 1,0:06:47.67,0:06:49.04,EN,,0,0,0,,{\rEN\blur1.6}Hey.
+Dialogue: 2,0:06:49.04,0:06:50.71,ZH,,0,0,0,,{\rZH\blur1.6}嘿，没事的。
+Dialogue: 1,0:06:49.04,0:06:50.71,EN,,0,0,0,,{\rEN\blur1.6}Hey, it's okay.
+Dialogue: 2,0:06:55.29,0:06:58.25,ZH,,0,0,0,,{\rZH\blur1.6}- 就当是药吧。
+Dialogue: 1,0:06:55.29,0:06:58.25,EN,,0,0,0,,{\rEN\blur1.6}- Consider it medicine.
+Dialogue: 2,0:07:15.00,0:07:16.75,ZH,,0,0,0,,{\rZH\blur1.6}说不定那正是你需要的。
+Dialogue: 1,0:07:15.00,0:07:16.75,EN,,0,0,0,,{\rEN\blur1.6}Maybe that's what you need.
+Dialogue: 2,0:07:17.50,0:07:20.54,ZH,,0,0,0,,{\rZH\blur1.6}为了把Shiloh开了头的事做完。
+Dialogue: 1,0:07:17.50,0:07:20.54,EN,,0,0,0,,{\rEN\blur1.6}To finish something that Shiloh started.
+Dialogue: 2,0:07:20.58,0:07:22.00,ZH,,0,0,0,,{\rZH\blur1.6}你什么意思？
+Dialogue: 1,0:07:20.58,0:07:22.00,EN,,0,0,0,,{\rEN\blur1.6}What do you mean?
+Dialogue: 2,0:07:22.04,0:07:24.29,ZH,,0,0,0,,{\rZH\blur1.6}往前走吧。给自己一个交代。
+Dialogue: 1,0:07:22.04,0:07:24.29,EN,,0,0,0,,{\rEN\blur1.6}Move on. Get the closure you need.
+Dialogue: 2,0:07:24.33,0:07:26.08,ZH,,0,0,0,,{\rZH\blur1.6}你可以把她的清单做完。
+Dialogue: 1,0:07:24.33,0:07:26.08,EN,,0,0,0,,{\rEN\blur1.6}You can finish her list.
+Dialogue: 2,0:07:27.12,0:07:29.50,ZH,,0,0,0,,{\rZH\blur1.6}一次一页。
+Dialogue: 1,0:07:27.12,0:07:29.50,EN,,0,0,0,,{\rEN\blur1.6}One page ata time.
+Dialogue: 2,0:07:30.38,0:07:32.67,ZH,,0,0,0,,{\rZH\blur1.6}我们甚至能用她的相机拍。
+Dialogue: 1,0:07:30.38,0:07:32.67,EN,,0,0,0,,{\rEN\blur1.6}We can even shoot it on her camera.
+Dialogue: 2,0:07:32.71,0:07:34.38,ZH,,0,0,0,,{\rZH\blur1.6}真有'Danger D'的范儿。
+Dialogue: 1,0:07:32.71,0:07:34.38,EN,,0,0,0,,{\rEN\blur1.6}Real 'Danger D' style.
+Dialogue: 2,0:07:34.42,0:07:36.75,ZH,,0,0,0,,{\rZH\blur1.6}你干嘛要帮我啊？
+Dialogue: 1,0:07:34.42,0:07:36.75,EN,,0,0,0,,{\rEN\blur1.6}Why do you even want to help me?
+Dialogue: 2,0:07:36.79,0:07:38.75,ZH,,0,0,0,,{\rZH\blur1.6}你根本不认识我。
+Dialogue: 1,0:07:36.79,0:07:38.75,EN,,0,0,0,,{\rEN\blur1.6}You don't even know me.
+Dialogue: 2,0:07:41.96,0:07:43.67,ZH,,0,0,0,,{\rZH\blur1.6}我认识你姐的时候……
+Dialogue: 1,0:07:41.96,0:07:43.67,EN,,0,0,0,,{\rEN\blur1.6}When I met your sister...
+Dialogue: 2,0:07:45.42,0:07:51.88,ZH,,0,0,0,,{\rZH\blur1.6}我那时……连自己的影子都怕。
+Dialogue: 1,0:07:45.42,0:07:51.88,EN,,0,0,0,,{\rEN\blur1.6}I was... scared of my own shadow.
+Dialogue: 2,0:07:53.46,0:07:55.75,ZH,,0,0,0,,{\rZH\blur1.6}可她骨子里有那么一股劲儿
+Dialogue: 1,0:07:53.46,0:07:55.75,EN,,0,0,0,,{\rEN\blur1.6}But there was something in her spirit
+Dialogue: 2,0:07:55.79,0:07:59.50,ZH,,0,0,0,,{\rZH\blur1.6}那让我有勇气面对那些糟透了的破事。
+Dialogue: 1,0:07:55.79,0:07:59.50,EN,,0,0,0,,{\rEN\blur1.6}that gave me the strength to face some really dark shit.
+Dialogue: 2,0:08:00.83,0:08:02.33,ZH,,0,0,0,,{\rZH\blur1.6}嗯。
+Dialogue: 1,0:08:00.83,0:08:02.33,EN,,0,0,0,,{\rEN\blur1.6}Hm.
+Dialogue: 2,0:08:04.21,0:08:07.04,ZH,,0,0,0,,{\rZH\blur1.6}她本来下一站要去泰国。
+Dialogue: 1,0:08:04.21,0:08:07.04,EN,,0,0,0,,{\rEN\blur1.6}Her next stop was gonna be Thailand.
+Dialogue: 2,0:08:07.54,0:08:09.50,ZH,,0,0,0,,{\rZH\blur1.6}Mount Kwan的木栈道。
+Dialogue: 1,0:08:07.54,0:08:09.50,EN,,0,0,0,,{\rEN\blur1.6}The plank walk of Mount Kwan.
+Dialogue: 2,0:08:09.54,0:08:10.83,ZH,,0,0,0,,{\rZH\blur1.6}什么？
+Dialogue: 1,0:08:09.54,0:08:10.83,EN,,0,0,0,,{\rEN\blur1.6}The what?
+Dialogue: 2,0:08:11.58,0:08:14.33,ZH,,0,0,0,,{\rZH\blur1.6}这是Shi最后发的 几篇帖子之一。
+Dialogue: 1,0:08:11.58,0:08:14.33,EN,,0,0,0,,{\rEN\blur1.6}This was from one of Shi's last posts.
+Dialogue: 2,0:08:14.38,0:08:16.08,ZH,,0,0,0,,{\rZH\blur1.6}步道拐着弯绕过Devil's Elbow
+Dialogue: 1,0:08:14.38,0:08:16.08,EN,,0,0,0,,{\rEN\blur1.6}The walk twists around the Devil's Elbow
+Dialogue: 2,0:08:16.12,0:08:18.88,ZH,,0,0,0,,{\rZH\blur1.6}海拔4,000英尺
+Dialogue: 1,0:08:16.12,0:08:18.88,EN,,0,0,0,,{\rEN\blur1.6}which sits 4,000 feet above sea level
+Dialogue: 2,0:08:18.88,0:08:20.92,ZH,,0,0,0,,{\rZH\blur1.6}终点是一座神像
+Dialogue: 1,0:08:18.88,0:08:20.92,EN,,0,0,0,,{\rEN\blur1.6}ending in a spiritual statue
+Dialogue: 2,0:08:20.96,0:08:23.12,ZH,,0,0,0,,{\rZH\blur1.6}当地人管它叫“The Deth Dragon”。
+Dialogue: 1,0:08:20.96,0:08:23.12,EN,,0,0,0,,{\rEN\blur1.6}the locals call "The Deth Dragon'.
+Dialogue: 2,0:08:23.17,0:08:25.25,ZH,,0,0,0,,{\rZH\blur1.6}听说等你到了龙那儿，
+Dialogue: 1,0:08:23.17,0:08:25.25,EN,,0,0,0,,{\rEN\blur1.6}They say when you make it to the dragon,
+Dialogue: 2,0:08:25.29,0:08:27.42,ZH,,0,0,0,,{\rZH\blur1.6}它会吃掉你的恐惧。
+Dialogue: 1,0:08:25.29,0:08:27.42,EN,,0,0,0,,{\rEN\blur1.6}it eats your fears.
+Dialogue: 2,0:08:29.96,0:08:31.46,ZH,,0,0,0,,{\rZH\blur1.6}跟我来。
+Dialogue: 1,0:08:29.96,0:08:31.46,EN,,0,0,0,,{\rEN\blur1.6}Come with me.
+Dialogue: 2,0:08:35.12,0:08:37.38,ZH,,0,0,0,,{\rZH\blur1.6}不。抱歉。
+Dialogue: 1,0:08:35.12,0:08:37.38,EN,,0,0,0,,{\rEN\blur1.6}No. Sorry.
+Dialogue: 2,0:08:38.12,0:08:39.75,ZH,,0,0,0,,{\rZH\blur1.6}没事。
+Dialogue: 1,0:08:38.12,0:08:39.75,EN,,0,0,0,,{\rEN\blur1.6}It's okay.
+Dialogue: 2,0:08:44.17,0:08:48.75,ZH,,0,0,0,,{\rZH\blur1.6}我不像我姐。我不勇敢。
+Dialogue: 1,0:08:44.17,0:08:48.75,EN,,0,0,0,,{\rEN\blur1.6}I'm not like my sister. I'm not brave.
+Dialogue: 2,0:08:49.54,0:08:50.92,ZH,,0,0,0,,{\rZH\blur1.6}呃……
+Dialogue: 1,0:08:49.54,0:08:50.92,EN,,0,0,0,,{\rEN\blur1.6}Um...
+Dialogue: 2,0:08:51.96,0:08:53.62,ZH,,0,0,0,,{\rZH\blur1.6}我有份工作。
+Dialogue: 1,0:08:51.96,0:08:53.62,EN,,0,0,0,,{\rEN\blur1.6}I have a job.
+Dialogue: 2,0:08:53.67,0:08:55.04,ZH,,0,0,0,,{\rZH\blur1.6}还有……
+Dialogue: 1,0:08:53.67,0:08:55.04,EN,,0,0,0,,{\rEN\blur1.6}And...
+Dialogue: 2,0:08:55.08,0:08:56.75,ZH,,0,0,0,,{\rZH\blur1.6}一条命。
+Dialogue: 1,0:08:55.08,0:08:56.75,EN,,0,0,0,,{\rEN\blur1.6}a life.
+Dialogue: 2,0:09:01.88,0:09:02.92,ZH,,0,0,0,,{\rZH\blur1.6}你呢？
+Dialogue: 1,0:09:01.88,0:09:02.92,EN,,0,0,0,,{\rEN\blur1.6}Do you?
+Dialogue: 2,0:09:02.92,0:09:06.58,ZH,,0,0,0,,{\rZH\blur1.6}现在，你可以自由了。
+Dialogue: 1,0:09:02.92,0:09:06.58,EN,,0,0,0,,{\rEN\blur1.6}This is your moment to be free.
+Dialogue: 2,0:09:10.83,0:09:12.50,ZH,,0,0,0,,{\rZH\blur1.6}留着吧。
+Dialogue: 1,0:09:10.83,0:09:12.50,EN,,0,0,0,,{\rEN\blur1.6}Keep it.
+Dialogue: 2,0:09:13.04,0:09:14.50,ZH,,0,0,0,,{\rZH\blur1.6}Jax，你想想。
+Dialogue: 1,0:09:13.04,0:09:14.50,EN,,0,0,0,,{\rEN\blur1.6}Think about it, Jax.
+Dialogue: 2,0:09:14.54,0:09:16.08,ZH,,0,0,0,,{\rZH\blur1.6}可能就是那时候
+Dialogue: 1,0:09:14.54,0:09:16.08,EN,,0,0,0,,{\rEN\blur1.6}It might be that point in time
+Dialogue: 2,0:09:16.12,0:09:19.46,ZH,,0,0,0,,{\rZH\blur1.6}这事现在不做，可能一辈子都不会做了。
+Dialogue: 1,0:09:16.12,0:09:19.46,EN,,0,0,0,,{\rEN\blur1.6}where if you don't do it now you might never.
+Dialogue: 2,0:09:43.75,0:09:46.25,ZH,,0,0,0,,{\rZH\blur1.6}Shi，看着我！
+Dialogue: 1,0:09:43.75,0:09:46.25,EN,,0,0,0,,{\rEN\blur1.6}Shi, look at me!
+Dialogue: 2,0:09:54.38,0:09:57.25,ZH,,0,0,0,,{\rZH\blur1.6}-Shi，我做到了！
+Dialogue: 1,0:09:54.38,0:09:57.25,EN,,0,0,0,,{\rEN\blur1.6}-Shi, I did it!
+Dialogue: 2,0:09:59.25,0:10:01.67,ZH,,0,0,0,,{\rZH\blur1.6}靠！
+Dialogue: 1,0:09:59.25,0:10:01.67,EN,,0,0,0,,{\rEN\blur1.6}Shi!
+Dialogue: 2,0:11:14.17,0:11:15.12,ZH,,0,0,0,,{\rZH\blur1.6}呼！
+Dialogue: 1,0:11:14.17,0:11:15.12,EN,,0,0,0,,{\rEN\blur1.6}Whoo!
+Dialogue: 2,0:11:15.17,0:11:17.29,ZH,,0,0,0,,{\rZH\blur1.6}-哇！
+Dialogue: 1,0:11:15.17,0:11:17.29,EN,,0,0,0,,{\rEN\blur1.6}-Wow!
+Dialogue: 2,0:11:29.83,0:11:31.29,ZH,,0,0,0,,{\rZH\blur1.6}Hunter在论坛上看到的
+Dialogue: 1,0:11:29.83,0:11:31.29,EN,,0,0,0,,{\rEN\blur1.6}Hunter read in a forum
+Dialogue: 2,0:11:31.33,0:11:33.25,ZH,,0,0,0,,{\rZH\blur1.6}我们能找到向导带我们登顶
+Dialogue: 1,0:11:31.33,0:11:33.25,EN,,0,0,0,,{\rEN\blur1.6}that we can find a guide to take us to the top
+Dialogue: 2,0:11:33.29,0:11:35.33,ZH,,0,0,0,,{\rZH\blur1.6}在一家叫 High Spirits 的酒吧。
+Dialogue: 1,0:11:33.29,0:11:35.33,EN,,0,0,0,,{\rEN\blur1.6}at a bar called High Spirits.
+Dialogue: 2,0:11:35.79,0:11:38.42,ZH,,0,0,0,,{\rZH\blur1.6}你觉得“岩壁上的Ic arus”是啥意思？
+Dialogue: 1,0:11:35.79,0:11:38.42,EN,,0,0,0,,{\rEN\blur1.6}What do you think "Icarus on the rocks" means?
+Dialogue: 2,0:11:39.71,0:11:41.54,ZH,,0,0,0,,{\rZH\blur1.6}不知道。
+Dialogue: 1,0:11:39.71,0:11:41.54,EN,,0,0,0,,{\rEN\blur1.6}No idea.
+Dialogue: 2,0:11:41.92,0:11:44.71,ZH,,0,0,0,,{\rZH\blur1.6}好，那咱们得离开游客步道
+Dialogue: 1,0:11:41.92,0:11:44.71,EN,,0,0,0,,{\rEN\blur1.6}Okay, so, we'll have to divert from the tourist walk
+Dialogue: 2,0:11:44.75,0:11:47.25,ZH,,0,0,0,,{\rZH\blur1.6}再走Deth Dragon路线到西峰。
+Dialogue: 1,0:11:44.75,0:11:47.25,EN,,0,0,0,,{\rEN\blur1.6}and take the Deth Dragon route to the western peak.
+Dialogue: 2,0:11:47.29,0:11:50.04,ZH,,0,0,0,,{\rZH\blur1.6}Hunter的笔记上 说，已经封了几十年。
+Dialogue: 1,0:11:47.29,0:11:50.04,EN,,0,0,0,,{\rEN\blur1.6}Hunter's notes say it's been closed for decades.
+Dialogue: 2,0:11:50.08,0:11:51.79,ZH,,0,0,0,,{\rZH\blur1.6}对普通人来说太危险了。
+Dialogue: 1,0:11:50.08,0:11:51.79,EN,,0,0,0,,{\rEN\blur1.6}Too dangerous for the general public.
+Dialogue: 2,0:11:51.83,0:11:53.96,ZH,,0,0,0,,{\rZH\blur1.6}警察拦住了人贩子
+Dialogue: 1,0:11:51.83,0:11:53.96,EN,,0,0,0,,{\rEN\blur1.6}Police have stopped traffickers
+Dialogue: 2,0:11:54.00,0:11:56.92,ZH,,0,0,0,,{\rZH\blur1.6}大批运送芬太尼、海洛因和可卡因
+Dialogue: 1,0:11:54.00,0:11:56.92,EN,,0,0,0,,{\rEN\blur1.6}moving large shipments of fentanyl, heroin and cocaine
+Dialogue: 2,0:11:56.96,0:11:58.58,ZH,,0,0,0,,{\rZH\blur1.6}越过边境去Myanmar。
+Dialogue: 1,0:11:56.96,0:11:58.58,EN,,0,0,0,,{\rEN\blur1.6}over the border to Myanmar.
+Dialogue: 2,0:11:58.62,0:12:01.67,ZH,,0,0,0,,{\rZH\blur1.6}警方在Mount Kwan National Park设的检查站
+Dialogue: 1,0:11:58.62,0:12:01.67,EN,,0,0,0,,{\rEN\blur1.6}The police checkpoints set up at Mount Kwan National Park
+Dialogue: 2,0:12:01.71,0:12:02.79,ZH,,0,0,0,,{\rZH\blur1.6}已经证明了……
+Dialogue: 1,0:12:01.71,0:12:02.79,EN,,0,0,0,,{\rEN\blur1.6}have proved...
+Dialogue: 2,0:12:02.79,0:12:04.38,ZH,,0,0,0,,{\rZH\blur1.6}他们设了警察检查站
+Dialogue: 1,0:12:02.79,0:12:04.38,EN,,0,0,0,,{\rEN\blur1.6}They have police checkpoints
+Dialogue: 2,0:12:04.42,0:12:06.67,ZH,,0,0,0,,{\rZH\blur1.6}在 Mount Kwan 登山步道入口。
+Dialogue: 1,0:12:04.42,0:12:06.67,EN,,0,0,0,,{\rEN\blur1.6}at the entrance to the Mount Kwan trail.
+Dialogue: 2,0:12:06.71,0:12:09.29,ZH,,0,0,0,,{\rZH\blur1.6}他们肯定不会手下留情。
+Dialogue: 1,0:12:06.71,0:12:09.29,EN,,0,0,0,,{\rEN\blur1.6}They take no prisoners, that's for sure.
+Dialogue: 2,0:12:09.33,0:12:10.79,ZH,,0,0,0,,{\rZH\blur1.6}他们在找运毒的
+Dialogue: 1,0:12:09.33,0:12:10.79,EN,,0,0,0,,{\rEN\blur1.6}They're looking for drug runners
+Dialogue: 2,0:12:10.83,0:12:13.00,ZH,,0,0,0,,{\rZH\blur1.6}想把毒品偷运过境，运到缅甸
+Dialogue: 1,0:12:10.83,0:12:13.00,EN,,0,0,0,,{\rEN\blur1.6}trying to smuggle drugs over the border to Myanmar
+Dialogue: 2,0:12:13.04,0:12:14.67,ZH,,0,0,0,,{\rZH\blur1.6}走那条封闭的路线。
+Dialogue: 1,0:12:13.04,0:12:14.67,EN,,0,0,0,,{\rEN\blur1.6}via the closed route.
+Dialogue: 2,0:12:14.71,0:12:16.50,ZH,,0,0,0,,{\rZH\blur1.6}我的天啊。
+Dialogue: 1,0:12:14.71,0:12:16.50,EN,,0,0,0,,{\rEN\blur1.6}Oh, my God.
+Dialogue: 2,0:12:16.54,0:12:19.58,ZH,,0,0,0,,{\rZH\blur1.6}我们只是绕个路的游客。
+Dialogue: 1,0:12:16.54,0:12:19.58,EN,,0,0,0,,{\rEN\blur1.6}We're just tourists taking a diversion.
+Dialogue: 2,0:12:19.62,0:12:20.88,ZH,,0,0,0,,{\rZH\blur1.6}别担心。
+Dialogue: 1,0:12:19.62,0:12:20.88,EN,,0,0,0,,{\rEN\blur1.6}Don't worry.
+Dialogue: 2,0:12:34.25,0:12:35.92,ZH,,0,0,0,,{\rZH\blur1.6}Jax，快看！
+Dialogue: 1,0:12:34.25,0:12:35.92,EN,,0,0,0,,{\rEN\blur1.6}Jax, look!
+Dialogue: 2,0:12:52.46,0:12:56.83,ZH,,0,0,0,,{\rZH\blur1.6}哥们！这也太酷了！
+Dialogue: 1,0:12:52.46,0:12:56.83,EN,,0,0,0,,{\rEN\blur1.6}Dude! This is so sick!
+Dialogue: 2,0:12:57.54,0:12:59.46,ZH,,0,0,0,,{\rZH\blur1.6}哇，那看着也太棒了！
+Dialogue: 1,0:12:57.54,0:12:59.46,EN,,0,0,0,,{\rEN\blur1.6}Oh, man, that looks so good!
+Dialogue: 2,0:13:12.54,0:13:14.58,ZH,,0,0,0,,{\rZH\blur1.6}有点闹腾！耶！
+Dialogue: 1,0:13:12.54,0:13:14.58,EN,,0,0,0,,{\rEN\blur1.6}A little rowdy! Yes!
+Dialogue: 2,0:13:32.79,0:13:33.92,ZH,,0,0,0,,{\rZH\blur1.6}对不起。
+Dialogue: 1,0:13:32.79,0:13:33.92,EN,,0,0,0,,{\rEN\blur1.6}Sorry.
+Dialogue: 2,0:13:33.96,0:13:35.50,ZH,,0,0,0,,{\rZH\blur1.6}绕过去！
+Dialogue: 1,0:13:33.96,0:13:35.50,EN,,0,0,0,,{\rEN\blur1.6}Go around!
+Dialogue: 2,0:13:39.50,0:13:40.46,ZH,,0,0,0,,{\rZH\blur1.6}哼！
+Dialogue: 1,0:13:39.50,0:13:40.46,EN,,0,0,0,,{\rEN\blur1.6}Hmph!
+Dialogue: 2,0:13:40.50,0:13:42.04,ZH,,0,0,0,,{\rZH\blur1.6}嗯……
+Dialogue: 1,0:13:40.50,0:13:42.04,EN,,0,0,0,,{\rEN\blur1.6}Um...
+Dialogue: 2,0:13:53.04,0:13:54.83,ZH,,0,0,0,,{\rZH\blur1.6}我能怎么帮你？
+Dialogue: 1,0:13:53.04,0:13:54.83,EN,,0,0,0,,{\rEN\blur1.6}How can I help you?
+Dialogue: 2,0:13:55.79,0:13:57.33,ZH,,0,0,0,,{\rZH\blur1.6}哦，糟了，呃……
+Dialogue: 1,0:13:55.79,0:13:57.33,EN,,0,0,0,,{\rEN\blur1.6}Oh, bad, um...
+Dialogue: 2,0:13:57.38,0:13:58.75,ZH,,0,0,0,,{\rZH\blur1.6}有人跟我们说，就是这儿
+Dialogue: 1,0:13:57.38,0:13:58.75,EN,,0,0,0,,{\rEN\blur1.6}We were told that this is the place
+Dialogue: 2,0:13:58.75,0:14:00.58,ZH,,0,0,0,,{\rZH\blur1.6}去请个向导带着走木板。
+Dialogue: 1,0:13:58.75,0:14:00.58,EN,,0,0,0,,{\rEN\blur1.6}to ask for a guide for the plank walk.
+Dialogue: 2,0:14:00.62,0:14:03.12,ZH,,0,0,0,,{\rZH\blur1.6}对，要不是七月，那倒是。
+Dialogue: 1,0:14:00.62,0:14:03.12,EN,,0,0,0,,{\rEN\blur1.6}Yeah, it would be if it wasn't July.
+Dialogue: 2,0:14:03.12,0:14:04.50,ZH,,0,0,0,,{\rZH\blur1.6}呃……
+Dialogue: 1,0:14:03.12,0:14:04.50,EN,,0,0,0,,{\rEN\blur1.6}Uh...
+Dialogue: 2,0:14:04.54,0:14:05.62,ZH,,0,0,0,,{\rZH\blur1.6}对不起。
+Dialogue: 1,0:14:04.54,0:14:05.62,EN,,0,0,0,,{\rEN\blur1.6}Sorry.
+Dialogue: 2,0:14:05.62,0:14:10.38,ZH,,0,0,0,,{\rZH\blur1.6}有人让我们打听一下Deth Dragon Trail。
+Dialogue: 1,0:14:05.62,0:14:10.38,EN,,0,0,0,,{\rEN\blur1.6}We were told to enquire about the Deth Dragon Trail.
+Dialogue: 2,0:14:11.00,0:14:13.42,ZH,,0,0,0,,{\rZH\blur1.6}“Deth”拼作D-E-T-H。
+Dialogue: 1,0:14:11.00,0:14:13.42,EN,,0,0,0,,{\rEN\blur1.6}'Deth' spelled D-E-T-H.
+Dialogue: 2,0:14:13.46,0:14:16.17,ZH,,0,0,0,,{\rZH\blur1.6}前提是那在英语里不是同一个意思。
+Dialogue: 1,0:14:13.46,0:14:16.17,EN,,0,0,0,,{\rEN\blur1.6}Assuming that doesn't mean the same thing in English.
+Dialogue: 2,0:14:16.17,0:14:19.21,ZH,,0,0,0,,{\rZH\blur1.6}哦，对。可那条步道封了。
+Dialogue: 1,0:14:16.17,0:14:19.21,EN,,0,0,0,,{\rEN\blur1.6}Oh, yeah, it does. But that trail is closed.
+Dialogue: 2,0:14:19.21,0:14:22.38,ZH,,0,0,0,,{\rZH\blur1.6}地震很危险，搞得这儿很不安全。
+Dialogue: 1,0:14:19.21,0:14:22.38,EN,,0,0,0,,{\rEN\blur1.6}Dangerous earthquakes made it very unsafe.
+Dialogue: 2,0:14:22.42,0:14:25.62,ZH,,0,0,0,,{\rZH\blur1.6}东游客峰，开放着。
+Dialogue: 1,0:14:22.42,0:14:25.62,EN,,0,0,0,,{\rEN\blur1.6}The Eastern Tourist Peak. That's open.
+Dialogue: 2,0:14:26.29,0:14:28.54,ZH,,0,0,0,,{\rZH\blur1.6}可我还是那句话，你来的季节不对。
+Dialogue: 1,0:14:26.29,0:14:28.54,EN,,0,0,0,,{\rEN\blur1.6}But, again, you're in the wrong season.
+Dialogue: 2,0:14:28.58,0:14:31.62,ZH,,0,0,0,,{\rZH\blur1.6}还有，这只适合有经验的攀岩者
+Dialogue: 1,0:14:28.58,0:14:31.62,EN,,0,0,0,,{\rEN\blur1.6}And it's for experienced climbers only
+Dialogue: 2,0:14:31.67,0:14:33.38,ZH,,0,0,0,,{\rZH\blur1.6}这个时节。
+Dialogue: 1,0:14:31.67,0:14:33.38,EN,,0,0,0,,{\rEN\blur1.6}this time of year.
+Dialogue: 2,0:14:39.62,0:14:40.92,ZH,,0,0,0,,{\rZH\blur1.6}喝一杯怎么样？
+Dialogue: 1,0:14:39.62,0:14:40.92,EN,,0,0,0,,{\rEN\blur1.6}How about a drink?
+Dialogue: 2,0:14:43.25,0:14:46.75,ZH,,0,0,0,,{\rZH\blur1.6}要不……叫“岩壁上的Icarus”？
+Dialogue: 1,0:14:43.25,0:14:46.75,EN,,0,0,0,,{\rEN\blur1.6}How about... "Icarus on the rocks"?
+Dialogue: 2,0:14:48.38,0:14:50.17,ZH,,0,0,0,,{\rZH\blur1.6}- 嗯。
+Dialogue: 1,0:14:48.38,0:14:50.17,EN,,0,0,0,,{\rEN\blur1.6}- Mm.
+Dialogue: 2,0:14:50.21,0:14:51.54,ZH,,0,0,0,,{\rZH\blur1.6}你确定？
+Dialogue: 1,0:14:50.21,0:14:51.54,EN,,0,0,0,,{\rEN\blur1.6}You sure?
+Dialogue: 2,0:14:54.79,0:14:56.46,ZH,,0,0,0,,{\rZH\blur1.6}嗯，我们确定。
+Dialogue: 1,0:14:54.79,0:14:56.46,EN,,0,0,0,,{\rEN\blur1.6}Yeah, we're sure.
+Dialogue: 2,0:14:57.92,0:14:59.92,ZH,,0,0,0,,{\rZH\blur1.6}把那台摄像机关了。
+Dialogue: 1,0:14:57.92,0:14:59.92,EN,,0,0,0,,{\rEN\blur1.6}Shut off that camera.
+Dialogue: 2,0:15:08.92,0:15:10.42,ZH,,0,0,0,,{\rZH\blur1.6}跟他谈谈。
+Dialogue: 1,0:15:08.92,0:15:10.42,EN,,0,0,0,,{\rEN\blur1.6}Talk to him.
+Dialogue: 2,0:15:12.75,0:15:14.38,ZH,,0,0,0,,{\rZH\blur1.6}好，谢谢。
+Dialogue: 1,0:15:12.75,0:15:14.38,EN,,0,0,0,,{\rEN\blur1.6}Okay. Thanks.
+Dialogue: 2,0:15:24.46,0:15:27.42,ZH,,0,0,0,,{\rZH\blur1.6}我们是来喝加冰的Icarus吗？
+Dialogue: 1,0:15:24.46,0:15:27.42,EN,,0,0,0,,{\rEN\blur1.6}We're here for the Icarus on the rocks?
+Dialogue: 2,0:15:39.67,0:15:40.96,ZH,,0,0,0,,{\rZH\blur1.6}请坐。
+Dialogue: 1,0:15:39.67,0:15:40.96,EN,,0,0,0,,{\rEN\blur1.6}Take a seat.
+Dialogue: 2,0:15:44.58,0:15:47.79,ZH,,0,0,0,,{\rZH\blur1.6}-我叫Luce，这是Jax。  -嗨。
+Dialogue: 1,0:15:44.58,0:15:47.79,EN,,0,0,0,,{\rEN\blur1.6}-I'm Luce. This is Jax.   -Hey.
+Dialogue: 2,0:15:48.67,0:15:50.50,ZH,,0,0,0,,{\rZH\blur1.6}Jon.
+Dialogue: 1,0:15:48.67,0:15:50.50,EN,,0,0,0,,{\rEN\blur1.6}Jon.
+Dialogue: 2,0:15:53.29,0:15:55.67,ZH,,0,0,0,,{\rZH\blur1.6}你知道自己在提什么要求吗？
+Dialogue: 1,0:15:53.29,0:15:55.67,EN,,0,0,0,,{\rEN\blur1.6}Do you know what you're asking?
+Dialogue: 2,0:15:57.62,0:16:00.42,ZH,,0,0,0,,{\rZH\blur1.6}我们在找个向导，Jon。
+Dialogue: 1,0:15:57.62,0:16:00.42,EN,,0,0,0,,{\rEN\blur1.6}We're looking for a guide, Jon.
+Dialogue: 2,0:16:01.92,0:16:03.71,ZH,,0,0,0,,{\rZH\blur1.6}不。
+Dialogue: 1,0:16:01.92,0:16:03.71,EN,,0,0,0,,{\rEN\blur1.6}No.
+Dialogue: 2,0:16:03.75,0:16:07.12,ZH,,0,0,0,,{\rZH\blur1.6}你这是在求人带你去违法攀爬
+Dialogue: 1,0:16:03.75,0:16:07.12,EN,,0,0,0,,{\rEN\blur1.6}You're asking for someone to lead you on an illegal climb
+Dialogue: 2,0:16:07.12,0:16:10.29,ZH,,0,0,0,,{\rZH\blur1.6}在泰国最危险的步道上。
+Dialogue: 1,0:16:07.12,0:16:10.29,EN,,0,0,0,,{\rEN\blur1.6}on the most dangerous trail in Thailand.
+Dialogue: 2,0:16:12.71,0:16:14.71,ZH,,0,0,0,,{\rZH\blur1.6}那有问题吗？
+Dialogue: 1,0:16:12.71,0:16:14.71,EN,,0,0,0,,{\rEN\blur1.6}Is that a problem?
+Dialogue: 2,0:16:18.83,0:16:20.25,ZH,,0,0,0,,{\rZH\blur1.6}嗯。
+Dialogue: 1,0:16:18.83,0:16:20.25,EN,,0,0,0,,{\rEN\blur1.6}Hmm.
+Dialogue: 2,0:16:28.33,0:16:30.33,ZH,,0,0,0,,{\rZH\blur1.6}只针对你的银行账户。
+Dialogue: 1,0:16:28.33,0:16:30.33,EN,,0,0,0,,{\rEN\blur1.6}Only for your bank account.
+Dialogue: 2,0:16:31.12,0:16:32.29,ZH,,0,0,0,,{\rZH\blur1.6}我是说……
+Dialogue: 1,0:16:31.12,0:16:32.29,EN,,0,0,0,,{\rEN\blur1.6}I mean...
+Dialogue: 2,0:16:32.33,0:16:35.33,ZH,,0,0,0,,{\rZH\blur1.6}我们也许能咬咬牙出到$3,000。
+Dialogue: 1,0:16:32.33,0:16:35.33,EN,,0,0,0,,{\rEN\blur1.6}We could maybe stretch to $3,000.
+Dialogue: 2,0:16:35.38,0:16:37.58,ZH,,0,0,0,,{\rZH\blur1.6}可跟这个比，差远了。
+Dialogue: 1,0:16:35.38,0:16:37.58,EN,,0,0,0,,{\rEN\blur1.6}But nowhere near this.
+Dialogue: 2,0:16:40.96,0:16:42.25,ZH,,0,0,0,,{\rZH\blur1.6}嗯。
+Dialogue: 1,0:16:40.96,0:16:42.25,EN,,0,0,0,,{\rEN\blur1.6}Hm.
+Dialogue: 2,0:16:45.79,0:16:47.67,ZH,,0,0,0,,{\rZH\blur1.6}往那几棵树后面看。
+Dialogue: 1,0:16:45.79,0:16:47.67,EN,,0,0,0,,{\rEN\blur1.6}Look past those trees.
+Dialogue: 2,0:16:47.71,0:16:49.71,ZH,,0,0,0,,{\rZH\blur1.6}看见没？那大混蛋正从上头看着咱们。
+Dialogue: 1,0:16:47.71,0:16:49.71,EN,,0,0,0,,{\rEN\blur1.6}You see that big son of a bitch looking down on us
+Dialogue: 2,0:16:49.75,0:16:52.50,ZH,,0,0,0,,{\rZH\blur1.6}像Godzilla那个气炸了的哥哥？
+Dialogue: 1,0:16:49.75,0:16:52.50,EN,,0,0,0,,{\rEN\blur1.6}like Godzilla's pissed off big brother?
+Dialogue: 2,0:16:53.83,0:16:55.71,ZH,,0,0,0,,{\rZH\blur1.6}那是 Mount Kwan。
+Dialogue: 1,0:16:53.83,0:16:55.71,EN,,0,0,0,,{\rEN\blur1.6}That's Mount Kwan.
+Dialogue: 2,0:16:56.58,0:16:58.71,ZH,,0,0,0,,{\rZH\blur1.6}还有你问的那条步道，
+Dialogue: 1,0:16:56.58,0:16:58.71,EN,,0,0,0,,{\rEN\blur1.6}And the trail you're asking about,
+Dialogue: 2,0:16:58.75,0:17:01.50,ZH,,0,0,0,,{\rZH\blur1.6}这儿已经三十多年不对公众开放了。
+Dialogue: 1,0:16:58.75,0:17:01.50,EN,,0,0,0,,{\rEN\blur1.6}it's been closed to the public for over three decades.
+Dialogue: 2,0:17:01.50,0:17:03.67,ZH,,0,0,0,,{\rZH\blur1.6}警察要是抓住你，你就知道了
+Dialogue: 1,0:17:01.50,0:17:03.67,EN,,0,0,0,,{\rEN\blur1.6}If the cops catch you, you're gonna find out
+Dialogue: 2,0:17:03.67,0:17:05.75,ZH,,0,0,0,,{\rZH\blur1.6}你一眨眼就不在Kansas了。
+Dialogue: 1,0:17:03.67,0:17:05.75,EN,,0,0,0,,{\rEN\blur1.6}you're not in Kansas anymore real quick.
+Dialogue: 2,0:17:05.79,0:17:09.17,ZH,,0,0,0,,{\rZH\blur1.6}你要是迷路了，就会找到救援人员
+Dialogue: 1,0:17:05.79,0:17:09.17,EN,,0,0,0,,{\rEN\blur1.6}If you get lost, you're gonna find the emergency services
+Dialogue: 2,0:17:09.21,0:17:10.83,ZH,,0,0,0,,{\rZH\blur1.6}要么不会说你的语言
+Dialogue: 1,0:17:09.21,0:17:10.83,EN,,0,0,0,,{\rEN\blur1.6}either don't speak your language
+Dialogue: 2,0:17:10.88,0:17:13.54,ZH,,0,0,0,,{\rZH\blur1.6}或者压根他妈不在乎。
+Dialogue: 1,0:17:10.88,0:17:13.54,EN,,0,0,0,,{\rEN\blur1.6}or don't give two shits.
+Dialogue: 2,0:17:14.21,0:17:17.38,ZH,,0,0,0,,{\rZH\blur1.6}再说这时候是雨季，要是下雨，
+Dialogue: 1,0:17:14.21,0:17:17.38,EN,,0,0,0,,{\rEN\blur1.6}And this time of year, wet season, if it rains,
+Dialogue: 2,0:17:17.38,0:17:20.12,ZH,,0,0,0,,{\rZH\blur1.6}那些木板会跟溜冰场一样滑。
+Dialogue: 1,0:17:17.38,0:17:20.12,EN,,0,0,0,,{\rEN\blur1.6}those planks are gonna be as slippery as an ice rink.
+Dialogue: 2,0:17:20.17,0:17:22.12,ZH,,0,0,0,,{\rZH\blur1.6}有人说过你很会说话吗？
+Dialogue: 1,0:17:20.17,0:17:22.12,EN,,0,0,0,,{\rEN\blur1.6}Anyone ever tell you you have a way with words?
+Dialogue: 2,0:17:24.54,0:17:25.42,ZH,,0,0,0,,{\rZH\blur1.6}好。
+Dialogue: 1,0:17:24.54,0:17:25.42,EN,,0,0,0,,{\rEN\blur1.6}Okay.
+Dialogue: 2,0:17:25.42,0:17:29.12,ZH,,0,0,0,,{\rZH\blur1.6}这条路危险到头了。
+Dialogue: 1,0:17:25.42,0:17:29.12,EN,,0,0,0,,{\rEN\blur1.6}This trail is as dangerous as it gets.
+Dialogue: 2,0:17:29.17,0:17:30.71,ZH,,0,0,0,,{\rZH\blur1.6}我能带你上去，到龙跟前
+Dialogue: 1,0:17:29.17,0:17:30.71,EN,,0,0,0,,{\rEN\blur1.6}I can get you up to the dragon
+Dialogue: 2,0:17:30.75,0:17:33.00,ZH,,0,0,0,,{\rZH\blur1.6}再从Myanmar那一侧下去
+Dialogue: 1,0:17:30.75,0:17:33.00,EN,,0,0,0,,{\rEN\blur1.6}and back down the other side in Myanmar
+Dialogue: 2,0:17:33.04,0:17:34.33,ZH,,0,0,0,,{\rZH\blur1.6}太阳下山前。
+Dialogue: 1,0:17:33.04,0:17:34.33,EN,,0,0,0,,{\rEN\blur1.6}before sunset.
+Dialogue: 2,0:17:34.38,0:17:37.96,ZH,,0,0,0,,{\rZH\blur1.6}那张餐巾纸上的价，挺划算。
+Dialogue: 1,0:17:34.38,0:17:37.96,EN,,0,0,0,,{\rEN\blur1.6}The number on that napkin is a bargain.
+Dialogue: 2,0:17:37.96,0:17:39.46,ZH,,0,0,0,,{\rZH\blur1.6}而且没得商量。
+Dialogue: 1,0:17:37.96,0:17:39.46,EN,,0,0,0,,{\rEN\blur1.6}And non-negotiable.
+Dialogue: 2,0:17:45.88,0:17:47.79,ZH,,0,0,0,,{\rZH\blur1.6}女士们，祝你们今晚过得愉快。
+Dialogue: 1,0:17:45.88,0:17:47.79,EN,,0,0,0,,{\rEN\blur1.6}Have a lovely evening, ladies.
+Dialogue: 2,0:17:50.88,0:17:52.62,ZH,,0,0,0,,{\rZH\blur1.6}等等。等等。
+Dialogue: 1,0:17:50.88,0:17:52.62,EN,,0,0,0,,{\rEN\blur1.6}Wait. Wait.
+Dialogue: 2,0:17:53.92,0:17:56.33,ZH,,0,0,0,,{\rZH\blur1.6}-这钱我们付。  -Luce。
+Dialogue: 1,0:17:53.92,0:17:56.33,EN,,0,0,0,,{\rEN\blur1.6}-We'll pay it.   -Luce.
+Dialogue: 2,0:17:57.38,0:18:00.21,ZH,,0,0,0,,{\rZH\blur1.6}-我付不起。  -我请客。
+Dialogue: 1,0:17:57.38,0:18:00.21,EN,,0,0,0,,{\rEN\blur1.6}-I can't afford that.   -It's on me.
+Dialogue: 2,0:18:00.21,0:18:01.92,ZH,,0,0,0,,{\rZH\blur1.6}献给Shiloh。
+Dialogue: 1,0:18:00.21,0:18:01.92,EN,,0,0,0,,{\rEN\blur1.6}For Shiloh.
+Dialogue: 2,0:18:53.08,0:18:55.29,ZH,,0,0,0,,{\rZH\blur1.6}高度设好了。准备跳。
+Dialogue: 1,0:18:53.08,0:18:55.29,EN,,0,0,0,,{\rEN\blur1.6}Altitude set. Prepare to jump.
+Dialogue: 2,0:18:55.29,0:18:57.21,ZH,,0,0,0,,{\rZH\blur1.6}加油，Jax！
+Dialogue: 1,0:18:55.29,0:18:57.21,EN,,0,0,0,,{\rEN\blur1.6}Come on, Jax!
+Dialogue: 2,0:19:05.00,0:19:07.54,ZH,,0,0,0,,{\rZH\blur1.6}天哪，我做不到。
+Dialogue: 1,0:19:05.00,0:19:07.54,EN,,0,0,0,,{\rEN\blur1.6}Oh, God, I can't do this.
+Dialogue: 2,0:19:07.58,0:19:09.62,ZH,,0,0,0,,{\rZH\blur1.6}你能行！就信自己一回，跳吧。
+Dialogue: 1,0:19:07.58,0:19:09.62,EN,,0,0,0,,{\rEN\blur1.6}Yes, you can! It's just a leap of faith.
+Dialogue: 2,0:19:09.67,0:19:10.71,ZH,,0,0,0,,{\rZH\blur1.6}不，我做不到！
+Dialogue: 1,0:19:09.67,0:19:10.71,EN,,0,0,0,,{\rEN\blur1.6}No, I can't!
+Dialogue: 2,0:19:10.71,0:19:12.04,ZH,,0,0,0,,{\rZH\blur1.6}好，深吸一口气，
+Dialogue: 1,0:19:10.71,0:19:12.04,EN,,0,0,0,,{\rEN\blur1.6}Okay, take a deep breath,
+Dialogue: 2,0:19:12.04,0:19:13.88,ZH,,0,0,0,,{\rZH\blur1.6}闭上眼睛，数到十。
+Dialogue: 1,0:19:12.04,0:19:13.88,EN,,0,0,0,,{\rEN\blur1.6}close your eyes, and count to ten.
+Dialogue: 2,0:19:13.88,0:19:17.12,ZH,,0,0,0,,{\rZH\blur1.6}不行！我还不了解你？ 你他妈没准数到七就跳！
+Dialogue: 1,0:19:13.88,0:19:17.12,EN,,0,0,0,,{\rEN\blur1.6}No! 'Cause I know you! You'll jump at seven or some shit!
+Dialogue: 2,0:19:17.17,0:19:18.46,ZH,,0,0,0,,{\rZH\blur1.6}加油！
+Dialogue: 1,0:19:17.17,0:19:18.46,EN,,0,0,0,,{\rEN\blur1.6}Come on!
+Dialogue: 2,0:19:18.50,0:19:21.83,ZH,,0,0,0,,{\rZH\blur1.6}连你姐都信不过，你还能信谁？
+Dialogue: 1,0:19:18.50,0:19:21.83,EN,,0,0,0,,{\rEN\blur1.6}If you can't trust your big sister, who can you trust?
+Dialogue: 2,0:19:21.88,0:19:24.58,ZH,,0,0,0,,{\rZH\blur1.6}行吗？准备好了吗？
+Dialogue: 1,0:19:21.88,0:19:24.58,EN,,0,0,0,,{\rEN\blur1.6}Okay? Ready?
+Dialogue: 2,0:19:24.62,0:19:26.08,ZH,,0,0,0,,{\rZH\blur1.6}-一……  -一……
+Dialogue: 1,0:19:24.62,0:19:26.08,EN,,0,0,0,,{\rEN\blur1.6}-One...   -One...
+Dialogue: 2,0:19:26.12,0:19:29.42,ZH,,0,0,0,,{\rZH\blur1.6}二、三……
+Dialogue: 1,0:19:26.12,0:19:29.42,EN,,0,0,0,,{\rEN\blur1.6}Two, three...
+Dialogue: 2,0:20:11.75,0:20:13.42,ZH,,0,0,0,,{\rZH\blur1.6}-嗨。  -嗨。
+Dialogue: 1,0:20:11.75,0:20:13.42,EN,,0,0,0,,{\rEN\blur1.6}-Hey.   -Hey.
+Dialogue: 2,0:20:14.00,0:20:15.67,ZH,,0,0,0,,{\rZH\blur1.6}你看着不太像Hunter。
+Dialogue: 1,0:20:14.00,0:20:15.67,EN,,0,0,0,,{\rEN\blur1.6}You don't look very Hunter.
+Dialogue: 2,0:20:15.71,0:20:17.54,ZH,,0,0,0,,{\rZH\blur1.6}我可不是我姐。
+Dialogue: 1,0:20:15.71,0:20:17.54,EN,,0,0,0,,{\rEN\blur1.6}Well, I'm not my sister.
+Dialogue: 2,0:20:17.96,0:20:19.62,ZH,,0,0,0,,{\rZH\blur1.6}对。
+Dialogue: 1,0:20:17.96,0:20:19.62,EN,,0,0,0,,{\rEN\blur1.6}Right.
+Dialogue: 2,0:20:23.62,0:20:25.96,ZH,,0,0,0,,{\rZH\blur1.6}好，姑娘们，来给你们配装备。
+Dialogue: 1,0:20:23.62,0:20:25.96,EN,,0,0,0,,{\rEN\blur1.6}Okay. Let's get you ladies kitted out.
+Dialogue: 2,0:20:26.00,0:20:28.42,ZH,,0,0,0,,{\rZH\blur1.6}安全带给你……你也有一条。
+Dialogue: 1,0:20:26.00,0:20:28.42,EN,,0,0,0,,{\rEN\blur1.6}Harness for you... and for you.
+Dialogue: 2,0:20:32.08,0:20:33.17,ZH,,0,0,0,,{\rZH\blur1.6}氧气瓶。
+Dialogue: 1,0:20:32.08,0:20:33.17,EN,,0,0,0,,{\rEN\blur1.6}O2 tanks.
+Dialogue: 2,0:20:33.17,0:20:35.33,ZH,,0,0,0,,{\rZH\blur1.6}这些可不便宜，别弄丢了。
+Dialogue: 1,0:20:33.17,0:20:35.33,EN,,0,0,0,,{\rEN\blur1.6}These are not cheap so do not lose them.
+Dialogue: 2,0:20:35.38,0:20:36.96,ZH,,0,0,0,,{\rZH\blur1.6}咱们为什么要用这些？
+Dialogue: 1,0:20:35.38,0:20:36.96,EN,,0,0,0,,{\rEN\blur1.6}Why do we need these?
+Dialogue: 2,0:20:37.00,0:20:38.29,ZH,,0,0,0,,{\rZH\blur1.6}山路上的弯道。
+Dialogue: 1,0:20:37.00,0:20:38.29,EN,,0,0,0,,{\rEN\blur1.6}Mountain bends.
+Dialogue: 2,0:20:40.75,0:20:42.08,ZH,,0,0,0,,{\rZH\blur1.6}高原反应。
+Dialogue: 1,0:20:40.75,0:20:42.08,EN,,0,0,0,,{\rEN\blur1.6}Altitude sickness.
+Dialogue: 2,0:20:42.12,0:20:43.96,ZH,,0,0,0,,{\rZH\blur1.6}一到高处，人就可能发慌。
+Dialogue: 1,0:20:42.12,0:20:43.96,EN,,0,0,0,,{\rEN\blur1.6}Heights, they can mess with people.
+Dialogue: 2,0:20:44.00,0:20:46.50,ZH,,0,0,0,,{\rZH\blur1.6}头疼、幻觉、恶心。
+Dialogue: 1,0:20:44.00,0:20:46.50,EN,,0,0,0,,{\rEN\blur1.6}Headaches, hallucinations, nausea.
+Dialogue: 2,0:20:46.54,0:20:47.67,ZH,,0,0,0,,{\rZH\blur1.6}更糟。
+Dialogue: 1,0:20:46.54,0:20:47.67,EN,,0,0,0,,{\rEN\blur1.6}Worse.
+Dialogue: 2,0:20:47.71,0:20:49.08,ZH,,0,0,0,,{\rZH\blur1.6}你不拿一个吗？
+Dialogue: 1,0:20:47.71,0:20:49.08,EN,,0,0,0,,{\rEN\blur1.6}You're not taking one?
+Dialogue: 2,0:20:49.12,0:20:51.75,ZH,,0,0,0,,{\rZH\blur1.6}我已经有耐受性了，用不着。
+Dialogue: 1,0:20:49.12,0:20:51.75,EN,,0,0,0,,{\rEN\blur1.6}Developed a tolerance. I don't need one.
+Dialogue: 2,0:20:55.25,0:20:58.25,ZH,,0,0,0,,{\rZH\blur1.6}-试音，试音...
+Dialogue: 1,0:20:55.25,0:20:58.25,EN,,0,0,0,,{\rEN\blur1.6}-Testing, testing...
+Dialogue: 2,0:20:58.25,0:20:59.75,ZH,,0,0,0,,{\rZH\blur1.6}以防有紧急情况。
+Dialogue: 1,0:20:58.25,0:20:59.75,EN,,0,0,0,,{\rEN\blur1.6}In case of emergencies.
+Dialogue: 2,0:20:59.79,0:21:01.79,ZH,,0,0,0,,{\rZH\blur1.6}听着，咱们别走散，可万一走散了，
+Dialogue: 1,0:20:59.79,0:21:01.79,EN,,0,0,0,,{\rEN\blur1.6}Now, we shouldn't get split up, but if we do,
+Dialogue: 2,0:21:01.83,0:21:03.62,ZH,,0,0,0,,{\rZH\blur1.6}你可以联系我。
+Dialogue: 1,0:21:01.83,0:21:03.62,EN,,0,0,0,,{\rEN\blur1.6}you can contact me.
+Dialogue: 2,0:21:05.62,0:21:07.71,ZH,,0,0,0,,{\rZH\blur1.6}好，我们都准备好了。
+Dialogue: 1,0:21:05.62,0:21:07.71,EN,,0,0,0,,{\rEN\blur1.6}Okay. We're all set.
+Dialogue: 2,0:21:07.75,0:21:10.33,ZH,,0,0,0,,{\rZH\blur1.6}不带走的东西都扔进各自的储物柜
+Dialogue: 1,0:21:07.75,0:21:10.33,EN,,0,0,0,,{\rEN\blur1.6}Dump anything that's not coming with us in your lockers
+Dialogue: 2,0:21:10.38,0:21:12.42,ZH,,0,0,0,,{\rZH\blur1.6}咱们这就可以开始了。
+Dialogue: 1,0:21:10.38,0:21:12.42,EN,,0,0,0,,{\rEN\blur1.6}and we're good to go.
+Dialogue: 2,0:21:29.25,0:21:31.42,ZH,,0,0,0,,{\rZH\blur1.6}听起来你姐以前挺有意思的。
+Dialogue: 1,0:21:29.25,0:21:31.42,EN,,0,0,0,,{\rEN\blur1.6}Your sister sounds like she was fun.
+Dialogue: 2,0:21:31.46,0:21:33.46,ZH,,0,0,0,,{\rZH\blur1.6}她会为你们骄傲的。
+Dialogue: 1,0:21:31.46,0:21:33.46,EN,,0,0,0,,{\rEN\blur1.6}She'd be proud of you guys.
+Dialogue: 2,0:21:33.96,0:21:35.58,ZH,,0,0,0,,{\rZH\blur1.6}那你呢？有什么故事？
+Dialogue: 1,0:21:33.96,0:21:35.58,EN,,0,0,0,,{\rEN\blur1.6}So, what's your story?
+Dialogue: 2,0:21:35.62,0:21:38.29,ZH,,0,0,0,,{\rZH\blur1.6}哦，呃……我来这儿旅游，
+Dialogue: 1,0:21:35.62,0:21:38.29,EN,,0,0,0,,{\rEN\blur1.6}Well, uh... came out here travelling,
+Dialogue: 2,0:21:38.33,0:21:40.08,ZH,,0,0,0,,{\rZH\blur1.6}到现在差不多八年了。
+Dialogue: 1,0:21:38.33,0:21:40.08,EN,,0,0,0,,{\rEN\blur1.6}about eight years ago now.
+Dialogue: 2,0:21:40.12,0:21:41.79,ZH,,0,0,0,,{\rZH\blur1.6}你一个人？
+Dialogue: 1,0:21:40.12,0:21:41.79,EN,,0,0,0,,{\rEN\blur1.6}On your own?
+Dialogue: 2,0:21:41.79,0:21:43.38,ZH,,0,0,0,,{\rZH\blur1.6}跟我未婚妻一起。
+Dialogue: 1,0:21:41.79,0:21:43.38,EN,,0,0,0,,{\rEN\blur1.6}With my fiancée.
+Dialogue: 2,0:21:43.42,0:21:46.38,ZH,,0,0,0,,{\rZH\blur1.6}-她在哪儿？  -Ohio。
+Dialogue: 1,0:21:43.42,0:21:46.38,EN,,0,0,0,,{\rEN\blur1.6}-Where is she?   -Ohio.
+Dialogue: 2,0:21:54.79,0:21:56.54,ZH,,0,0,0,,{\rZH\blur1.6}加油。
+Dialogue: 1,0:21:54.79,0:21:56.54,EN,,0,0,0,,{\rEN\blur1.6}Come on.
+Dialogue: 2,0:22:04.50,0:22:05.88,ZH,,0,0,0,,{\rZH\blur1.6}加油。
+Dialogue: 1,0:22:04.50,0:22:05.88,EN,,0,0,0,,{\rEN\blur1.6}Come on.
+Dialogue: 2,0:22:25.83,0:22:27.12,ZH,,0,0,0,,{\rZH\blur1.6}这个从这儿穿过去
+Dialogue: 1,0:22:25.83,0:22:27.12,EN,,0,0,0,,{\rEN\blur1.6}This through here
+Dialogue: 2,0:22:27.12,0:22:29.58,ZH,,0,0,0,,{\rZH\blur1.6}到这儿才真的开始有意思。
+Dialogue: 1,0:22:27.12,0:22:29.58,EN,,0,0,0,,{\rEN\blur1.6}is where it really starts to get interesting.
+Dialogue: 2,0:22:30.67,0:22:33.83,ZH,,0,0,0,,{\rZH\blur1.6}来，跟紧点。快到梯子那儿了。
+Dialogue: 1,0:22:30.67,0:22:33.83,EN,,0,0,0,,{\rEN\blur1.6}Now, stay close. We're almost at the ladders.
+Dialogue: 2,0:22:35.17,0:22:37.21,ZH,,0,0,0,,{\rZH\blur1.6}女士优先。
+Dialogue: 1,0:22:35.17,0:22:37.21,EN,,0,0,0,,{\rEN\blur1.6}Ladies first.
+Dialogue: 2,0:22:48.21,0:22:50.38,ZH,,0,0,0,,{\rZH\blur1.6}给我滚过来！
+Dialogue: 1,0:22:48.21,0:22:50.38,EN,,0,0,0,,{\rEN\blur1.6}Get your ass over here.
+Dialogue: 2,0:23:20.38,0:23:24.21,ZH,,0,0,0,,{\rZH\blur1.6}那咱们顺着这梯子能往 上爬4,000英尺。
+Dialogue: 1,0:23:20.38,0:23:24.21,EN,,0,0,0,,{\rEN\blur1.6}So, this ladder will take us up 4,000 feet.
+Dialogue: 2,0:23:24.25,0:23:26.33,ZH,,0,0,0,,{\rZH\blur1.6}往右走，到那条古栈道。
+Dialogue: 1,0:23:24.25,0:23:26.33,EN,,0,0,0,,{\rEN\blur1.6}Right to the ancient plank walk.
+Dialogue: 2,0:23:26.38,0:23:28.67,ZH,,0,0,0,,{\rZH\blur1.6}这个绕着整个山顶一圈。
+Dialogue: 1,0:23:26.38,0:23:28.67,EN,,0,0,0,,{\rEN\blur1.6}This wraps around the entire mountain cap.
+Dialogue: 2,0:23:28.71,0:23:29.58,ZH,,0,0,0,,{\rZH\blur1.6}好。
+Dialogue: 1,0:23:28.71,0:23:29.58,EN,,0,0,0,,{\rEN\blur1.6}Okay.
+Dialogue: 2,0:23:29.62,0:23:31.83,ZH,,0,0,0,,{\rZH\blur1.6}你们几个姑娘之前想爬座山。
+Dialogue: 1,0:23:29.62,0:23:31.83,EN,,0,0,0,,{\rEN\blur1.6}You girls wanted to climb a mountain.
+Dialogue: 2,0:23:31.88,0:23:33.58,ZH,,0,0,0,,{\rZH\blur1.6}在这儿。
+Dialogue: 1,0:23:31.88,0:23:33.58,EN,,0,0,0,,{\rEN\blur1.6}Here it is.
+Dialogue: 2,0:23:37.08,0:23:38.75,ZH,,0,0,0,,{\rZH\blur1.6}对不起啊，各位。
+Dialogue: 1,0:23:37.08,0:23:38.75,EN,,0,0,0,,{\rEN\blur1.6}I'm sorry, guys.
+Dialogue: 2,0:23:40.04,0:23:42.08,ZH,,0,0,0,,{\rZH\blur1.6}我觉得这不适合我。
+Dialogue: 1,0:23:40.04,0:23:42.08,EN,,0,0,0,,{\rEN\blur1.6}I don't think this is for me.
+Dialogue: 2,0:23:42.12,0:23:44.08,ZH,,0,0,0,,{\rZH\blur1.6}没看起来那么吓人。
+Dialogue: 1,0:23:42.12,0:23:44.08,EN,,0,0,0,,{\rEN\blur1.6}It's not as scary as it looks.
+Dialogue: 2,0:23:44.08,0:23:47.75,ZH,,0,0,0,,{\rZH\blur1.6}听我说，我知道你可能不相信自己。
+Dialogue: 1,0:23:44.08,0:23:47.75,EN,,0,0,0,,{\rEN\blur1.6}Look, I know you might not believe in yourself.
+Dialogue: 2,0:23:47.79,0:23:49.96,ZH,,0,0,0,,{\rZH\blur1.6}可Shiloh做了。
+Dialogue: 1,0:23:47.79,0:23:49.96,EN,,0,0,0,,{\rEN\blur1.6}But Shiloh did.
+Dialogue: 2,0:23:49.96,0:23:51.79,ZH,,0,0,0,,{\rZH\blur1.6}我也相信你。
+Dialogue: 1,0:23:49.96,0:23:51.79,EN,,0,0,0,,{\rEN\blur1.6}And I believe in you.
+Dialogue: 2,0:23:53.25,0:23:55.83,ZH,,0,0,0,,{\rZH\blur1.6}反正咱们有了个看着还行的攀岩者。
+Dialogue: 1,0:23:53.25,0:23:55.83,EN,,0,0,0,,{\rEN\blur1.6}And, anyway, we got an okay-looking climber.
+Dialogue: 2,0:23:55.88,0:23:58.46,ZH,,0,0,0,,{\rZH\blur1.6}他会替咱们兜底。
+Dialogue: 1,0:23:55.88,0:23:58.46,EN,,0,0,0,,{\rEN\blur1.6}He's gonna cover our asses.
+Dialogue: 2,0:23:59.25,0:24:00.88,ZH,,0,0,0,,{\rZH\blur1.6}咱们能搞定。
+Dialogue: 1,0:23:59.25,0:24:00.88,EN,,0,0,0,,{\rEN\blur1.6}We got this.
+Dialogue: 2,0:24:01.62,0:24:02.58,ZH,,0,0,0,,{\rZH\blur1.6}一起。
+Dialogue: 1,0:24:01.62,0:24:02.58,EN,,0,0,0,,{\rEN\blur1.6}Together.
+Dialogue: 2,0:24:02.71,0:24:06.08,ZH,,0,0,0,,{\rZH\blur1.6}我是说，别忘了你当初为什么来这儿。
+Dialogue: 1,0:24:02.71,0:24:06.08,EN,,0,0,0,,{\rEN\blur1.6}I mean, remember why you're here in the first place.
+Dialogue: 2,0:24:06.08,0:24:07.71,ZH,,0,0,0,,{\rZH\blur1.6}好，姑娘们。
+Dialogue: 1,0:24:06.08,0:24:07.71,EN,,0,0,0,,{\rEN\blur1.6}Okay, girls.
+Dialogue: 2,0:24:07.75,0:24:10.33,ZH,,0,0,0,,{\rZH\blur1.6}我给你俩装一套双钩系统。
+Dialogue: 1,0:24:07.75,0:24:10.33,EN,,0,0,0,,{\rEN\blur1.6}I'm gonna set you both up with a twin-hook system.
+Dialogue: 2,0:24:10.38,0:24:13.88,ZH,,0,0,0,,{\rZH\blur1.6}好了，看看紧不紧。
+Dialogue: 1,0:24:10.38,0:24:13.88,EN,,0,0,0,,{\rEN\blur1.6}There. Make sure it's tight.
+Dialogue: 2,0:24:14.50,0:24:15.38,ZH,,0,0,0,,{\rZH\blur1.6}还有那儿。
+Dialogue: 1,0:24:14.50,0:24:15.38,EN,,0,0,0,,{\rEN\blur1.6}And there.
+Dialogue: 2,0:24:15.42,0:24:18.46,ZH,,0,0,0,,{\rZH\blur1.6}现在，把这两根安全绳都
+Dialogue: 1,0:24:15.42,0:24:18.46,EN,,0,0,0,,{\rEN\blur1.6}Now, put both of these safety lines
+Dialogue: 2,0:24:18.50,0:24:20.46,ZH,,0,0,0,,{\rZH\blur1.6}到你安全带那儿...
+Dialogue: 1,0:24:18.50,0:24:20.46,EN,,0,0,0,,{\rEN\blur1.6}onto your harness there...
+Dialogue: 2,0:24:20.50,0:24:22.08,ZH,,0,0,0,,{\rZH\blur1.6}还有这儿。
+Dialogue: 1,0:24:20.50,0:24:22.08,EN,,0,0,0,,{\rEN\blur1.6}and here.
+Dialogue: 2,0:24:22.12,0:24:23.75,ZH,,0,0,0,,{\rZH\blur1.6}不错。
+Dialogue: 1,0:24:22.12,0:24:23.75,EN,,0,0,0,,{\rEN\blur1.6}Cool.
+Dialogue: 2,0:24:24.33,0:24:26.50,ZH,,0,0,0,,{\rZH\blur1.6}好，等我们走到梯子那儿，
+Dialogue: 1,0:24:24.33,0:24:26.50,EN,,0,0,0,,{\rEN\blur1.6}Now, when we come to the ladders,
+Dialogue: 2,0:24:26.54,0:24:29.75,ZH,,0,0,0,,{\rZH\blur1.6}我要你扣上这几根安全链。
+Dialogue: 1,0:24:26.54,0:24:29.75,EN,,0,0,0,,{\rEN\blur1.6}I want you to clip in these safety chains.
+Dialogue: 2,0:24:29.79,0:24:31.29,ZH,,0,0,0,,{\rZH\blur1.6}然后解开，再扣上
+Dialogue: 1,0:24:29.79,0:24:31.29,EN,,0,0,0,,{\rEN\blur1.6}Then unclip and reclip
+Dialogue: 2,0:24:31.33,0:24:34.12,ZH,,0,0,0,,{\rZH\blur1.6}看到这些锚点中的一个时。
+Dialogue: 1,0:24:31.33,0:24:34.12,EN,,0,0,0,,{\rEN\blur1.6}when you see one of these anchor points.
+Dialogue: 2,0:24:34.12,0:24:36.50,ZH,,0,0,0,,{\rZH\blur1.6}扣上，解开。
+Dialogue: 1,0:24:34.12,0:24:36.50,EN,,0,0,0,,{\rEN\blur1.6}Clip in, clip out.
+Dialogue: 2,0:24:36.50,0:24:39.75,ZH,,0,0,0,,{\rZH\blur1.6}你得确保随时至少有一个锁扣挂着。
+Dialogue: 1,0:24:36.50,0:24:39.75,EN,,0,0,0,,{\rEN\blur1.6}You make sure at least one clip is attached at all times.
+Dialogue: 2,0:24:39.79,0:24:41.67,ZH,,0,0,0,,{\rZH\blur1.6}这能救你一命。
+Dialogue: 1,0:24:39.79,0:24:41.67,EN,,0,0,0,,{\rEN\blur1.6}It'll save your life.
+Dialogue: 2,0:24:41.67,0:24:42.92,ZH,,0,0,0,,{\rZH\blur1.6}懂了吗？
+Dialogue: 1,0:24:41.67,0:24:42.92,EN,,0,0,0,,{\rEN\blur1.6}Got it?
+Dialogue: 2,0:24:42.96,0:24:44.08,ZH,,0,0,0,,{\rZH\blur1.6}遵命，船长！
+Dialogue: 1,0:24:42.96,0:24:44.08,EN,,0,0,0,,{\rEN\blur1.6}Aye-aye, Cap'n.
+Dialogue: 2,0:24:44.12,0:24:46.21,ZH,,0,0,0,,{\rZH\blur1.6}上面见。
+Dialogue: 1,0:24:44.12,0:24:46.21,EN,,0,0,0,,{\rEN\blur1.6}See you up there.
+Dialogue: 2,0:24:52.29,0:24:54.25,ZH,,0,0,0,,{\rZH\blur1.6}你连自己的规矩都不守？
+Dialogue: 1,0:24:52.29,0:24:54.25,EN,,0,0,0,,{\rEN\blur1.6}You're not gonna follow your own rules?
+Dialogue: 2,0:24:54.29,0:24:56.62,ZH,,0,0,0,,{\rZH\blur1.6}照我说的做，别学我。
+Dialogue: 1,0:24:54.29,0:24:56.62,EN,,0,0,0,,{\rEN\blur1.6}Do as I say, not as I do.
+Dialogue: 2,0:25:02.12,0:25:04.25,ZH,,0,0,0,,{\rZH\blur1.6}好吧，我先来。
+Dialogue: 1,0:25:02.12,0:25:04.25,EN,,0,0,0,,{\rEN\blur1.6}Well, I'll go first.
+Dialogue: 2,0:25:04.25,0:25:06.42,ZH,,0,0,0,,{\rZH\blur1.6}好。小心点。
+Dialogue: 1,0:25:04.25,0:25:06.42,EN,,0,0,0,,{\rEN\blur1.6}Okay. Be careful.
+Dialogue: 2,0:25:13.33,0:25:15.25,ZH,,0,0,0,,{\rZH\blur1.6}没那么糟。
+Dialogue: 1,0:25:13.33,0:25:15.25,EN,,0,0,0,,{\rEN\blur1.6}It's not that bad.
+Dialogue: 2,0:25:16.54,0:25:17.75,ZH,,0,0,0,,{\rZH\blur1.6}加油。
+Dialogue: 1,0:25:16.54,0:25:17.75,EN,,0,0,0,,{\rEN\blur1.6}Come on.
+Dialogue: 2,0:25:39.67,0:25:40.71,ZH,,0,0,0,,{\rZH\blur1.6}（吸气）
+Dialogue: 1,0:25:39.67,0:25:40.71,EN,,0,0,0,,{\rEN\blur1.6}[inhales）
+Dialogue: 2,0:26:01.62,0:26:04.58,ZH,,0,0,0,,{\rZH\blur1.6}Jon！咱们现在多高了？
+Dialogue: 1,0:26:01.62,0:26:04.58,EN,,0,0,0,,{\rEN\blur1.6}Jon! How high are we now?
+Dialogue: 2,0:26:04.62,0:26:07.46,ZH,,0,0,0,,{\rZH\blur1.6}海拔快到4,000英尺了！
+Dialogue: 1,0:26:04.62,0:26:07.46,EN,,0,0,0,,{\rEN\blur1.6}Almost 4,000 feet above sea level!
+Dialogue: 2,0:26:07.50,0:26:09.50,ZH,,0,0,0,,{\rZH\blur1.6}卧槽！
+Dialogue: 1,0:26:07.50,0:26:09.50,EN,,0,0,0,,{\rEN\blur1.6}Holy shit!
+Dialogue: 2,0:26:50.71,0:26:52.58,ZH,,0,0,0,,{\rZH\blur1.6}（尖叫）
+Dialogue: 1,0:26:50.71,0:26:52.58,EN,,0,0,0,,{\rEN\blur1.6}[screams）
+Dialogue: 2,0:26:57.54,0:26:59.21,ZH,,0,0,0,,{\rZH\blur1.6}你还好吗？
+Dialogue: 1,0:26:57.54,0:26:59.21,EN,,0,0,0,,{\rEN\blur1.6}You okay?
+Dialogue: 2,0:27:16.04,0:27:17.71,ZH,,0,0,0,,{\rZH\blur1.6}Jon?
+Dialogue: 1,0:27:16.04,0:27:17.71,EN,,0,0,0,,{\rEN\blur1.6}Jon?
+Dialogue: 2,0:27:19.00,0:27:20.42,ZH,,0,0,0,,{\rZH\blur1.6}Jon?
+Dialogue: 1,0:27:19.00,0:27:20.42,EN,,0,0,0,,{\rEN\blur1.6}Jon?
+Dialogue: 2,0:27:20.79,0:27:21.92,ZH,,0,0,0,,{\rZH\blur1.6}Jon!
+Dialogue: 1,0:27:20.79,0:27:21.92,EN,,0,0,0,,{\rEN\blur1.6}Jon!
+Dialogue: 2,0:27:21.96,0:27:23.83,ZH,,0,0,0,,{\rZH\blur1.6}你马上就能穿过云层了！
+Dialogue: 1,0:27:21.96,0:27:23.83,EN,,0,0,0,,{\rEN\blur1.6}You'll be through the clouds in a moment!
+Dialogue: 2,0:27:23.83,0:27:27.33,ZH,,0,0,0,,{\rZH\blur1.6}-接着往上爬就行。  -我什么都看不见。
+Dialogue: 1,0:27:23.83,0:27:27.33,EN,,0,0,0,,{\rEN\blur1.6}-Just keep climbing.   -I can't see anything.
+Dialogue: 2,0:27:27.38,0:27:29.33,ZH,,0,0,0,,{\rZH\blur1.6}一步一步来！
+Dialogue: 1,0:27:27.38,0:27:29.33,EN,,0,0,0,,{\rEN\blur1.6}One step at a time!
+Dialogue: 2,0:27:39.96,0:27:41.88,ZH,,0,0,0,,{\rZH\blur1.6}Jax？抓住我的手！
+Dialogue: 1,0:27:39.96,0:27:41.88,EN,,0,0,0,,{\rEN\blur1.6}Jax? Grab my hand!
+Dialogue: 2,0:27:46.83,0:27:48.54,ZH,,0,0,0,,{\rZH\blur1.6}现在，解开锁扣！
+Dialogue: 1,0:27:46.83,0:27:48.54,EN,,0,0,0,,{\rEN\blur1.6}Now, unclip!
+Dialogue: 2,0:28:01.04,0:28:03.67,ZH,,0,0,0,,{\rZH\blur1.6}-你还好吗？  -嗯。
+Dialogue: 1,0:28:01.04,0:28:03.67,EN,,0,0,0,,{\rEN\blur1.6}-You good?   -Yep.
+Dialogue: 2,0:28:03.67,0:28:04.79,ZH,,0,0,0,,{\rZH\blur1.6}谢谢。
+Dialogue: 1,0:28:03.67,0:28:04.79,EN,,0,0,0,,{\rEN\blur1.6}Thanks.
+Dialogue: 2,0:28:08.46,0:28:09.88,ZH,,0,0,0,,{\rZH\blur1.6}你没事吧？
+Dialogue: 1,0:28:08.46,0:28:09.88,EN,,0,0,0,,{\rEN\blur1.6}You okay?
+Dialogue: 2,0:28:12.04,0:28:13.33,ZH,,0,0,0,,{\rZH\blur1.6}各位女士。
+Dialogue: 1,0:28:12.04,0:28:13.33,EN,,0,0,0,,{\rEN\blur1.6}Ladies.
+Dialogue: 2,0:28:14.42,0:28:16.83,ZH,,0,0,0,,{\rZH\blur1.6}欢迎来走木板。
+Dialogue: 1,0:28:14.42,0:28:16.83,EN,,0,0,0,,{\rEN\blur1.6}Welcome to the plank walk.
+Dialogue: 2,0:28:24.04,0:28:26.25,ZH,,0,0,0,,{\rZH\blur1.6}好，就跟爬梯子一样，
+Dialogue: 1,0:28:24.04,0:28:26.25,EN,,0,0,0,,{\rEN\blur1.6}Okay, so, just like the laddering,
+Dialogue: 2,0:28:26.29,0:28:27.42,ZH,,0,0,0,,{\rZH\blur1.6}你要扣两个锁扣。
+Dialogue: 1,0:28:26.29,0:28:27.42,EN,,0,0,0,,{\rEN\blur1.6}you'll be double clipping.
+Dialogue: 2,0:28:27.46,0:28:30.75,ZH,,0,0,0,,{\rZH\blur1.6}好，这次扣到这条安全链上。
+Dialogue: 1,0:28:27.46,0:28:30.75,EN,,0,0,0,,{\rEN\blur1.6}Now, this time onto this safety chain.
+Dialogue: 2,0:28:30.79,0:28:33.46,ZH,,0,0,0,,{\rZH\blur1.6}你得保证一直扣着一个。
+Dialogue: 1,0:28:30.79,0:28:33.46,EN,,0,0,0,,{\rEN\blur1.6}You need to make sure you're attached to one at all times.
+Dialogue: 2,0:28:34.08,0:28:36.00,ZH,,0,0,0,,{\rZH\blur1.6}接下来，保险起见……
+Dialogue: 1,0:28:34.08,0:28:36.00,EN,,0,0,0,,{\rEN\blur1.6}Now, for good measure...
+Dialogue: 2,0:28:36.42,0:28:38.58,ZH,,0,0,0,,{\rZH\blur1.6}我要把你扣上……
+Dialogue: 1,0:28:36.42,0:28:38.58,EN,,0,0,0,,{\rEN\blur1.6}I'm gonna be clipping you...
+Dialogue: 2,0:28:39.96,0:28:41.46,ZH,,0,0,0,,{\rZH\blur1.6}一起。
+Dialogue: 1,0:28:39.96,0:28:41.46,EN,,0,0,0,,{\rEN\blur1.6}together.
+Dialogue: 2,0:28:45.04,0:28:47.25,ZH,,0,0,0,,{\rZH\blur1.6}好。那……
+Dialogue: 1,0:28:45.04,0:28:47.25,EN,,0,0,0,,{\rEN\blur1.6}Okay. So...
+Dialogue: 2,0:28:48.67,0:28:50.46,ZH,,0,0,0,,{\rZH\blur1.6}等你准备好了……
+Dialogue: 1,0:28:48.67,0:28:50.46,EN,,0,0,0,,{\rEN\blur1.6}When you're ready...
+Dialogue: 2,0:29:02.04,0:29:04.04,ZH,,0,0,0,,{\rZH\blur1.6}深吸一口气……
+Dialogue: 1,0:29:02.04,0:29:04.04,EN,,0,0,0,,{\rEN\blur1.6}Take a deep breath...
+Dialogue: 2,0:29:04.04,0:29:05.67,ZH,,0,0,0,,{\rZH\blur1.6}还有……
+Dialogue: 1,0:29:04.04,0:29:05.67,EN,,0,0,0,,{\rEN\blur1.6}and...
+Dialogue: 2,0:29:11.17,0:29:13.12,ZH,,0,0,0,,{\rZH\blur1.6}扣上...
+Dialogue: 1,0:29:11.17,0:29:13.12,EN,,0,0,0,,{\rEN\blur1.6}Clip in...
+Dialogue: 2,0:29:13.17,0:29:14.83,ZH,,0,0,0,,{\rZH\blur1.6}脱扣。
+Dialogue: 1,0:29:13.17,0:29:14.83,EN,,0,0,0,,{\rEN\blur1.6}clip out.
+Dialogue: 2,0:29:18.46,0:29:20.38,ZH,,0,0,0,,{\rZH\blur1.6}一步一步往前走。
+Dialogue: 1,0:29:18.46,0:29:20.38,EN,,0,0,0,,{\rEN\blur1.6}One foot in front of the other.
+Dialogue: 2,0:29:22.08,0:29:23.75,ZH,,0,0,0,,{\rZH\blur1.6}就这样。
+Dialogue: 1,0:29:22.08,0:29:23.75,EN,,0,0,0,,{\rEN\blur1.6}Like so.
+Dialogue: 2,0:29:31.17,0:29:33.96,ZH,,0,0,0,,{\rZH\blur1.6}扣上，解开。
+Dialogue: 1,0:29:31.17,0:29:33.96,EN,,0,0,0,,{\rEN\blur1.6}Clip in, clip out.
+Dialogue: 2,0:29:34.46,0:29:37.08,ZH,,0,0,0,,{\rZH\blur1.6}好了，姑娘们，轮到你们了。
+Dialogue: 1,0:29:34.46,0:29:37.08,EN,,0,0,0,,{\rEN\blur1.6}There. You're up, ladies.
+Dialogue: 2,0:29:37.12,0:29:39.29,ZH,,0,0,0,,{\rZH\blur1.6}咱们到底在干什么鬼？
+Dialogue: 1,0:29:37.12,0:29:39.29,EN,,0,0,0,,{\rEN\blur1.6}What the hell are we doing?
+Dialogue: 2,0:29:39.33,0:29:41.54,ZH,,0,0,0,,{\rZH\blur1.6}没事，会很好玩的。
+Dialogue: 1,0:29:39.33,0:29:41.54,EN,,0,0,0,,{\rEN\blur1.6}It's okay. It'll be fun.
+Dialogue: 2,0:29:42.33,0:29:45.88,ZH,,0,0,0,,{\rZH\blur1.6}嗯。就是……他说的，你懂吧？
+Dialogue: 1,0:29:42.33,0:29:45.88,EN,,0,0,0,,{\rEN\blur1.6}Yeah. Just... what he said, you know?
+Dialogue: 2,0:29:50.54,0:29:53.17,ZH,,0,0,0,,{\rZH\blur1.6}一步一步往前走。
+Dialogue: 1,0:29:50.54,0:29:53.17,EN,,0,0,0,,{\rEN\blur1.6}One foot in front of the other.
+Dialogue: 2,0:29:57.58,0:30:00.00,ZH,,0,0,0,,{\rZH\blur1.6}咱们当初干吗不干脆去玩水肺潜水？
+Dialogue: 1,0:29:57.58,0:30:00.00,EN,,0,0,0,,{\rEN\blur1.6}Why didn't we just go scuba diving?
+Dialogue: 2,0:30:00.04,0:30:01.50,ZH,,0,0,0,,{\rZH\blur1.6}鲨鱼？
+Dialogue: 1,0:30:00.04,0:30:01.50,EN,,0,0,0,,{\rEN\blur1.6}Sharks?
+Dialogue: 2,0:30:19.21,0:30:20.88,ZH,,0,0,0,,{\rZH\blur1.6}我的天。
+Dialogue: 1,0:30:19.21,0:30:20.88,EN,,0,0,0,,{\rEN\blur1.6}Jesus Christ.
+Dialogue: 2,0:30:22.00,0:30:24.29,ZH,,0,0,0,,{\rZH\blur1.6}没事。我来处理。没问题。
+Dialogue: 1,0:30:22.00,0:30:24.29,EN,,0,0,0,,{\rEN\blur1.6}It's okay. I'm on it. It's fine.
+Dialogue: 2,0:30:28.08,0:30:29.71,ZH,,0,0,0,,{\rZH\blur1.6}大概4000英尺。
+Dialogue: 1,0:30:28.08,0:30:29.71,EN,,0,0,0,,{\rEN\blur1.6}It's about 4000 feet.
+Dialogue: 2,0:30:30.71,0:30:32.67,ZH,,0,0,0,,{\rZH\blur1.6}搞什么鬼？
+Dialogue: 1,0:30:30.71,0:30:32.67,EN,,0,0,0,,{\rEN\blur1.6}What the hell?
+Dialogue: 2,0:30:40.83,0:30:42.12,ZH,,0,0,0,,{\rZH\blur1.6}说个有趣的事。
+Dialogue: 1,0:30:40.83,0:30:42.12,EN,,0,0,0,,{\rEN\blur1.6}Fun fact.
+Dialogue: 2,0:30:42.12,0:30:43.62,ZH,,0,0,0,,{\rZH\blur1.6}这些木板最早是和尚搭的
+Dialogue: 1,0:30:42.12,0:30:43.62,EN,,0,0,0,,{\rEN\blur1.6}Monks first built these planks
+Dialogue: 2,0:30:43.67,0:30:46.79,ZH,,0,0,0,,{\rZH\blur1.6}为了在13世纪触到天空。
+Dialogue: 1,0:30:43.67,0:30:46.79,EN,,0,0,0,,{\rEN\blur1.6}to reach the heavens in the 13th century.
+Dialogue: 2,0:30:46.79,0:30:48.92,ZH,,0,0,0,,{\rZH\blur1.6}有些零件已经换过了。
+Dialogue: 1,0:30:46.79,0:30:48.92,EN,,0,0,0,,{\rEN\blur1.6}Some parts have been replaced.
+Dialogue: 2,0:30:48.96,0:30:52.46,ZH,,0,0,0,,{\rZH\blur1.6}有些……呃，有些还没。
+Dialogue: 1,0:30:48.96,0:30:52.46,EN,,0,0,0,,{\rEN\blur1.6}Some... eh, some haven't.
+Dialogue: 2,0:30:58.12,0:30:59.62,ZH,,0,0,0,,{\rZH\blur1.6}搞定一个。
+Dialogue: 1,0:30:58.12,0:30:59.62,EN,,0,0,0,,{\rEN\blur1.6}One down.
+Dialogue: 2,0:30:59.67,0:31:01.83,ZH,,0,0,0,,{\rZH\blur1.6}就剩300了。
+Dialogue: 1,0:30:59.67,0:31:01.83,EN,,0,0,0,,{\rEN\blur1.6}Only 300 more to go.
+Dialogue: 2,0:31:02.29,0:31:04.17,ZH,,0,0,0,,{\rZH\blur1.6}好，接着走。
+Dialogue: 1,0:31:02.29,0:31:04.17,EN,,0,0,0,,{\rEN\blur1.6}Okay. On we go.
+Dialogue: 2,0:31:19.21,0:31:22.08,ZH,,0,0,0,,{\rZH\blur1.6}我们快到Khao Sok Phee Sat了，
+Dialogue: 1,0:31:19.21,0:31:22.08,EN,,0,0,0,,{\rEN\blur1.6}We are now approaching Khao Sok Phee Sat,
+Dialogue: 2,0:31:22.12,0:31:24.54,ZH,,0,0,0,,{\rZH\blur1.6}也叫 The Devil's Elbow。
+Dialogue: 1,0:31:22.12,0:31:24.54,EN,,0,0,0,,{\rEN\blur1.6}AKA The Devil's Elbow.
+Dialogue: 2,0:31:24.58,0:31:25.96,ZH,,0,0,0,,{\rZH\blur1.6}好好看看风景吧。
+Dialogue: 1,0:31:24.58,0:31:25.96,EN,,0,0,0,,{\rEN\blur1.6}Enjoy the view.
+Dialogue: 2,0:31:35.00,0:31:37.25,ZH,,0,0,0,,{\rZH\blur1.6}我的天啊！
+Dialogue: 1,0:31:35.00,0:31:37.25,EN,,0,0,0,,{\rEN\blur1.6}Holy smokes.
+Dialogue: 2,0:31:37.29,0:31:40.29,ZH,,0,0,0,,{\rZH\blur1.6}这景色太壮观了。
+Dialogue: 1,0:31:37.29,0:31:40.29,EN,,0,0,0,,{\rEN\blur1.6}This view is spectacular.
+Dialogue: 2,0:31:40.33,0:31:42.54,ZH,,0,0,0,,{\rZH\blur1.6}Jax，你可得看看这景色。
+Dialogue: 1,0:31:40.33,0:31:42.54,EN,,0,0,0,,{\rEN\blur1.6}Jax, you gotta check out this view.
+Dialogue: 2,0:31:44.08,0:31:45.04,ZH,,0,0,0,,{\rZH\blur1.6}哇。
+Dialogue: 1,0:31:44.08,0:31:45.04,EN,,0,0,0,,{\rEN\blur1.6}Wow.
+Dialogue: 2,0:31:58.96,0:32:00.58,ZH,,0,0,0,,{\rZH\blur1.6}好。
+Dialogue: 1,0:31:58.96,0:32:00.58,EN,,0,0,0,,{\rEN\blur1.6}OK.
+Dialogue: 2,0:32:03.88,0:32:06.83,ZH,,0,0,0,,{\rZH\blur1.6}Jax Hunter， 跟屏幕前的观众说说吧
+Dialogue: 1,0:32:03.88,0:32:06.83,EN,,0,0,0,,{\rEN\blur1.6}Jax Hunter, why don't you tell the folks at home
+Dialogue: 2,0:32:06.88,0:32:09.46,ZH,,0,0,0,,{\rZH\blur1.6}这景色也太美了吧？
+Dialogue: 1,0:32:06.88,0:32:09.46,EN,,0,0,0,,{\rEN\blur1.6}how amazing is this view?
+Dialogue: 2,0:32:09.50,0:32:11.42,ZH,,0,0,0,,{\rZH\blur1.6}我觉得我会更享受这事儿
+Dialogue: 1,0:32:09.50,0:32:11.42,EN,,0,0,0,,{\rEN\blur1.6}I feel like I would be enjoying it more
+Dialogue: 2,0:32:11.46,0:32:13.83,ZH,,0,0,0,,{\rZH\blur1.6}要不是我心里在尖叫。
+Dialogue: 1,0:32:11.46,0:32:13.83,EN,,0,0,0,,{\rEN\blur1.6}if I wasn't screaming inside.
+Dialogue: 2,0:32:13.83,0:32:15.42,ZH,,0,0,0,,{\rZH\blur1.6}扫兴鬼。
+Dialogue: 1,0:32:13.83,0:32:15.42,EN,,0,0,0,,{\rEN\blur1.6}Sourpuss.
+Dialogue: 2,0:32:16.79,0:32:17.88,ZH,,0,0,0,,{\rZH\blur1.6}哎，伙计们？
+Dialogue: 1,0:32:16.79,0:32:17.88,EN,,0,0,0,,{\rEN\blur1.6}Hey, guys?
+Dialogue: 2,0:32:17.92,0:32:19.17,ZH,,0,0,0,,{\rZH\blur1.6}我知道我说过让你看看风景，
+Dialogue: 1,0:32:17.92,0:32:19.17,EN,,0,0,0,,{\rEN\blur1.6}I Know I said enjoy the view,
+Dialogue: 2,0:32:19.21,0:32:20.92,ZH,,0,0,0,,{\rZH\blur1.6}不过咱们边走边做，行吗？
+Dialogue: 1,0:32:19.21,0:32:20.92,EN,,0,0,0,,{\rEN\blur1.6}but how about we do it on the move, yeah?
+Dialogue: 2,0:32:20.96,0:32:23.62,ZH,,0,0,0,,{\rZH\blur1.6}-收起来。  -你真没劲。
+Dialogue: 1,0:32:20.96,0:32:23.62,EN,,0,0,0,,{\rEN\blur1.6}-Put it away.   -You are no fun.
+Dialogue: 2,0:32:40.92,0:32:43.33,ZH,,0,0,0,,{\rZH\blur1.6}这可不妙。
+Dialogue: 1,0:32:40.92,0:32:43.33,EN,,0,0,0,,{\rEN\blur1.6}That's not good.
+Dialogue: 2,0:32:50.33,0:32:52.83,ZH,,0,0,0,,{\rZH\blur1.6}到那边咱们该扣在哪儿？
+Dialogue: 1,0:32:50.33,0:32:52.83,EN,,0,0,0,,{\rEN\blur1.6}What are we supposed to be clipped into over there?
+Dialogue: 2,0:32:54.38,0:32:57.17,ZH,,0,0,0,,{\rZH\blur1.6}哥们，徒步碰上这个正常吗？
+Dialogue: 1,0:32:54.38,0:32:57.17,EN,,0,0,0,,{\rEN\blur1.6}Is this a normal part of the hike, dude?
+Dialogue: 2,0:32:57.21,0:32:59.50,ZH,,0,0,0,,{\rZH\blur1.6}你看，就少了两条链子。
+Dialogue: 1,0:32:57.21,0:32:59.50,EN,,0,0,0,,{\rEN\blur1.6}Look, it's just a couple of chains missing.
+Dialogue: 2,0:32:59.50,0:33:02.42,ZH,,0,0,0,,{\rZH\blur1.6}等等，你是说咱们不用安全绳就走？
+Dialogue: 1,0:32:59.50,0:33:02.42,EN,,0,0,0,,{\rEN\blur1.6}Wait. Are you suggesting we go without safety ropes?
+Dialogue: 2,0:33:02.46,0:33:04.75,ZH,,0,0,0,,{\rZH\blur1.6}对，就是走直线。
+Dialogue: 1,0:33:02.46,0:33:04.75,EN,,0,0,0,,{\rEN\blur1.6}Yeah, it's just walkin' in a straight line.
+Dialogue: 2,0:33:05.54,0:33:06.75,ZH,,0,0,0,,{\rZH\blur1.6}我的天啊。
+Dialogue: 1,0:33:05.54,0:33:06.75,EN,,0,0,0,,{\rEN\blur1.6}Oh, my God.
+Dialogue: 2,0:33:08.29,0:33:09.92,ZH,,0,0,0,,{\rZH\blur1.6}这也太疯狂了。
+Dialogue: 1,0:33:08.29,0:33:09.92,EN,,0,0,0,,{\rEN\blur1.6}This is insane.
+Dialogue: 2,0:33:16.50,0:33:18.96,ZH,,0,0,0,,{\rZH\blur1.6}-好，交给我。  -你干嘛呢？
+Dialogue: 1,0:33:16.50,0:33:18.96,EN,,0,0,0,,{\rEN\blur1.6}-Okay, I'm on this.   -What are you doing?
+Dialogue: 2,0:33:19.00,0:33:20.67,ZH,,0,0,0,,{\rZH\blur1.6}Jaxy，拿着这个。
+Dialogue: 1,0:33:19.00,0:33:20.67,EN,,0,0,0,,{\rEN\blur1.6}Hold this, Jaxy.
+Dialogue: 2,0:33:33.92,0:33:35.71,ZH,,0,0,0,,{\rZH\blur1.6}我靠，Luce！
+Dialogue: 1,0:33:33.92,0:33:35.71,EN,,0,0,0,,{\rEN\blur1.6}Holy shit, Luce!
+Dialogue: 2,0:33:36.21,0:33:39.50,ZH,,0,0,0,,{\rZH\blur1.6}-你找死啊？！  -怂包！
+Dialogue: 1,0:33:36.21,0:33:39.50,EN,,0,0,0,,{\rEN\blur1.6}-You got a death wish?!   -Pussy!
+Dialogue: 2,0:33:39.54,0:33:41.12,ZH,,0,0,0,,{\rZH\blur1.6}你疯了！
+Dialogue: 1,0:33:39.54,0:33:41.12,EN,,0,0,0,,{\rEN\blur1.6}You're cr az y!
+Dialogue: 2,0:33:51.58,0:33:52.96,ZH,,0,0,0,,{\rZH\blur1.6}Jax?
+Dialogue: 1,0:33:51.58,0:33:52.96,EN,,0,0,0,,{\rEN\blur1.6}Jax?
+Dialogue: 2,0:33:54.17,0:33:55.67,ZH,,0,0,0,,{\rZH\blur1.6}Jax？
+Dialogue: 1,0:33:54.17,0:33:55.67,EN,,0,0,0,,{\rEN\blur1.6}Jax?
+Dialogue: 2,0:33:55.71,0:33:57.25,ZH,,0,0,0,,{\rZH\blur1.6}Jax!
+Dialogue: 1,0:33:55.71,0:33:57.25,EN,,0,0,0,,{\rEN\blur1.6}Jax!
+Dialogue: 2,0:34:12.04,0:34:15.83,ZH,,0,0,0,,{\rZH\blur1.6}Shi?!
+Dialogue: 1,0:34:12.04,0:34:15.83,EN,,0,0,0,,{\rEN\blur1.6}Shi?!
+Dialogue: 2,0:34:15.88,0:34:17.12,ZH,,0,0,0,,{\rZH\blur1.6}靠！
+Dialogue: 1,0:34:15.88,0:34:17.12,EN,,0,0,0,,{\rEN\blur1.6}Shi!
+Dialogue: 2,0:34:17.17,0:34:19.79,ZH,,0,0,0,,{\rZH\blur1.6}Shi！Shi，搞什么鬼？！
+Dialogue: 1,0:34:17.17,0:34:19.79,EN,,0,0,0,,{\rEN\blur1.6}Shi! Shi, what the hell?!
+Dialogue: 2,0:34:19.83,0:34:20.96,ZH,,0,0,0,,{\rZH\blur1.6}看着我！
+Dialogue: 1,0:34:19.83,0:34:20.96,EN,,0,0,0,,{\rEN\blur1.6}Look at me!
+Dialogue: 2,0:34:25.25,0:34:26.46,ZH,,0,0,0,,{\rZH\blur1.6}- Jax！
+Dialogue: 1,0:34:25.25,0:34:26.46,EN,,0,0,0,,{\rEN\blur1.6}- Jax!
+Dialogue: 2,0:34:26.50,0:34:28.62,ZH,,0,0,0,,{\rZH\blur1.6}嘿，嘿，嘿。看着我，看着我。
+Dialogue: 1,0:34:26.50,0:34:28.62,EN,,0,0,0,,{\rEN\blur1.6}Hey, hey, hey. Look at me, look at me.
+Dialogue: 2,0:34:31.71,0:34:33.50,ZH,,0,0,0,,{\rZH\blur1.6}Jax，看着我。
+Dialogue: 1,0:34:31.71,0:34:33.50,EN,,0,0,0,,{\rEN\blur1.6}Jax. Look at me.
+Dialogue: 2,0:34:33.50,0:34:35.00,ZH,,0,0,0,,{\rZH\blur1.6}你没事。
+Dialogue: 1,0:34:33.50,0:34:35.00,EN,,0,0,0,,{\rEN\blur1.6}You're okay.
+Dialogue: 2,0:34:35.38,0:34:36.92,ZH,,0,0,0,,{\rZH\blur1.6}天哪，你刚才整个人都懵了。
+Dialogue: 1,0:34:35.38,0:34:36.92,EN,,0,0,0,,{\rEN\blur1.6}Jesus, you were out of it.
+Dialogue: 2,0:34:36.96,0:34:39.29,ZH,,0,0,0,,{\rZH\blur1.6}-她没事吧？！  -嗯，应该没事。
+Dialogue: 1,0:34:36.96,0:34:39.29,EN,,0,0,0,,{\rEN\blur1.6}-ls she okay?!   -Yeah, I think so.
+Dialogue: 2,0:34:39.33,0:34:40.92,ZH,,0,0,0,,{\rZH\blur1.6}只是海拔的关系。
+Dialogue: 1,0:34:39.33,0:34:40.92,EN,,0,0,0,,{\rEN\blur1.6}It's just the altitude.
+Dialogue: 2,0:34:40.96,0:34:42.46,ZH,,0,0,0,,{\rZH\blur1.6}这儿，行吗？
+Dialogue: 1,0:34:40.96,0:34:42.46,EN,,0,0,0,,{\rEN\blur1.6}Here. Okay?
+Dialogue: 2,0:34:44.79,0:34:46.50,ZH,,0,0,0,,{\rZH\blur1.6}这个你只要一点就够了。
+Dialogue: 1,0:34:44.79,0:34:46.50,EN,,0,0,0,,{\rEN\blur1.6}You just need some of this.
+Dialogue: 2,0:34:48.96,0:34:50.62,ZH,,0,0,0,,{\rZH\blur1.6}-深呼吸。
+Dialogue: 1,0:34:48.96,0:34:50.62,EN,,0,0,0,,{\rEN\blur1.6}-Deep breaths.
+Dialogue: 2,0:34:50.67,0:34:52.17,ZH,,0,0,0,,{\rZH\blur1.6}在……
+Dialogue: 1,0:34:50.67,0:34:52.17,EN,,0,0,0,,{\rEN\blur1.6}In...
+Dialogue: 2,0:34:53.08,0:34:54.21,ZH,,0,0,0,,{\rZH\blur1.6}再来一个。
+Dialogue: 1,0:34:53.08,0:34:54.21,EN,,0,0,0,,{\rEN\blur1.6}One more.
+Dialogue: 2,0:34:56.67,0:34:58.29,ZH,,0,0,0,,{\rZH\blur1.6}行吗？
+Dialogue: 1,0:34:56.67,0:34:58.29,EN,,0,0,0,,{\rEN\blur1.6}Okay?
+Dialogue: 2,0:34:58.29,0:35:00.25,ZH,,0,0,0,,{\rZH\blur1.6}-好点了吗？  -嗯。
+Dialogue: 1,0:34:58.29,0:35:00.25,EN,,0,0,0,,{\rEN\blur1.6}-Feel better?   -Mm-hm.
+Dialogue: 2,0:35:01.17,0:35:03.46,ZH,,0,0,0,,{\rZH\blur1.6}我们快到了。你会没事的。
+Dialogue: 1,0:35:01.17,0:35:03.46,EN,,0,0,0,,{\rEN\blur1.6}We're close now. You'll be okay.
+Dialogue: 2,0:35:03.50,0:35:05.33,ZH,,0,0,0,,{\rZH\blur1.6}那你要是又觉得不舒服，哪怕只有一点，
+Dialogue: 1,0:35:03.50,0:35:05.33,EN,,0,0,0,,{\rEN\blur1.6}Now, if you feel even slightly sick again,
+Dialogue: 2,0:35:05.38,0:35:06.75,ZH,,0,0,0,,{\rZH\blur1.6}就再吸一口吧。
+Dialogue: 1,0:35:05.38,0:35:06.75,EN,,0,0,0,,{\rEN\blur1.6}just take another hit.
+Dialogue: 2,0:35:06.79,0:35:08.79,ZH,,0,0,0,,{\rZH\blur1.6}一点一点来，就没事。
+Dialogue: 1,0:35:06.79,0:35:08.79,EN,,0,0,0,,{\rEN\blur1.6}A little at a time and you'll be fine.
+Dialogue: 2,0:35:08.83,0:35:10.54,ZH,,0,0,0,,{\rZH\blur1.6}好，谢谢。
+Dialogue: 1,0:35:08.83,0:35:10.54,EN,,0,0,0,,{\rEN\blur1.6}Okay. Thanks.
+Dialogue: 2,0:35:11.12,0:35:13.33,ZH,,0,0,0,,{\rZH\blur1.6}-我扔根绳子给你！  -好。
+Dialogue: 1,0:35:11.12,0:35:13.33,EN,,0,0,0,,{\rEN\blur1.6}-I'm gonna throw you a rope!   -Okay.
+Dialogue: 2,0:35:15.21,0:35:17.54,ZH,,0,0,0,,{\rZH\blur1.6}好，现在把它扣到链条上！
+Dialogue: 1,0:35:15.21,0:35:17.54,EN,,0,0,0,,{\rEN\blur1.6}Okay, now Clip it onto the chain!
+Dialogue: 2,0:35:28.46,0:35:30.75,ZH,,0,0,0,,{\rZH\blur1.6}-我拉住你了。  -谢谢。
+Dialogue: 1,0:35:28.46,0:35:30.75,EN,,0,0,0,,{\rEN\blur1.6}-I got you.   -Thanks.
+Dialogue: 2,0:35:33.92,0:35:35.08,ZH,,0,0,0,,{\rZH\blur1.6}你没事吧？
+Dialogue: 1,0:35:33.92,0:35:35.08,EN,,0,0,0,,{\rEN\blur1.6}You okay?
+Dialogue: 2,0:35:35.12,0:35:37.08,ZH,,0,0,0,,{\rZH\blur1.6}嗯，刚才脱手了。
+Dialogue: 1,0:35:35.12,0:35:37.08,EN,,0,0,0,,{\rEN\blur1.6}Yeah. Just lost it.
+Dialogue: 2,0:35:37.12,0:35:38.50,ZH,,0,0,0,,{\rZH\blur1.6}-哇！  -没事。
+Dialogue: 1,0:35:37.12,0:35:38.50,EN,,0,0,0,,{\rEN\blur1.6}-Whoa!   -It's okay.
+Dialogue: 2,0:35:38.54,0:35:40.46,ZH,,0,0,0,,{\rZH\blur1.6}-就一会儿。  -没事。
+Dialogue: 1,0:35:38.54,0:35:40.46,EN,,0,0,0,,{\rEN\blur1.6}-For a moment.   -It's alright.
+Dialogue: 2,0:36:14.92,0:36:16.79,ZH,,0,0,0,,{\rZH\blur1.6}Jon，雨下得挺大。
+Dialogue: 1,0:36:14.92,0:36:16.79,EN,,0,0,0,,{\rEN\blur1.6}Jon, it's coming down pretty hard.
+Dialogue: 2,0:36:16.79,0:36:19.62,ZH,,0,0,0,,{\rZH\blur1.6}-咱们怎么办？  -继续走最稳妥。
+Dialogue: 1,0:36:16.79,0:36:19.62,EN,,0,0,0,,{\rEN\blur1.6}-What should we do?   -Safest to keep moving.
+Dialogue: 2,0:36:19.67,0:36:21.67,ZH,,0,0,0,,{\rZH\blur1.6}我们快到了。
+Dialogue: 1,0:36:19.67,0:36:21.67,EN,,0,0,0,,{\rEN\blur1.6}We're almost there.
+Dialogue: 2,0:36:47.08,0:36:49.88,ZH,,0,0,0,,{\rZH\blur1.6}解开锁扣，往后退！马上！
+Dialogue: 1,0:36:47.08,0:36:49.88,EN,,0,0,0,,{\rEN\blur1.6}Unclip and get back! Now!
+Dialogue: 2,0:36:49.92,0:36:51.42,ZH,,0,0,0,,{\rZH\blur1.6}地震了！
+Dialogue: 1,0:36:49.92,0:36:51.42,EN,,0,0,0,,{\rEN\blur1.6}It's an earthquake!
+Dialogue: 2,0:36:56.25,0:36:57.67,ZH,,0,0,0,,{\rZH\blur1.6}快，快，快！
+Dialogue: 1,0:36:56.25,0:36:57.67,EN,,0,0,0,,{\rEN\blur1.6}Go, go, go!
+Dialogue: 2,0:37:21.50,0:37:23.92,ZH,,0,0,0,,{\rZH\blur1.6}在哪儿……他在哪儿？！
+Dialogue: 1,0:37:21.50,0:37:23.92,EN,,0,0,0,,{\rEN\blur1.6}Where... where is he?!
+Dialogue: 2,0:37:26.38,0:37:27.67,ZH,,0,0,0,,{\rZH\blur1.6}Jon!
+Dialogue: 1,0:37:26.38,0:37:27.67,EN,,0,0,0,,{\rEN\blur1.6}Jon!
+Dialogue: 2,0:37:30.25,0:37:33.17,ZH,,0,0,0,,{\rZH\blur1.6}-Jon!  -Jon!
+Dialogue: 1,0:37:30.25,0:37:33.17,EN,,0,0,0,,{\rEN\blur1.6}-Jon!   -Jon!
+Dialogue: 2,0:37:33.21,0:37:36.21,ZH,,0,0,0,,{\rZH\blur1.6}Jon!
+Dialogue: 1,0:37:33.21,0:37:36.21,EN,,0,0,0,,{\rEN\blur1.6}Jon!
+Dialogue: 2,0:37:40.00,0:37:41.62,ZH,,0,0,0,,{\rZH\blur1.6}咱们怎么办？
+Dialogue: 1,0:37:40.00,0:37:41.62,EN,,0,0,0,,{\rEN\blur1.6}What do we do?
+Dialogue: 2,0:37:43.42,0:37:45.33,ZH,,0,0,0,,{\rZH\blur1.6}我们得回去。
+Dialogue: 1,0:37:43.42,0:37:45.33,EN,,0,0,0,,{\rEN\blur1.6}We have to go back.
+Dialogue: 2,0:37:45.79,0:37:47.96,ZH,,0,0,0,,{\rZH\blur1.6}我们做不到！光靠我们不行。
+Dialogue: 1,0:37:45.79,0:37:47.96,EN,,0,0,0,,{\rEN\blur1.6}We can't! Not on our own.
+Dialogue: 2,0:37:48.00,0:37:49.46,ZH,,0,0,0,,{\rZH\blur1.6}我们不能待在这儿，Jax。
+Dialogue: 1,0:37:48.00,0:37:49.46,EN,,0,0,0,,{\rEN\blur1.6}We can't stay here, Jax.
+Dialogue: 2,0:37:49.50,0:37:51.58,ZH,,0,0,0,,{\rZH\blur1.6}要是再地震怎么办？
+Dialogue: 1,0:37:49.50,0:37:51.58,EN,,0,0,0,,{\rEN\blur1.6}What if there's another earthquake?
+Dialogue: 2,0:37:52.92,0:37:54.08,ZH,,0,0,0,,{\rZH\blur1.6}好。
+Dialogue: 1,0:37:52.92,0:37:54.08,EN,,0,0,0,,{\rEN\blur1.6}Okay.
+Dialogue: 2,0:37:54.12,0:37:57.04,ZH,,0,0,0,,{\rZH\blur1.6}咱们慢慢来就行。
+Dialogue: 1,0:37:54.12,0:37:57.04,EN,,0,0,0,,{\rEN\blur1.6}We're just gonna take it slow.
+Dialogue: 2,0:37:57.08,0:37:59.29,ZH,,0,0,0,,{\rZH\blur1.6}咱们会互相照应。
+Dialogue: 1,0:37:57.08,0:37:59.29,EN,,0,0,0,,{\rEN\blur1.6}We're gonna look out for each other.
+Dialogue: 2,0:37:59.33,0:38:01.17,ZH,,0,0,0,,{\rZH\blur1.6}扣上，解开。
+Dialogue: 1,0:37:59.33,0:38:01.17,EN,,0,0,0,,{\rEN\blur1.6}Clip in, clip out.
+Dialogue: 2,0:38:02.79,0:38:04.33,ZH,,0,0,0,,{\rZH\blur1.6}走吧。
+Dialogue: 1,0:38:02.79,0:38:04.33,EN,,0,0,0,,{\rEN\blur1.6}Let's go.
+Dialogue: 2,0:38:26.71,0:38:29.17,ZH,,0,0,0,,{\rZH\blur1.6}靠，Luce，我们没绳子！
+Dialogue: 1,0:38:26.71,0:38:29.17,EN,,0,0,0,,{\rEN\blur1.6}Shit, Luce, we don't have the rope!
+Dialogue: 2,0:38:31.75,0:38:33.17,ZH,,0,0,0,,{\rZH\blur1.6}我来领攀。
+Dialogue: 1,0:38:31.75,0:38:33.17,EN,,0,0,0,,{\rEN\blur1.6}I'll take the lead.
+Dialogue: 2,0:38:33.21,0:38:34.67,ZH,,0,0,0,,{\rZH\blur1.6}我做不到。
+Dialogue: 1,0:38:33.21,0:38:34.67,EN,,0,0,0,,{\rEN\blur1.6}I can't do it.
+Dialogue: 2,0:38:34.71,0:38:37.33,ZH,,0,0,0,,{\rZH\blur1.6}我们没得选。
+Dialogue: 1,0:38:34.71,0:38:37.33,EN,,0,0,0,,{\rEN\blur1.6}We don't have a choice.
+Dialogue: 2,0:38:45.88,0:38:48.88,ZH,,0,0,0,,{\rZH\blur1.6}你做到过一次，还能再做到。
+Dialogue: 1,0:38:45.88,0:38:48.88,EN,,0,0,0,,{\rEN\blur1.6}You did it once. You can do it again.
+Dialogue: 2,0:38:49.29,0:38:51.88,ZH,,0,0,0,,{\rZH\blur1.6}好，我绕过来。
+Dialogue: 1,0:38:49.29,0:38:51.88,EN,,0,0,0,,{\rEN\blur1.6}Okay. Coming around.
+Dialogue: 2,0:38:56.62,0:38:58.71,ZH,,0,0,0,,{\rZH\blur1.6}-哇！  -跨过去。
+Dialogue: 1,0:38:56.62,0:38:58.71,EN,,0,0,0,,{\rEN\blur1.6}-Whoa!   -Step over.
+Dialogue: 2,0:39:01.46,0:39:02.54,ZH,,0,0,0,,{\rZH\blur1.6}很简单。
+Dialogue: 1,0:39:01.46,0:39:02.54,EN,,0,0,0,,{\rEN\blur1.6}Easy.
+Dialogue: 2,0:39:04.17,0:39:05.62,ZH,,0,0,0,,{\rZH\blur1.6}行吗？
+Dialogue: 1,0:39:04.17,0:39:05.62,EN,,0,0,0,,{\rEN\blur1.6}Okay?
+Dialogue: 2,0:39:13.88,0:39:15.67,ZH,,0,0,0,,{\rZH\blur1.6}加油，Jax。
+Dialogue: 1,0:39:13.88,0:39:15.67,EN,,0,0,0,,{\rEN\blur1.6}Come on, Jax.
+Dialogue: 2,0:39:15.67,0:39:17.38,ZH,,0,0,0,,{\rZH\blur1.6}天啊。
+Dialogue: 1,0:39:15.67,0:39:17.38,EN,,0,0,0,,{\rEN\blur1.6}Oh, God.
+Dialogue: 2,0:39:23.04,0:39:24.71,ZH,,0,0,0,,{\rZH\blur1.6}你能行。
+Dialogue: 1,0:39:23.04,0:39:24.71,EN,,0,0,0,,{\rEN\blur1.6}You got this.
+Dialogue: 2,0:39:32.29,0:39:33.92,ZH,,0,0,0,,{\rZH\blur1.6}准备好了吗？
+Dialogue: 1,0:39:32.29,0:39:33.92,EN,,0,0,0,,{\rEN\blur1.6}Are you ready?
+Dialogue: 2,0:39:34.71,0:39:37.71,ZH,,0,0,0,,{\rZH\blur1.6}抓紧我。你能行。才十英尺。
+Dialogue: 1,0:39:34.71,0:39:37.71,EN,,0,0,0,,{\rEN\blur1.6}Hold on to me. You got this. It's only ten feet.
+Dialogue: 2,0:39:59.83,0:40:02.54,ZH,,0,0,0,,{\rZH\blur1.6}干得漂亮，Jax！你就快到了！
+Dialogue: 1,0:39:59.83,0:40:02.54,EN,,0,0,0,,{\rEN\blur1.6}You're doing great, Jax! You're almost there!
+Dialogue: 2,0:40:22.08,0:40:23.62,ZH,,0,0,0,,{\rZH\blur1.6}我扣好了！我扣好了！
+Dialogue: 1,0:40:22.08,0:40:23.62,EN,,0,0,0,,{\rEN\blur1.6}I'm clipped in! I'm clipped in!
+Dialogue: 2,0:40:23.67,0:40:24.83,ZH,,0,0,0,,{\rZH\blur1.6}-我接住你了！
+Dialogue: 1,0:40:23.67,0:40:24.83,EN,,0,0,0,,{\rEN\blur1.6}-I got you!
+Dialogue: 2,0:40:24.88,0:40:26.50,ZH,,0,0,0,,{\rZH\blur1.6}你快到了。
+Dialogue: 1,0:40:24.88,0:40:26.50,EN,,0,0,0,,{\rEN\blur1.6}You're almost here.
+Dialogue: 2,0:40:28.29,0:40:30.21,ZH,,0,0,0,,{\rZH\blur1.6}快，Jax！抓住我的手。
+Dialogue: 1,0:40:28.29,0:40:30.21,EN,,0,0,0,,{\rEN\blur1.6}Come on, Jax! Grab my hand.
+Dialogue: 2,0:40:33.83,0:40:35.54,ZH,,0,0,0,,{\rZH\blur1.6}我的天啊！
+Dialogue: 1,0:40:33.83,0:40:35.54,EN,,0,0,0,,{\rEN\blur1.6}Oh, my God!
+Dialogue: 2,0:40:35.58,0:40:38.54,ZH,,0,0,0,,{\rZH\blur1.6}没事了。你现在安全了。
+Dialogue: 1,0:40:35.58,0:40:38.54,EN,,0,0,0,,{\rEN\blur1.6}It's okay. You're safe now.
+Dialogue: 2,0:40:49.21,0:40:51.58,ZH,,0,0,0,,{\rZH\blur1.6}你好，Devil's Elbow。
+Dialogue: 1,0:40:49.21,0:40:51.58,EN,,0,0,0,,{\rEN\blur1.6}Hello, Devil's Elbow.
+Dialogue: 2,0:40:52.33,0:40:54.29,ZH,,0,0,0,,{\rZH\blur1.6}好，快到了。
+Dialogue: 1,0:40:52.33,0:40:54.29,EN,,0,0,0,,{\rEN\blur1.6}Okay. Almost there.
+Dialogue: 2,0:40:55.00,0:40:56.88,ZH,,0,0,0,,{\rZH\blur1.6}我看见了。梯子在那儿。
+Dialogue: 1,0:40:55.00,0:40:56.88,EN,,0,0,0,,{\rEN\blur1.6}I see it. There's the ladder.
+Dialogue: 2,0:41:11.83,0:41:14.00,ZH,,0,0,0,,{\rZH\blur1.6}-哎，不、不、不、不、不、不！
+Dialogue: 1,0:41:11.83,0:41:14.00,EN,,0,0,0,,{\rEN\blur1.6}-Oh, no, no, no, no, no, no!
+Dialogue: 2,0:41:14.04,0:41:15.58,ZH,,0,0,0,,{\rZH\blur1.6}不！不！
+Dialogue: 1,0:41:14.04,0:41:15.58,EN,,0,0,0,,{\rEN\blur1.6}No! No!
+Dialogue: 2,0:41:46.33,0:41:48.21,ZH,,0,0,0,,{\rZH\blur1.6}我解不开锁扣！
+Dialogue: 1,0:41:46.33,0:41:48.21,EN,,0,0,0,,{\rEN\blur1.6}I can't unclip!
+Dialogue: 2,0:42:11.83,0:42:13.71,ZH,,0,0,0,,{\rZH\blur1.6}我的天哪！
+Dialogue: 1,0:42:11.83,0:42:13.71,EN,,0,0,0,,{\rEN\blur1.6}Oh, my God!
+Dialogue: 2,0:42:48.38,0:42:50.33,ZH,,0,0,0,,{\rZH\blur1.6}木板都没了。
+Dialogue: 1,0:42:48.38,0:42:50.33,EN,,0,0,0,,{\rEN\blur1.6}The planks are gone.
+Dialogue: 2,0:42:51.96,0:42:53.67,ZH,,0,0,0,,{\rZH\blur1.6}木板都没了。
+Dialogue: 1,0:42:51.96,0:42:53.67,EN,,0,0,0,,{\rEN\blur1.6}The planks are gone.
+Dialogue: 2,0:42:58.54,0:43:01.38,ZH,,0,0,0,,{\rZH\blur1.6}天哪！我连安全带都没有！
+Dialogue: 1,0:42:58.54,0:43:01.38,EN,,0,0,0,,{\rEN\blur1.6}Oh, my God! And I don't even have a safety harness!
+Dialogue: 2,0:43:03.75,0:43:06.88,ZH,,0,0,0,,{\rZH\blur1.6}好。行。我这边好了。我帮你固定。
+Dialogue: 1,0:43:03.75,0:43:06.88,EN,,0,0,0,,{\rEN\blur1.6}Okay. Alright. I got mine. I'll secure you.
+Dialogue: 2,0:43:08.08,0:43:10.08,ZH,,0,0,0,,{\rZH\blur1.6}我拉住你了。我拉住你了。
+Dialogue: 1,0:43:08.08,0:43:10.08,EN,,0,0,0,,{\rEN\blur1.6}I got you. I got you.
+Dialogue: 2,0:43:10.08,0:43:12.21,ZH,,0,0,0,,{\rZH\blur1.6}-好了吗？  -好了。
+Dialogue: 1,0:43:10.08,0:43:12.21,EN,,0,0,0,,{\rEN\blur1.6}-Okay?   -Okay.
+Dialogue: 2,0:43:14.12,0:43:15.71,ZH,,0,0,0,,{\rZH\blur1.6}好，太好了。
+Dialogue: 1,0:43:14.12,0:43:15.71,EN,,0,0,0,,{\rEN\blur1.6}Okay, great.
+Dialogue: 2,0:43:15.75,0:43:17.50,ZH,,0,0,0,,{\rZH\blur1.6}好。
+Dialogue: 1,0:43:15.75,0:43:17.50,EN,,0,0,0,,{\rEN\blur1.6}Alright.
+Dialogue: 2,0:43:18.62,0:43:19.88,ZH,,0,0,0,,{\rZH\blur1.6}小心。
+Dialogue: 1,0:43:18.62,0:43:19.88,EN,,0,0,0,,{\rEN\blur1.6}Be careful.
+Dialogue: 2,0:43:21.92,0:43:24.58,ZH,,0,0,0,,{\rZH\blur1.6}小心点。好。
+Dialogue: 1,0:43:21.92,0:43:24.58,EN,,0,0,0,,{\rEN\blur1.6}Be careful. Okay.
+Dialogue: 2,0:43:24.62,0:43:28.38,ZH,,0,0,0,,{\rZH\blur1.6}-电话！试试电话！  -好。行。
+Dialogue: 1,0:43:24.62,0:43:28.38,EN,,0,0,0,,{\rEN\blur1.6}-Phones! Try the phones!   -Okay. Alright.
+Dialogue: 2,0:43:29.38,0:43:31.29,ZH,,0,0,0,,{\rZH\blur1.6}我的天啊……
+Dialogue: 1,0:43:29.38,0:43:31.29,EN,,0,0,0,,{\rEN\blur1.6}Oh, my God...
+Dialogue: 2,0:43:32.25,0:43:34.29,ZH,,0,0,0,,{\rZH\blur1.6}啊！没信号……
+Dialogue: 1,0:43:32.25,0:43:34.29,EN,,0,0,0,,{\rEN\blur1.6}Oh! No service...
+Dialogue: 2,0:43:34.33,0:43:35.88,ZH,,0,0,0,,{\rZH\blur1.6}就等于没翻译员！
+Dialogue: 1,0:43:34.33,0:43:35.88,EN,,0,0,0,,{\rEN\blur1.6}equals no translator!
+Dialogue: 2,0:43:35.92,0:43:37.96,ZH,,0,0,0,,{\rZH\blur1.6}好，我这儿有一格信号！
+Dialogue: 1,0:43:35.92,0:43:37.96,EN,,0,0,0,,{\rEN\blur1.6}Okay, I have one bar!
+Dialogue: 2,0:43:38.00,0:43:39.96,ZH,,0,0,0,,{\rZH\blur1.6}泰国版的911是多少？
+Dialogue: 1,0:43:38.00,0:43:39.96,EN,,0,0,0,,{\rEN\blur1.6}What's the number for 911 in Thailand?
+Dialogue: 2,0:43:40.00,0:43:42.42,ZH,,0,0,0,,{\rZH\blur1.6}1-9-1.
+Dialogue: 1,0:43:40.00,0:43:42.42,EN,,0,0,0,,{\rEN\blur1.6}1-9-1.
+Dialogue: 2,0:43:43.62,0:43:45.79,ZH,,0,0,0,,{\rZH\blur1.6}-响了。
+Dialogue: 1,0:43:43.62,0:43:45.79,EN,,0,0,0,,{\rEN\blur1.6}-It's ringing.
+Dialogue: 2,0:43:47.42,0:43:50.50,ZH,,0,0,0,,{\rZH\blur1.6}你好。嗨。我们在 Mount Kwan 上。
+Dialogue: 1,0:43:47.42,0:43:50.50,EN,,0,0,0,,{\rEN\blur1.6}Hello. Hi. We're on Mount Kwan.
+Dialogue: 2,0:43:50.54,0:43:53.42,ZH,,0,0,0,,{\rZH\blur1.6}我们被困在Devil's Elbow的木板上了。
+Dialogue: 1,0:43:50.54,0:43:53.42,EN,,0,0,0,,{\rEN\blur1.6}We're trapped on the planks of the Devil's Elbow.
+Dialogue: 2,0:43:53.42,0:43:55.79,ZH,,0,0,0,,{\rZH\blur1.6}我们需要帮忙！你听懂了吗？
+Dialogue: 1,0:43:53.42,0:43:55.79,EN,,0,0,0,,{\rEN\blur1.6}We need help! Do you understand?
+Dialogue: 2,0:43:56.25,0:43:58.62,ZH,,0,0,0,,{\rZH\blur1.6}不好意思，我不会说泰语。
+Dialogue: 1,0:43:56.25,0:43:58.62,EN,,0,0,0,,{\rEN\blur1.6}I'm sorry, I don't speak Thai.
+Dialogue: 2,0:43:59.88,0:44:01.29,ZH,,0,0,0,,{\rZH\blur1.6}不好意思，我不会说泰语。
+Dialogue: 1,0:43:59.88,0:44:01.29,EN,,0,0,0,,{\rEN\blur1.6}Sorry. No Thai.
+Dialogue: 2,0:44:01.33,0:44:03.33,ZH,,0,0,0,,{\rZH\blur1.6}-我试试找我妈。  -等等。
+Dialogue: 1,0:44:01.33,0:44:03.33,EN,,0,0,0,,{\rEN\blur1.6}-I'll try my mom.   -Wait.
+Dialogue: 2,0:44:03.33,0:44:05.54,ZH,,0,0,0,,{\rZH\blur1.6}希望你们的服务也覆盖国外。
+Dialogue: 1,0:44:03.33,0:44:05.54,EN,,0,0,0,,{\rEN\blur1.6}I'm hoping you have international coverage.
+Dialogue: 2,0:44:08.67,0:44:10.79,ZH,,0,0,0,,{\rZH\blur1.6}-没信号！  -靠！
+Dialogue: 1,0:44:08.67,0:44:10.79,EN,,0,0,0,,{\rEN\blur1.6}-No service!   -Shit!
+Dialogue: 2,0:44:14.71,0:44:16.67,ZH,,0,0,0,,{\rZH\blur1.6}救命！
+Dialogue: 1,0:44:14.71,0:44:16.67,EN,,0,0,0,,{\rEN\blur1.6}Help!
+Dialogue: 2,0:44:23.88,0:44:27.42,ZH,,0,0,0,,{\rZH\blur1.6}-救命！  -救命！
+Dialogue: 1,0:44:23.88,0:44:27.42,EN,,0,0,0,,{\rEN\blur1.6}-Help!   -Help!
+Dialogue: 2,0:44:27.46,0:44:29.04,ZH,,0,0,0,,{\rZH\blur1.6}帮帮我们！
+Dialogue: 1,0:44:27.46,0:44:29.04,EN,,0,0,0,,{\rEN\blur1.6}Help us!
+Dialogue: 2,0:45:20.96,0:45:22.46,ZH,,0,0,0,,{\rZH\blur1.6}等一下。
+Dialogue: 1,0:45:20.96,0:45:22.46,EN,,0,0,0,,{\rEN\blur1.6}Hold on.
+Dialogue: 2,0:45:23.75,0:45:24.92,ZH,,0,0,0,,{\rZH\blur1.6}好。
+Dialogue: 1,0:45:23.75,0:45:24.92,EN,,0,0,0,,{\rEN\blur1.6}Alright.
+Dialogue: 2,0:45:24.96,0:45:28.42,ZH,,0,0,0,,{\rZH\blur1.6}两边各有大概50英尺的木板全毁了。
+Dialogue: 1,0:45:24.96,0:45:28.42,EN,,0,0,0,,{\rEN\blur1.6}The planks are destroyed, like, 50 feet on both sides.
+Dialogue: 2,0:45:28.46,0:45:30.79,ZH,,0,0,0,,{\rZH\blur1.6}就剩些零零散散的支架和木板了
+Dialogue: 1,0:45:28.46,0:45:30.79,EN,,0,0,0,,{\rEN\blur1.6}What's left are random brackets and planks
+Dialogue: 2,0:45:30.83,0:45:34.29,ZH,,0,0,0,,{\rZH\blur1.6}可咱连个能借力爬出去的东西都没有。
+Dialogue: 1,0:45:30.83,0:45:34.29,EN,,0,0,0,,{\rEN\blur1.6}but nothing to climb our asses on out of here with.
+Dialogue: 2,0:45:43.71,0:45:46.12,ZH,,0,0,0,,{\rZH\blur1.6}哥们，你的对讲机。
+Dialogue: 1,0:45:43.71,0:45:46.12,EN,,0,0,0,,{\rEN\blur1.6}Dude. Your radio.
+Dialogue: 2,0:45:46.17,0:45:48.04,ZH,,0,0,0,,{\rZH\blur1.6}还在你背包上呢。
+Dialogue: 1,0:45:46.17,0:45:48.04,EN,,0,0,0,,{\rEN\blur1.6}It's still on your backpack.
+Dialogue: 2,0:45:49.79,0:45:52.83,ZH,,0,0,0,,{\rZH\blur1.6}大概有20英尺远吧？
+Dialogue: 1,0:45:49.79,0:45:52.83,EN,,0,0,0,,{\rEN\blur1.6}It's, like, 20-ish feet away?
+Dialogue: 2,0:45:52.88,0:45:54.58,ZH,,0,0,0,,{\rZH\blur1.6}跟在月球上没两样。
+Dialogue: 1,0:45:52.88,0:45:54.58,EN,,0,0,0,,{\rEN\blur1.6}May as well be on the moon.
+Dialogue: 2,0:46:02.17,0:46:03.88,ZH,,0,0,0,,{\rZH\blur1.6}-你还好吗？  -嗯。
+Dialogue: 1,0:46:02.17,0:46:03.88,EN,,0,0,0,,{\rEN\blur1.6}-You okay?   -Mm-hm.
+Dialogue: 2,0:46:06.83,0:46:08.96,ZH,,0,0,0,,{\rZH\blur1.6}会有人找到我们的，Jax。
+Dialogue: 1,0:46:06.83,0:46:08.96,EN,,0,0,0,,{\rEN\blur1.6}Someone's gonna find us, Jax.
+Dialogue: 2,0:46:09.00,0:46:10.62,ZH,,0,0,0,,{\rZH\blur1.6}我保证。
+Dialogue: 1,0:46:09.00,0:46:10.62,EN,,0,0,0,,{\rEN\blur1.6}I promise.
+Dialogue: 2,0:46:12.50,0:46:14.21,ZH,,0,0,0,,{\rZH\blur1.6}不可能。
+Dialogue: 1,0:46:12.50,0:46:14.21,EN,,0,0,0,,{\rEN\blur1.6}No way.
+Dialogue: 2,0:46:14.58,0:46:16.17,ZH,,0,0,0,,{\rZH\blur1.6}-等等。  -什么？
+Dialogue: 1,0:46:14.58,0:46:16.17,EN,,0,0,0,,{\rEN\blur1.6}-Wait.   -What?
+Dialogue: 2,0:46:16.21,0:46:17.62,ZH,,0,0,0,,{\rZH\blur1.6}你看。
+Dialogue: 1,0:46:16.21,0:46:17.62,EN,,0,0,0,,{\rEN\blur1.6}Look.
+Dialogue: 2,0:46:18.25,0:46:20.21,ZH,,0,0,0,,{\rZH\blur1.6}-那是……？  -哥们，那是酒吧。
+Dialogue: 1,0:46:18.25,0:46:20.21,EN,,0,0,0,,{\rEN\blur1.6}-Is that...?   -Dude, it's the bar.
+Dialogue: 2,0:46:20.25,0:46:22.62,ZH,,0,0,0,,{\rZH\blur1.6}-才怪。  -那是咱们的酒吧！
+Dialogue: 1,0:46:20.25,0:46:22.62,EN,,0,0,0,,{\rEN\blur1.6}-As if.   -It's our bar!
+Dialogue: 2,0:46:22.67,0:46:23.83,ZH,,0,0,0,,{\rZH\blur1.6}哦，就是这个！
+Dialogue: 1,0:46:22.67,0:46:23.83,EN,,0,0,0,,{\rEN\blur1.6}Oh, that's it!
+Dialogue: 2,0:46:24.58,0:46:27.42,ZH,,0,0,0,,{\rZH\blur1.6}没准能让他们注意到咱们什么的。
+Dialogue: 1,0:46:24.58,0:46:27.42,EN,,0,0,0,,{\rEN\blur1.6}Maybe we can get their attention or something.
+Dialogue: 2,0:46:27.46,0:46:28.54,ZH,,0,0,0,,{\rZH\blur1.6}嗯，怎么做？
+Dialogue: 1,0:46:27.46,0:46:28.54,EN,,0,0,0,,{\rEN\blur1.6}Yeah. How?
+Dialogue: 2,0:46:31.38,0:46:32.88,ZH,,0,0,0,,{\rZH\blur1.6}激光笔。
+Dialogue: 1,0:46:31.38,0:46:32.88,EN,,0,0,0,,{\rEN\blur1.6}The laser pointer.
+Dialogue: 2,0:46:32.92,0:46:35.42,ZH,,0,0,0,,{\rZH\blur1.6}我是从Jon那儿抢过来的。
+Dialogue: 1,0:46:32.92,0:46:35.42,EN,,0,0,0,,{\rEN\blur1.6}I snatched it off of Jon.
+Dialogue: 2,0:46:35.42,0:46:37.92,ZH,,0,0,0,,{\rZH\blur1.6}哦，对！能到那么远吗？
+Dialogue: 1,0:46:35.42,0:46:37.92,EN,,0,0,0,,{\rEN\blur1.6}Oh, yes! Will it go that far?
+Dialogue: 2,0:46:38.75,0:46:41.62,ZH,,0,0,0,,{\rZH\blur1.6}我是说，他昨晚指给我们看那座山。
+Dialogue: 1,0:46:38.75,0:46:41.62,EN,,0,0,0,,{\rEN\blur1.6}I mean, he pointed out the mountain to us last night.
+Dialogue: 2,0:46:42.79,0:46:46.21,ZH,,0,0,0,,{\rZH\blur1.6}我看不见。可能颜色太浅了。
+Dialogue: 1,0:46:42.79,0:46:46.21,EN,,0,0,0,,{\rEN\blur1.6}I don't see it. Maybe it's too light.
+Dialogue: 2,0:46:46.25,0:46:48.33,ZH,,0,0,0,,{\rZH\blur1.6}说不定只有在黑暗里才管用。
+Dialogue: 1,0:46:46.25,0:46:48.33,EN,,0,0,0,,{\rEN\blur1.6}Maybe it'll only work in the dark.
+Dialogue: 2,0:46:51.00,0:46:52.79,ZH,,0,0,0,,{\rZH\blur1.6}我们得等到那时候。
+Dialogue: 1,0:46:51.00,0:46:52.79,EN,,0,0,0,,{\rEN\blur1.6}We'll have to wait till then.
+Dialogue: 2,0:47:18.08,0:47:20.58,ZH,,0,0,0,,{\rZH\blur1.6}我们压根就不该上来。
+Dialogue: 1,0:47:18.08,0:47:20.58,EN,,0,0,0,,{\rEN\blur1.6}We shouldn't even be up here.
+Dialogue: 2,0:47:22.75,0:47:25.62,ZH,,0,0,0,,{\rZH\blur1.6}Shi压根就不该上那座塔。
+Dialogue: 1,0:47:22.75,0:47:25.62,EN,,0,0,0,,{\rEN\blur1.6}Shi shouldn't even have been up that tower.
+Dialogue: 2,0:47:26.12,0:47:28.08,ZH,,0,0,0,,{\rZH\blur1.6}你什么意思？
+Dialogue: 1,0:47:26.12,0:47:28.08,EN,,0,0,0,,{\rEN\blur1.6}What do you mean?
+Dialogue: 2,0:47:28.12,0:47:30.50,ZH,,0,0,0,,{\rZH\blur1.6}她本不该在上面。
+Dialogue: 1,0:47:28.12,0:47:30.50,EN,,0,0,0,,{\rEN\blur1.6}She wasn't supposed to be up there.
+Dialogue: 2,0:47:32.08,0:47:34.88,ZH,,0,0,0,,{\rZH\blur1.6}我们本来该一起玩的。
+Dialogue: 1,0:47:32.08,0:47:34.88,EN,,0,0,0,,{\rEN\blur1.6}We were supposed to be hanging out.
+Dialogue: 2,0:47:34.92,0:47:36.67,ZH,,0,0,0,,{\rZH\blur1.6}可Becky需要她。
+Dialogue: 1,0:47:34.92,0:47:36.67,EN,,0,0,0,,{\rEN\blur1.6}But Becky needed her.
+Dialogue: 2,0:47:37.92,0:47:39.88,ZH,,0,0,0,,{\rZH\blur1.6}接着，Shi跑了过来。
+Dialogue: 1,0:47:37.92,0:47:39.88,EN,,0,0,0,,{\rEN\blur1.6}And Shi came running.
+Dialogue: 2,0:47:42.00,0:47:44.08,ZH,,0,0,0,,{\rZH\blur1.6}她总是选Becky，不选我。
+Dialogue: 1,0:47:42.00,0:47:44.08,EN,,0,0,0,,{\rEN\blur1.6}She always chose Becky over me.
+Dialogue: 2,0:47:44.12,0:47:46.33,ZH,,0,0,0,,{\rZH\blur1.6}我敢肯定，事情其实不是那样。
+Dialogue: 1,0:47:44.12,0:47:46.33,EN,,0,0,0,,{\rEN\blur1.6}I'm sure that's not really the case.
+Dialogue: 2,0:47:46.38,0:47:48.75,ZH,,0,0,0,,{\rZH\blur1.6}Shiloh真的很爱你。
+Dialogue: 1,0:47:46.38,0:47:48.75,EN,,0,0,0,,{\rEN\blur1.6}Shiloh really loved you.
+Dialogue: 2,0:47:54.62,0:47:56.62,ZH,,0,0,0,,{\rZH\blur1.6}那是疤吗？
+Dialogue: 1,0:47:54.62,0:47:56.62,EN,,0,0,0,,{\rEN\blur1.6}Is that a scar?
+Dialogue: 2,0:47:56.67,0:47:58.08,ZH,,0,0,0,,{\rZH\blur1.6}太疯狂了，对吧？
+Dialogue: 1,0:47:56.67,0:47:58.08,EN,,0,0,0,,{\rEN\blur1.6}It's crazy, right?
+Dialogue: 2,0:47:58.12,0:47:59.58,ZH,,0,0,0,,{\rZH\blur1.6}卧槽。
+Dialogue: 1,0:47:58.12,0:47:59.58,EN,,0,0,0,,{\rEN\blur1.6}Holy shit.
+Dialogue: 2,0:48:01.21,0:48:03.17,ZH,,0,0,0,,{\rZH\blur1.6}没什么。
+Dialogue: 1,0:48:01.21,0:48:03.17,EN,,0,0,0,,{\rEN\blur1.6}It's nothing.
+Dialogue: 2,0:48:10.17,0:48:12.71,ZH,,0,0,0,,{\rZH\blur1.6}Luce？Jax？收到请回答！
+Dialogue: 1,0:48:10.17,0:48:12.71,EN,,0,0,0,,{\rEN\blur1.6}Luce? Jax? Come in!
+Dialogue: 2,0:48:12.75,0:48:14.12,ZH,,0,0,0,,{\rZH\blur1.6}-天啊！
+Dialogue: 1,0:48:12.75,0:48:14.12,EN,,0,0,0,,{\rEN\blur1.6}-Oh, my God!
+Dialogue: 2,0:48:14.17,0:48:15.92,ZH,,0,0,0,,{\rZH\blur1.6}-Jon！  -他还活着！
+Dialogue: 1,0:48:14.17,0:48:15.92,EN,,0,0,0,,{\rEN\blur1.6}-Jon!   -He's alive!
+Dialogue: 2,0:48:15.96,0:48:17.75,ZH,,0,0,0,,{\rZH\blur1.6}能听见我吗？有人吗？
+Dialogue: 1,0:48:15.96,0:48:17.75,EN,,0,0,0,,{\rEN\blur1.6}Can you read me? Anyone?
+Dialogue: 2,0:48:17.79,0:48:19.12,ZH,,0,0,0,,{\rZH\blur1.6}他还活着！
+Dialogue: 1,0:48:17.79,0:48:19.12,EN,,0,0,0,,{\rEN\blur1.6}He's alive!
+Dialogue: 2,0:48:19.17,0:48:20.96,ZH,,0,0,0,,{\rZH\blur1.6}能听见我说话就请回个话。
+Dialogue: 1,0:48:19.17,0:48:20.96,EN,,0,0,0,,{\rEN\blur1.6}/f you can hear me, please respond.
+Dialogue: 2,0:48:22.21,0:48:23.67,ZH,,0,0,0,,{\rZH\blur1.6}山上滚下的石头把我砸晕了。
+Dialogue: 1,0:48:22.21,0:48:23.67,EN,,0,0,0,,{\rEN\blur1.6}The rock slide knocked me unconscious.
+Dialogue: 2,0:48:23.71,0:48:25.46,ZH,,0,0,0,,{\rZH\blur1.6}把Myanmar路线彻底去掉了。
+Dialogue: 1,0:48:23.71,0:48:25.46,EN,,0,0,0,,{\rEN\blur1.6}Completely took out the Myanmar route.
+Dialogue: 2,0:48:25.50,0:48:28.17,ZH,,0,0,0,,{\rZH\blur1.6}我没法从那边下去。那儿跟战场似的。
+Dialogue: 1,0:48:25.50,0:48:28.17,EN,,0,0,0,,{\rEN\blur1.6}I can't get down that way. It's like a war zone.
+Dialogue: 2,0:48:28.21,0:48:31.08,ZH,,0,0,0,,{\rZH\blur1.6}喂，能听见我的话，请回一声。
+Dialogue: 1,0:48:28.21,0:48:31.08,EN,,0,0,0,,{\rEN\blur1.6}Look, if you can hear me, please respond.
+Dialogue: 2,0:48:31.12,0:48:34.08,ZH,,0,0,0,,{\rZH\blur1.6}哥们，对讲机就在那儿！
+Dialogue: 1,0:48:31.12,0:48:34.08,EN,,0,0,0,,{\rEN\blur1.6}The radio is right there, man!
+Dialogue: 2,0:48:34.12,0:48:36.75,ZH,,0,0,0,,{\rZH\blur1.6}伙计们，能听见我吗？
+Dialogue: 1,0:48:34.12,0:48:36.75,EN,,0,0,0,,{\rEN\blur1.6}Guys, can you read me?
+Dialogue: 2,0:48:36.79,0:48:38.75,ZH,,0,0,0,,{\rZH\blur1.6}靠。咱们怎么才能……？
+Dialogue: 1,0:48:36.79,0:48:38.75,EN,,0,0,0,,{\rEN\blur1.6}Shit. How can we...?
+Dialogue: 2,0:48:38.79,0:48:41.79,ZH,,0,0,0,,{\rZH\blur1.6}要不咱们掀起一截木板什么的？
+Dialogue: 1,0:48:38.79,0:48:41.79,EN,,0,0,0,,{\rEN\blur1.6}Maybe if we, like, take up some of the plank or something
+Dialogue: 2,0:48:41.83,0:48:43.04,ZH,,0,0,0,,{\rZH\blur1.6}再把它当棍子用？
+Dialogue: 1,0:48:41.83,0:48:43.04,EN,,0,0,0,,{\rEN\blur1.6}and use it as a stick?
+Dialogue: 2,0:48:43.08,0:48:46.08,ZH,,0,0,0,,{\rZH\blur1.6}绳子。我们可以用绳子套住它。
+Dialogue: 1,0:48:43.08,0:48:46.08,EN,,0,0,0,,{\rEN\blur1.6}A rope. We could lasso it.
+Dialogue: 2,0:48:46.12,0:48:47.29,ZH,,0,0,0,,{\rZH\blur1.6}够得着吗？
+Dialogue: 1,0:48:46.12,0:48:47.29,EN,,0,0,0,,{\rEN\blur1.6}Could it reach?
+Dialogue: 2,0:48:47.33,0:48:49.29,ZH,,0,0,0,,{\rZH\blur1.6}试了才知道。
+Dialogue: 1,0:48:47.33,0:48:49.29,EN,,0,0,0,,{\rEN\blur1.6}Only one way to find out.
+Dialogue: 2,0:48:49.33,0:48:51.46,ZH,,0,0,0,,{\rZH\blur1.6}姑娘们，你们在吗？求你们接电话。
+Dialogue: 1,0:48:49.33,0:48:51.46,EN,,0,0,0,,{\rEN\blur1.6}Girls, please, are you there? Pick up.
+Dialogue: 2,0:48:56.54,0:48:57.67,ZH,,0,0,0,,{\rZH\blur1.6}好。
+Dialogue: 1,0:48:56.54,0:48:57.67,EN,,0,0,0,,{\rEN\blur1.6}Okay.
+Dialogue: 2,0:48:59.79,0:49:01.50,ZH,,0,0,0,,{\rZH\blur1.6}抓住这个。
+Dialogue: 1,0:48:59.79,0:49:01.50,EN,,0,0,0,,{\rEN\blur1.6}Grab this.
+Dialogue: 2,0:49:04.54,0:49:05.75,ZH,,0,0,0,,{\rZH\blur1.6}来吧。
+Dialogue: 1,0:49:04.54,0:49:05.75,EN,,0,0,0,,{\rEN\blur1.6}Come on.
+Dialogue: 2,0:49:05.79,0:49:08.17,ZH,,0,0,0,,{\rZH\blur1.6}哥们，我看这不够长。
+Dialogue: 1,0:49:05.79,0:49:08.17,EN,,0,0,0,,{\rEN\blur1.6}Dude, I don't think it's gonna be long enough.
+Dialogue: 2,0:49:14.50,0:49:17.21,ZH,,0,0,0,,{\rZH\blur1.6}呃……有了，有了，有了！ 等等，等等，等等。
+Dialogue: 1,0:49:14.50,0:49:17.21,EN,,0,0,0,,{\rEN\blur1.6}Uh... idea, idea, idea! Hold, hold, hold.
+Dialogue: 2,0:49:18.38,0:49:20.88,ZH,,0,0,0,,{\rZH\blur1.6}说不定刚够咱们施展。
+Dialogue: 1,0:49:18.38,0:49:20.88,EN,,0,0,0,,{\rEN\blur1.6}Might just give us enough to play with.
+Dialogue: 2,0:49:25.96,0:49:28.67,ZH,,0,0,0,,{\rZH\blur1.6}好。嗯。
+Dialogue: 1,0:49:25.96,0:49:28.67,EN,,0,0,0,,{\rEN\blur1.6}Alright. Yep.
+Dialogue: 2,0:49:28.71,0:49:30.92,ZH,,0,0,0,,{\rZH\blur1.6}好，就在这条岩棱上。
+Dialogue: 1,0:49:28.71,0:49:30.92,EN,,0,0,0,,{\rEN\blur1.6}Okay, on this edge.
+Dialogue: 2,0:49:30.96,0:49:34.38,ZH,,0,0,0,,{\rZH\blur1.6}这样地方应该够我们用了。
+Dialogue: 1,0:49:30.96,0:49:34.38,EN,,0,0,0,,{\rEN\blur1.6}This should give us enough room.
+Dialogue: 2,0:49:34.42,0:49:36.67,ZH,,0,0,0,,{\rZH\blur1.6}-这应该行。  -太好了。
+Dialogue: 1,0:49:34.42,0:49:36.67,EN,,0,0,0,,{\rEN\blur1.6}-This should work.   -Great.
+Dialogue: 2,0:49:37.21,0:49:39.08,ZH,,0,0,0,,{\rZH\blur1.6}那个……
+Dialogue: 1,0:49:37.21,0:49:39.08,EN,,0,0,0,,{\rEN\blur1.6}That one...
+Dialogue: 2,0:49:39.12,0:49:40.58,ZH,,0,0,0,,{\rZH\blur1.6}好。
+Dialogue: 1,0:49:39.12,0:49:40.58,EN,,0,0,0,,{\rEN\blur1.6}Alright.
+Dialogue: 2,0:49:41.71,0:49:44.50,ZH,,0,0,0,,{\rZH\blur1.6}好。小心点。
+Dialogue: 1,0:49:41.71,0:49:44.50,EN,,0,0,0,,{\rEN\blur1.6}Okay. Be careful.
+Dialogue: 2,0:49:49.42,0:49:51.25,ZH,,0,0,0,,{\rZH\blur1.6}没事，再试一次。
+Dialogue: 1,0:49:49.42,0:49:51.25,EN,,0,0,0,,{\rEN\blur1.6}It's okay. Try again.
+Dialogue: 2,0:49:52.08,0:49:53.83,ZH,,0,0,0,,{\rZH\blur1.6}我再靠近一点。
+Dialogue: 1,0:49:52.08,0:49:53.83,EN,,0,0,0,,{\rEN\blur1.6}Let me get a little bit closer.
+Dialogue: 2,0:50:01.46,0:50:03.58,ZH,,0,0,0,,{\rZH\blur1.6}再近一点就行。
+Dialogue: 1,0:50:01.46,0:50:03.58,EN,,0,0,0,,{\rEN\blur1.6}Just need to be a little closer.
+Dialogue: 2,0:50:04.58,0:50:06.42,ZH,,0,0,0,,{\rZH\blur1.6}-Luce……  -好近啊。
+Dialogue: 1,0:50:04.58,0:50:06.42,EN,,0,0,0,,{\rEN\blur1.6}-Luce...   -It's so close.
+Dialogue: 2,0:50:06.46,0:50:08.62,ZH,,0,0,0,,{\rZH\blur1.6}-来，抓紧我。  -什么？
+Dialogue: 1,0:50:06.46,0:50:08.62,EN,,0,0,0,,{\rEN\blur1.6}-Here, hold on to me.   -What?
+Dialogue: 2,0:50:08.67,0:50:10.29,ZH,,0,0,0,,{\rZH\blur1.6}抓紧我的腰带。
+Dialogue: 1,0:50:08.67,0:50:10.29,EN,,0,0,0,,{\rEN\blur1.6}Hold on to my belt.
+Dialogue: 2,0:50:10.29,0:50:13.04,ZH,,0,0,0,,{\rZH\blur1.6}哎哎哎哎！哎，等等。
+Dialogue: 1,0:50:10.29,0:50:13.04,EN,,0,0,0,,{\rEN\blur1.6}Whoa, whoa, whoa, whoa! Whoa, wait.
+Dialogue: 2,0:50:13.08,0:50:14.92,ZH,,0,0,0,,{\rZH\blur1.6}-拉住我了吗？  -嗯。
+Dialogue: 1,0:50:13.08,0:50:14.92,EN,,0,0,0,,{\rEN\blur1.6}-You got me?   -Yeah.
+Dialogue: 2,0:50:14.96,0:50:16.71,ZH,,0,0,0,,{\rZH\blur1.6}我试着迈一步。
+Dialogue: 1,0:50:14.96,0:50:16.71,EN,,0,0,0,,{\rEN\blur1.6}I'm gonna try and step.
+Dialogue: 2,0:50:16.75,0:50:18.04,ZH,,0,0,0,,{\rZH\blur1.6}真的吗？
+Dialogue: 1,0:50:16.75,0:50:18.04,EN,,0,0,0,,{\rEN\blur1.6}Really?
+Dialogue: 2,0:50:18.67,0:50:21.54,ZH,,0,0,0,,{\rZH\blur1.6}哎！Luce！别！别 别别！这主意太糟了。
+Dialogue: 1,0:50:18.67,0:50:21.54,EN,,0,0,0,,{\rEN\blur1.6}Whoa! Luce! No! No, no, no! Bad idea.
+Dialogue: 2,0:50:25.92,0:50:27.54,ZH,,0,0,0,,{\rZH\blur1.6}-我靠一下，行吗？  -啊？不行。
+Dialogue: 1,0:50:25.92,0:50:27.54,EN,,0,0,0,,{\rEN\blur1.6}-I'm gonna lean, okay?   -Huh? No.
+Dialogue: 2,0:50:27.58,0:50:29.38,ZH,,0,0,0,,{\rZH\blur1.6}我要往后靠了。抓紧我。
+Dialogue: 1,0:50:27.58,0:50:29.38,EN,,0,0,0,,{\rEN\blur1.6}I'm gonna lean. Hold on to me.
+Dialogue: 2,0:50:29.42,0:50:31.25,ZH,,0,0,0,,{\rZH\blur1.6}就几英寸，行吧？
+Dialogue: 1,0:50:29.42,0:50:31.25,EN,,0,0,0,,{\rEN\blur1.6}It's just a few inches. Alright?
+Dialogue: 2,0:50:31.29,0:50:33.62,ZH,,0,0,0,,{\rZH\blur1.6}抓紧我。我能行。
+Dialogue: 1,0:50:31.29,0:50:33.62,EN,,0,0,0,,{\rEN\blur1.6}Hold on to me. I can do this.
+Dialogue: 2,0:50:35.54,0:50:37.58,ZH,,0,0,0,,{\rZH\blur1.6}天哪。
+Dialogue: 1,0:50:35.54,0:50:37.58,EN,,0,0,0,,{\rEN\blur1.6}Oh, gosh.
+Dialogue: 2,0:50:38.08,0:50:41.75,ZH,,0,0,0,,{\rZH\blur1.6}哦……不、不、不，我不喜欢。
+Dialogue: 1,0:50:38.08,0:50:41.75,EN,,0,0,0,,{\rEN\blur1.6}Oooh... no, no, no. I don't like it.
+Dialogue: 2,0:50:41.79,0:50:45.33,ZH,,0,0,0,,{\rZH\blur1.6}-别松手，好吗？  -不会，不会。你快点。
+Dialogue: 1,0:50:41.79,0:50:45.33,EN,,0,0,0,,{\rEN\blur1.6}-Don't let go of me, okay?   -I won't, I won't. Just hurry.
+Dialogue: 2,0:50:45.75,0:50:47.62,ZH,,0,0,0,,{\rZH\blur1.6}- 好 -啊！
+Dialogue: 1,0:50:45.75,0:50:47.62,EN,,0,0,0,,{\rEN\blur1.6}- Okay -Ahh!
+Dialogue: 2,0:51:01.46,0:51:02.83,ZH,,0,0,0,,{\rZH\blur1.6}好。
+Dialogue: 1,0:51:01.46,0:51:02.83,EN,,0,0,0,,{\rEN\blur1.6}Okay.
+Dialogue: 2,0:51:05.08,0:51:07.38,ZH,,0,0,0,,{\rZH\blur1.6}Luce，求你快点。
+Dialogue: 1,0:51:05.08,0:51:07.38,EN,,0,0,0,,{\rEN\blur1.6}Please, be quick, Luce.
+Dialogue: 2,0:51:07.42,0:51:10.38,ZH,,0,0,0,,{\rZH\blur1.6}我……怕是拉不住你多久了。
+Dialogue: 1,0:51:07.42,0:51:10.38,EN,,0,0,0,,{\rEN\blur1.6}I... don't think I can hold you much longer.
+Dialogue: 2,0:51:11.04,0:51:12.38,ZH,,0,0,0,,{\rZH\blur1.6}啊——！
+Dialogue: 1,0:51:11.04,0:51:12.38,EN,,0,0,0,,{\rEN\blur1.6}Ahhh!
+Dialogue: 2,0:51:14.04,0:51:16.21,ZH,,0,0,0,,{\rZH\blur1.6}好，我知道了！好！
+Dialogue: 1,0:51:14.04,0:51:16.21,EN,,0,0,0,,{\rEN\blur1.6}Alright, I got it! Okay!
+Dialogue: 2,0:51:16.25,0:51:17.71,ZH,,0,0,0,,{\rZH\blur1.6}好，收绳。
+Dialogue: 1,0:51:16.25,0:51:17.71,EN,,0,0,0,,{\rEN\blur1.6}Okay, pull it in.
+Dialogue: 2,0:51:18.54,0:51:20.29,ZH,,0,0,0,,{\rZH\blur1.6}这得用点巧劲。
+Dialogue: 1,0:51:18.54,0:51:20.29,EN,,0,0,0,,{\rEN\blur1.6}It's gonna take a little bit of finessing.
+Dialogue: 2,0:51:20.33,0:51:22.25,ZH,,0,0,0,,{\rZH\blur1.6}拜托了，Luce。求你了。
+Dialogue: 1,0:51:20.33,0:51:22.25,EN,,0,0,0,,{\rEN\blur1.6}Come on, Luce. Please.
+Dialogue: 2,0:51:23.08,0:51:24.50,ZH,,0,0,0,,{\rZH\blur1.6}请快点。
+Dialogue: 1,0:51:23.08,0:51:24.50,EN,,0,0,0,,{\rEN\blur1.6}Please be quick.
+Dialogue: 2,0:51:25.33,0:51:27.08,ZH,,0,0,0,,{\rZH\blur1.6}啊！拜托快点！
+Dialogue: 1,0:51:25.33,0:51:27.08,EN,,0,0,0,,{\rEN\blur1.6}Oh! Please be quick!
+Dialogue: 2,0:51:27.08,0:51:28.58,ZH,,0,0,0,,{\rZH\blur1.6}啊啊啊！
+Dialogue: 1,0:51:27.08,0:51:28.58,EN,,0,0,0,,{\rEN\blur1.6}Ahhh!
+Dialogue: 2,0:51:28.62,0:51:30.29,ZH,,0,0,0,,{\rZH\blur1.6}啊啊啊！啊，哈，哈！
+Dialogue: 1,0:51:28.62,0:51:30.29,EN,,0,0,0,,{\rEN\blur1.6}Ahhhh! Ah, ha, ha!
+Dialogue: 2,0:51:30.33,0:51:33.42,ZH,,0,0,0,,{\rZH\blur1.6}来啊，你个狗娘养的！
+Dialogue: 1,0:51:30.33,0:51:33.42,EN,,0,0,0,,{\rEN\blur1.6}Come on, you son of a bitch!
+Dialogue: 2,0:51:34.04,0:51:36.00,ZH,,0,0,0,,{\rZH\blur1.6}我靠！好，我搞定了！
+Dialogue: 1,0:51:34.04,0:51:36.00,EN,,0,0,0,,{\rEN\blur1.6}Holy shit! Alright, I got it!
+Dialogue: 2,0:51:36.04,0:51:37.50,ZH,,0,0,0,,{\rZH\blur1.6}-挂上了！  -好！
+Dialogue: 1,0:51:36.04,0:51:37.50,EN,,0,0,0,,{\rEN\blur1.6}-It's hooked on!   -Yes!
+Dialogue: 2,0:51:37.54,0:51:39.42,ZH,,0,0,0,,{\rZH\blur1.6}-收绳，收绳。  -好。
+Dialogue: 1,0:51:37.54,0:51:39.42,EN,,0,0,0,,{\rEN\blur1.6}-Bring it in, bring it in.   -Okay.
+Dialogue: 2,0:51:39.92,0:51:41.71,ZH,,0,0,0,,{\rZH\blur1.6}快点吧。
+Dialogue: 1,0:51:39.92,0:51:41.71,EN,,0,0,0,,{\rEN\blur1.6}Please hurry.
+Dialogue: 2,0:51:43.75,0:51:45.71,ZH,,0,0,0,,{\rZH\blur1.6}一点都不动！
+Dialogue: 1,0:51:43.75,0:51:45.71,EN,,0,0,0,,{\rEN\blur1.6}It's not budging!
+Dialogue: 2,0:51:47.00,0:51:48.08,ZH,,0,0,0,,{\rZH\blur1.6}拜托！求你了！
+Dialogue: 1,0:51:47.00,0:51:48.08,EN,,0,0,0,,{\rEN\blur1.6}Come on! Please!
+Dialogue: 2,0:51:48.12,0:51:50.21,ZH,,0,0,0,,{\rZH\blur1.6}来啊，你个狗娘养的。
+Dialogue: 1,0:51:48.12,0:51:50.21,EN,,0,0,0,,{\rEN\blur1.6}Come on, you son of a bitch.
+Dialogue: 2,0:51:50.21,0:51:51.25,ZH,,0,0,0,,{\rZH\blur1.6}哎哟！
+Dialogue: 1,0:51:50.21,0:51:51.25,EN,,0,0,0,,{\rEN\blur1.6}Ow!
+Dialogue: 2,0:51:57.12,0:51:58.67,ZH,,0,0,0,,{\rZH\blur1.6}哎哟！求你了，求你了，求你了！
+Dialogue: 1,0:51:57.12,0:51:58.67,EN,,0,0,0,,{\rEN\blur1.6}Ow! Please, please, please!
+Dialogue: 2,0:52:05.17,0:52:07.00,ZH,,0,0,0,,{\rZH\blur1.6}操！
+Dialogue: 1,0:52:05.17,0:52:07.00,EN,,0,0,0,,{\rEN\blur1.6}Shit!
+Dialogue: 2,0:52:07.04,0:52:08.67,ZH,,0,0,0,,{\rZH\blur1.6}我们就差一点了！
+Dialogue: 1,0:52:07.04,0:52:08.67,EN,,0,0,0,,{\rEN\blur1.6}We were so close!
+Dialogue: 2,0:52:08.71,0:52:10.04,ZH,,0,0,0,,{\rZH\blur1.6}啊啊！
+Dialogue: 1,0:52:08.71,0:52:10.04,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,0:52:10.54,0:52:13.75,ZH,,0,0,0,,{\rZH\blur1.6}没事，咱们可以试试别的。
+Dialogue: 1,0:52:10.54,0:52:13.75,EN,,0,0,0,,{\rEN\blur1.6}It's okay. We can try something else.
+Dialogue: 2,0:52:13.79,0:52:14.96,ZH,,0,0,0,,{\rZH\blur1.6}用什么？！
+Dialogue: 1,0:52:13.79,0:52:14.96,EN,,0,0,0,,{\rEN\blur1.6}With what?!
+Dialogue: 2,0:52:14.96,0:52:17.17,ZH,,0,0,0,,{\rZH\blur1.6}我们的绳子用完了！
+Dialogue: 1,0:52:14.96,0:52:17.17,EN,,0,0,0,,{\rEN\blur1.6}We don't have any more rope left!
+Dialogue: 2,0:52:20.58,0:52:21.71,ZH,,0,0,0,,{\rZH\blur1.6}对不起。
+Dialogue: 1,0:52:20.58,0:52:21.71,EN,,0,0,0,,{\rEN\blur1.6}Sorry.
+Dialogue: 2,0:52:26.88,0:52:29.33,ZH,,0,0,0,,{\rZH\blur1.6}-还是用A方案。  -好。
+Dialogue: 1,0:52:26.88,0:52:29.33,EN,,0,0,0,,{\rEN\blur1.6}-Back to plan A.   -Okay.
+Dialogue: 2,0:52:37.71,0:52:38.83,ZH,,0,0,0,,{\rZH\blur1.6}那他妈是什么？
+Dialogue: 1,0:52:37.71,0:52:38.83,EN,,0,0,0,,{\rEN\blur1.6}What the hell is that?
+Dialogue: 2,0:52:39.88,0:52:42.00,ZH,,0,0,0,,{\rZH\blur1.6}快啊，拜托，拜托， 拜托，谁能看见我啊！
+Dialogue: 1,0:52:39.88,0:52:42.00,EN,,0,0,0,,{\rEN\blur1.6}Come on, please, please, please, somebody see.
+Dialogue: 2,0:52:42.04,0:52:44.21,ZH,,0,0,0,,{\rZH\blur1.6}就保持在那儿。对，很好。
+Dialogue: 1,0:52:42.04,0:52:44.21,EN,,0,0,0,,{\rEN\blur1.6}Keep it there. Yes, good.
+Dialogue: 2,0:52:52.92,0:52:54.83,ZH,,0,0,0,,{\rZH\blur1.6}来个人把那该死的卷帘拉下来。
+Dialogue: 1,0:52:52.92,0:52:54.83,EN,,0,0,0,,{\rEN\blur1.6}Someone roll down that goddamn blind.
+Dialogue: 2,0:52:54.83,0:52:56.33,ZH,,0,0,0,,{\rZH\blur1.6}我想抓住这次机会。
+Dialogue: 1,0:52:54.83,0:52:56.33,EN,,0,0,0,,{\rEN\blur1.6}I'm trying to take my shot.
+Dialogue: 2,0:52:56.33,0:52:57.42,ZH,,0,0,0,,{\rZH\blur1.6}马上关上！
+Dialogue: 1,0:52:56.33,0:52:57.42,EN,,0,0,0,,{\rEN\blur1.6}Close it now!
+Dialogue: 2,0:53:07.88,0:53:09.04,ZH,,0,0,0,,{\rZH\blur1.6}天哪！有人来了！
+Dialogue: 1,0:53:07.88,0:53:09.04,EN,,0,0,0,,{\rEN\blur1.6}Oh, my God! Someone's coming!
+Dialogue: 2,0:53:09.08,0:53:10.54,ZH,,0,0,0,,{\rZH\blur1.6}好，开灯，开灯。
+Dialogue: 1,0:53:09.08,0:53:10.54,EN,,0,0,0,,{\rEN\blur1.6}Okay, turn on the light, turn on the light.
+Dialogue: 2,0:53:10.58,0:53:12.71,ZH,,0,0,0,,{\rZH\blur1.6}好。加油，加油，加油。
+Dialogue: 1,0:53:10.58,0:53:12.71,EN,,0,0,0,,{\rEN\blur1.6}Okay. Come on, come on, come on.
+Dialogue: 2,0:53:15.08,0:53:17.00,ZH,,0,0,0,,{\rZH\blur1.6}我靠！是咱们要找的那个酒保。
+Dialogue: 1,0:53:15.08,0:53:17.00,EN,,0,0,0,,{\rEN\blur1.6}Holy shit! It's our guy, the bartender.
+Dialogue: 2,0:53:17.04,0:53:18.46,ZH,,0,0,0,,{\rZH\blur1.6}-嗯，嗯。  -好，好。
+Dialogue: 1,0:53:17.04,0:53:18.46,EN,,0,0,0,,{\rEN\blur1.6}-Yeah, yeah.   -Okay, okay.
+Dialogue: 2,0:53:22.33,0:53:24.17,ZH,,0,0,0,,{\rZH\blur1.6}他在看吗？我看不出来。
+Dialogue: 1,0:53:22.33,0:53:24.17,EN,,0,0,0,,{\rEN\blur1.6}Is he looking? I can't tell.
+Dialogue: 2,0:53:24.21,0:53:26.58,ZH,,0,0,0,,{\rZH\blur1.6}快点，快点，快点！拜托了！
+Dialogue: 1,0:53:24.21,0:53:26.58,EN,,0,0,0,,{\rEN\blur1.6}Come on, come on, come on! Please!
+Dialogue: 2,0:53:27.46,0:53:30.38,ZH,,0,0,0,,{\rZH\blur1.6}来个人把百叶窗拉上！我马上拍了。
+Dialogue: 1,0:53:27.46,0:53:30.38,EN,,0,0,0,,{\rEN\blur1.6}Someone close the blinds! I'm about to take the shot.
+Dialogue: 2,0:53:31.92,0:53:33.71,ZH,,0,0,0,,{\rZH\blur1.6}等等，什么？他把窗帘拉上了。
+Dialogue: 1,0:53:31.92,0:53:33.71,EN,,0,0,0,,{\rEN\blur1.6}Wait, what? He shut the blind.
+Dialogue: 2,0:53:33.75,0:53:35.38,ZH,,0,0,0,,{\rZH\blur1.6}不，不，不，不！
+Dialogue: 1,0:53:33.75,0:53:35.38,EN,,0,0,0,,{\rEN\blur1.6}No, no, no, no!
+Dialogue: 2,0:53:35.83,0:53:37.46,ZH,,0,0,0,,{\rZH\blur1.6}不！
+Dialogue: 1,0:53:35.83,0:53:37.46,EN,,0,0,0,,{\rEN\blur1.6}No!
+Dialogue: 2,0:53:40.08,0:53:41.71,ZH,,0,0,0,,{\rZH\blur1.6}该死！
+Dialogue: 1,0:53:40.08,0:53:41.71,EN,,0,0,0,,{\rEN\blur1.6}Damn it!
+Dialogue: 2,0:53:42.33,0:53:45.92,ZH,,0,0,0,,{\rZH\blur1.6}就像Jon说的， 他们他妈的根本不在乎！
+Dialogue: 1,0:53:42.33,0:53:45.92,EN,,0,0,0,,{\rEN\blur1.6}It's like Jon said. They don't give two shits!
+Dialogue: 2,0:53:46.75,0:53:48.08,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,0:53:46.75,0:53:48.08,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,0:53:48.67,0:53:50.83,ZH,,0,0,0,,{\rZH\blur1.6}肯定还有别的。
+Dialogue: 1,0:53:48.67,0:53:50.83,EN,,0,0,0,,{\rEN\blur1.6}There's gotta be something else.
+Dialogue: 2,0:53:50.88,0:53:52.17,ZH,,0,0,0,,{\rZH\blur1.6}就得想想这事。
+Dialogue: 1,0:53:50.88,0:53:52.17,EN,,0,0,0,,{\rEN\blur1.6}Just gotta think about it.
+Dialogue: 2,0:53:52.17,0:53:54.21,ZH,,0,0,0,,{\rZH\blur1.6}肯定还有别的。
+Dialogue: 1,0:53:52.17,0:53:54.21,EN,,0,0,0,,{\rEN\blur1.6}There's gotta be something else.
+Dialogue: 2,0:53:54.21,0:53:56.71,ZH,,0,0,0,,{\rZH\blur1.6}就是……一定有。
+Dialogue: 1,0:53:54.21,0:53:56.71,EN,,0,0,0,,{\rEN\blur1.6}There's just... got to be.
+Dialogue: 2,0:54:06.62,0:54:08.25,ZH,,0,0,0,,{\rZH\blur1.6}[两人合唱《甜蜜的卡罗琳》
+Dialogue: 1,0:54:06.62,0:54:08.25,EN,,0,0,0,,{\rEN\blur1.6}[both singing "Sweet Caroline'
+Dialogue: 2,0:54:08.29,0:54:10.46,ZH,,0,0,0,,{\rZH\blur1.6}¢ 伤痛从我肩头滑落 f
+Dialogue: 1,0:54:08.29,0:54:10.46,EN,,0,0,0,,{\rEN\blur1.6}¢ Hurtin' runs off my shoulders f
+Dialogue: 2,0:54:10.50,0:54:15.58,ZH,,0,0,0,,{\rZH\blur1.6}~ 抱着你，我怎么会心痛？我
+Dialogue: 1,0:54:10.50,0:54:15.58,EN,,0,0,0,,{\rEN\blur1.6}~ How can I hurt when holding you? I
+Dialogue: 2,0:54:23.58,0:54:26.50,ZH,,0,0,0,,{\rZH\blur1.6}-f 摸着你 f -Luce！快点，Luce！
+Dialogue: 1,0:54:23.58,0:54:26.50,EN,,0,0,0,,{\rEN\blur1.6}-f Touchin' you f -Luce! Come on, Luce!
+Dialogue: 2,0:54:28.12,0:54:30.67,ZH,,0,0,0,,{\rZH\blur1.6}~ 甜甜的Caroline f
+Dialogue: 1,0:54:28.12,0:54:30.67,EN,,0,0,0,,{\rEN\blur1.6}~ Sweet Caroline f
+Dialogue: 2,0:54:30.67,0:54:33.58,ZH,,0,0,0,,{\rZH\blur1.6}-S 不、不……f - Luce，拜托！
+Dialogue: 1,0:54:30.67,0:54:33.58,EN,,0,0,0,,{\rEN\blur1.6}-S Buh, buh... f - Luce, come on!
+Dialogue: 2,0:54:33.62,0:54:36.12,ZH,,0,0,0,,{\rZH\blur1.6}好日子从没这么美过 f
+Dialogue: 1,0:54:33.62,0:54:36.12,EN,,0,0,0,,{\rEN\blur1.6}Good times never seemed so good f
+Dialogue: 2,0:54:36.17,0:54:39.08,ZH,,0,0,0,,{\rZH\blur1.6}£ 太棒了，太棒了，太棒了 f
+Dialogue: 1,0:54:36.17,0:54:39.08,EN,,0,0,0,,{\rEN\blur1.6}£ So good, so good, so good f
+Dialogue: 2,0:54:39.38,0:54:42.00,ZH,,0,0,0,,{\rZH\blur1.6}J 我一直想这么做 J
+Dialogue: 1,0:54:39.38,0:54:42.00,EN,,0,0,0,,{\rEN\blur1.6}J I've been inclined J
+Dialogue: 2,0:54:42.04,0:54:43.71,ZH,,0,0,0,,{\rZH\blur1.6}~ 呃，呃，呃 f
+Dialogue: 1,0:54:42.04,0:54:43.71,EN,,0,0,0,,{\rEN\blur1.6}~ Buh, buh, buh f
+Dialogue: 2,0:54:43.71,0:54:46.96,ZH,,0,0,0,,{\rZH\blur1.6}~ 相信它永远不会…… f
+Dialogue: 1,0:54:43.71,0:54:46.96,EN,,0,0,0,,{\rEN\blur1.6}~ To believe it never would... f
+Dialogue: 2,0:54:50.21,0:54:51.71,ZH,,0,0,0,,{\rZH\blur1.6}Shi，看着我！
+Dialogue: 1,0:54:50.21,0:54:51.71,EN,,0,0,0,,{\rEN\blur1.6}Shi, look at me!
+Dialogue: 2,0:54:51.71,0:54:53.50,ZH,,0,0,0,,{\rZH\blur1.6}Luce，加油！
+Dialogue: 1,0:54:51.71,0:54:53.50,EN,,0,0,0,,{\rEN\blur1.6}Luce, come on!
+Dialogue: 2,0:55:24.50,0:55:27.00,ZH,,0,0,0,,{\rZH\blur1.6}哎，哥们，你咋没叫醒我？
+Dialogue: 1,0:55:24.50,0:55:27.00,EN,,0,0,0,,{\rEN\blur1.6}Oh, dude, why didn't you wake me?
+Dialogue: 2,0:55:27.04,0:55:29.38,ZH,,0,0,0,,{\rZH\blur1.6}我以为各两个小时。
+Dialogue: 1,0:55:27.04,0:55:29.38,EN,,0,0,0,,{\rEN\blur1.6}I thought two hours each.
+Dialogue: 2,0:55:34.08,0:55:35.33,ZH,,0,0,0,,{\rZH\blur1.6}嘿。
+Dialogue: 1,0:55:34.08,0:55:35.33,EN,,0,0,0,,{\rEN\blur1.6}Hey.
+Dialogue: 2,0:55:36.58,0:55:37.88,ZH,,0,0,0,,{\rZH\blur1.6}怎么了？
+Dialogue: 1,0:55:36.58,0:55:37.88,EN,,0,0,0,,{\rEN\blur1.6}What's up?
+Dialogue: 2,0:55:40.38,0:55:42.42,ZH,,0,0,0,,{\rZH\blur1.6}我不知道该说什么。
+Dialogue: 1,0:55:40.38,0:55:42.42,EN,,0,0,0,,{\rEN\blur1.6}I don't know what to say.
+Dialogue: 2,0:55:42.46,0:55:44.21,ZH,,0,0,0,,{\rZH\blur1.6}你还好吗？
+Dialogue: 1,0:55:42.46,0:55:44.21,EN,,0,0,0,,{\rEN\blur1.6}You okay?
+Dialogue: 2,0:55:44.67,0:55:46.58,ZH,,0,0,0,,{\rZH\blur1.6}你要来点02吗？
+Dialogue: 1,0:55:44.67,0:55:46.58,EN,,0,0,0,,{\rEN\blur1.6}You need some 02?
+Dialogue: 2,0:55:55.00,0:55:56.12,ZH,,0,0,0,,{\rZH\blur1.6}什么？
+Dialogue: 1,0:55:55.00,0:55:56.12,EN,,0,0,0,,{\rEN\blur1.6}What?
+Dialogue: 2,0:55:56.17,0:55:58.46,ZH,,0,0,0,,{\rZH\blur1.6}你是谁？
+Dialogue: 1,0:55:56.17,0:55:58.46,EN,,0,0,0,,{\rEN\blur1.6}Who are you?
+Dialogue: 2,0:56:04.42,0:56:05.67,ZH,,0,0,0,,{\rZH\blur1.6}那这个呢？
+Dialogue: 1,0:56:04.42,0:56:05.67,EN,,0,0,0,,{\rEN\blur1.6}And this?
+Dialogue: 2,0:56:06.71,0:56:08.92,ZH,,0,0,0,,{\rZH\blur1.6}这是Luce。
+Dialogue: 1,0:56:06.71,0:56:08.92,EN,,0,0,0,,{\rEN\blur1.6}This is Luce.
+Dialogue: 2,0:56:12.71,0:56:15.17,ZH,,0,0,0,,{\rZH\blur1.6}你他妈是谁？
+Dialogue: 1,0:56:12.71,0:56:15.17,EN,,0,0,0,,{\rEN\blur1.6}Who the hell are you?
+Dialogue: 2,0:56:17.83,0:56:18.92,ZH,,0,0,0,,{\rZH\blur1.6}哦……
+Dialogue: 1,0:56:17.83,0:56:18.92,EN,,0,0,0,,{\rEN\blur1.6}Oh...
+Dialogue: 2,0:56:20.75,0:56:22.17,ZH,,0,0,0,,{\rZH\blur1.6}该死。
+Dialogue: 1,0:56:20.75,0:56:22.17,EN,,0,0,0,,{\rEN\blur1.6}Damn.
+Dialogue: 2,0:56:23.21,0:56:25.33,ZH,,0,0,0,,{\rZH\blur1.6}对不起，Jax。
+Dialogue: 1,0:56:23.21,0:56:25.33,EN,,0,0,0,,{\rEN\blur1.6}I'm sorry, Jax.
+Dialogue: 2,0:56:26.29,0:56:28.21,ZH,,0,0,0,,{\rZH\blur1.6}我没想让事情闹到这一步。
+Dialogue: 1,0:56:26.29,0:56:28.21,EN,,0,0,0,,{\rEN\blur1.6}I didn't mean for it to go this far.
+Dialogue: 2,0:56:28.25,0:56:29.38,ZH,,0,0,0,,{\rZH\blur1.6}你骗了我。
+Dialogue: 1,0:56:28.25,0:56:29.38,EN,,0,0,0,,{\rEN\blur1.6}You lied to me.
+Dialogue: 2,0:56:29.42,0:56:31.29,ZH,,0,0,0,,{\rZH\blur1.6}拜托，先听我说完，好吗？
+Dialogue: 1,0:56:29.42,0:56:31.29,EN,,0,0,0,,{\rEN\blur1.6}Please, just hear me out. Okay?
+Dialogue: 2,0:56:31.33,0:56:33.71,ZH,,0,0,0,,{\rZH\blur1.6}-我都能解释。  -好。
+Dialogue: 1,0:56:31.33,0:56:33.71,EN,,0,0,0,,{\rEN\blur1.6}-I can explain everything.   -Okay.
+Dialogue: 2,0:56:33.75,0:56:35.71,ZH,,0,0,0,,{\rZH\blur1.6}Jax，对不起。
+Dialogue: 1,0:56:33.75,0:56:35.71,EN,,0,0,0,,{\rEN\blur1.6}Jax, I'm sorry.
+Dialogue: 2,0:56:35.75,0:56:38.71,ZH,,0,0,0,,{\rZH\blur1.6}我……我看你在卖她的Bronco
+Dialogue: 1,0:56:35.75,0:56:38.71,EN,,0,0,0,,{\rEN\blur1.6}I... I Saw you were selling her Bronco
+Dialogue: 2,0:56:38.75,0:56:40.83,ZH,,0,0,0,,{\rZH\blur1.6}我就想
+Dialogue: 1,0:56:38.75,0:56:40.83,EN,,0,0,0,,{\rEN\blur1.6}and I just thought that
+Dialogue: 2,0:56:40.88,0:56:44.04,ZH,,0,0,0,,{\rZH\blur1.6}这样，我也算能离她近一点。
+Dialogue: 1,0:56:40.88,0:56:44.04,EN,,0,0,0,,{\rEN\blur1.6}it was a way that I could be close to her, somehow.
+Dialogue: 2,0:56:44.04,0:56:45.42,ZH,,0,0,0,,{\rZH\blur1.6}我本来就打算买下来
+Dialogue: 1,0:56:44.04,0:56:45.42,EN,,0,0,0,,{\rEN\blur1.6}I was just gonna buy it
+Dialogue: 2,0:56:45.46,0:56:47.67,ZH,,0,0,0,,{\rZH\blur1.6}然后一直开，开到车轮都掉了。
+Dialogue: 1,0:56:45.46,0:56:47.67,EN,,0,0,0,,{\rEN\blur1.6}and then drive it till the wheels fell off.
+Dialogue: 2,0:56:47.67,0:56:49.17,ZH,,0,0,0,,{\rZH\blur1.6}可我给你发消息了
+Dialogue: 1,0:56:47.67,0:56:49.17,EN,,0,0,0,,{\rEN\blur1.6}But I messaged you
+Dialogue: 2,0:56:49.21,0:56:51.17,ZH,,0,0,0,,{\rZH\blur1.6}你还说过不会把它卖给粉丝。
+Dialogue: 1,0:56:49.21,0:56:51.17,EN,,0,0,0,,{\rEN\blur1.6}and you said you weren't gonna sell it to a fan.
+Dialogue: 2,0:56:51.21,0:56:53.54,ZH,,0,0,0,,{\rZH\blur1.6}我是在Hunter的社交账号上看到的
+Dialogue: 1,0:56:51.21,0:56:53.54,EN,,0,0,0,,{\rEN\blur1.6}So I saw on Hunter's social media
+Dialogue: 2,0:56:53.54,0:56:56.12,ZH,,0,0,0,,{\rZH\blur1.6}她有个大学时认识的朋友。
+Dialogue: 1,0:56:53.54,0:56:56.12,EN,,0,0,0,,{\rEN\blur1.6}that she had a college friend.
+Dialogue: 2,0:56:56.17,0:56:57.58,ZH,,0,0,0,,{\rZH\blur1.6}Luce.
+Dialogue: 1,0:56:56.17,0:56:57.58,EN,,0,0,0,,{\rEN\blur1.6}Luce.
+Dialogue: 2,0:56:57.62,0:56:59.83,ZH,,0,0,0,,{\rZH\blur1.6}我就冒险试了一把。
+Dialogue: 1,0:56:57.62,0:56:59.83,EN,,0,0,0,,{\rEN\blur1.6}So I chanced it.
+Dialogue: 2,0:57:00.33,0:57:04.08,ZH,,0,0,0,,{\rZH\blur1.6}你都拿到卡车了，怎么没直接走？
+Dialogue: 1,0:57:00.33,0:57:04.08,EN,,0,0,0,,{\rEN\blur1.6}You got the truck. Why didn't you just leave?
+Dialogue: 2,0:57:04.08,0:57:06.71,ZH,,0,0,0,,{\rZH\blur1.6}因为我看见你很痛。
+Dialogue: 1,0:57:04.08,0:57:06.71,EN,,0,0,0,,{\rEN\blur1.6}Because I saw that you were in pain.
+Dialogue: 2,0:57:06.75,0:57:08.71,ZH,,0,0,0,,{\rZH\blur1.6}我只是想帮忙。
+Dialogue: 1,0:57:06.75,0:57:08.71,EN,,0,0,0,,{\rEN\blur1.6}I just wanted to help.
+Dialogue: 2,0:57:10.79,0:57:14.67,ZH,,0,0,0,,{\rZH\blur1.6}你肯定觉得我是个疯子
+Dialogue: 1,0:57:10.79,0:57:14.67,EN,,0,0,0,,{\rEN\blur1.6}You must think I'm some sort of psycho
+Dialogue: 2,0:57:14.71,0:57:16.33,ZH,,0,0,0,,{\rZH\blur1.6}什么的，可是……
+Dialogue: 1,0:57:14.71,0:57:16.33,EN,,0,0,0,,{\rEN\blur1.6}or something, but...
+Dialogue: 2,0:57:16.33,0:57:19.54,ZH,,0,0,0,,{\rZH\blur1.6}我没撒谎，当时我说你姐……
+Dialogue: 1,0:57:16.33,0:57:19.54,EN,,0,0,0,,{\rEN\blur1.6}I wasn't lying when I said that your sister
+Dialogue: 2,0:57:19.58,0:57:22.25,ZH,,0,0,0,,{\rZH\blur1.6}帮我走出了人生的低谷。
+Dialogue: 1,0:57:19.58,0:57:22.25,EN,,0,0,0,,{\rEN\blur1.6}helped me out of really dark place.
+Dialogue: 2,0:57:22.29,0:57:24.42,ZH,,0,0,0,,{\rZH\blur1.6}她救了我一命。
+Dialogue: 1,0:57:22.29,0:57:24.42,EN,,0,0,0,,{\rEN\blur1.6}She saved my life.
+Dialogue: 2,0:57:24.46,0:57:27.92,ZH,,0,0,0,,{\rZH\blur1.6}她的视频给了我启发
+Dialogue: 1,0:57:24.46,0:57:27.92,EN,,0,0,0,,{\rEN\blur1.6}Her videos, they inspired me
+Dialogue: 2,0:57:27.96,0:57:31.88,ZH,,0,0,0,,{\rZH\blur1.6}走出去，体验生活，做点事。
+Dialogue: 1,0:57:27.96,0:57:31.88,EN,,0,0,0,,{\rEN\blur1.6}to go out and live and do something.
+Dialogue: 2,0:57:32.42,0:57:35.42,ZH,,0,0,0,,{\rZH\blur1.6}没想到我们会走到这儿。
+Dialogue: 1,0:57:32.42,0:57:35.42,EN,,0,0,0,,{\rEN\blur1.6}I didn't think we would end up here.
+Dialogue: 2,0:57:35.46,0:57:38.38,ZH,,0,0,0,,{\rZH\blur1.6}-Jax，对不起。  -别碰我。
+Dialogue: 1,0:57:35.46,0:57:38.38,EN,,0,0,0,,{\rEN\blur1.6}-Jax, I'm sorry.   -Don't touch me.
+Dialogue: 2,0:57:40.38,0:57:43.17,ZH,,0,0,0,,{\rZH\blur1.6}Jax，求你了。就看着我。
+Dialogue: 1,0:57:40.38,0:57:43.17,EN,,0,0,0,,{\rEN\blur1.6}Jax, please. Just look at me.
+Dialogue: 2,0:57:43.21,0:57:45.04,ZH,,0,0,0,,{\rZH\blur1.6}对不起，我
+Dialogue: 1,0:57:43.21,0:57:45.04,EN,,0,0,0,,{\rEN\blur1.6}I'm s orry I
+Dialogue: 2,0:57:45.08,0:57:46.42,ZH,,0,0,0,,{\rZH\blur1.6}我不是故意的……
+Dialogue: 1,0:57:45.08,0:57:46.42,EN,,0,0,0,,{\rEN\blur1.6}I didn't mean...
+Dialogue: 2,0:57:47.04,0:57:48.46,ZH,,0,0,0,,{\rZH\blur1.6}拜托。
+Dialogue: 1,0:57:47.04,0:57:48.46,EN,,0,0,0,,{\rEN\blur1.6}Please.
+Dialogue: 2,0:58:13.12,0:58:14.54,ZH,,0,0,0,,{\rZH\blur1.6}各位，能听见我吗？
+Dialogue: 1,0:58:13.12,0:58:14.54,EN,,0,0,0,,{\rEN\blur1.6}Guys, can you hear me?
+Dialogue: 2,0:58:14.58,0:58:16.75,ZH,,0,0,0,,{\rZH\blur1.6}能听见我的话，请回个话。
+Dialogue: 1,0:58:14.58,0:58:16.75,EN,,0,0,0,,{\rEN\blur1.6}If you can hear me, please respond.
+Dialogue: 2,0:58:16.79,0:58:18.38,ZH,,0,0,0,,{\rZH\blur1.6}Jax，Luce。
+Dialogue: 1,0:58:16.79,0:58:18.38,EN,,0,0,0,,{\rEN\blur1.6}Jax, Luce.
+Dialogue: 2,0:58:18.38,0:58:21.58,ZH,,0,0,0,,{\rZH\blur1.6}行了，够了。
+Dialogue: 1,0:58:18.38,0:58:21.58,EN,,0,0,0,,{\rEN\blur1.6}Alright. Enough's enough.
+Dialogue: 2,0:58:21.62,0:58:24.33,ZH,,0,0,0,,{\rZH\blur1.6}我觉得兴许能踩着支架一步步过去
+Dialogue: 1,0:58:21.62,0:58:24.33,EN,,0,0,0,,{\rEN\blur1.6}I think I can maybe step my way across the brackets
+Dialogue: 2,0:58:24.38,0:58:26.88,ZH,,0,0,0,,{\rZH\blur1.6}再把对讲机拉上来。
+Dialogue: 1,0:58:24.38,0:58:26.88,EN,,0,0,0,,{\rEN\blur1.6}and then pull up the radio.
+Dialogue: 2,0:58:26.92,0:58:28.04,ZH,,0,0,0,,{\rZH\blur1.6}也许……
+Dialogue: 1,0:58:26.92,0:58:28.04,EN,,0,0,0,,{\rEN\blur1.6}Maybe...
+Dialogue: 2,0:58:28.08,0:58:30.83,ZH,,0,0,0,,{\rZH\blur1.6}不。这也太疯狂了。
+Dialogue: 1,0:58:28.08,0:58:30.83,EN,,0,0,0,,{\rEN\blur1.6}No. That's crazy.
+Dialogue: 2,0:58:31.38,0:58:35.17,ZH,,0,0,0,,{\rZH\blur1.6}听着，等得越久，我们就越弱。
+Dialogue: 1,0:58:31.38,0:58:35.17,EN,,0,0,0,,{\rEN\blur1.6}Look, the longer that we wait, the weaker we get.
+Dialogue: 2,0:58:36.96,0:58:38.96,ZH,,0,0,0,,{\rZH\blur1.6}那台对讲机是我们唯一的机会。
+Dialogue: 1,0:58:36.96,0:58:38.96,EN,,0,0,0,,{\rEN\blur1.6}That radio is our only chance.
+Dialogue: 2,0:58:39.00,0:58:41.33,ZH,,0,0,0,,{\rZH\blur1.6}再过会儿我就没力气够到了。
+Dialogue: 1,0:58:39.00,0:58:41.33,EN,,0,0,0,,{\rEN\blur1.6}I won't be strong enough to get it later.
+Dialogue: 2,0:58:41.38,0:58:43.96,ZH,,0,0,0,,{\rZH\blur1.6}-肯定还有别的办法。  -真没有。
+Dialogue: 1,0:58:41.38,0:58:43.96,EN,,0,0,0,,{\rEN\blur1.6}-There has to be another way.   -Well, there isn't.
+Dialogue: 2,0:58:45.88,0:58:48.25,ZH,,0,0,0,,{\rZH\blur1.6}好。把这个保管好。
+Dialogue: 1,0:58:45.88,0:58:48.25,EN,,0,0,0,,{\rEN\blur1.6}Right. Keep this safe.
+Dialogue: 2,0:58:51.08,0:58:53.54,ZH,,0,0,0,,{\rZH\blur1.6}就像踩着石头过河。
+Dialogue: 1,0:58:51.08,0:58:53.54,EN,,0,0,0,,{\rEN\blur1.6}It's just like stepping stones.
+Dialogue: 2,0:58:54.04,0:58:55.83,ZH,,0,0,0,,{\rZH\blur1.6}我能做到。
+Dialogue: 1,0:58:54.04,0:58:55.83,EN,,0,0,0,,{\rEN\blur1.6}I can do it.
+Dialogue: 2,0:58:58.92,0:59:01.21,ZH,,0,0,0,,{\rZH\blur1.6}等等，你不用这么做。
+Dialogue: 1,0:58:58.92,0:59:01.21,EN,,0,0,0,,{\rEN\blur1.6}Wait, you don't have to.
+Dialogue: 2,0:59:07.00,0:59:08.42,ZH,,0,0,0,,{\rZH\blur1.6}我愿意。
+Dialogue: 1,0:59:07.00,0:59:08.42,EN,,0,0,0,,{\rEN\blur1.6}I do.
+Dialogue: 2,0:59:09.25,0:59:11.50,ZH,,0,0,0,,{\rZH\blur1.6}都怪我，咱们才会在这上头。
+Dialogue: 1,0:59:09.25,0:59:11.50,EN,,0,0,0,,{\rEN\blur1.6}It's my fault that we're up here.
+Dialogue: 2,0:59:11.96,0:59:13.75,ZH,,0,0,0,,{\rZH\blur1.6}来，拿着这个。
+Dialogue: 1,0:59:11.96,0:59:13.75,EN,,0,0,0,,{\rEN\blur1.6}Here. Hold this.
+Dialogue: 2,0:59:30.38,0:59:32.08,ZH,,0,0,0,,{\rZH\blur1.6}能听见我，就请回个话。
+Dialogue: 1,0:59:30.38,0:59:32.08,EN,,0,0,0,,{\rEN\blur1.6}/f you can hear me, please respond.
+Dialogue: 2,0:59:32.12,0:59:33.42,ZH,,0,0,0,,{\rZH\blur1.6}Jax!
+Dialogue: 1,0:59:32.12,0:59:33.42,EN,,0,0,0,,{\rEN\blur1.6}Jax!
+Dialogue: 2,0:59:33.92,0:59:35.50,ZH,,0,0,0,,{\rZH\blur1.6}Jax? Luce?
+Dialogue: 1,0:59:33.92,0:59:35.50,EN,,0,0,0,,{\rEN\blur1.6}Jax? Luce?
+Dialogue: 2,0:59:40.21,0:59:42.17,ZH,,0,0,0,,{\rZH\blur1.6}听得见我说话的话，请吱一声。
+Dialogue: 1,0:59:40.21,0:59:42.17,EN,,0,0,0,,{\rEN\blur1.6}Please let me know you can hear me.
+Dialogue: 2,0:59:53.00,0:59:54.54,ZH,,0,0,0,,{\rZH\blur1.6}Luce.
+Dialogue: 1,0:59:53.00,0:59:54.54,EN,,0,0,0,,{\rEN\blur1.6}Luce.
+Dialogue: 2,1:00:10.58,1:00:11.88,ZH,,0,0,0,,{\rZH\blur1.6}喔！
+Dialogue: 1,1:00:10.58,1:00:11.88,EN,,0,0,0,,{\rEN\blur1.6}Whoo!
+Dialogue: 2,1:00:13.92,1:00:15.62,ZH,,0,0,0,,{\rZH\blur1.6}你能行。继续。
+Dialogue: 1,1:00:13.92,1:00:15.62,EN,,0,0,0,,{\rEN\blur1.6}You got this. Keep going.
+Dialogue: 2,1:00:45.38,1:00:47.29,ZH,,0,0,0,,{\rZH\blur1.6}来了，来了！
+Dialogue: 1,1:00:45.38,1:00:47.29,EN,,0,0,0,,{\rEN\blur1.6}I'm coming, I'm coming!
+Dialogue: 2,1:00:51.21,1:00:52.62,ZH,,0,0,0,,{\rZH\blur1.6}来了！来了！来了！
+Dialogue: 1,1:00:51.21,1:00:52.62,EN,,0,0,0,,{\rEN\blur1.6}I'm coming! I'm coming! I'm coming!
+Dialogue: 2,1:00:52.67,1:00:56.25,ZH,,0,0,0,,{\rZH\blur1.6}-抓紧！抓紧！
+Dialogue: 1,1:00:52.67,1:00:56.25,EN,,0,0,0,,{\rEN\blur1.6}-Hold on! Hold on!
+Dialogue: 2,1:00:57.75,1:00:59.75,ZH,,0,0,0,,{\rZH\blur1.6}哎哟——！
+Dialogue: 1,1:00:57.75,1:00:59.75,EN,,0,0,0,,{\rEN\blur1.6}Yeeoooww!
+Dialogue: 2,1:01:23.12,1:01:27.12,ZH,,0,0,0,,{\rZH\blur1.6}好。听我说！接住绳子！
+Dialogue: 1,1:01:23.12,1:01:27.12,EN,,0,0,0,,{\rEN\blur1.6}Okay. Listen to me! Catch the rope!
+Dialogue: 2,1:01:27.17,1:01:30.12,ZH,,0,0,0,,{\rZH\blur1.6}-Jax，我不行！  -你行的！
+Dialogue: 1,1:01:27.17,1:01:30.12,EN,,0,0,0,,{\rEN\blur1.6}-Jax, I can't!   -Yes, you can!
+Dialogue: 2,1:01:30.17,1:01:32.54,ZH,,0,0,0,,{\rZH\blur1.6}三、二、一！
+Dialogue: 1,1:01:30.17,1:01:32.54,EN,,0,0,0,,{\rEN\blur1.6}Three, two, one!
+Dialogue: 2,1:01:34.46,1:01:36.21,ZH,,0,0,0,,{\rZH\blur1.6}Jax!
+Dialogue: 1,1:01:34.46,1:01:36.21,EN,,0,0,0,,{\rEN\blur1.6}Jax!
+Dialogue: 2,1:01:42.67,1:01:45.25,ZH,,0,0,0,,{\rZH\blur1.6}没事。我再扔一次，行吗？！
+Dialogue: 1,1:01:42.67,1:01:45.25,EN,,0,0,0,,{\rEN\blur1.6}It's okay. I'm gonna throw it again, okay?!
+Dialogue: 2,1:01:45.29,1:01:46.83,ZH,,0,0,0,,{\rZH\blur1.6}我做不到，Jax！
+Dialogue: 1,1:01:45.29,1:01:46.83,EN,,0,0,0,,{\rEN\blur1.6}I can't do it, Jax!
+Dialogue: 2,1:01:46.88,1:01:49.58,ZH,,0,0,0,,{\rZH\blur1.6}你不许把我一个人丢在这上面，好吗？
+Dialogue: 1,1:01:46.88,1:01:49.58,EN,,0,0,0,,{\rEN\blur1.6}You're not allowed to leave me up here alone, okay?
+Dialogue: 2,1:01:49.62,1:01:51.83,ZH,,0,0,0,,{\rZH\blur1.6}三、二、一！
+Dialogue: 1,1:01:49.62,1:01:51.83,EN,,0,0,0,,{\rEN\blur1.6}Three, two, one!
+Dialogue: 2,1:01:53.42,1:01:56.50,ZH,,0,0,0,,{\rZH\blur1.6}对对对！把它扣在你腰带上！
+Dialogue: 1,1:01:53.42,1:01:56.50,EN,,0,0,0,,{\rEN\blur1.6}Yes, yes, yes! Clip it to your belt!
+Dialogue: 2,1:02:02.08,1:02:03.50,ZH,,0,0,0,,{\rZH\blur1.6}不！
+Dialogue: 1,1:02:02.08,1:02:03.50,EN,,0,0,0,,{\rEN\blur1.6}No!
+Dialogue: 2,1:02:07.12,1:02:08.33,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:02:07.12,1:02:08.33,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,1:02:13.71,1:02:15.29,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:02:13.71,1:02:15.29,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,1:02:17.75,1:02:19.67,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:02:17.75,1:02:19.67,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,1:02:36.00,1:02:38.08,ZH,,0,0,0,,{\rZH\blur1.6}-天哪。  -啊！
+Dialogue: 1,1:02:36.00,1:02:38.08,EN,,0,0,0,,{\rEN\blur1.6}-Oh, God.   -Arggh!
+Dialogue: 2,1:02:38.12,1:02:39.71,ZH,,0,0,0,,{\rZH\blur1.6}我们得止血。
+Dialogue: 1,1:02:38.12,1:02:39.71,EN,,0,0,0,,{\rEN\blur1.6}We need to stop the bleeding.
+Dialogue: 2,1:02:39.75,1:02:41.00,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:02:39.75,1:02:41.00,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,1:02:46.00,1:02:47.50,ZH,,0,0,0,,{\rZH\blur1.6}-啊啊啊！  -好，好。
+Dialogue: 1,1:02:46.00,1:02:47.50,EN,,0,0,0,,{\rEN\blur1.6}-Argghhh!   -Okay. Okay.
+Dialogue: 2,1:02:47.50,1:02:49.33,ZH,,0,0,0,,{\rZH\blur1.6}对不起，对不起，对不起，对不起。
+Dialogue: 1,1:02:47.50,1:02:49.33,EN,,0,0,0,,{\rEN\blur1.6}I'm sorry, I'm sorry, I'm sorry, I'm sorry.
+Dialogue: 2,1:02:49.33,1:02:52.54,ZH,,0,0,0,,{\rZH\blur1.6}-啊！靠！好疼！  -我知道，我知道，我知道。
+Dialogue: 1,1:02:49.33,1:02:52.54,EN,,0,0,0,,{\rEN\blur1.6}-Arggh! Damn it! It hurts!   -I know, I know, I know.
+Dialogue: 2,1:02:52.58,1:02:53.96,ZH,,0,0,0,,{\rZH\blur1.6}这可能会疼。
+Dialogue: 1,1:02:52.58,1:02:53.96,EN,,0,0,0,,{\rEN\blur1.6}This might hurt.
+Dialogue: 2,1:03:02.54,1:03:04.21,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:03:02.54,1:03:04.21,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,1:03:04.21,1:03:05.88,ZH,,0,0,0,,{\rZH\blur1.6}好，慢慢呼吸。
+Dialogue: 1,1:03:04.21,1:03:05.88,EN,,0,0,0,,{\rEN\blur1.6}Okay, breathe slowly.
+Dialogue: 2,1:03:05.88,1:03:07.00,ZH,,0,0,0,,{\rZH\blur1.6}-慢点。
+Dialogue: 1,1:03:05.88,1:03:07.00,EN,,0,0,0,,{\rEN\blur1.6}-Slowly.
+Dialogue: 2,1:03:07.04,1:03:08.71,ZH,,0,0,0,,{\rZH\blur1.6}-在...
+Dialogue: 1,1:03:07.04,1:03:08.71,EN,,0,0,0,,{\rEN\blur1.6}-In...
+Dialogue: 2,1:03:08.75,1:03:11.21,ZH,,0,0,0,,{\rZH\blur1.6}-……完毕。
+Dialogue: 1,1:03:08.75,1:03:11.21,EN,,0,0,0,,{\rEN\blur1.6}-...and out.
+Dialogue: 2,1:03:25.75,1:03:28.21,ZH,,0,0,0,,{\rZH\blur1.6}对不起，我撒谎了。
+Dialogue: 1,1:03:25.75,1:03:28.21,EN,,0,0,0,,{\rEN\blur1.6}I'm sorry for lying.
+Dialogue: 2,1:03:28.92,1:03:30.83,ZH,,0,0,0,,{\rZH\blur1.6}我……
+Dialogue: 1,1:03:28.92,1:03:30.83,EN,,0,0,0,,{\rEN\blur1.6}I...
+Dialogue: 2,1:03:30.88,1:03:34.21,ZH,,0,0,0,,{\rZH\blur1.6}-我不想死。  -你不会死的。
+Dialogue: 1,1:03:30.88,1:03:34.21,EN,,0,0,0,,{\rEN\blur1.6}-I don't wanna die.   -You're not going to die.
+Dialogue: 2,1:03:34.25,1:03:36.08,ZH,,0,0,0,,{\rZH\blur1.6}-我是。  -不，你不是。
+Dialogue: 1,1:03:34.25,1:03:36.08,EN,,0,0,0,,{\rEN\blur1.6}-l am.   -No, you're not.
+Dialogue: 2,1:03:36.12,1:03:38.38,ZH,,0,0,0,,{\rZH\blur1.6}Jax，你根本没在听！
+Dialogue: 1,1:03:36.12,1:03:38.38,EN,,0,0,0,,{\rEN\blur1.6}You're not listening, Jax!
+Dialogue: 2,1:03:44.58,1:03:46.54,ZH,,0,0,0,,{\rZH\blur1.6}我得了癌症。
+Dialogue: 1,1:03:44.58,1:03:46.54,EN,,0,0,0,,{\rEN\blur1.6}I have cancer.
+Dialogue: 2,1:03:50.12,1:03:52.25,ZH,,0,0,0,,{\rZH\blur1.6}那道疤其实就是这么回事。
+Dialogue: 1,1:03:50.12,1:03:52.25,EN,,0,0,0,,{\rEN\blur1.6}That's what the scar actually is.
+Dialogue: 2,1:03:55.08,1:03:57.17,ZH,,0,0,0,,{\rZH\blur1.6}天啊……
+Dialogue: 1,1:03:55.08,1:03:57.17,EN,,0,0,0,,{\rEN\blur1.6}God...
+Dialogue: 2,1:04:00.92,1:04:02.79,ZH,,0,0,0,,{\rZH\blur1.6}-能帮我拿一下手机吗？  -嗯。
+Dialogue: 1,1:04:00.92,1:04:02.79,EN,,0,0,0,,{\rEN\blur1.6}-Can you get my phone for me?   -Mm.
+Dialogue: 2,1:04:06.04,1:04:07.88,ZH,,0,0,0,,{\rZH\blur1.6}我一直没接她的电话。
+Dialogue: 1,1:04:06.04,1:04:07.88,EN,,0,0,0,,{\rEN\blur1.6}I've been ignoring her calls.
+Dialogue: 2,1:04:08.83,1:04:10.25,ZH,,0,0,0,,{\rZH\blur1.6}我妈真可怜。
+Dialogue: 1,1:04:08.83,1:04:10.25,EN,,0,0,0,,{\rEN\blur1.6}My poor mom.
+Dialogue: 2,1:04:10.29,1:04:14.58,ZH,,0,0,0,,{\rZH\blur1.6}我不敢跟她说，我已经停了治疗。
+Dialogue: 1,1:04:10.29,1:04:14.58,EN,,0,0,0,,{\rEN\blur1.6}I can't face telling her that I've stopped treatment.
+Dialogue: 2,1:04:16.17,1:04:18.54,ZH,,0,0,0,,{\rZH\blur1.6}我也知道她担心得很。
+Dialogue: 1,1:04:16.17,1:04:18.54,EN,,0,0,0,,{\rEN\blur1.6}And I know she's so worried.
+Dialogue: 2,1:04:22.38,1:04:25.08,ZH,,0,0,0,,{\rZH\blur1.6}我写了条短信，可……
+Dialogue: 1,1:04:22.38,1:04:25.08,EN,,0,0,0,,{\rEN\blur1.6}I wrote a text, but...
+Dialogue: 2,1:04:25.12,1:04:27.79,ZH,,0,0,0,,{\rZH\blur1.6}我实在没力气爬完那条线。
+Dialogue: 1,1:04:25.12,1:04:27.79,EN,,0,0,0,,{\rEN\blur1.6}I didn't have it in me to send it.
+Dialogue: 2,1:04:32.00,1:04:34.21,ZH,,0,0,0,,{\rZH\blur1.6}这下她永远都不会知道了。
+Dialogue: 1,1:04:32.00,1:04:34.21,EN,,0,0,0,,{\rEN\blur1.6}And now she'll never know.
+Dialogue: 2,1:04:34.25,1:04:36.08,ZH,,0,0,0,,{\rZH\blur1.6}好，听我说。
+Dialogue: 1,1:04:34.25,1:04:36.08,EN,,0,0,0,,{\rEN\blur1.6}Okay, listen to me.
+Dialogue: 2,1:04:36.08,1:04:37.75,ZH,,0,0,0,,{\rZH\blur1.6}我们一定能下去。
+Dialogue: 1,1:04:36.08,1:04:37.75,EN,,0,0,0,,{\rEN\blur1.6}We're gonna make it down.
+Dialogue: 2,1:04:37.79,1:04:40.00,ZH,,0,0,0,,{\rZH\blur1.6}然后你要当面把这话告诉她。
+Dialogue: 1,1:04:37.79,1:04:40.00,EN,,0,0,0,,{\rEN\blur1.6}And you are going to tell her that in person.
+Dialogue: 2,1:04:40.04,1:04:41.21,ZH,,0,0,0,,{\rZH\blur1.6}行吗？
+Dialogue: 1,1:04:40.04,1:04:41.21,EN,,0,0,0,,{\rEN\blur1.6}Okay?
+Dialogue: 2,1:04:41.25,1:04:43.08,ZH,,0,0,0,,{\rZH\blur1.6}我们一定能活着出去。
+Dialogue: 1,1:04:41.25,1:04:43.08,EN,,0,0,0,,{\rEN\blur1.6}We are gonna make it out of here alive.
+Dialogue: 2,1:04:43.08,1:04:44.46,ZH,,0,0,0,,{\rZH\blur1.6}嗯。
+Dialogue: 1,1:04:43.08,1:04:44.46,EN,,0,0,0,,{\rEN\blur1.6}Mmm.
+Dialogue: 2,1:05:06.67,1:05:09.88,ZH,,0,0,0,,{\rZH\blur1.6}Shi! Shi!
+Dialogue: 1,1:05:06.67,1:05:09.88,EN,,0,0,0,,{\rEN\blur1.6}Shi! Shi!
+Dialogue: 2,1:05:11.29,1:05:14.21,ZH,,0,0,0,,{\rZH\blur1.6}醒醒！Shi？
+Dialogue: 1,1:05:11.29,1:05:14.21,EN,,0,0,0,,{\rEN\blur1.6}Wake up! Shi?
+Dialogue: 2,1:05:14.21,1:05:16.62,ZH,,0,0,0,,{\rZH\blur1.6}Shi，醒醒！
+Dialogue: 1,1:05:14.21,1:05:16.62,EN,,0,0,0,,{\rEN\blur1.6}Shi, wake up!
+Dialogue: 2,1:05:17.92,1:05:19.33,ZH,,0,0,0,,{\rZH\blur1.6}Shi，醒醒！
+Dialogue: 1,1:05:17.92,1:05:19.33,EN,,0,0,0,,{\rEN\blur1.6}Shi, wake up!
+Dialogue: 2,1:05:20.75,1:05:22.67,ZH,,0,0,0,,{\rZH\blur1.6}Shi，快醒醒！
+Dialogue: 1,1:05:20.75,1:05:22.67,EN,,0,0,0,,{\rEN\blur1.6}Shi, wake up now!
+Dialogue: 2,1:05:22.71,1:05:25.50,ZH,,0,0,0,,{\rZH\blur1.6}求你醒醒！
+Dialogue: 1,1:05:22.71,1:05:25.50,EN,,0,0,0,,{\rEN\blur1.6}Wake up, please!
+Dialogue: 2,1:05:36.29,1:05:38.96,ZH,,0,0,0,,{\rZH\blur1.6}快放我下去！
+Dialogue: 1,1:05:36.29,1:05:38.96,EN,,0,0,0,,{\rEN\blur1.6}Get me down now!
+Dialogue: 2,1:05:39.00,1:05:40.54,ZH,,0,0,0,,{\rZH\blur1.6}你没事。
+Dialogue: 1,1:05:39.00,1:05:40.54,EN,,0,0,0,,{\rEN\blur1.6}You're okay.
+Dialogue: 2,1:05:41.42,1:05:44.00,ZH,,0,0,0,,{\rZH\blur1.6}搞什么鬼？！你个混蛋！
+Dialogue: 1,1:05:41.42,1:05:44.00,EN,,0,0,0,,{\rEN\blur1.6}What the hell?! You're an asshole!
+Dialogue: 2,1:05:44.04,1:05:45.42,ZH,,0,0,0,,{\rZH\blur1.6}我还以为我要死了！
+Dialogue: 1,1:05:44.04,1:05:45.42,EN,,0,0,0,,{\rEN\blur1.6}I thought I was going to die!
+Dialogue: 2,1:05:45.46,1:05:47.54,ZH,,0,0,0,,{\rZH\blur1.6}Jax！Jax，快点啊，哥们儿！
+Dialogue: 1,1:05:45.46,1:05:47.54,EN,,0,0,0,,{\rEN\blur1.6}Jax! Jax, come on, dude!
+Dialogue: 2,1:05:47.58,1:05:49.83,ZH,,0,0,0,,{\rZH\blur1.6}等等我！我只是想帮你！
+Dialogue: 1,1:05:47.58,1:05:49.83,EN,,0,0,0,,{\rEN\blur1.6}Wait up! I was just trying to help you!
+Dialogue: 2,1:05:50.54,1:05:52.42,ZH,,0,0,0,,{\rZH\blur1.6}把我吓个半死，能帮我什么？
+Dialogue: 1,1:05:50.54,1:05:52.42,EN,,0,0,0,,{\rEN\blur1.6}How does scaring the hell out of me help me?
+Dialogue: 2,1:05:52.46,1:05:54.04,ZH,,0,0,0,,{\rZH\blur1.6}我想让你看看那种恐惧
+Dialogue: 1,1:05:52.46,1:05:54.04,EN,,0,0,0,,{\rEN\blur1.6}I wanted to show you that fear
+Dialogue: 2,1:05:54.04,1:05:55.42,ZH,,0,0,0,,{\rZH\blur1.6}是你能控制的！
+Dialogue: 1,1:05:54.04,1:05:55.42,EN,,0,0,0,,{\rEN\blur1.6}is something that you can control!
+Dialogue: 2,1:05:55.46,1:05:57.58,ZH,,0,0,0,,{\rZH\blur1.6}别再想着改变我了！行吗？
+Dialogue: 1,1:05:55.46,1:05:57.58,EN,,0,0,0,,{\rEN\blur1.6}Stop trying to change me! Okay?
+Dialogue: 2,1:05:57.62,1:06:00.83,ZH,,0,0,0,,{\rZH\blur1.6}我又不是你的追随者，不用你救！
+Dialogue: 1,1:05:57.62,1:06:00.83,EN,,0,0,0,,{\rEN\blur1.6}I'm not one of your followers. I don't need saving!
+Dialogue: 2,1:06:01.79,1:06:02.96,ZH,,0,0,0,,{\rZH\blur1.6}我爱你。
+Dialogue: 1,1:06:01.79,1:06:02.96,EN,,0,0,0,,{\rEN\blur1.6}I love you.
+Dialogue: 2,1:06:03.00,1:06:04.58,ZH,,0,0,0,,{\rZH\blur1.6}好，我要你停下
+Dialogue: 1,1:06:03.00,1:06:04.58,EN,,0,0,0,,{\rEN\blur1.6}Okay, I want you to stop
+Dialogue: 2,1:06:04.62,1:06:06.25,ZH,,0,0,0,,{\rZH\blur1.6}任谁都能欺负你。
+Dialogue: 1,1:06:04.62,1:06:06.25,EN,,0,0,0,,{\rEN\blur1.6}letting everybody walk all over you.
+Dialogue: 2,1:06:06.25,1:06:07.96,ZH,,0,0,0,,{\rZH\blur1.6}什么？像你一样？
+Dialogue: 1,1:06:06.25,1:06:07.96,EN,,0,0,0,,{\rEN\blur1.6}What? Like you?
+Dialogue: 2,1:06:08.00,1:06:09.46,ZH,,0,0,0,,{\rZH\blur1.6}不。
+Dialogue: 1,1:06:08.00,1:06:09.46,EN,,0,0,0,,{\rEN\blur1.6}No.
+Dialogue: 2,1:06:10.96,1:06:12.54,ZH,,0,0,0,,{\rZH\blur1.6}不，对不起。
+Dialogue: 1,1:06:10.96,1:06:12.54,EN,,0,0,0,,{\rEN\blur1.6}No, I'm sorry.
+Dialogue: 2,1:06:12.58,1:06:15.67,ZH,,0,0,0,,{\rZH\blur1.6}好吗？我只是想让你学会替自己说话。
+Dialogue: 1,1:06:12.58,1:06:15.67,EN,,0,0,0,,{\rEN\blur1.6}Okay? I just want you to learn how to stand up for yourself.
+Dialogue: 2,1:06:15.67,1:06:18.00,ZH,,0,0,0,,{\rZH\blur1.6}好。Shi，这样怎么样？
+Dialogue: 1,1:06:15.67,1:06:18.00,EN,,0,0,0,,{\rEN\blur1.6}Okay. How's this, Shi?
+Dialogue: 2,1:06:18.04,1:06:19.83,ZH,,0,0,0,,{\rZH\blur1.6}去死吧。
+Dialogue: 1,1:06:18.04,1:06:19.83,EN,,0,0,0,,{\rEN\blur1.6}Drop dead.
+Dialogue: 2,1:06:30.50,1:06:31.58,ZH,,0,0,0,,{\rZH\blur1.6}嘿。
+Dialogue: 1,1:06:30.50,1:06:31.58,EN,,0,0,0,,{\rEN\blur1.6}Hey.
+Dialogue: 2,1:06:32.38,1:06:33.42,ZH,,0,0,0,,{\rZH\blur1.6}嘿。
+Dialogue: 1,1:06:32.38,1:06:33.42,EN,,0,0,0,,{\rEN\blur1.6}Hey.
+Dialogue: 2,1:06:38.67,1:06:40.38,ZH,,0,0,0,,{\rZH\blur1.6}醒醒。
+Dialogue: 1,1:06:38.67,1:06:40.38,EN,,0,0,0,,{\rEN\blur1.6}Wake up.
+Dialogue: 2,1:06:46.12,1:06:49.17,ZH,,0,0,0,,{\rZH\blur1.6}醒醒。醒醒。求你了，醒醒。
+Dialogue: 1,1:06:46.12,1:06:49.17,EN,,0,0,0,,{\rEN\blur1.6}Wake up. Wake up. Please, wake up.
+Dialogue: 2,1:06:49.21,1:06:50.83,ZH,,0,0,0,,{\rZH\blur1.6}拜托，醒醒。
+Dialogue: 1,1:06:49.21,1:06:50.83,EN,,0,0,0,,{\rEN\blur1.6}Wake up, please.
+Dialogue: 2,1:06:51.62,1:06:54.92,ZH,,0,0,0,,{\rZH\blur1.6}求你了，醒醒。求你了，醒醒。
+Dialogue: 1,1:06:51.62,1:06:54.92,EN,,0,0,0,,{\rEN\blur1.6}Please, wake up. Please, wake up.
+Dialogue: 2,1:06:54.96,1:06:56.71,ZH,,0,0,0,,{\rZH\blur1.6}拜托了。
+Dialogue: 1,1:06:54.96,1:06:56.71,EN,,0,0,0,,{\rEN\blur1.6}Please.
+Dialogue: 2,1:06:58.67,1:06:59.92,ZH,,0,0,0,,{\rZH\blur1.6}醒醒！
+Dialogue: 1,1:06:58.67,1:06:59.92,EN,,0,0,0,,{\rEN\blur1.6}Wake up!
+Dialogue: 2,1:07:41.17,1:07:42.50,ZH,,0,0,0,,{\rZH\blur1.6}嘿。
+Dialogue: 1,1:07:41.17,1:07:42.50,EN,,0,0,0,,{\rEN\blur1.6}Hey.
+Dialogue: 2,1:07:42.96,1:07:44.38,ZH,,0,0,0,,{\rZH\blur1.6}你感觉怎么样？
+Dialogue: 1,1:07:42.96,1:07:44.38,EN,,0,0,0,,{\rEN\blur1.6}How are you feeling?
+Dialogue: 2,1:07:45.33,1:07:48.42,ZH,,0,0,0,,{\rZH\blur1.6}就像被一千辆卡车撞过。
+Dialogue: 1,1:07:45.33,1:07:48.42,EN,,0,0,0,,{\rEN\blur1.6}Like I've been hit by a thousand trucks.
+Dialogue: 2,1:07:48.46,1:07:49.62,ZH,,0,0,0,,{\rZH\blur1.6}嗯。
+Dialogue: 1,1:07:48.46,1:07:49.62,EN,,0,0,0,,{\rEN\blur1.6}Mmm.
+Dialogue: 2,1:07:51.33,1:07:53.58,ZH,,0,0,0,,{\rZH\blur1.6}你这发型看着像你姐。
+Dialogue: 1,1:07:51.33,1:07:53.58,EN,,0,0,0,,{\rEN\blur1.6}You look like your sister with that hair.
+Dialogue: 2,1:07:55.88,1:07:57.42,ZH,,0,0,0,,{\rZH\blur1.6}我去拿对讲机
+Dialogue: 1,1:07:55.88,1:07:57.42,EN,,0,0,0,,{\rEN\blur1.6}I'm gonna get the radio
+Dialogue: 2,1:07:57.46,1:07:59.54,ZH,,0,0,0,,{\rZH\blur1.6}-再带我们离开这儿。  -什么？
+Dialogue: 1,1:07:57.46,1:07:59.54,EN,,0,0,0,,{\rEN\blur1.6}-and get us out of here.   -What?
+Dialogue: 2,1:08:00.92,1:08:02.29,ZH,,0,0,0,,{\rZH\blur1.6}怎么？
+Dialogue: 1,1:08:00.92,1:08:02.29,EN,,0,0,0,,{\rEN\blur1.6}How?
+Dialogue: 2,1:08:03.04,1:08:04.50,ZH,,0,0,0,,{\rZH\blur1.6}我能做到。
+Dialogue: 1,1:08:03.04,1:08:04.50,EN,,0,0,0,,{\rEN\blur1.6}I can do it.
+Dialogue: 2,1:08:08.25,1:08:10.17,ZH,,0,0,0,,{\rZH\blur1.6}我能做到。
+Dialogue: 1,1:08:08.25,1:08:10.17,EN,,0,0,0,,{\rEN\blur1.6}I can do it.
+Dialogue: 2,1:08:14.67,1:08:17.79,ZH,,0,0,0,,{\rZH\blur1.6}行，能弄到的绳子你都得用上。
+Dialogue: 1,1:08:14.67,1:08:17.79,EN,,0,0,0,,{\rEN\blur1.6}Okay, well, you're gonna need all the rope you can get.
+Dialogue: 2,1:08:19.62,1:08:20.88,ZH,,0,0,0,,{\rZH\blur1.6}收绳。
+Dialogue: 1,1:08:19.62,1:08:20.88,EN,,0,0,0,,{\rEN\blur1.6}Take it.
+Dialogue: 2,1:08:30.92,1:08:32.58,ZH,,0,0,0,,{\rZH\blur1.6}嘿。
+Dialogue: 1,1:08:30.92,1:08:32.58,EN,,0,0,0,,{\rEN\blur1.6}Hey.
+Dialogue: 2,1:08:32.96,1:08:34.58,ZH,,0,0,0,,{\rZH\blur1.6}你真名叫什么？
+Dialogue: 1,1:08:32.96,1:08:34.58,EN,,0,0,0,,{\rEN\blur1.6}What's your real name?
+Dialogue: 2,1:08:37.00,1:08:38.67,ZH,,0,0,0,,{\rZH\blur1.6}是Billie。
+Dialogue: 1,1:08:37.00,1:08:38.67,EN,,0,0,0,,{\rEN\blur1.6}It's Billie.
+Dialogue: 2,1:08:40.25,1:08:41.88,ZH,,0,0,0,,{\rZH\blur1.6}Billie，很高兴认识你。
+Dialogue: 1,1:08:40.25,1:08:41.88,EN,,0,0,0,,{\rEN\blur1.6}Nice to meet you, Billie.
+Dialogue: 2,1:08:48.67,1:08:50.58,ZH,,0,0,0,,{\rZH\blur1.6}Jax，小心点。
+Dialogue: 1,1:08:48.67,1:08:50.58,EN,,0,0,0,,{\rEN\blur1.6}Be careful, Jax.
+Dialogue: 2,1:08:50.58,1:08:52.75,ZH,,0,0,0,,{\rZH\blur1.6}-拜托。  -嗯。
+Dialogue: 1,1:08:50.58,1:08:52.75,EN,,0,0,0,,{\rEN\blur1.6}-Please.   -Yeah.
+Dialogue: 2,1:09:23.71,1:09:25.38,ZH,,0,0,0,,{\rZH\blur1.6}慢点，慢点。
+Dialogue: 1,1:09:23.71,1:09:25.38,EN,,0,0,0,,{\rEN\blur1.6}Easy. Easy.
+Dialogue: 2,1:10:34.29,1:10:37.54,ZH,,0,0,0,,{\rZH\blur1.6}Shi！Shi，看着我！
+Dialogue: 1,1:10:34.29,1:10:37.54,EN,,0,0,0,,{\rEN\blur1.6}Shi! Shi, look at me!
+Dialogue: 2,1:10:37.54,1:10:39.42,ZH,,0,0,0,,{\rZH\blur1.6}Shi，快看！
+Dialogue: 1,1:10:37.54,1:10:39.42,EN,,0,0,0,,{\rEN\blur1.6}Shi, look!
+Dialogue: 2,1:10:40.04,1:10:41.33,ZH,,0,0,0,,{\rZH\blur1.6}Shi!
+Dialogue: 1,1:10:40.04,1:10:41.33,EN,,0,0,0,,{\rEN\blur1.6}Shi!
+Dialogue: 2,1:10:53.42,1:10:54.58,ZH,,0,0,0,,{\rZH\blur1.6}哦！
+Dialogue: 1,1:10:53.42,1:10:54.58,EN,,0,0,0,,{\rEN\blur1.6}Oh!
+Dialogue: 2,1:10:57.42,1:10:58.79,ZH,,0,0,0,,{\rZH\blur1.6}上，Jax。
+Dialogue: 1,1:10:57.42,1:10:58.79,EN,,0,0,0,,{\rEN\blur1.6}Go, Jax.
+Dialogue: 2,1:11:08.21,1:11:10.25,ZH,,0,0,0,,{\rZH\blur1.6}你行的，Jaxy！
+Dialogue: 1,1:11:08.21,1:11:10.25,EN,,0,0,0,,{\rEN\blur1.6}You got this, Jaxy!
+Dialogue: 2,1:11:25.50,1:11:26.75,ZH,,0,0,0,,{\rZH\blur1.6}哦！
+Dialogue: 1,1:11:25.50,1:11:26.75,EN,,0,0,0,,{\rEN\blur1.6}Oh!
+Dialogue: 2,1:11:26.79,1:11:28.17,ZH,,0,0,0,,{\rZH\blur1.6}我靠！
+Dialogue: 1,1:11:26.79,1:11:28.17,EN,,0,0,0,,{\rEN\blur1.6}Oh, shit!
+Dialogue: 2,1:11:29.38,1:11:31.58,ZH,,0,0,0,,{\rZH\blur1.6}糟了！绳子不够长！
+Dialogue: 1,1:11:29.38,1:11:31.58,EN,,0,0,0,,{\rEN\blur1.6}Oh, no! The rope's not long enough!
+Dialogue: 2,1:11:31.62,1:11:33.46,ZH,,0,0,0,,{\rZH\blur1.6}Jax，太远了。回来吧！
+Dialogue: 1,1:11:31.62,1:11:33.46,EN,,0,0,0,,{\rEN\blur1.6}Jax, it's too far. Just come back!
+Dialogue: 2,1:11:33.50,1:11:35.88,ZH,,0,0,0,,{\rZH\blur1.6}回头吧！太远了！
+Dialogue: 1,1:11:33.50,1:11:35.88,EN,,0,0,0,,{\rEN\blur1.6}Just turn back! It's too far!
+Dialogue: 2,1:11:39.71,1:11:41.29,ZH,,0,0,0,,{\rZH\blur1.6}Jax!
+Dialogue: 1,1:11:39.71,1:11:41.29,EN,,0,0,0,,{\rEN\blur1.6}Jax!
+Dialogue: 2,1:11:43.75,1:11:45.54,ZH,,0,0,0,,{\rZH\blur1.6}Jax！你在干嘛？！
+Dialogue: 1,1:11:43.75,1:11:45.54,EN,,0,0,0,,{\rEN\blur1.6}Jax! What are you doing?!
+Dialogue: 2,1:11:50.12,1:11:51.50,ZH,,0,0,0,,{\rZH\blur1.6}哦！
+Dialogue: 1,1:11:50.12,1:11:51.50,EN,,0,0,0,,{\rEN\blur1.6}Ohh!
+Dialogue: 2,1:13:03.04,1:13:04.58,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:13:03.04,1:13:04.58,EN,,0,0,0,,{\rEN\blur1.6}Ahh!
+Dialogue: 2,1:13:07.62,1:13:10.83,ZH,,0,0,0,,{\rZH\blur1.6}天哪，我现在就想亲你一口！
+Dialogue: 1,1:13:07.62,1:13:10.83,EN,,0,0,0,,{\rEN\blur1.6}Oh, my God, I could kiss you right now!
+Dialogue: 2,1:13:19.62,1:13:21.42,ZH,,0,0,0,,{\rZH\blur1.6}慢点。慢点。
+Dialogue: 1,1:13:19.62,1:13:21.42,EN,,0,0,0,,{\rEN\blur1.6}Easy. Easy.
+Dialogue: 2,1:13:24.71,1:13:26.50,ZH,,0,0,0,,{\rZH\blur1.6}Jon，能听见我吗？
+Dialogue: 1,1:13:24.71,1:13:26.50,EN,,0,0,0,,{\rEN\blur1.6}Jon, can you hear me?
+Dialogue: 2,1:13:28.12,1:13:29.54,ZH,,0,0,0,,{\rZH\blur1.6}Jon?
+Dialogue: 1,1:13:28.12,1:13:29.54,EN,,0,0,0,,{\rEN\blur1.6}Jon?
+Dialogue: 2,1:13:31.54,1:13:32.62,ZH,,0,0,0,,{\rZH\blur1.6}Jon!
+Dialogue: 1,1:13:31.54,1:13:32.62,EN,,0,0,0,,{\rEN\blur1.6}Jon!
+Dialogue: 2,1:13:41.42,1:13:43.04,ZH,,0,0,0,,{\rZH\blur1.6}Jax？是你吗？
+Dialogue: 1,1:13:41.42,1:13:43.04,EN,,0,0,0,,{\rEN\blur1.6}Jax? Is that you?
+Dialogue: 2,1:13:43.08,1:13:44.04,ZH,,0,0,0,,{\rZH\blur1.6}我的天哪！
+Dialogue: 1,1:13:43.08,1:13:44.04,EN,,0,0,0,,{\rEN\blur1.6}Oh, my God!
+Dialogue: 2,1:13:44.08,1:13:46.08,ZH,,0,0,0,,{\rZH\blur1.6}我靠，你没事吧？
+Dialogue: 1,1:13:44.08,1:13:46.08,EN,,0,0,0,,{\rEN\blur1.6}Holy shit, you okay?
+Dialogue: 2,1:13:46.12,1:13:48.12,ZH,,0,0,0,,{\rZH\blur1.6}嗯，我没事。
+Dialogue: 1,1:13:46.12,1:13:48.12,EN,,0,0,0,,{\rEN\blur1.6}Yeah, I'm okay.
+Dialogue: 2,1:13:48.12,1:13:49.92,ZH,,0,0,0,,{\rZH\blur1.6}呃，Luce伤得挺重。
+Dialogue: 1,1:13:48.12,1:13:49.92,EN,,0,0,0,,{\rEN\blur1.6}Uh, Luce is pretty hurt.
+Dialogue: 2,1:13:49.96,1:13:51.42,ZH,,0,0,0,,{\rZH\blur1.6}我们被困在山上了。
+Dialogue: 1,1:13:49.96,1:13:51.42,EN,,0,0,0,,{\rEN\blur1.6}We're stuck on the mountain.
+Dialogue: 2,1:13:51.46,1:13:52.54,ZH,,0,0,0,,{\rZH\blur1.6}你在哪儿？
+Dialogue: 1,1:13:51.46,1:13:52.54,EN,,0,0,0,,{\rEN\blur1.6}Where are you?
+Dialogue: 2,1:13:52.58,1:13:55.33,ZH,,0,0,0,,{\rZH\blur1.6}-我们在 Devil's Elbow。  -什么？
+Dialogue: 1,1:13:52.58,1:13:55.33,EN,,0,0,0,,{\rEN\blur1.6}-Where at the Devil's Elbow.   -What?
+Dialogue: 2,1:13:55.33,1:13:56.71,ZH,,0,0,0,,{\rZH\blur1.6}我试过这样找你，
+Dialogue: 1,1:13:55.33,1:13:56.71,EN,,0,0,0,,{\rEN\blur1.6}I tried to look for you that way,
+Dialogue: 2,1:13:56.75,1:13:58.79,ZH,,0,0,0,,{\rZH\blur1.6}可整个地方看起来全毁了。
+Dialogue: 1,1:13:56.75,1:13:58.79,EN,,0,0,0,,{\rEN\blur1.6}but the whole place looked totally destroyed.
+Dialogue: 2,1:13:58.83,1:14:00.50,ZH,,0,0,0,,{\rZH\blur1.6}对，差不多就是这样。
+Dialogue: 1,1:13:58.83,1:14:00.50,EN,,0,0,0,,{\rEN\blur1.6}Yeah, it pretty much is.
+Dialogue: 2,1:14:00.50,1:14:02.79,ZH,,0,0,0,,{\rZH\blur1.6}-你在哪儿？  -我在山顶。
+Dialogue: 1,1:14:00.50,1:14:02.79,EN,,0,0,0,,{\rEN\blur1.6}-Where are you?   -I'm at the peak.
+Dialogue: 2,1:14:02.83,1:14:04.17,ZH,,0,0,0,,{\rZH\blur1.6}从缅甸下去的路线，
+Dialogue: 1,1:14:02.83,1:14:04.17,EN,,0,0,0,,{\rEN\blur1.6}The Myanmar route down,
+Dialogue: 2,1:14:04.21,1:14:05.71,ZH,,0,0,0,,{\rZH\blur1.6}被地震彻底毁了。
+Dialogue: 1,1:14:04.21,1:14:05.71,EN,,0,0,0,,{\rEN\blur1.6}it's completely wrecked by the earthquake.
+Dialogue: 2,1:14:05.75,1:14:08.46,ZH,,0,0,0,,{\rZH\blur1.6}没了。拜托，你们谁有能用的手机？
+Dialogue: 1,1:14:05.75,1:14:08.46,EN,,0,0,0,,{\rEN\blur1.6}It's gone. Please tell me one of you has a working cell.
+Dialogue: 2,1:14:08.50,1:14:11.54,ZH,,0,0,0,,{\rZH\blur1.6}-我的没电了。  -有，我这儿有一格信号。
+Dialogue: 1,1:14:08.50,1:14:11.54,EN,,0,0,0,,{\rEN\blur1.6}-Mine's dead.   -Yeah, I do. I got one bar.
+Dialogue: 2,1:14:11.54,1:14:13.79,ZH,,0,0,0,,{\rZH\blur1.6}好。好，我想办法过去找你。
+Dialogue: 1,1:14:11.54,1:14:13.79,EN,,0,0,0,,{\rEN\blur1.6}Okay. Okay, I'm gonna find a way to come to you.
+Dialogue: 2,1:14:13.83,1:14:15.21,ZH,,0,0,0,,{\rZH\blur1.6}我自己拿主意。
+Dialogue: 1,1:14:13.83,1:14:15.21,EN,,0,0,0,,{\rEN\blur1.6}Make the call myself.
+Dialogue: 2,1:14:15.21,1:14:16.92,ZH,,0,0,0,,{\rZH\blur1.6}听着，先别动，没事的。
+Dialogue: 1,1:14:15.21,1:14:16.92,EN,,0,0,0,,{\rEN\blur1.6}Look, just sit tight. It's gonna be okay.
+Dialogue: 2,1:14:16.96,1:14:18.62,ZH,,0,0,0,,{\rZH\blur1.6}好。麻烦快点。
+Dialogue: 1,1:14:16.96,1:14:18.62,EN,,0,0,0,,{\rEN\blur1.6}Okay. Please hurry.
+Dialogue: 2,1:14:19.33,1:14:21.21,ZH,,0,0,0,,{\rZH\blur1.6}我的天啊！
+Dialogue: 1,1:14:19.33,1:14:21.21,EN,,0,0,0,,{\rEN\blur1.6}Oh, my God!
+Dialogue: 2,1:14:21.25,1:14:22.88,ZH,,0,0,0,,{\rZH\blur1.6}我们要回家了！
+Dialogue: 1,1:14:21.25,1:14:22.88,EN,,0,0,0,,{\rEN\blur1.6}We're going home!
+Dialogue: 2,1:14:37.46,1:14:39.54,ZH,,0,0,0,,{\rZH\blur1.6}那你们就打算干坐一整天？
+Dialogue: 1,1:14:37.46,1:14:39.54,EN,,0,0,0,,{\rEN\blur1.6}So you guys just gonna sit around all day
+Dialogue: 2,1:14:39.58,1:14:41.54,ZH,,0,0,0,,{\rZH\blur1.6}还是说咱们要下这座山？
+Dialogue: 1,1:14:39.58,1:14:41.54,EN,,0,0,0,,{\rEN\blur1.6}or we gonna get off this mountain?
+Dialogue: 2,1:14:41.58,1:14:44.42,ZH,,0,0,0,,{\rZH\blur1.6}Jon！天哪！
+Dialogue: 1,1:14:41.58,1:14:44.42,EN,,0,0,0,,{\rEN\blur1.6}Jon! Oh, my God!
+Dialogue: 2,1:14:44.46,1:14:46.08,ZH,,0,0,0,,{\rZH\blur1.6}-总算了。
+Dialogue: 1,1:14:44.46,1:14:46.08,EN,,0,0,0,,{\rEN\blur1.6}-Finally.
+Dialogue: 2,1:14:46.12,1:14:47.92,ZH,,0,0,0,,{\rZH\blur1.6}- 我操！
+Dialogue: 1,1:14:46.12,1:14:47.92,EN,,0,0,0,,{\rEN\blur1.6}- Holy shit!
+Dialogue: 2,1:14:47.96,1:14:49.54,ZH,,0,0,0,,{\rZH\blur1.6}见到你们真高兴。
+Dialogue: 1,1:14:47.96,1:14:49.54,EN,,0,0,0,,{\rEN\blur1.6}It's good to see you guys.
+Dialogue: 2,1:14:58.12,1:15:00.25,ZH,,0,0,0,,{\rZH\blur1.6}-把胳膊伸给我，好吗？
+Dialogue: 1,1:14:58.12,1:15:00.25,EN,,0,0,0,,{\rEN\blur1.6}-Give me your arm, okay?
+Dialogue: 2,1:15:04.75,1:15:06.75,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:15:04.75,1:15:06.75,EN,,0,0,0,,{\rEN\blur1.6}Ah!
+Dialogue: 2,1:15:06.75,1:15:07.88,ZH,,0,0,0,,{\rZH\blur1.6}啊，你来了。
+Dialogue: 1,1:15:06.75,1:15:07.88,EN,,0,0,0,,{\rEN\blur1.6}Ah, you made it.
+Dialogue: 2,1:15:16.67,1:15:18.38,ZH,,0,0,0,,{\rZH\blur1.6}好。好，队长。
+Dialogue: 1,1:15:16.67,1:15:18.38,EN,,0,0,0,,{\rEN\blur1.6}Okay. Okay, Captain.
+Dialogue: 2,1:15:24.54,1:15:26.42,ZH,,0,0,0,,{\rZH\blur1.6}他们正给我们派直升机。
+Dialogue: 1,1:15:24.54,1:15:26.42,EN,,0,0,0,,{\rEN\blur1.6}They're sending us a helicopter.
+Dialogue: 2,1:15:27.96,1:15:29.88,ZH,,0,0,0,,{\rZH\blur1.6}好了，他们会在山顶跟我们碰头。
+Dialogue: 1,1:15:27.96,1:15:29.88,EN,,0,0,0,,{\rEN\blur1.6}There you go. They're gonna meet us at the peak.
+Dialogue: 2,1:15:29.88,1:15:32.33,ZH,,0,0,0,,{\rZH\blur1.6}那我们只要过去等着就行。
+Dialogue: 1,1:15:29.88,1:15:32.33,EN,,0,0,0,,{\rEN\blur1.6}So just have to make our way there and wait.
+Dialogue: 2,1:15:32.38,1:15:33.62,ZH,,0,0,0,,{\rZH\blur1.6}好吗？
+Dialogue: 1,1:15:32.38,1:15:33.62,EN,,0,0,0,,{\rEN\blur1.6}Okay?
+Dialogue: 2,1:15:33.67,1:15:35.33,ZH,,0,0,0,,{\rZH\blur1.6}走吧。
+Dialogue: 1,1:15:33.67,1:15:35.33,EN,,0,0,0,,{\rEN\blur1.6}Let's go.
+Dialogue: 2,1:15:45.29,1:15:47.46,ZH,,0,0,0,,{\rZH\blur1.6}记得扣上，也记得解开。
+Dialogue: 1,1:15:45.29,1:15:47.46,EN,,0,0,0,,{\rEN\blur1.6}Remember to clip in and clip out.
+Dialogue: 2,1:15:48.92,1:15:50.29,ZH,,0,0,0,,{\rZH\blur1.6}是。
+Dialogue: 1,1:15:48.92,1:15:50.29,EN,,0,0,0,,{\rEN\blur1.6}Yes.
+Dialogue: 2,1:15:51.04,1:15:54.17,ZH,,0,0,0,,{\rZH\blur1.6}哦。
+Dialogue: 1,1:15:51.04,1:15:54.17,EN,,0,0,0,,{\rEN\blur1.6}Oh.
+Dialogue: 2,1:15:58.12,1:16:00.67,ZH,,0,0,0,,{\rZH\blur1.6}哦，哇。
+Dialogue: 1,1:15:58.12,1:16:00.67,EN,,0,0,0,,{\rEN\blur1.6}Oh, wow.
+Dialogue: 2,1:16:04.33,1:16:06.62,ZH,,0,0,0,,{\rZH\blur1.6}你知道吧，听说等你到了龙跟前……
+Dialogue: 1,1:16:04.33,1:16:06.62,EN,,0,0,0,,{\rEN\blur1.6}You know, they say when you reach the dragon...
+Dialogue: 2,1:16:06.67,1:16:08.58,ZH,,0,0,0,,{\rZH\blur1.6}它会吃掉你的恐惧？
+Dialogue: 1,1:16:06.67,1:16:08.58,EN,,0,0,0,,{\rEN\blur1.6}It eats your fears?
+Dialogue: 2,1:17:04.96,1:17:06.79,ZH,,0,0,0,,{\rZH\blur1.6}爱你，Shi。
+Dialogue: 1,1:17:04.96,1:17:06.79,EN,,0,0,0,,{\rEN\blur1.6}Love you, Shi.
+Dialogue: 2,1:17:28.58,1:17:29.88,ZH,,0,0,0,,{\rZH\blur1.6}最后一次横渡。
+Dialogue: 1,1:17:28.58,1:17:29.88,EN,,0,0,0,,{\rEN\blur1.6}Final crossing.
+Dialogue: 2,1:17:33.04,1:17:34.46,ZH,,0,0,0,,{\rZH\blur1.6}撑不住太重的分量，
+Dialogue: 1,1:17:33.04,1:17:34.46,EN,,0,0,0,,{\rEN\blur1.6}Can't take too much weight,
+Dialogue: 2,1:17:34.50,1:17:36.71,ZH,,0,0,0,,{\rZH\blur1.6}所以我们得一个一个走。
+Dialogue: 1,1:17:34.50,1:17:36.71,EN,,0,0,0,,{\rEN\blur1.6}so we have to go one at a time.
+Dialogue: 2,1:17:38.62,1:17:40.50,ZH,,0,0,0,,{\rZH\blur1.6}我先来。
+Dialogue: 1,1:17:38.62,1:17:40.50,EN,,0,0,0,,{\rEN\blur1.6}I'll go first.
+Dialogue: 2,1:17:45.79,1:17:48.08,ZH,,0,0,0,,{\rZH\blur1.6}- 天哪，Jon！
+Dialogue: 1,1:17:45.79,1:17:48.08,EN,,0,0,0,,{\rEN\blur1.6}- Jesus, Jon!
+Dialogue: 2,1:17:48.08,1:17:49.75,ZH,,0,0,0,,{\rZH\blur1.6}稳住就行，好吗，Luce？
+Dialogue: 1,1:17:48.08,1:17:49.75,EN,,0,0,0,,{\rEN\blur1.6}Just keep it together, okay, Luce?
+Dialogue: 2,1:17:49.75,1:17:52.75,ZH,,0,0,0,,{\rZH\blur1.6}可能坏了，可就差40英尺就自由了。
+Dialogue: 1,1:17:49.75,1:17:52.75,EN,,0,0,0,,{\rEN\blur1.6}It might be damaged, but it's just 40 feet and then freedom.
+Dialogue: 2,1:17:59.96,1:18:01.92,ZH,,0,0,0,,{\rZH\blur1.6}-这也太疯狂了。  -嗯，慢点。
+Dialogue: 1,1:17:59.96,1:18:01.92,EN,,0,0,0,,{\rEN\blur1.6}-This is crazy.   -Yeah. Go slow.
+Dialogue: 2,1:18:16.58,1:18:18.71,ZH,,0,0,0,,{\rZH\blur1.6}对，没问题。
+Dialogue: 1,1:18:16.58,1:18:18.71,EN,,0,0,0,,{\rEN\blur1.6}Yep. You're good.
+Dialogue: 2,1:18:45.12,1:18:47.25,ZH,,0,0,0,,{\rZH\blur1.6}Jax，加油！
+Dialogue: 1,1:18:45.12,1:18:47.25,EN,,0,0,0,,{\rEN\blur1.6}Come on, Jax!
+Dialogue: 2,1:19:06.54,1:19:08.29,ZH,,0,0,0,,{\rZH\blur1.6}这也太疯狂了。
+Dialogue: 1,1:19:06.54,1:19:08.29,EN,,0,0,0,,{\rEN\blur1.6}This is crazy.
+Dialogue: 2,1:19:11.67,1:19:13.25,ZH,,0,0,0,,{\rZH\blur1.6}你能行！
+Dialogue: 1,1:19:11.67,1:19:13.25,EN,,0,0,0,,{\rEN\blur1.6}You got it!
+Dialogue: 2,1:19:31.79,1:19:32.83,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:19:31.79,1:19:32.83,EN,,0,0,0,,{\rEN\blur1.6}Ahh!
+Dialogue: 2,1:19:32.88,1:19:34.88,ZH,,0,0,0,,{\rZH\blur1.6}哎，哎，哎！
+Dialogue: 1,1:19:32.88,1:19:34.88,EN,,0,0,0,,{\rEN\blur1.6}Whoa, whoa, whoa!
+Dialogue: 2,1:19:34.92,1:19:36.21,ZH,,0,0,0,,{\rZH\blur1.6}-Jax!  -哦！
+Dialogue: 1,1:19:34.92,1:19:36.21,EN,,0,0,0,,{\rEN\blur1.6}-Jax!   -Oh!
+Dialogue: 2,1:19:36.21,1:19:38.00,ZH,,0,0,0,,{\rZH\blur1.6}Jax!
+Dialogue: 1,1:19:36.21,1:19:38.00,EN,,0,0,0,,{\rEN\blur1.6}Jax!
+Dialogue: 2,1:19:40.00,1:19:41.46,ZH,,0,0,0,,{\rZH\blur1.6}-要掉下来了！  -Jax，快！
+Dialogue: 1,1:19:40.00,1:19:41.46,EN,,0,0,0,,{\rEN\blur1.6}-It's coming down!   -Jax, come on!
+Dialogue: 2,1:19:41.50,1:19:43.29,ZH,,0,0,0,,{\rZH\blur1.6}-Jax！  -快跑！
+Dialogue: 1,1:19:41.50,1:19:43.29,EN,,0,0,0,,{\rEN\blur1.6}-Jax!   -Run!
+Dialogue: 2,1:19:49.38,1:19:51.50,ZH,,0,0,0,,{\rZH\blur1.6}-谢谢。  -不客气。
+Dialogue: 1,1:19:49.38,1:19:51.50,EN,,0,0,0,,{\rEN\blur1.6}-Thanks.   -You're welcome.
+Dialogue: 2,1:19:52.08,1:19:53.75,ZH,,0,0,0,,{\rZH\blur1.6}好，咱们快到了。
+Dialogue: 1,1:19:52.08,1:19:53.75,EN,,0,0,0,,{\rEN\blur1.6}Okay, we're almost there.
+Dialogue: 2,1:19:53.79,1:19:55.75,ZH,,0,0,0,,{\rZH\blur1.6}咱们就歇一会儿，行吗？
+Dialogue: 1,1:19:53.79,1:19:55.75,EN,,0,0,0,,{\rEN\blur1.6}Can we just rest a second?
+Dialogue: 2,1:19:55.75,1:19:58.38,ZH,,0,0,0,,{\rZH\blur1.6}-嗯。  -行。
+Dialogue: 1,1:19:55.75,1:19:58.38,EN,,0,0,0,,{\rEN\blur1.6}-Yeah.   -Sure.
+Dialogue: 2,1:19:59.12,1:20:00.67,ZH,,0,0,0,,{\rZH\blur1.6}哦……
+Dialogue: 1,1:19:59.12,1:20:00.67,EN,,0,0,0,,{\rEN\blur1.6}Oh...
+Dialogue: 2,1:20:03.83,1:20:07.25,ZH,,0,0,0,,{\rZH\blur1.6}哦，我要吸点O2。
+Dialogue: 1,1:20:03.83,1:20:07.25,EN,,0,0,0,,{\rEN\blur1.6}Oh. I am gonna have some O2.
+Dialogue: 2,1:20:09.75,1:20:11.12,ZH,,0,0,0,,{\rZH\blur1.6}这东西里有什么？
+Dialogue: 1,1:20:09.75,1:20:11.12,EN,,0,0,0,,{\rEN\blur1.6}What's in this thing?
+Dialogue: 2,1:20:11.17,1:20:14.21,ZH,,0,0,0,,{\rZH\blur1.6}哦，对，我觉得那个……是空的。
+Dialogue: 1,1:20:11.17,1:20:14.21,EN,,0,0,0,,{\rEN\blur1.6}Oh, yeah, I think that one's... empty.
+Dialogue: 2,1:20:22.54,1:20:23.75,ZH,,0,0,0,,{\rZH\blur1.6}这是什么？
+Dialogue: 1,1:20:22.54,1:20:23.75,EN,,0,0,0,,{\rEN\blur1.6}What is this?
+Dialogue: 2,1:20:27.04,1:20:28.79,ZH,,0,0,0,,{\rZH\blur1.6}这是什么，Jon？
+Dialogue: 1,1:20:27.04,1:20:28.79,EN,,0,0,0,,{\rEN\blur1.6}What is this, Jon?
+Dialogue: 2,1:20:34.50,1:20:36.12,ZH,,0,0,0,,{\rZH\blur1.6}芬太尼。
+Dialogue: 1,1:20:34.50,1:20:36.12,EN,,0,0,0,,{\rEN\blur1.6}Fentanyl.
+Dialogue: 2,1:20:36.17,1:20:37.83,ZH,,0,0,0,,{\rZH\blur1.6}你肯定在开玩笑。
+Dialogue: 1,1:20:36.17,1:20:37.83,EN,,0,0,0,,{\rEN\blur1.6}You must be joking.
+Dialogue: 2,1:20:38.67,1:20:40.25,ZH,,0,0,0,,{\rZH\blur1.6}为什么？
+Dialogue: 1,1:20:38.67,1:20:40.25,EN,,0,0,0,,{\rEN\blur1.6}Why?
+Dialogue: 2,1:20:41.08,1:20:43.92,ZH,,0,0,0,,{\rZH\blur1.6}为什么要用我们运毒？
+Dialogue: 1,1:20:41.08,1:20:43.92,EN,,0,0,0,,{\rEN\blur1.6}Why use us as drug mules?
+Dialogue: 2,1:20:43.96,1:20:45.67,ZH,,0,0,0,,{\rZH\blur1.6}不是针对你。
+Dialogue: 1,1:20:43.96,1:20:45.67,EN,,0,0,0,,{\rEN\blur1.6}It wasn't personal.
+Dialogue: 2,1:20:46.38,1:20:49.88,ZH,,0,0,0,,{\rZH\blur1.6}游客来找我，想来趟难忘的旅行。
+Dialogue: 1,1:20:46.38,1:20:49.88,EN,,0,0,0,,{\rEN\blur1.6}Tourists find me, want a memorable trip.
+Dialogue: 2,1:20:50.83,1:20:52.50,ZH,,0,0,0,,{\rZH\blur1.6}我就给他们一个。
+Dialogue: 1,1:20:50.83,1:20:52.50,EN,,0,0,0,,{\rEN\blur1.6}So I give them one.
+Dialogue: 2,1:20:53.96,1:20:55.83,ZH,,0,0,0,,{\rZH\blur1.6}然后他们掩护我。
+Dialogue: 1,1:20:53.96,1:20:55.83,EN,,0,0,0,,{\rEN\blur1.6}And then they give me cover.
+Dialogue: 2,1:20:56.50,1:20:58.67,ZH,,0,0,0,,{\rZH\blur1.6}这样我一个人也不显得可疑。
+Dialogue: 1,1:20:56.50,1:20:58.67,EN,,0,0,0,,{\rEN\blur1.6}So I don't look suspicious on my own.
+Dialogue: 2,1:20:58.71,1:21:00.21,ZH,,0,0,0,,{\rZH\blur1.6}他们永远都不会知道。
+Dialogue: 1,1:20:58.71,1:21:00.21,EN,,0,0,0,,{\rEN\blur1.6}They never find out.
+Dialogue: 2,1:21:00.25,1:21:03.79,ZH,,0,0,0,,{\rZH\blur1.6}他们就平平安安、开开心心回家了。
+Dialogue: 1,1:21:00.25,1:21:03.79,EN,,0,0,0,,{\rEN\blur1.6}And they go home safe and happy.
+Dialogue: 2,1:21:05.67,1:21:07.21,ZH,,0,0,0,,{\rZH\blur1.6}没人会受伤。
+Dialogue: 1,1:21:05.67,1:21:07.21,EN,,0,0,0,,{\rEN\blur1.6}No one gets hurt.
+Dialogue: 2,1:21:07.25,1:21:09.58,ZH,,0,0,0,,{\rZH\blur1.6}他们不给你打掩护。
+Dialogue: 1,1:21:07.25,1:21:09.58,EN,,0,0,0,,{\rEN\blur1.6}They don't give you cover.
+Dialogue: 2,1:21:10.21,1:21:12.12,ZH,,0,0,0,,{\rZH\blur1.6}你拿吧。
+Dialogue: 1,1:21:10.21,1:21:12.12,EN,,0,0,0,,{\rEN\blur1.6}You take it.
+Dialogue: 2,1:21:12.17,1:21:13.88,ZH,,0,0,0,,{\rZH\blur1.6}还有，万一我们被抓了，
+Dialogue: 1,1:21:12.17,1:21:13.88,EN,,0,0,0,,{\rEN\blur1.6}Also, if we got caught,
+Dialogue: 2,1:21:13.92,1:21:17.08,ZH,,0,0,0,,{\rZH\blur1.6}我们这辈子就得在泰国监狱里过了。
+Dialogue: 1,1:21:13.92,1:21:17.08,EN,,0,0,0,,{\rEN\blur1.6}we'd spend the rest of our lives in a Thai prison.
+Dialogue: 2,1:21:18.75,1:21:20.12,ZH,,0,0,0,,{\rZH\blur1.6}哎，拜托。
+Dialogue: 1,1:21:18.75,1:21:20.12,EN,,0,0,0,,{\rEN\blur1.6}Oh, come on.
+Dialogue: 2,1:21:20.17,1:21:22.12,ZH,,0,0,0,,{\rZH\blur1.6}你早就知道有风险。
+Dialogue: 1,1:21:20.17,1:21:22.12,EN,,0,0,0,,{\rEN\blur1.6}You knew the risks.
+Dialogue: 2,1:21:22.17,1:21:24.50,ZH,,0,0,0,,{\rZH\blur1.6}你这趟徒步是违法的。
+Dialogue: 1,1:21:22.17,1:21:24.50,EN,,0,0,0,,{\rEN\blur1.6}You are on an illegal hike.
+Dialogue: 2,1:21:25.12,1:21:26.83,ZH,,0,0,0,,{\rZH\blur1.6}你为了那事都准备犯法了。
+Dialogue: 1,1:21:25.12,1:21:26.83,EN,,0,0,0,,{\rEN\blur1.6}You were ready to break the law for that.
+Dialogue: 2,1:21:26.88,1:21:28.92,ZH,,0,0,0,,{\rZH\blur1.6}那不是一回事。
+Dialogue: 1,1:21:26.88,1:21:28.92,EN,,0,0,0,,{\rEN\blur1.6}That's not the same thing.
+Dialogue: 2,1:21:28.96,1:21:31.38,ZH,,0,0,0,,{\rZH\blur1.6}-那是咱们自己选的。  -就是。
+Dialogue: 1,1:21:28.96,1:21:31.38,EN,,0,0,0,,{\rEN\blur1.6}-We chose to do that.   -Exactly.
+Dialogue: 2,1:21:31.42,1:21:33.96,ZH,,0,0,0,,{\rZH\blur1.6}你连责任都担不起。
+Dialogue: 1,1:21:31.42,1:21:33.96,EN,,0,0,0,,{\rEN\blur1.6}You can't even take responsibility.
+Dialogue: 2,1:21:34.96,1:21:36.58,ZH,,0,0,0,,{\rZH\blur1.6}你这怂包，真可悲。
+Dialogue: 1,1:21:34.96,1:21:36.58,EN,,0,0,0,,{\rEN\blur1.6}You're a pathetic coward.
+Dialogue: 2,1:21:36.62,1:21:38.96,ZH,,0,0,0,,{\rZH\blur1.6}胆小鬼？
+Dialogue: 1,1:21:36.62,1:21:38.96,EN,,0,0,0,,{\rEN\blur1.6}Coward?
+Dialogue: 2,1:21:39.00,1:21:41.42,ZH,,0,0,0,,{\rZH\blur1.6}是我救了你们的命。
+Dialogue: 1,1:21:39.00,1:21:41.42,EN,,0,0,0,,{\rEN\blur1.6}I saved your lives.
+Dialogue: 2,1:21:41.46,1:21:44.17,ZH,,0,0,0,,{\rZH\blur1.6}其实，我是冒着生命危险救你的。
+Dialogue: 1,1:21:41.46,1:21:44.17,EN,,0,0,0,,{\rEN\blur1.6}In fact, I risked mine to save yours.
+Dialogue: 2,1:21:44.21,1:21:46.17,ZH,,0,0,0,,{\rZH\blur1.6}你该谢我才对。
+Dialogue: 1,1:21:44.21,1:21:46.17,EN,,0,0,0,,{\rEN\blur1.6}So you should be thanking me.
+Dialogue: 2,1:21:46.21,1:21:47.38,ZH,,0,0,0,,{\rZH\blur1.6}他疯了。
+Dialogue: 1,1:21:46.21,1:21:47.38,EN,,0,0,0,,{\rEN\blur1.6}He's crazy.
+Dialogue: 2,1:21:47.42,1:21:50.88,ZH,,0,0,0,,{\rZH\blur1.6}好吧，你没为了救我们“冒”生命危险。
+Dialogue: 1,1:21:47.42,1:21:50.88,EN,,0,0,0,,{\rEN\blur1.6}Okay, you didn't 'risk' your life to save us.
+Dialogue: 2,1:21:50.92,1:21:53.17,ZH,,0,0,0,,{\rZH\blur1.6}你冒险就为了这破玩意儿。
+Dialogue: 1,1:21:50.92,1:21:53.17,EN,,0,0,0,,{\rEN\blur1.6}You risked it for this shit.
+Dialogue: 2,1:21:53.21,1:21:56.33,ZH,,0,0,0,,{\rZH\blur1.6}你要是想要它，到时就会为这事谢我。
+Dialogue: 1,1:21:53.21,1:21:56.33,EN,,0,0,0,,{\rEN\blur1.6}If you want it, then you'll be thanking me for this.
+Dialogue: 2,1:21:56.38,1:21:58.54,ZH,,0,0,0,,{\rZH\blur1.6}不，不，不，不，不，不！不！
+Dialogue: 1,1:21:56.38,1:21:58.54,EN,,0,0,0,,{\rEN\blur1.6}No, no, no, no, no, no! No!
+Dialogue: 2,1:22:01.21,1:22:03.25,ZH,,0,0,0,,{\rZH\blur1.6}你完了。
+Dialogue: 1,1:22:01.21,1:22:03.25,EN,,0,0,0,,{\rEN\blur1.6}You're finished.
+Dialogue: 2,1:22:23.67,1:22:25.00,ZH,,0,0,0,,{\rZH\blur1.6}天哪。
+Dialogue: 1,1:22:23.67,1:22:25.00,EN,,0,0,0,,{\rEN\blur1.6}Oh, God.
+Dialogue: 2,1:22:26.54,1:22:28.58,ZH,,0,0,0,,{\rZH\blur1.6}她干嘛那么做？她没必要那么做啊。
+Dialogue: 1,1:22:26.54,1:22:28.58,EN,,0,0,0,,{\rEN\blur1.6}Why did she do that? She didn't have to do that.
+Dialogue: 2,1:22:28.62,1:22:29.67,ZH,,0,0,0,,{\rZH\blur1.6}你做了什么？
+Dialogue: 1,1:22:28.62,1:22:29.67,EN,,0,0,0,,{\rEN\blur1.6}What did you do?
+Dialogue: 2,1:22:29.67,1:22:32.29,ZH,,0,0,0,,{\rZH\blur1.6}那些罐子里的东西， 本来就不该让你看见。
+Dialogue: 1,1:22:29.67,1:22:32.29,EN,,0,0,0,,{\rEN\blur1.6}You were never meant to see what was in those tanks.
+Dialogue: 2,1:22:33.21,1:22:36.38,ZH,,0,0,0,,{\rZH\blur1.6}我是说，我不能在这儿坐牢，Jax。
+Dialogue: 1,1:22:33.21,1:22:36.38,EN,,0,0,0,,{\rEN\blur1.6}I mean, I can't go to jail here, Jax.
+Dialogue: 2,1:22:36.38,1:22:38.46,ZH,,0,0,0,,{\rZH\blur1.6}你不知道这儿监狱里是怎么对人的。
+Dialogue: 1,1:22:36.38,1:22:38.46,EN,,0,0,0,,{\rEN\blur1.6}You don't know what they do to people in prison here.
+Dialogue: 2,1:22:38.50,1:22:40.75,ZH,,0,0,0,,{\rZH\blur1.6}-你是个变态。  -不。不。
+Dialogue: 1,1:22:38.50,1:22:40.75,EN,,0,0,0,,{\rEN\blur1.6}-You're a psychopath.   -No. No.
+Dialogue: 2,1:22:42.25,1:22:43.92,ZH,,0,0,0,,{\rZH\blur1.6}不，她掉下去了。
+Dialogue: 1,1:22:42.25,1:22:43.92,EN,,0,0,0,,{\rEN\blur1.6}No, she fell.
+Dialogue: 2,1:22:44.46,1:22:46.88,ZH,,0,0,0,,{\rZH\blur1.6}我是说，这些山上老出事故，
+Dialogue: 1,1:22:44.46,1:22:46.88,EN,,0,0,0,,{\rEN\blur1.6}I mean, accidents happen all the time on these mountains,
+Dialogue: 2,1:22:46.92,1:22:48.21,ZH,,0,0,0,,{\rZH\blur1.6}所以……
+Dialogue: 1,1:22:46.92,1:22:48.21,EN,,0,0,0,,{\rEN\blur1.6}so...
+Dialogue: 2,1:22:52.75,1:22:53.92,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:22:52.75,1:22:53.92,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,1:22:53.96,1:22:55.17,ZH,,0,0,0,,{\rZH\blur1.6}-不！不！  -Jax，别！
+Dialogue: 1,1:22:53.96,1:22:55.17,EN,,0,0,0,,{\rEN\blur1.6}-No! No!   -Jax, don't!
+Dialogue: 2,1:22:55.33,1:22:57.67,ZH,,0,0,0,,{\rZH\blur1.6}站那儿别动，不然我就 扔下去，我对天发誓！
+Dialogue: 1,1:22:55.33,1:22:57.67,EN,,0,0,0,,{\rEN\blur1.6}You stay right there, or I will drop it, I swear to God!
+Dialogue: 2,1:22:57.67,1:23:00.38,ZH,,0,0,0,,{\rZH\blur1.6}就待在那儿，等救援人员到。
+Dialogue: 1,1:22:57.67,1:23:00.38,EN,,0,0,0,,{\rEN\blur1.6}Stay right there until the emergency services arrive.
+Dialogue: 2,1:23:07.50,1:23:09.83,ZH,,0,0,0,,{\rZH\blur1.6}他们不会来了，对吧？
+Dialogue: 1,1:23:07.50,1:23:09.83,EN,,0,0,0,,{\rEN\blur1.6}They're not coming, are they?
+Dialogue: 2,1:23:10.96,1:23:12.71,ZH,,0,0,0,,{\rZH\blur1.6}有架直升机飞过来了。
+Dialogue: 1,1:23:10.96,1:23:12.71,EN,,0,0,0,,{\rEN\blur1.6}There is a helicopter coming.
+Dialogue: 2,1:23:13.96,1:23:15.88,ZH,,0,0,0,,{\rZH\blur1.6}可那不是紧急救援部门。
+Dialogue: 1,1:23:13.96,1:23:15.88,EN,,0,0,0,,{\rEN\blur1.6}But it's not the emergency services.
+Dialogue: 2,1:23:17.29,1:23:20.58,ZH,,0,0,0,,{\rZH\blur1.6}坐那一趟的代价，就是那罐里的东西。
+Dialogue: 1,1:23:17.29,1:23:20.58,EN,,0,0,0,,{\rEN\blur1.6}And the cost of that ride is what is in that tank.
+Dialogue: 2,1:23:21.75,1:23:23.79,ZH,,0,0,0,,{\rZH\blur1.6}所以别犯傻。
+Dialogue: 1,1:23:21.75,1:23:23.79,EN,,0,0,0,,{\rEN\blur1.6}So do not be stupid.
+Dialogue: 2,1:23:24.21,1:23:27.67,ZH,,0,0,0,,{\rZH\blur1.6}听我说，你头两回没送成货……
+Dialogue: 1,1:23:24.21,1:23:27.67,EN,,0,0,0,,{\rEN\blur1.6}Look, first couple of times you fail a delivery...
+Dialogue: 2,1:23:28.92,1:23:31.17,ZH,,0,0,0,,{\rZH\blur1.6}你会少一根手指。
+Dialogue: 1,1:23:28.92,1:23:31.17,EN,,0,0,0,,{\rEN\blur1.6}you lose a finger.
+Dialogue: 2,1:23:31.21,1:23:33.33,ZH,,0,0,0,,{\rZH\blur1.6}第三次，就是你的头了。
+Dialogue: 1,1:23:31.21,1:23:33.33,EN,,0,0,0,,{\rEN\blur1.6}The third time, it's your head.
+Dialogue: 2,1:23:33.88,1:23:36.29,ZH,,0,0,0,,{\rZH\blur1.6}我跟大家一样，只想活下去。
+Dialogue: 1,1:23:33.88,1:23:36.29,EN,,0,0,0,,{\rEN\blur1.6}I'm just trying to survive like everyone else.
+Dialogue: 2,1:23:36.29,1:23:38.29,ZH,,0,0,0,,{\rZH\blur1.6}那就把罐子放下。
+Dialogue: 1,1:23:36.29,1:23:38.29,EN,,0,0,0,,{\rEN\blur1.6}So put down the canister.
+Dialogue: 2,1:23:41.83,1:23:43.21,ZH,,0,0,0,,{\rZH\blur1.6}不。
+Dialogue: 1,1:23:41.83,1:23:43.21,EN,,0,0,0,,{\rEN\blur1.6}No.
+Dialogue: 2,1:23:44.46,1:23:46.62,ZH,,0,0,0,,{\rZH\blur1.6}你他妈就是个懦夫。
+Dialogue: 1,1:23:44.46,1:23:46.62,EN,,0,0,0,,{\rEN\blur1.6}You're a fucking coward.
+Dialogue: 2,1:23:48.21,1:23:49.92,ZH,,0,0,0,,{\rZH\blur1.6}我不怕你。
+Dialogue: 1,1:23:48.21,1:23:49.92,EN,,0,0,0,,{\rEN\blur1.6}I'm not afraid of you.
+Dialogue: 2,1:23:49.92,1:23:51.29,ZH,,0,0,0,,{\rZH\blur1.6}哼！
+Dialogue: 1,1:23:49.92,1:23:51.29,EN,,0,0,0,,{\rEN\blur1.6}Grr!
+Dialogue: 2,1:23:54.67,1:23:55.88,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:23:54.67,1:23:55.88,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,1:24:02.88,1:24:04.58,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:24:02.88,1:24:04.58,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,1:24:20.71,1:24:21.75,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:24:20.71,1:24:21.75,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,1:24:24.83,1:24:26.42,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:24:24.83,1:24:26.42,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,1:24:34.17,1:24:36.17,ZH,,0,0,0,,{\rZH\blur1.6}是你逼我这么做的。
+Dialogue: 1,1:24:34.17,1:24:36.17,EN,,0,0,0,,{\rEN\blur1.6}You made me do this.
+Dialogue: 2,1:24:36.21,1:24:37.92,ZH,,0,0,0,,{\rZH\blur1.6}这本来不用这么难。
+Dialogue: 1,1:24:36.21,1:24:37.92,EN,,0,0,0,,{\rEN\blur1.6}This didn't have to be so hard.
+Dialogue: 2,1:24:47.75,1:24:49.50,ZH,,0,0,0,,{\rZH\blur1.6}-啊！
+Dialogue: 1,1:24:47.75,1:24:49.50,EN,,0,0,0,,{\rEN\blur1.6}-Arggh!
+Dialogue: 2,1:24:50.83,1:24:52.25,ZH,,0,0,0,,{\rZH\blur1.6}啊！
+Dialogue: 1,1:24:50.83,1:24:52.25,EN,,0,0,0,,{\rEN\blur1.6}Arggh!
+Dialogue: 2,1:24:55.04,1:24:57.92,ZH,,0,0,0,,{\rZH\blur1.6}啊！啊！
+Dialogue: 1,1:24:55.04,1:24:57.92,EN,,0,0,0,,{\rEN\blur1.6}Arggh! Arggh!
+Dialogue: 2,1:26:01.71,1:26:03.17,ZH,,0,0,0,,{\rZH\blur1.6}扣上...
+Dialogue: 1,1:26:01.71,1:26:03.17,EN,,0,0,0,,{\rEN\blur1.6}Clip in...
+Dialogue: 2,1:26:03.79,1:26:05.17,ZH,,0,0,0,,{\rZH\blur1.6}解开锁扣。
+Dialogue: 1,1:26:03.79,1:26:05.17,EN,,0,0,0,,{\rEN\blur1.6}clip out.
+Dialogue: 2,1:26:10.71,1:26:14.75,ZH,,0,0,0,,{\rZH\blur1.6}啊啊啊！
+Dialogue: 1,1:26:10.71,1:26:14.75,EN,,0,0,0,,{\rEN\blur1.6}Aargghhhh!
+Dialogue: 2,1:27:42.04,1:27:43.62,ZH,,0,0,0,,{\rZH\blur1.6}两杯威士忌。
+Dialogue: 1,1:27:42.04,1:27:43.62,EN,,0,0,0,,{\rEN\blur1.6}Two whiskies.
+Dialogue: 2,1:27:43.62,1:27:45.42,ZH,,0,0,0,,{\rZH\blur1.6}直走。
+Dialogue: 1,1:27:43.62,1:27:45.42,EN,,0,0,0,,{\rEN\blur1.6}Straight.
+Dialogue: 2,1:28:19.75,1:28:21.71,ZH,,0,0,0,,{\rZH\blur1.6}谢谢，Billie。
+Dialogue: 1,1:28:19.75,1:28:21.71,EN,,0,0,0,,{\rEN\blur1.6}Thanks, Billie.
+Dialogue: 3,0:00:00.50,0:00:07.50,EN,,0,0,0,,{\an5\pos(1920,1205.2)\fad(400,500)}可乐 PT 压制 · 中英双语字幕
