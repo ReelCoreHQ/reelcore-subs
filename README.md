@@ -13,6 +13,7 @@
 5. **不做了**：在认领 issue 里说一声，把它关掉（选 *Close as not planned*），别人就能认领。
 
 修改已经合并的字幕（改错字、调时间轴）不用认领，直接提 PR。
+组织成员批量导入（比如压制机做过的字幕）也不用一部部认领，但不能和别人开着的认领撞上。
 
 ## 编号
 
@@ -58,15 +59,23 @@ title = "重庆森林"
 original_title = "Chungking Express"
 year = 1994
 authors = ["你的 GitHub 用户名"]
+fonts = ["方正兰亭黑_GBK", "Noto Sans CJK SC"]   # ASS 里用到的所有字体（检查会核对）
 
+# [source] 这种表头要放最后：TOML 会把表头后面的键都算进这个表
 [source]                          # 字幕对的视频
 release = "Chungking Express 1994 1080p Blu-ray AVC DTS-HD MA 5.1"   # 原盘或片源的名字
 fps = "24000/1001"
 frames = 147997                   # 总帧数（mediainfo 的 Frame count），和时长二选一，最好都写
 duration = "01:42:51.958"
-
-fonts = ["方正兰亭黑_GBK", "Noto Sans CJK SC"]   # ASS 里用到的所有字体（检查会核对）
+crop = [0, 140, 0, 140]           # 可选：字幕画布对的是裁掉黑边后的画面（左、上、右、下，原盘像素）
 ```
+
+**画布和裁边**：特效字幕的坐标（`\pos`、`\move`、`\clip`……）是相对 `PlayResX/PlayResY` 画布的。
+在裁过黑边的视频上做的，写上 `crop`；在原盘整幅画面上做的，不写。压制机这次裁边不一样时，会按它换算画布和坐标。
+
+**颜色**：按 SDR 调。HDR 成品由压制机统一降亮，不要自己把颜色调暗。
+
+`origin`（可选）：字幕怎么来的，比如 `"reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"`。
 
 剧集 `tv/<tmdb>/meta.toml` 写 `title`、`original_title`、`year`、全剧共用的 `fonts`；
 每季 `tv/<tmdb>/sNN/meta.toml` 写 `authors`、`[source]`（`release`、`fps`），每集帧数不同的话写在 `[episodes]` 里：
@@ -89,12 +98,21 @@ e02 = { frames = 80021 }
 - **商业字体不要传进仓库**（这是公开仓库），只写名字，大家自己装。
 - `fonts/` 只收能公开分发的字体（SIL OFL 等），同一个字体只放一份，旁边放许可证。单个文件不超过 20 MB。
 
+## 压制机怎么用
+
+reelcore-encode 做字幕那一步先按 TMDB 编号到这里找 `movie/<tmdb>/`（含剪辑版本子目录）：
+`meta.toml` 的帧率和帧数（没写帧数就比时长，差 1 秒以内）和这张原盘对得上，就直接用这份 ASS，
+不再 OCR / 机器翻译；对不上就照常机器做，并在任务记录里写原因。
+语言挑 `zh-Hans+<原产地语言>` > `zh-Hans+en` > 其他 `zh-Hans+…` > `zh-Hans`。
+ASS 里用到的字体会封进 mkv：先在本仓库 `fonts/`、再在压制机自己的字体目录找，找不到这一步会报错（缺字体特效会走样）。
+
 ## 检查（GitHub Actions）
 
 - 目录和文件名格式、`meta.toml` 必填项；
 - ASS 能解析（UTF-8，有 `[Script Info]`、`[V4+ Styles]`、`[Events]`，写了 `PlayResX/PlayResY`）；
 - ASS 里用到的字体都列在 `fonts` 里；
-- PR 新加的片子 / 剧集要有对应的认领 issue，并且是指派给 PR 作者的。
+- PR 新加的片子 / 剧集要有对应的认领 issue，并且是指派给 PR 作者的；
+- 合并后，PR 描述里「认领 #号」的 issue 自动关闭。
 
 本地跑：`python3 tools/check.py tree`。
 

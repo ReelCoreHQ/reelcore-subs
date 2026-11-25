@@ -1,0 +1,1226 @@
+[Script Info]
+Title: The Lord of the Rings: The Return of the King 2003
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ZH,Noto Sans CJK SC,58,&H00F4F4F4,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.5,0,1,2.4,1.2,2,80,80,70,1
+Style: EN,Noto Sans CJK SC,38,&H0066D9FF,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.25,0,1,1.8,0.8,2,80,80,36,1
+Style: NOTE,Noto Sans CJK SC,28,&H00EDEDED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0.5,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:36.16,0:00:41.04,ZH,,0,0,0,,{\rZH\blur0.8}魔戒
+Dialogue: 0,0:01:17.29,0:01:19.12,ZH,,0,0,0,,{\rZH\blur0.8}史参戈 ！\N{\rEN\blur0.8}Sméago!!
+Dialogue: 0,0:01:19.08,0:01:21.54,ZH,,0,0,0,,{\rZH\blur0.8}我到了\N{\rEN\blur0.8}I've got one!
+Dialogue: 0,0:01:22.12,0:01:24.17,ZH,,0,0,0,,{\rZH\blur0.8}我到一条鱼了 史参戈\N{\rEN\blur0.8}I've got a fish, Sméag. Sméagol!
+Dialogue: 0,0:01:24.13,0:01:27.46,ZH,,0,0,0,,{\rZH\blur0.8}快钓上来，快呀 加油\N{\rEN\blur0.8}Pull it in. Go on. Go on. Go on. Pull it in.
+Dialogue: 0,0:01:35.47,0:01:37.51,ZH,,0,0,0,,{\rZH\blur0.8}德戈\N{\rEN\blur0.8}Déagol!
+Dialogue: 0,0:02:34.70,0:02:36.74,ZH,,0,0,0,,{\rZH\blur0.8}德戈？\N{\rEN\blur0.8}Déagol?
+Dialogue: 0,0:02:39.16,0:02:41.54,ZH,,0,0,0,,{\rZH\blur0.8}德戈\N{\rEN\blur0.8}Déagol.
+Dialogue: 0,0:02:57.14,0:02:59.43,ZH,,0,0,0,,{\rZH\blur0.8}好兄弟 把那给我\N{\rEN\blur0.8}Give us that, Déagol, my love.
+Dialogue: 0,0:03:04.18,0:03:05.69,ZH,,0,0,0,,{\rZH\blur0.8}为什？\N{\rEN\blur0.8}Why?
+Dialogue: 0,0:03:06.56,0:03:09.02,ZH,,0,0,0,,{\rZH\blur0.8}因为……\N{\rEN\blur0.8}Because...
+Dialogue: 0,0:03:08.98,0:03:12.94,ZH,,0,0,0,,{\rZH\blur0.8}今天是我生日 我要它\N{\rEN\blur0.8}...it's my birthday and I wants it.
+Dialogue: 0,0:04:46.79,0:04:52.25,ZH,,0,0,0,,{\rZH\blur0.8}我的宝贝\N{\rEN\blur0.8}My precious.
+Dialogue: 0,0:04:59.59,0:05:02.72,ZH,,0,0,0,,{\rZH\blur0.8}他们咒我们\N{\rEN\blur0.8}They cursed us.
+Dialogue: 0,0:05:02.68,0:05:04.26,ZH,,0,0,0,,{\rZH\blur0.8}杀人兑手\N{\rEN\blur0.8}Murderer.
+Dialogue: 0,0:05:04.22,0:05:06.89,ZH,,0,0,0,,{\rZH\blur0.8}还我们是杀人手\N{\rEN\blur0.8}"Murderer" they called us.
+Dialogue: 0,0:05:06.85,0:05:11.85,ZH,,0,0,0,,{\rZH\blur0.8}他们诅咒我们 把我们起走\N{\rEN\blur0.8}They cursed us and drove us away.
+Dialogue: 0,0:05:12.77,0:05:18.69,ZH,,0,0,0,,{\rZH\blur0.8}咕噜\N{\rEN\blur0.8}Gollum.
+Dialogue: 0,0:05:22.03,0:05:25.24,ZH,,0,0,0,,{\rZH\blur0.8}我们哭得好惨 宝贝\N{\rEN\blur0.8}And we wept, precious.
+Dialogue: 0,0:05:25.20,0:05:29.00,ZH,,0,0,0,,{\rZH\blur0.8}我们好孤单 哭得好惨\N{\rEN\blur0.8}We wept to be so alone.
+Dialogue: 0,0:05:31.37,0:05:35.38,ZH,,0,0,0,,{\rZH\blur0.8}湖水好清凉 ’底好舒服\N{\rEN\blur0.8}--and cool So nice for feet
+Dialogue: 0,0:05:36.17,0:05:40.76,ZH,,0,0,0,,{\rZH\blur0.8}我们只想抓到一条大鱼\N{\rEN\blur0.8}And we only wish To catch a fish
+Dialogue: 0,0:05:40.72,0:05:44.18,ZH,,0,0,0,,{\rZH\blur0.8}池塘的鱼儿好甘甜\N{\rEN\blur0.8}So juicy sweet
+Dialogue: 0,0:05:49.72,0:05:54.06,ZH,,0,0,0,,{\rZH\blur0.8}我们忘记面包的味道\N{\rEN\blur0.8}And we forgot the taste of bread...
+Dialogue: 0,0:05:54.02,0:05:57.86,ZH,,0,0,0,,{\rZH\blur0.8}树木的声音\N{\rEN\blur0.8}...the sound of trees...
+Dialogue: 0,0:05:58.52,0:06:01.94,ZH,,0,0,0,,{\rZH\blur0.8}和轻柔的微风\N{\rEN\blur0.8}...the softness of the wind.
+Dialogue: 0,0:06:02.36,0:06:08.24,ZH,,0,0,0,,{\rZH\blur0.8}甚至忘记自 己的名字\N{\rEN\blur0.8}We even forgot our own name.
+Dialogue: 0,0:06:16.17,0:06:22.80,ZH,,0,0,0,,{\rZH\blur0.8}我的宝贝\N{\rEN\blur0.8}My precious.
+Dialogue: 0,0:07:06.84,0:07:09.30,ZH,,0,0,0,,{\rZH\blur0.8}快醒醒\N{\rEN\blur0.8}Wake up!
+Dialogue: 0,0:07:10.14,0:07:12.02,ZH,,0,0,0,,{\rZH\blur0.8}醒醒\N{\rEN\blur0.8}Wake up!
+Dialogue: 0,0:07:11.97,0:07:13.98,ZH,,0,0,0,,{\rZH\blur0.8}爱睡 醒醒\N{\rEN\blur0.8}Wake up, sleepies.
+Dialogue: 0,0:07:13.93,0:07:16.02,ZH,,0,0,0,,{\rZH\blur0.8}我们得走了\N{\rEN\blur0.8}We must go, yes.
+Dialogue: 0,0:07:15.98,0:07:18.86,ZH,,0,0,0,,{\rZH\blur0.8}我们得马上出发\N{\rEN\blur0.8}We must go at once.
+Dialogue: 0,0:07:22.19,0:07:25.49,ZH,,0,0,0,,{\rZH\blur0.8}佛罗多先生 你都没睡？\N{\rEN\blur0.8}Haven't you had any sleep, Mr. Frodo?
+Dialogue: 0,0:07:27.49,0:07:30.24,ZH,,0,0,0,,{\rZH\blur0.8}我睡过头了\N{\rEN\blur0.8}I've gone and had too much.
+Dialogue: 0,0:07:31.41,0:07:33.37,ZH,,0,0,0,,{\rZH\blur0.8}天色一定很晚了\N{\rEN\blur0.8}Must be getting late.
+Dialogue: 0,0:07:33.33,0:07:35.04,ZH,,0,0,0,,{\rZH\blur0.8}没有\N{\rEN\blur0.8}No.
+Dialogue: 0,0:07:35.00,0:07:37.12,ZH,,0,0,0,,{\rZH\blur0.8}亚不晚\N{\rEN\blur0.8}It isn't.
+Dialogue: 0,0:07:37.08,0:07:40.34,ZH,,0,0,0,,{\rZH\blur0.8}都还没过中午\N{\rEN\blur0.8}It isn't midday yet.
+Dialogue: 0,0:07:40.29,0:07:43.09,ZH,,0,0,0,,{\rZH\blur0.8}天色越来越阴暗\N{\rEN\blur0.8}The days are growing darker.
+Dialogue: 0,0:07:47.13,0:07:49.55,ZH,,0,0,0,,{\rZH\blur0.8}走吧\N{\rEN\blur0.8}Come on!
+Dialogue: 0,0:07:51.76,0:07:54.22,ZH,,0,0,0,,{\rZH\blur0.8}快走吧 没时间了\N{\rEN\blur0.8}Must go! No time!
+Dialogue: 0,0:07:54.18,0:07:56.77,ZH,,0,0,0,,{\rZH\blur0.8}佛罗多先生得先吃点东西再走\N{\rEN\blur0.8}Not before Mr. Frodo's had something to eat.
+Dialogue: 0,0:07:56.73,0:07:59.81,ZH,,0,0,0,,{\rZH\blur0.8}不能浪费时间了 笨蛋\N{\rEN\blur0.8}No time to lose, silly.
+Dialogue: 0,0:08:08.36,0:08:09.86,ZH,,0,0,0,,{\rZH\blur0.8}拿去\N{\rEN\blur0.8}Here.
+Dialogue: 0,0:08:12.87,0:08:14.91,ZH,,0,0,0,,{\rZH\blur0.8}那你呢？\N{\rEN\blur0.8}What about you?
+Dialogue: 0,0:08:14.87,0:08:18.46,ZH,,0,0,0,,{\rZH\blur0.8}我不 反正我不爱吃兰巴斯包\N{\rEN\blur0.8}Oh, no, I'm not hungry. Leastways, not for lembas bread.
+Dialogue: 0,0:08:18.83,0:08:20.42,ZH,,0,0,0,,{\rZH\blur0.8}山姆\N{\rEN\blur0.8}Sam.
+Dialogue: 0,0:08:22.79,0:08:24.55,ZH,,0,0,0,,{\rZH\blur0.8}好吧\N{\rEN\blur0.8}All right.
+Dialogue: 0,0:08:24.50,0:08:27.22,ZH,,0,0,0,,{\rZH\blur0.8}剩下的干不多了\N{\rEN\blur0.8}We don't have that much left.
+Dialogue: 0,0:08:27.17,0:08:30.26,ZH,,0,0,0,,{\rZH\blur0.8}我们要省点吃 不然很快就会吃完\N{\rEN\blur0.8}We have to be careful or we're going to run out.
+Dialogue: 0,0:08:32.22,0:08:35.35,ZH,,0,0,0,,{\rZH\blur0.8}你先吃吧 佛罗多先生\N{\rEN\blur0.8}You go ahead and eat that, Mr. Frodo.
+Dialogue: 0,0:08:35.31,0:08:36.93,ZH,,0,0,0,,{\rZH\blur0.8}我算过了\N{\rEN\blur0.8}I've rationed it.
+Dialogue: 0,0:08:37.22,0:08:39.10,ZH,,0,0,0,,{\rZH\blur0.8}这趟路应该吃\N{\rEN\blur0.8}There should be enough.
+Dialogue: 0,0:08:41.06,0:08:42.48,ZH,,0,0,0,,{\rZH\blur0.8}哪趟路？\N{\rEN\blur0.8}For what?
+Dialogue: 0,0:08:43.94,0:08:45.90,ZH,,0,0,0,,{\rZH\blur0.8}回家的路\N{\rEN\blur0.8}The journey home.
+Dialogue: 0,0:08:53.53,0:08:56.08,ZH,,0,0,0,,{\rZH\blur0.8}来吧 小哈比人\N{\rEN\blur0.8}Come, Hobbitses.
+Dialogue: 0,0:08:57.24,0:08:59.33,ZH,,0,0,0,,{\rZH\blur0.8}就快到了\N{\rEN\blur0.8}Very close now.
+Dialogue: 0,0:08:59.29,0:09:02.75,ZH,,0,0,0,,{\rZH\blur0.8}就快到魔多了\N{\rEN\blur0.8}Very close to Mordor.
+Dialogue: 0,0:09:02.71,0:09:05.59,ZH,,0,0,0,,{\rZH\blur0.8}这儿不安全\N{\rEN\blur0.8}No safe places here.
+Dialogue: 0,0:09:05.54,0:09:07.92,ZH,,0,0,0,,{\rZH\blur0.8}快走吧\N{\rEN\blur0.8}Hurry.
+Dialogue: 0,0:09:50.42,0:09:56.01,ZH,,0,0,0,,{\rZH\blur0.8}王者再
+Dialogue: 0,0:10:00.10,0:10:02.02,ZH,,0,0,0,,{\rZH\blur0.8}这好棒\N{\rEN\blur0.8}It's good.
+Dialogue: 0,0:10:02.73,0:10:04.69,ZH,,0,0,0,,{\rZH\blur0.8}对是来自夏尔\N{\rEN\blur0.8}Definitely from the Shire.
+Dialogue: 0,0:10:06.69,0:10:09.02,ZH,,0,0,0,,{\rZH\blur0.8}长底烟草\N{\rEN\blur0.8}Longbottom Leaf.
+Dialogue: 0,0:10:14.16,0:10:18.70,ZH,,0,0,0,,{\rZH\blur0.8}我觉得好像又回到龙旅店\N{\rEN\blur0.8}I feel like I'm back at The Green Dragon.
+Dialogue: 0,0:10:18.74,0:10:23.04,ZH,,0,0,0,,{\rZH\blur0.8}-龙旅店 -手里拿著一杯黑啤酒\N{\rEN\blur0.8}-Mmm. Green Dragon.   -A mug of ale in my hand.
+Dialogue: 0,0:10:23.00,0:10:27.79,ZH,,0,0,0,,{\rZH\blur0.8}辛苦了。一整天 把翘起来休息\N{\rEN\blur0.8}Putting my feet up on a settle after a hard day's work.
+Dialogue: 0,0:10:28.17,0:10:31.84,ZH,,0,0,0,,{\rZH\blur0.8}但你来就没辛苦过一整天\N{\rEN\blur0.8}Only, you've never done a hard day's work.
+Dialogue: 0,0:10:44.43,0:10:47.69,ZH,,0,0,0,,{\rZH\blur0.8}各位大\N{\rEN\blur0.8}Welcome, my lords...
+Dialogue: 0,0:10:47.65,0:10:50.11,ZH,,0,0,0,,{\rZH\blur0.8}欢迎光临艾辛格\N{\rEN\blur0.8}...to Isengard!
+Dialogue: 0,0:10:50.28,0:10:54.24,ZH,,0,0,0,,{\rZH\blur0.8}好小子 我们拼了老命找你们\N{\rEN\blur0.8}You young rascals! A merry hunt you've led us on...
+Dialogue: 0,0:10:54.20,0:10:59.41,ZH,,0,0,0,,{\rZH\blur0.8}你们在这儿大吃大喝 还在抽烟斗\N{\rEN\blur0.8}...and now we find you feasting and...and smoking!
+Dialogue: 0,0:10:59.37,0:11:02.74,ZH,,0,0,0,,{\rZH\blur0.8}我们刚在场上打了场胜仗\N{\rEN\blur0.8}We are sitting on a field of victory...
+Dialogue: 0,0:11:02.74,0:11:06.42,ZH,,0,0,0,,{\rZH\blur0.8}当然要坐下来好好享受一下\N{\rEN\blur0.8}... enjoying a few well-earned comforts.
+Dialogue: 0,0:11:07.29,0:11:11.34,ZH,,0,0,0,,{\rZH\blur0.8}这块猪肉非常美味\N{\rEN\blur0.8}The salted pork is particularly good.
+Dialogue: 0,0:11:11.67,0:11:14.26,ZH,,0,0,0,,{\rZH\blur0.8}猪肉 ？\N{\rEN\blur0.8}Salted pork?
+Dialogue: 0,0:11:14.76,0:11:18.89,ZH,,0,0,0,,{\rZH\blur0.8}-哈比人 -我们奉了树的命令\N{\rEN\blur0.8}-Huh. Hobbits.   -We're under orders from Treebeard...
+Dialogue: 0,0:11:18.84,0:11:21.68,ZH,,0,0,0,,{\rZH\blur0.8}他接管了艾辛格\N{\rEN\blur0.8}...who's taken over management of Isengard.
+Dialogue: 0,0:11:24.22,0:11:27.44,ZH,,0,0,0,,{\rZH\blur0.8}年轻的甘道夫大人\N{\rEN\blur0.8}Young Master Gandalf.
+Dialogue: 0,0:11:27.40,0:11:32.19,ZH,,0,0,0,,{\rZH\blur0.8}我很高兴你来了\N{\rEN\blur0.8}I'm glad you've come.
+Dialogue: 0,0:11:32.15,0:11:36.78,ZH,,0,0,0,,{\rZH\blur0.8}我能处理木头和水 牲畜和岩石\N{\rEN\blur0.8}Wood and water, stock and stone I can master.
+Dialogue: 0,0:11:36.74,0:11:40.62,ZH,,0,0,0,,{\rZH\blur0.8}但是这儿有一个巫师要对付\N{\rEN\blur0.8}But there is a wizard to manage here...
+Dialogue: 0,0:11:40.58,0:11:42.78,ZH,,0,0,0,,{\rZH\blur0.8}他被关在高塔上\N{\rEN\blur0.8}...locked in his tower.
+Dialogue: 0,0:11:45.25,0:11:46.79,ZH,,0,0,0,,{\rZH\blur0.8}现身吧\N{\rEN\blur0.8}Show yourself.
+Dialogue: 0,0:11:46.83,0:11:48.67,ZH,,0,0,0,,{\rZH\blur0.8}小心\N{\rEN\blur0.8}Be careful.
+Dialogue: 0,0:11:49.29,0:11:52.13,ZH,,0,0,0,,{\rZH\blur0.8}然鲁曼被撃 他还是很危险\N{\rEN\blur0.8}Even in defeat, Saruman is dangerous.
+Dialogue: 0,0:11:52.13,0:11:54.42,ZH,,0,0,0,,{\rZH\blur0.8}把他的头砍掉不就行了\N{\rEN\blur0.8}Well, let's just have his head and be done with it.
+Dialogue: 0,0:11:54.38,0:11:56.63,ZH,,0,0,0,,{\rZH\blur0.8}不行\N{\rEN\blur0.8}No.
+Dialogue: 0,0:11:56.80,0:11:59.30,ZH,,0,0,0,,{\rZH\blur0.8}我们要留他活口\N{\rEN\blur0.8}We need him alive.
+Dialogue: 0,0:12:00.14,0:12:02.89,ZH,,0,0,0,,{\rZH\blur0.8}我们要问他话\N{\rEN\blur0.8}We need him to talk.
+Dialogue: 0,0:12:04.56,0:12:08.98,ZH,,0,0,0,,{\rZH\blur0.8}你身经百 杀无数 希优顿王\N{\rEN\blur0.8}You have fought many wars and slain many men, Théoden King...
+Dialogue: 0,0:12:08.98,0:12:10.65,ZH,,0,0,0,,{\rZH\blur0.8}然后又能持和平\N{\rEN\blur0.8}..and made peace afterwards.
+Dialogue: 0,0:12:10.65,0:12:15.78,ZH,,0,0,0,,{\rZH\blur0.8}难道我们不能像以前一样 一起共商国事 老朋友？\N{\rEN\blur0.8}Can we not take counsel together as we once did, my old friend?
+Dialogue: 0,0:12:15.78,0:12:19.16,ZH,,0,0,0,,{\rZH\blur0.8}你跟我不能和平共处？\N{\rEN\blur0.8}Can we not have peace, you and I?
+Dialogue: 0,0:12:19.16,0:12:21.24,ZH,,0,0,0,,{\rZH\blur0.8}我们可以和平共处\N{\rEN\blur0.8}We shall have peace.
+Dialogue: 0,0:12:22.99,0:12:25.29,ZH,,0,0,0,,{\rZH\blur0.8}我们可以和平共处\N{\rEN\blur0.8}We shall have peace...
+Dialogue: 0,0:12:25.29,0:12:29.50,ZH,,0,0,0,,{\rZH\blur0.8}只要你为燃烧的西谷……\N{\rEN\blur0.8}...when you answer for the burning of the Westfold...
+Dialogue: 0,0:12:29.50,0:12:32.42,ZH,,0,0,0,,{\rZH\blur0.8}以及死在那儿的孩童 付出惨痛的代价\N{\rEN\blur0.8}...and the children that lie dead there!
+Dialogue: 0,0:12:33.00,0:12:37.34,ZH,,0,0,0,,{\rZH\blur0.8}我们可以和平共处 只要我们的士兵大仇得报\N{\rEN\blur0.8}We shall have peace when the lives of the soldiers...
+Dialogue: 0,0:12:37.34,0:12:39.59,ZH,,0,0,0,,{\rZH\blur0.8}他们在号角堡城门前烈牲后\N{\rEN\blur0.8}... whose bodies were hewn even as they lay dead...
+Dialogue: 0,0:12:39.55,0:12:43.30,ZH,,0,0,0,,{\rZH\blur0.8}首仍被人砍得支离破碎\N{\rEN\blur0.8}...against the gates of the Hornburg, are avenged!
+Dialogue: 0,0:12:44.68,0:12:50.44,ZH,,0,0,0,,{\rZH\blur0.8}当你被吊在绞架上 成为乌嘴里的食物\N{\rEN\blur0.8}When you hang from a gibbet for the sport of your own crows...
+Dialogue: 0,0:12:51.19,0:12:53.61,ZH,,0,0,0,,{\rZH\blur0.8}我们就能和平共处\N{\rEN\blur0.8}...we Shall have peace.
+Dialogue: 0,0:12:56.19,0:12:59.07,ZH,,0,0,0,,{\rZH\blur0.8}纹架和乌？\N{\rEN\blur0.8}Gibbets and crows?
+Dialogue: 0,0:12:59.20,0:13:00.66,ZH,,0,0,0,,{\rZH\blur0.8}老糊涂 ！\N{\rEN\blur0.8}Dotard!
+Dialogue: 0,0:13:01.91,0:13:04.95,ZH,,0,0,0,,{\rZH\blur0.8}你到底要甚 灰袍甘道夫？\N{\rEN\blur0.8}What do you want, Gandalf Greyhame?
+Dialogue: 0,0:13:05.74,0:13:08.45,ZH,,0,0,0,,{\rZH\blur0.8}我猜 欧散克塔的匙？\N{\rEN\blur0.8}Let me guess. The Key of Orthanc.
+Dialogue: 0,0:13:08.41,0:13:11.54,ZH,,0,0,0,,{\rZH\blur0.8}或者是巴拉多的匙？\N{\rEN\blur0.8}Or perhaps the Keys of Barad-dar itself...
+Dialogue: 0,0:13:11.54,0:13:15.71,ZH,,0,0,0,,{\rZH\blur0.8}还有七王之冠和五巫之杖？\N{\rEN\blur0.8}...along with the crowns of the seven kings and the rods of the Five Wizards!
+Dialogue: 0,0:13:15.71,0:13:18.84,ZH,,0,0,0,,{\rZH\blur0.8}你的阴谋已经害死无数人命\N{\rEN\blur0.8}Your treachery has already cost many lives.
+Dialogue: 0,0:13:18.84,0:13:21.38,ZH,,0,0,0,,{\rZH\blur0.8}成千上万的人正面临危险\N{\rEN\blur0.8}Thousands more are now at risk.
+Dialogue: 0,0:13:21.38,0:13:23.93,ZH,,0,0,0,,{\rZH\blur0.8}但是你可以救他们 鲁曼\N{\rEN\blur0.8}But you could save them, Saruman.
+Dialogue: 0,0:13:23.89,0:13:26.39,ZH,,0,0,0,,{\rZH\blur0.8}你曾是人的心腹\N{\rEN\blur0.8}You were deep in the enemy's counsel.
+Dialogue: 0,0:13:26.39,0:13:29.85,ZH,,0,0,0,,{\rZH\blur0.8}原来你是来打探军情的\N{\rEN\blur0.8}So you have come here for information.
+Dialogue: 0,0:13:30.56,0:13:32.56,ZH,,0,0,0,,{\rZH\blur0.8}我倒是可以透露一些消息\N{\rEN\blur0.8}I have some for you.
+Dialogue: 0,0:13:37.86,0:13:40.99,ZH,,0,0,0,,{\rZH\blur0.8}中土世界有另一股力量在蕴酿\N{\rEN\blur0.8}Something festers in the heart of Middle-earth.
+Dialogue: 0,0:13:40.94,0:13:43.41,ZH,,0,0,0,,{\rZH\blur0.8}你亚没有看到\N{\rEN\blur0.8}Something that you have failed to see.
+Dialogue: 0,0:13:45.74,0:13:49.41,ZH,,0,0,0,,{\rZH\blur0.8}但是王之眼看到了\N{\rEN\blur0.8}But the Great Eye has seen it.
+Dialogue: 0,0:13:50.25,0:13:54.17,ZH,,0,0,0,,{\rZH\blur0.8}现在他会掌握这个优势\N{\rEN\blur0.8}Even now he presses his advantage.
+Dialogue: 0,0:13:55.75,0:13:59.26,ZH,,0,0,0,,{\rZH\blur0.8}很快就会发动进攻\N{\rEN\blur0.8}His attack will come soon.
+Dialogue: 0,0:14:01.26,0:14:03.59,ZH,,0,0,0,,{\rZH\blur0.8}你们全都会死\N{\rEN\blur0.8}You're all going to die.
+Dialogue: 0,0:14:05.93,0:14:09.35,ZH,,0,0,0,,{\rZH\blur0.8}但是你早就知道了 对吧 甘道夫\N{\rEN\blur0.8}But you know this, don't you, Gandalf?
+Dialogue: 0,0:14:09.31,0:14:14.14,ZH,,0,0,0,,{\rZH\blur0.8}你不会以为这个游侠 真能坐上刚王位吧？\N{\rEN\blur0.8}You cannot think that this Ranger will ever sit upon the throne of Gondor.
+Dialogue: 0,0:14:14.10,0:14:20.40,ZH,,0,0,0,,{\rZH\blur0.8}这个阴影中爬出来的流亡者 将永远不会成为人皇\N{\rEN\blur0.8}This exile, crept from the shadows, will never be crowned king.
+Dialogue: 0,0:14:21.53,0:14:25.41,ZH,,0,0,0,,{\rZH\blur0.8}甘道夫会毫不疑 牲他最亲近的朋友\N{\rEN\blur0.8}Gandalf does not hesitate to sacrifice those closest to him...
+Dialogue: 0,0:14:26.12,0:14:28.53,ZH,,0,0,0,,{\rZH\blur0.8}那些他声热爱的朋友\N{\rEN\blur0.8}... those he professes to love.
+Dialogue: 0,0:14:29.41,0:14:34.12,ZH,,0,0,0,,{\rZH\blur0.8}告我 你那个半人去送死之前\N{\rEN\blur0.8}Tell me, what words of comfort did you give the Halfling...
+Dialogue: 0,0:14:34.12,0:14:37.34,ZH,,0,0,0,,{\rZH\blur0.8}跟他了甚好话？\N{\rEN\blur0.8}...before you sent him to his doom?
+Dialogue: 0,0:14:39.54,0:14:44.47,ZH,,0,0,0,,{\rZH\blur0.8}你他走上一条必死无疑的不归路\N{\rEN\blur0.8}The path that you have set him on can only lead to death.
+Dialogue: 0,0:14:44.63,0:14:46.97,ZH,,0,0,0,,{\rZH\blur0.8}我了\N{\rEN\blur0.8}I've heard enough!
+Dialogue: 0,0:14:46.97,0:14:48.97,ZH,,0,0,0,,{\rZH\blur0.8}杀了他 一箭把他射死吧\N{\rEN\blur0.8}Shoot him. Stick an arrow in his gob.
+Dialogue: 0,0:14:49.30,0:14:51.14,ZH,,0,0,0,,{\rZH\blur0.8}不行\N{\rEN\blur0.8}No.
+Dialogue: 0,0:14:51.43,0:14:53.81,ZH,,0,0,0,,{\rZH\blur0.8}萨鲁曼 只要你下来\N{\rEN\blur0.8}Come down, Saruman...
+Dialogue: 0,0:14:53.81,0:14:57.94,ZH,,0,0,0,,{\rZH\blur0.8}-我就你一命 -你不用可或同情我\N{\rEN\blur0.8}-...and your life will be spared.   -Save your pity and your mercy.
+Dialogue: 0,0:14:57.94,0:14:59.44,ZH,,0,0,0,,{\rZH\blur0.8}我不需要\N{\rEN\blur0.8}I have no use for it!
+Dialogue: 0,0:15:08.53,0:15:10.12,ZH,,0,0,0,,{\rZH\blur0.8}鲁曼\N{\rEN\blur0.8}Saruman...
+Dialogue: 0,0:15:11.04,0:15:14.33,ZH,,0,0,0,,{\rZH\blur0.8}你的手杖将被折断\N{\rEN\blur0.8}...your Staff is broken.
+Dialogue: 0,0:15:25.01,0:15:28.68,ZH,,0,0,0,,{\rZH\blur0.8}葛力马 你不必跟随他\N{\rEN\blur0.8}Grima, you need not follow him.
+Dialogue: 0,0:15:29.68,0:15:32.52,ZH,,0,0,0,,{\rZH\blur0.8}你以前没像现在这\N{\rEN\blur0.8}You were not always as you are now.
+Dialogue: 0,0:15:32.52,0:15:35.52,ZH,,0,0,0,,{\rZH\blur0.8}你曾经也是洛汗子弟\N{\rEN\blur0.8}You were once a Man of Rohan.
+Dialogue: 0,0:15:35.52,0:15:36.94,ZH,,0,0,0,,{\rZH\blur0.8}下来吧\N{\rEN\blur0.8}Come down.
+Dialogue: 0,0:15:36.89,0:15:39.81,ZH,,0,0,0,,{\rZH\blur0.8}洛汗子弟？\N{\rEN\blur0.8}A Man of Rohan?
+Dialogue: 0,0:15:40.52,0:15:42.98,ZH,,0,0,0,,{\rZH\blur0.8}洛汗算甚东西？\N{\rEN\blur0.8}What is the house of Rohan...
+Dialogue: 0,0:15:42.98,0:15:46.82,ZH,,0,0,0,,{\rZH\blur0.8}他们不过是一群土匪 住在茅草屋 喝航的水\N{\rEN\blur0.8}...but a thatched barn where brigands drink in the reek...
+Dialogue: 0,0:15:46.78,0:15:50.70,ZH,,0,0,0,,{\rZH\blur0.8}他们的小孩跟畜生 在地上爬来爬去\N{\rEN\blur0.8}...and their brats roll on the floor with the dogs?
+Dialogue: 0,0:15:51.03,0:15:57.66,ZH,,0,0,0,,{\rZH\blur0.8}圣盔谷的胜利不属于你 国国王希优顿\N{\rEN\blur0.8}The victory at Helm's Deep does not belong to you, Théoden Horse-master.
+Dialogue: 0,0:15:58.08,0:16:02.88,ZH,,0,0,0,,{\rZH\blur0.8}你愧对你伟大的祖先\N{\rEN\blur0.8}You are a lesser son of greater sires.
+Dialogue: 0,0:16:05.05,0:16:06.92,ZH,,0,0,0,,{\rZH\blur0.8}葛力马\N{\rEN\blur0.8}Grima...
+Dialogue: 0,0:16:07.55,0:16:09.64,ZH,,0,0,0,,{\rZH\blur0.8}下来吧\N{\rEN\blur0.8}...come down.
+Dialogue: 0,0:16:09.76,0:16:11.39,ZH,,0,0,0,,{\rZH\blur0.8}摄脱他 重获自 由\N{\rEN\blur0.8}Be free of him.
+Dialogue: 0,0:16:11.39,0:16:15.56,ZH,,0,0,0,,{\rZH\blur0.8}一自 由 ？他永远不会自 由 一不\N{\rEN\blur0.8}-Free? He will never be free.   -No.
+Dialogue: 0,0:16:15.72,0:16:18.56,ZH,,0,0,0,,{\rZH\blur0.8}倒下吧 畜生\N{\rEN\blur0.8}Get down, cur!
+Dialogue: 0,0:16:20.06,0:16:21.61,ZH,,0,0,0,,{\rZH\blur0.8}鲁曼\N{\rEN\blur0.8}Saruman!
+Dialogue: 0,0:16:21.56,0:16:24.40,ZH,,0,0,0,,{\rZH\blur0.8}你曾是人的心腹\N{\rEN\blur0.8}You were deep in the enemy's counsel.
+Dialogue: 0,0:16:24.73,0:16:27.07,ZH,,0,0,0,,{\rZH\blur0.8}告我们你知道甚\N{\rEN\blur0.8}Tell us what you know!
+Dialogue: 0,0:16:28.40,0:16:33.83,ZH,,0,0,0,,{\rZH\blur0.8}把你的护卫撤走 我就跟你你会在哪里死\N{\rEN\blur0.8}You withdraw your guard, and I will tell you where your doom will be decided.
+Dialogue: 0,0:16:33.78,0:16:37.54,ZH,,0,0,0,,{\rZH\blur0.8}我才不要为俘虏\N{\rEN\blur0.8}I will not be held prisoner here.
+Dialogue: 0,0:17:04.52,0:17:06.19,ZH,,0,0,0,,{\rZH\blur0.8}把消息傅给我们的盟友\N{\rEN\blur0.8}Send word to all our allies...
+Dialogue: 0,0:17:06.23,0:17:09.28,ZH,,0,0,0,,{\rZH\blur0.8}以及中土世界每个自由的角落\N{\rEN\blur0.8}...and to every corner of Middle-earth that still stands free.
+Dialogue: 0,0:17:09.61,0:17:12.95,ZH,,0,0,0,,{\rZH\blur0.8}人备向我们进攻 我们要知道他的 目标是哪里\N{\rEN\blur0.8}The enemy moves against us. We need to know where he will strike.
+Dialogue: 0,0:17:31.97,0:17:36.10,ZH,,0,0,0,,{\rZH\blur0.8}萨鲁曼的污\N{\rEN\blur0.8}The filth of Saruman...
+Dialogue: 0,0:17:36.10,0:17:40.10,ZH,,0,0,0,,{\rZH\blur0.8}被冲得一干二净\N{\rEN\blur0.8}...S washing away.
+Dialogue: 0,0:17:40.10,0:17:44.81,ZH,,0,0,0,,{\rZH\blur0.8}树木将回来住在这儿\N{\rEN\blur0.8}Trees will come back to live here.
+Dialogue: 0,0:17:45.15,0:17:47.48,ZH,,0,0,0,,{\rZH\blur0.8}年轻的树木\N{\rEN\blur0.8}Young trees.
+Dialogue: 0,0:17:47.48,0:17:49.86,ZH,,0,0,0,,{\rZH\blur0.8}-狂野的树木 -皮聘\N{\rEN\blur0.8}-Wild trees.   -Pippin!
+Dialogue: 0,0:17:59.16,0:18:01.50,ZH,,0,0,0,,{\rZH\blur0.8}我的老天\N{\rEN\blur0.8}Bless my bark!
+Dialogue: 0,0:18:01.50,0:18:03.54,ZH,,0,0,0,,{\rZH\blur0.8}皮理根多克\N{\rEN\blur0.8}Peregrin Took!
+Dialogue: 0,0:18:03.50,0:18:06.34,ZH,,0,0,0,,{\rZH\blur0.8}拿给我 小子\N{\rEN\blur0.8}I'll take that, my lad.
+Dialogue: 0,0:18:06.34,0:18:08.38,ZH,,0,0,0,,{\rZH\blur0.8}快点交给我\N{\rEN\blur0.8}Quickly, now.
+Dialogue: 0,0:18:58.39,0:19:04.14,ZH,,0,0,0,,{\rZH\blur0.8}今晚我们纪念 为祖国烈牲的勇士\N{\rEN\blur0.8}Tonight we remember those who gave their blood to defend this country.
+Dialogue: 0,0:19:04.60,0:19:06.85,ZH,,0,0,0,,{\rZH\blur0.8}为光荣死的同胞干杯\N{\rEN\blur0.8}Hail the victorious dead.
+Dialogue: 0,0:19:06.81,0:19:08.44,ZH,,0,0,0,,{\rZH\blur0.8}干杯\N{\rEN\blur0.8}Hail!
+Dialogue: 0,0:19:19.24,0:19:21.33,ZH,,0,0,0,,{\rZH\blur0.8}一口氯喝下去\N{\rEN\blur0.8}No pauses.
+Dialogue: 0,0:19:21.29,0:19:25.66,ZH,,0,0,0,,{\rZH\blur0.8}-不准漉出来 -也不准吐出来\N{\rEN\blur0.8}-No spills.   -And no regurgitation.
+Dialogue: 0,0:19:25.96,0:19:27.83,ZH,,0,0,0,,{\rZH\blur0.8}我们在比酒量？\N{\rEN\blur0.8}So it's a drinking game?
+Dialogue: 0,0:19:29.29,0:19:32.09,ZH,,0,0,0,,{\rZH\blur0.8}最后站著不倒的人就算赢\N{\rEN\blur0.8}Last one standing wins.
+Dialogue: 0,0:19:36.13,0:19:38.43,ZH,,0,0,0,,{\rZH\blur0.8}为胜利干杯\N{\rEN\blur0.8}What'll we drink to? Let's drink to victory!
+Dialogue: 0,0:19:38.47,0:19:40.01,ZH,,0,0,0,,{\rZH\blur0.8}胜利\N{\rEN\blur0.8}To victory!
+Dialogue: 0,0:20:23.81,0:20:25.64,ZH,,0,0,0,,{\rZH\blur0.8}我为你感到高兴\N{\rEN\blur0.8}I am happy for you.
+Dialogue: 0,0:20:25.81,0:20:28.44,ZH,,0,0,0,,{\rZH\blur0.8}他是个男子漠\N{\rEN\blur0.8}He is an honorable man.
+Dialogue: 0,0:20:28.64,0:20:31.31,ZH,,0,0,0,,{\rZH\blur0.8}你们都是男子汉\N{\rEN\blur0.8}You are both honorable men.
+Dialogue: 0,0:20:32.98,0:20:38.49,ZH,,0,0,0,,{\rZH\blur0.8}率领洛汗人打胜仗的 不是我希优顿王\N{\rEN\blur0.8}It was not Théoden of Rohan who led our people to victory.
+Dialogue: 0,0:20:45.20,0:20:48.50,ZH,,0,0,0,,{\rZH\blur0.8}你不必我发牢\N{\rEN\blur0.8}Ah, don't listen to me.
+Dialogue: 0,0:20:49.16,0:20:50.83,ZH,,0,0,0,,{\rZH\blur0.8}你还年轻\N{\rEN\blur0.8}You are young.
+Dialogue: 0,0:20:50.83,0:20:53.34,ZH,,0,0,0,,{\rZH\blur0.8}今晚属于你\N{\rEN\blur0.8}And tonight is for you.
+Dialogue: 0,0:21:07.52,0:21:09.35,ZH,,0,0,0,,{\rZH\blur0.8}干杯\N{\rEN\blur0.8}Here, here.
+Dialogue: 0,0:21:10.69,0:21:16.78,ZH,,0,0,0,,{\rZH\blur0.8}矮人要跟全身长毛 的矮小女人一起游泳\N{\rEN\blur0.8}It's the Dwarves that go swimming with little, hairy women.
+Dialogue: 0,0:21:21.95,0:21:23.41,ZH,,0,0,0,,{\rZH\blur0.8}我觉得怪怪的\N{\rEN\blur0.8}I feel something.
+Dialogue: 0,0:21:25.37,0:21:28.04,ZH,,0,0,0,,{\rZH\blur0.8}我的手有点麻\N{\rEN\blur0.8}A slight tingle in my fingers.
+Dialogue: 0,0:21:28.54,0:21:30.33,ZH,,0,0,0,,{\rZH\blur0.8}我想我喝醉了\N{\rEN\blur0.8}I think it's affecting me.
+Dialogue: 0,0:21:32.04,0:21:33.96,ZH,,0,0,0,,{\rZH\blur0.8}我就吧\N{\rEN\blur0.8}What did I say?
+Dialogue: 0,0:21:33.92,0:21:37.46,ZH,,0,0,0,,{\rZH\blur0.8}他的酒量很差\N{\rEN\blur0.8}He can't hold his liquor.
+Dialogue: 0,0:21:44.60,0:21:46.14,ZH,,0,0,0,,{\rZH\blur0.8}他玩完了\N{\rEN\blur0.8}Game over.
+Dialogue: 0,0:21:46.10,0:21:50.10,ZH,,0,0,0,,{\rZH\blur0.8}你可以在远方寻 或是把酒喝到见底\N{\rEN\blur0.8}MERRY & PIPPIN: Oh, you can search far and wide You can drink the whole town dry
+Dialogue: 0,0:21:49.89,0:21:53.85,ZH,,0,0,0,,{\rZH\blur0.8}但是你找不到……\N{\rEN\blur0.8}But you'll never find a beer so brown But you'll never find a beer so brown
+Dialogue: 0,0:21:53.85,0:21:58.40,ZH,,0,0,0,,{\rZH\blur0.8}比我们家乡更醇的啤酒\N{\rEN\blur0.8}As the one we drink in our hometown As the one we drink in our hometown
+Dialogue: 0,0:21:58.40,0:22:02.49,ZH,,0,0,0,,{\rZH\blur0.8}你可以一杯接一杯 狂饮上等麦酒\N{\rEN\blur0.8}You can drink your fancy ales You can drink 'em by the flagon
+Dialogue: 0,0:22:02.45,0:22:05.82,ZH,,0,0,0,,{\rZH\blur0.8}但是勇士喝的美酒……\N{\rEN\blur0.8}But the only brew for the brave and true
+Dialogue: 0,0:22:08.24,0:22:09.74,ZH,,0,0,0,,{\rZH\blur0.8}皮聘\N{\rEN\blur0.8}Pippin!
+Dialogue: 0,0:22:10.00,0:22:13.25,ZH,,0,0,0,,{\rZH\blur0.8}但是勇士喝的美酒\N{\rEN\blur0.8}MERRY & PIPPIN: But the only brew for the brave and true
+Dialogue: 0,0:22:13.42,0:22:16.29,ZH,,0,0,0,,{\rZH\blur0.8}只有龙旅店才有\N{\rEN\blur0.8}Comes from The Green Dragon
+Dialogue: 0,0:22:18.80,0:22:21.84,ZH,,0,0,0,,{\rZH\blur0.8}谢谢大家 我赢了\N{\rEN\blur0.8}Thank you! I win!
+Dialogue: 0,0:22:23.42,0:22:26.10,ZH,,0,0,0,,{\rZH\blur0.8}没有佛罗多的消息？\N{\rEN\blur0.8}No news of Frodo?
+Dialogue: 0,0:22:26.10,0:22:29.76,ZH,,0,0,0,,{\rZH\blur0.8}一点消息也没有\N{\rEN\blur0.8}No word. Nothing.
+Dialogue: 0,0:22:30.43,0:22:32.77,ZH,,0,0,0,,{\rZH\blur0.8}还有时间\N{\rEN\blur0.8}We have time.
+Dialogue: 0,0:22:34.10,0:22:37.56,ZH,,0,0,0,,{\rZH\blur0.8}佛罗多一天比一天更接近魔多了\N{\rEN\blur0.8}Every day, Frodo moves closer to Mordor.
+Dialogue: 0,0:22:38.11,0:22:40.40,ZH,,0,0,0,,{\rZH\blur0.8}我们能确定？\N{\rEN\blur0.8}Do we know that?
+Dialogue: 0,0:22:44.03,0:22:45.95,ZH,,0,0,0,,{\rZH\blur0.8}你的直觉告你什？\N{\rEN\blur0.8}What does your heart tell you?
+Dialogue: 0,0:22:52.79,0:22:56.33,ZH,,0,0,0,,{\rZH\blur0.8}佛罗多还活著\N{\rEN\blur0.8}That Frodo is alive.
+Dialogue: 0,0:22:58.29,0:23:00.30,ZH,,0,0,0,,{\rZH\blur0.8}没错\N{\rEN\blur0.8}Yes.
+Dialogue: 0,0:23:02.67,0:23:04.76,ZH,,0,0,0,,{\rZH\blur0.8}他还活著\N{\rEN\blur0.8}Yes, he's alive.
+Dialogue: 0,0:23:07.14,0:23:10.14,ZH,,0,0,0,,{\rZH\blur0.8}太冒险了 太冒险了\N{\rEN\blur0.8}Too risky. Too risky.
+Dialogue: 0,0:23:10.14,0:23:11.56,ZH,,0,0,0,,{\rZH\blur0.8}这些小偷\N{\rEN\blur0.8}Thieves.
+Dialogue: 0,0:23:11.52,0:23:13.77,ZH,,0,0,0,,{\rZH\blur0.8}他们我们手上偷走它\N{\rEN\blur0.8}They stole it from us.
+Dialogue: 0,0:23:13.73,0:23:17.44,ZH,,0,0,0,,{\rZH\blur0.8}杀死他们 把他们两个都杀死\N{\rEN\blur0.8}Kill them. Kill them. Kill them both.
+Dialogue: 0,0:23:18.56,0:23:22.32,ZH,,0,0,0,,{\rZH\blur0.8}安静 不能吵醒他们\N{\rEN\blur0.8}Shh! Quiet! Mustn't wake them.
+Dialogue: 0,0:23:22.32,0:23:25.03,ZH,,0,0,0,,{\rZH\blur0.8}不然就会前功尽\N{\rEN\blur0.8}Mustn't ruin it now.
+Dialogue: 0,0:23:24.99,0:23:27.28,ZH,,0,0,0,,{\rZH\blur0.8}可是他们知道了\N{\rEN\blur0.8}But they knows.
+Dialogue: 0,0:23:27.24,0:23:29.32,ZH,,0,0,0,,{\rZH\blur0.8}他们都知道了\N{\rEN\blur0.8}They knows.
+Dialogue: 0,0:23:29.32,0:23:32.12,ZH,,0,0,0,,{\rZH\blur0.8}他们对我们起了疑心\N{\rEN\blur0.8}They suspects us.
+Dialogue: 0,0:23:33.16,0:23:36.87,ZH,,0,0,0,,{\rZH\blur0.8}你是怎了 我的宝贝好兄弟？\N{\rEN\blur0.8}What's it saying, my precious, my love?
+Dialogue: 0,0:23:36.83,0:23:40.63,ZH,,0,0,0,,{\rZH\blur0.8}史参戈是不是怕了 ？\N{\rEN\blur0.8}Is Sméagol losing his nerve?
+Dialogue: 0,0:23:41.09,0:23:43.67,ZH,,0,0,0,,{\rZH\blur0.8}没有 我不怕\N{\rEN\blur0.8}No. Not.
+Dialogue: 0,0:23:43.67,0:23:48.09,ZH,,0,0,0,,{\rZH\blur0.8}我才不怕呢 史麦戈痛恨臭哈比人\N{\rEN\blur0.8}Never. Sméagol hates nasty Hobbitses.
+Dialogue: 0,0:23:48.05,0:23:53.10,ZH,,0,0,0,,{\rZH\blur0.8}史参戈想看著他们死\N{\rEN\blur0.8}Sméagol wants to see them dead.
+Dialogue: 0,0:23:53.06,0:23:55.81,ZH,,0,0,0,,{\rZH\blur0.8}我们会的\N{\rEN\blur0.8}And we will.
+Dialogue: 0,0:23:55.77,0:24:00.02,ZH,,0,0,0,,{\rZH\blur0.8}史参戈杀过人 可以再下毒手\N{\rEN\blur0.8}Sméagol did it once. He can do it again.
+Dialogue: 0,0:24:03.19,0:24:06.03,ZH,,0,0,0,,{\rZH\blur0.8}它是我们的\N{\rEN\blur0.8}It's ours!
+Dialogue: 0,0:24:06.03,0:24:08.86,ZH,,0,0,0,,{\rZH\blur0.8}我们的\N{\rEN\blur0.8}Ours!
+Dialogue: 0,0:24:09.78,0:24:12.87,ZH,,0,0,0,,{\rZH\blur0.8}我们一定要得到宝贝 一定要把它回来\N{\rEN\blur0.8}We must get the precious. We must get it back.
+Dialogue: 0,0:24:12.87,0:24:16.46,ZH,,0,0,0,,{\rZH\blur0.8}耐心点 你要有点耐心\N{\rEN\blur0.8}Patience! Patience, my love.
+Dialogue: 0,0:24:16.41,0:24:21.00,ZH,,0,0,0,,{\rZH\blur0.8}我们要先把他们带到她那儿\N{\rEN\blur0.8}First we must lead them to her.
+Dialogue: 0,0:24:21.71,0:24:26.88,ZH,,0,0,0,,{\rZH\blur0.8}带他们走上曲梯\N{\rEN\blur0.8}We lead them to the Winding Stair.
+Dialogue: 0,0:24:26.88,0:24:29.72,ZH,,0,0,0,,{\rZH\blur0.8}没错 然后呢？\N{\rEN\blur0.8}Yes, the stairs. And then?
+Dialogue: 0,0:24:29.72,0:24:32.89,ZH,,0,0,0,,{\rZH\blur0.8}一直往上爬 往上爬\N{\rEN\blur0.8}Up, up, up, up, up the stairs we go...
+Dialogue: 0,0:24:32.89,0:24:39.48,ZH,,0,0,0,,{\rZH\blur0.8}直到我们来到·那条隧道\N{\rEN\blur0.8}...until we come to the tunnel.
+Dialogue: 0,0:24:39.64,0:24:42.98,ZH,,0,0,0,,{\rZH\blur0.8}他们一进去\N{\rEN\blur0.8}And when they go in...
+Dialogue: 0,0:24:42.94,0:24:45.94,ZH,,0,0,0,,{\rZH\blur0.8}就永远出不来\N{\rEN\blur0.8}...there's no coming out.
+Dialogue: 0,0:24:46.65,0:24:49.74,ZH,,0,0,0,,{\rZH\blur0.8}她一直都肚子\N{\rEN\blur0.8}She's always hungry.
+Dialogue: 0,0:24:50.28,0:24:54.70,ZH,,0,0,0,,{\rZH\blur0.8}她总是要填肚子\N{\rEN\blur0.8}She always needs to feed.
+Dialogue: 0,0:24:54.66,0:24:56.29,ZH,,0,0,0,,{\rZH\blur0.8}她一定要进食\N{\rEN\blur0.8}She must eat.
+Dialogue: 0,0:24:56.24,0:24:58.58,ZH,,0,0,0,,{\rZH\blur0.8}她只吃得到臭半默人\N{\rEN\blur0.8}All she gets is filthy Orcses.
+Dialogue: 0,0:24:58.58,0:25:01.50,ZH,,0,0,0,,{\rZH\blur0.8}它们又臭又难吃吧 宝贝 ？\N{\rEN\blur0.8}And they doesn't taste very nice, does they, precious?
+Dialogue: 0,0:25:01.92,0:25:03.75,ZH,,0,0,0,,{\rZH\blur0.8}对\N{\rEN\blur0.8}No.
+Dialogue: 0,0:25:03.75,0:25:08.63,ZH,,0,0,0,,{\rZH\blur0.8}一点也不好吃\N{\rEN\blur0.8}Not very nice at all, my love.
+Dialogue: 0,0:25:08.59,0:25:11.59,ZH,,0,0,0,,{\rZH\blur0.8}她一直想吃更甜美的肉\N{\rEN\blur0.8}She hungers for sweeter meats.
+Dialogue: 0,0:25:11.59,0:25:13.60,ZH,,0,0,0,,{\rZH\blur0.8}哈比人的肉\N{\rEN\blur0.8}Hobbit meat.
+Dialogue: 0,0:25:13.60,0:25:18.60,ZH,,0,0,0,,{\rZH\blur0.8}等她吃了 把骨头和衣服都吐出来\N{\rEN\blur0.8}And when she throws away the bones and the empty clothes...
+Dialogue: 0,0:25:18.60,0:25:21.85,ZH,,0,0,0,,{\rZH\blur0.8}我们就会找到它\N{\rEN\blur0.8}...then we will find it.
+Dialogue: 0,0:25:21.81,0:25:26.36,ZH,,0,0,0,,{\rZH\blur0.8}然后我要把它拿走\N{\rEN\blur0.8}And take it for me!
+Dialogue: 0,0:25:27.94,0:25:29.53,ZH,,0,0,0,,{\rZH\blur0.8}是我们\N{\rEN\blur0.8}For us.
+Dialogue: 0,0:25:29.82,0:25:33.03,ZH,,0,0,0,,{\rZH\blur0.8}对 我是我们\N{\rEN\blur0.8}Yes. We meant "for us."
+Dialogue: 0,0:25:32.99,0:25:36.66,ZH,,0,0,0,,{\rZH\blur0.8}咕噜咕噜\N{\rEN\blur0.8}Gollum. Gollum.
+Dialogue: 0,0:25:36.62,0:25:41.33,ZH,,0,0,0,,{\rZH\blur0.8}只要小哈比人一死\N{\rEN\blur0.8}The precious will be ours...
+Dialogue: 0,0:25:41.29,0:25:46.00,ZH,,0,0,0,,{\rZH\blur0.8}宝贝就于我们\N{\rEN\blur0.8}...once the Hobbitses are dead!
+Dialogue: 0,0:25:46.30,0:25:47.96,ZH,,0,0,0,,{\rZH\blur0.8}你这可恶的小蛋\N{\rEN\blur0.8}You treacherous little toad!
+Dialogue: 0,0:25:50.47,0:25:52.97,ZH,,0,0,0,,{\rZH\blur0.8}不 主人\N{\rEN\blur0.8}No! No! Master!
+Dialogue: 0,0:25:52.97,0:25:54.76,ZH,,0,0,0,,{\rZH\blur0.8}住手 山姆 别打他\N{\rEN\blur0.8}No, Sam! Leave him alone!
+Dialogue: 0,0:25:55.47,0:25:58.31,ZH,,0,0,0,,{\rZH\blur0.8}我亲耳见他要杀死我们\N{\rEN\blur0.8}I heard it from his own mouth. He means to murder us.
+Dialogue: 0,0:25:58.31,0:26:02.64,ZH,,0,0,0,,{\rZH\blur0.8}没有 史参戈连都不敢杀\N{\rEN\blur0.8}Never! Sméagol wouldn't hurt a fly.
+Dialogue: 0,0:26:04.15,0:26:06.73,ZH,,0,0,0,,{\rZH\blur0.8}他是个又胖又丑的哈比人\N{\rEN\blur0.8}He's a horrid, fat Hobbit...
+Dialogue: 0,0:26:06.69,0:26:08.48,ZH,,0,0,0,,{\rZH\blur0.8}他讨史参戈\N{\rEN\blur0.8}... who hates Sméagol...
+Dialogue: 0,0:26:08.48,0:26:11.44,ZH,,0,0,0,,{\rZH\blur0.8}所以才编话\N{\rEN\blur0.8}...and who makes up nasty lies.
+Dialogue: 0,0:26:11.40,0:26:14.28,ZH,,0,0,0,,{\rZH\blur0.8}你这小蛋 我要把你揍扁\N{\rEN\blur0.8}You miserable little maggot! I'll stove your head in!
+Dialogue: 0,0:26:14.49,0:26:15.95,ZH,,0,0,0,,{\rZH\blur0.8}山姆\N{\rEN\blur0.8}Sam!
+Dialogue: 0,0:26:16.16,0:26:18.62,ZH,,0,0,0,,{\rZH\blur0.8}我人？你才是撒的人\N{\rEN\blur0.8}Call me a liar? You're a liar!
+Dialogue: 0,0:26:19.37,0:26:23.50,ZH,,0,0,0,,{\rZH\blur0.8}-你把他赫跑我们就会迷路 一我不管 我瓣不到\N{\rEN\blur0.8}-You scare him off, we're lost!   -I don't care! I can't do it, Mr. Frodo.
+Dialogue: 0,0:26:23.50,0:26:26.84,ZH,,0,0,0,,{\rZH\blur0.8}-我不能坐著他杀死我们 -我不会把他提走\N{\rEN\blur0.8}-I won't wait around for him to kill us!   -I'm not sending him away.
+Dialogue: 0,0:26:27.00,0:26:28.50,ZH,,0,0,0,,{\rZH\blur0.8}你看不出来？\N{\rEN\blur0.8}You don't see it, do you?
+Dialogue: 0,0:26:28.71,0:26:30.34,ZH,,0,0,0,,{\rZH\blur0.8}他是个蛋\N{\rEN\blur0.8}He's a villain.
+Dialogue: 0,0:26:31.17,0:26:34.97,ZH,,0,0,0,,{\rZH\blur0.8}我们光靠自 己不行 没有人带路就到不 了\N{\rEN\blur0.8}We can't do this by ourselves, Sam. Not without a guide.
+Dialogue: 0,0:26:35.64,0:26:38.68,ZH,,0,0,0,,{\rZH\blur0.8}我需要你在我身\N{\rEN\blur0.8}I need you on my side.
+Dialogue: 0,0:26:39.26,0:26:41.81,ZH,,0,0,0,,{\rZH\blur0.8}我一直在你身，佛罗多先生\N{\rEN\blur0.8}I'm on your side, Mr. Frodo.
+Dialogue: 0,0:26:43.14,0:26:46.27,ZH,,0,0,0,,{\rZH\blur0.8}我知道 山姆 我知道\N{\rEN\blur0.8}I know, Sam. I know.
+Dialogue: 0,0:26:46.65,0:26:48.82,ZH,,0,0,0,,{\rZH\blur0.8}你要相信我\N{\rEN\blur0.8}Trust me.
+Dialogue: 0,0:26:48.77,0:26:51.36,ZH,,0,0,0,,{\rZH\blur0.8}来吧 史参戈\N{\rEN\blur0.8}Come, Sméagol.
+Dialogue: 0,0:27:59.09,0:28:00.76,ZH,,0,0,0,,{\rZH\blur0.8}现在是甚时辰？\N{\rEN\blur0.8}What time is it?
+Dialogue: 0,0:28:02.93,0:28:04.60,ZH,,0,0,0,,{\rZH\blur0.8}还没有破晓\N{\rEN\blur0.8}Not yet dawn.
+Dialogue: 0,0:28:11.32,0:28:14.57,ZH,,0,0,0,,{\rZH\blur0.8}我梦到我看见一道巨浪\N{\rEN\blur0.8}I dreamed I saw a great wave...
+Dialogue: 0,0:28:14.53,0:28:18.74,ZH,,0,0,0,,{\rZH\blur0.8}淹没了色平原 大水一直冲到山坡\N{\rEN\blur0.8}...climbing over green lands and above the hills.
+Dialogue: 0,0:28:19.78,0:28:22.45,ZH,,0,0,0,,{\rZH\blur0.8}我站在大水缘\N{\rEN\blur0.8}I stood upon the brink.
+Dialogue: 0,0:28:23.16,0:28:26.54,ZH,,0,0,0,,{\rZH\blur0.8}脚底下是一片漆黑的无底洞\N{\rEN\blur0.8}It was utterly dark in the abyss before my feet.
+Dialogue: 0,0:28:28.29,0:28:31.25,ZH,,0,0,0,,{\rZH\blur0.8}我身后有一道亮光\N{\rEN\blur0.8}A light shone behind me...
+Dialogue: 0,0:28:31.67,0:28:34.30,ZH,,0,0,0,,{\rZH\blur0.8}但是我无法回头\N{\rEN\blur0.8}...but I could not turn.
+Dialogue: 0,0:28:34.30,0:28:37.88,ZH,,0,0,0,,{\rZH\blur0.8}我只能站在那里 等待著\N{\rEN\blur0.8}I could only stand there, waiting.
+Dialogue: 0,0:28:39.13,0:28:42.05,ZH,,0,0,0,,{\rZH\blur0.8}人到了晚上就会胡思想\N{\rEN\blur0.8}Night changes many thoughts.
+Dialogue: 0,0:28:42.26,0:28:44.60,ZH,,0,0,0,,{\rZH\blur0.8}睡吧 伊欧玟\N{\rEN\blur0.8}Sleep, Eowyn.
+Dialogue: 0,0:28:44.97,0:28:47.39,ZH,,0,0,0,,{\rZH\blur0.8}趁你还能睡\N{\rEN\blur0.8}Sleep...
+Dialogue: 0,0:28:49.90,0:28:51.98,ZH,,0,0,0,,{\rZH\blur0.8}快睡吧\N{\rEN\blur0.8}...while you can.
+Dialogue: 0,0:29:15.92,0:29:18.42,ZH,,0,0,0,,{\rZH\blur0.8}星光被阴影遮住\N{\rEN\blur0.8}The stars are veiled.
+Dialogue: 0,0:29:19.22,0:29:22.93,ZH,,0,0,0,,{\rZH\blur0.8}东方有甚在蠢蠢欲动\N{\rEN\blur0.8}Something stirs in the east.
+Dialogue: 0,0:29:23.39,0:29:26.72,ZH,,0,0,0,,{\rZH\blur0.8}一股永不歇息的邪恶力量\N{\rEN\blur0.8}A sleepless malice.
+Dialogue: 0,0:29:28.60,0:29:31.52,ZH,,0,0,0,,{\rZH\blur0.8}人的邪眼在移动\N{\rEN\blur0.8}The Eye of the enemy is moving.
+Dialogue: 0,0:29:44.82,0:29:47.66,ZH,,0,0,0,,{\rZH\blur0.8}你在干什？\N{\rEN\blur0.8}What are you doing?
+Dialogue: 0,0:29:52.16,0:29:53.75,ZH,,0,0,0,,{\rZH\blur0.8}皮聘\N{\rEN\blur0.8}MERRY: Pippin!
+Dialogue: 0,0:30:01.13,0:30:03.01,ZH,,0,0,0,,{\rZH\blur0.8}皮聘？\N{\rEN\blur0.8}Pippin?
+Dialogue: 0,0:30:15.73,0:30:17.23,ZH,,0,0,0,,{\rZH\blur0.8}皮聘\N{\rEN\blur0.8}Pippin.
+Dialogue: 0,0:30:17.73,0:30:20.57,ZH,,0,0,0,,{\rZH\blur0.8}-你发疯了 -我只想看一眼\N{\rEN\blur0.8}-What, are you mad?   -I just want to look at it.
+Dialogue: 0,0:30:20.57,0:30:21.86,ZH,,0,0,0,,{\rZH\blur0.8}我只想再看一眼\N{\rEN\blur0.8}Just one more time.
+Dialogue: 0,0:30:21.90,0:30:24.20,ZH,,0,0,0,,{\rZH\blur0.8}放回去\N{\rEN\blur0.8}Put it back.
+Dialogue: 0,0:30:34.25,0:30:36.25,ZH,,0,0,0,,{\rZH\blur0.8}皮聘\N{\rEN\blur0.8}Pippin.
+Dialogue: 0,0:30:42.59,0:30:44.26,ZH,,0,0,0,,{\rZH\blur0.8}不\N{\rEN\blur0.8}No!
+Dialogue: 0,0:30:49.22,0:30:50.60,ZH,,0,0,0,,{\rZH\blur0.8}皮聘\N{\rEN\blur0.8}Pippin.
+Dialogue: 0,0:30:53.81,0:30:55.14,ZH,,0,0,0,,{\rZH\blur0.8}他在这儿\N{\rEN\blur0.8}He is here.
+Dialogue: 0,0:30:55.19,0:30:57.61,ZH,,0,0,0,,{\rZH\blur0.8}我看到你了\N{\rEN\blur0.8}I see you.
+Dialogue: 0,0:31:00.48,0:31:02.24,ZH,,0,0,0,,{\rZH\blur0.8}皮聘\N{\rEN\blur0.8}Pippin!
+Dialogue: 0,0:31:16.75,0:31:19.63,ZH,,0,0,0,,{\rZH\blur0.8}救命啊 甘道夫\N{\rEN\blur0.8}Help! Gandalf, help!
+Dialogue: 0,0:31:21.25,0:31:23.26,ZH,,0,0,0,,{\rZH\blur0.8}快救救他\N{\rEN\blur0.8}Someone help him!
+Dialogue: 0,0:31:29.51,0:31:30.85,ZH,,0,0,0,,{\rZH\blur0.8}皮聘\N{\rEN\blur0.8}Pippin!
+Dialogue: 0,0:31:31.85,0:31:33.22,ZH,,0,0,0,,{\rZH\blur0.8}你这个蠢小子\N{\rEN\blur0.8}Fool of a Took!
+Dialogue: 0,0:31:54.20,0:31:56.54,ZH,,0,0,0,,{\rZH\blur0.8}看著我\N{\rEN\blur0.8}Look at me.
+Dialogue: 0,0:31:58.38,0:32:02.63,ZH,,0,0,0,,{\rZH\blur0.8}甘道夫 原我\N{\rEN\blur0.8}Gandalf, forgive me.
+Dialogue: 0,0:32:02.67,0:32:04.67,ZH,,0,0,0,,{\rZH\blur0.8}看著我\N{\rEN\blur0.8}Look at me.
+Dialogue: 0,0:32:04.71,0:32:06.68,ZH,,0,0,0,,{\rZH\blur0.8}你看到甚？\N{\rEN\blur0.8}What did you see?
+Dialogue: 0,0:32:10.05,0:32:12.26,ZH,,0,0,0,,{\rZH\blur0.8}一棵树\N{\rEN\blur0.8}A tree.
+Dialogue: 0,0:32:13.10,0:32:15.10,ZH,,0,0,0,,{\rZH\blur0.8}有一棵白树\N{\rEN\blur0.8}There was a white tree...
+Dialogue: 0,0:32:15.14,0:32:16.77,ZH,,0,0,0,,{\rZH\blur0.8}在石砌的庭院中央\N{\rEN\blur0.8}...in a courtyard of stone.
+Dialogue: 0,0:32:19.44,0:32:20.86,ZH,,0,0,0,,{\rZH\blur0.8}它枯死了\N{\rEN\blur0.8}It was dead.
+Dialogue: 0,0:32:24.90,0:32:26.86,ZH,,0,0,0,,{\rZH\blur0.8}城市在燃烧\N{\rEN\blur0.8}The city was burning.
+Dialogue: 0,0:32:26.90,0:32:30.41,ZH,,0,0,0,,{\rZH\blur0.8}米那斯提力斯 你只看到这些？\N{\rEN\blur0.8}Minas Tirith? Is that what you saw?
+Dialogue: 0,0:32:30.95,0:32:33.12,ZH,,0,0,0,,{\rZH\blur0.8}我还看到……\N{\rEN\blur0.8}I saw....
+Dialogue: 0,0:32:36.37,0:32:37.87,ZH,,0,0,0,,{\rZH\blur0.8}我看到他\N{\rEN\blur0.8}I saw him.
+Dialogue: 0,0:32:40.75,0:32:43.13,ZH,,0,0,0,,{\rZH\blur0.8}我在脑中到他的声音\N{\rEN\blur0.8}I could hear his voice in my head.
+Dialogue: 0,0:32:43.17,0:32:45.71,ZH,,0,0,0,,{\rZH\blur0.8}你跟他了甚？\N{\rEN\blur0.8}And what did you tell him?
+Dialogue: 0,0:32:45.76,0:32:47.72,ZH,,0,0,0,,{\rZH\blur0.8}快\N{\rEN\blur0.8}Speak!
+Dialogue: 0,0:32:51.76,0:32:55.06,ZH,,0,0,0,,{\rZH\blur0.8}他问我是 我没回答\N{\rEN\blur0.8}He asked me my name. I didn't answer.
+Dialogue: 0,0:32:55.10,0:32:56.68,ZH,,0,0,0,,{\rZH\blur0.8}他伤害了我\N{\rEN\blur0.8}He hurt me.
+Dialogue: 0,0:32:56.72,0:32:59.31,ZH,,0,0,0,,{\rZH\blur0.8}你有没有提到佛多和魔戒？\N{\rEN\blur0.8}What did you tell him about Frodo and the Ring?
+Dialogue: 0,0:33:02.69,0:33:05.28,ZH,,0,0,0,,{\rZH\blur0.8}我看得出皮聘没\N{\rEN\blur0.8}There was no lie in Pippin's eyes.
+Dialogue: 0,0:33:05.98,0:33:08.36,ZH,,0,0,0,,{\rZH\blur0.8}他是个蠢小子\N{\rEN\blur0.8}A fool...
+Dialogue: 0,0:33:08.40,0:33:10.82,ZH,,0,0,0,,{\rZH\blur0.8}不过是个诚实的蠢小子\N{\rEN\blur0.8}...but an honest fool he remains.
+Dialogue: 0,0:33:11.16,0:33:14.83,ZH,,0,0,0,,{\rZH\blur0.8}他没跟索伦提到佛多和魔戒的事\N{\rEN\blur0.8}He told Sauron nothing of Frodo and the Ring.
+Dialogue: 0,0:33:15.74,0:33:18.25,ZH,,0,0,0,,{\rZH\blur0.8}我们算是很幸运\N{\rEN\blur0.8}We've been strangely fortunate.
+Dialogue: 0,0:33:18.29,0:33:22.29,ZH,,0,0,0,,{\rZH\blur0.8}皮聘在真知;晶球上看到人的计划\N{\rEN\blur0.8}Pippin saw in the palantir a glimpse of the enemy's plan.
+Dialogue: 0,0:33:23.08,0:33:27.17,ZH,,0,0,0,,{\rZH\blur0.8}索伦打算攻擎米那斯提力斯\N{\rEN\blur0.8}Sauron moves to strike the city of Minas Tirith.
+Dialogue: 0,0:33:27.63,0:33:31.51,ZH,,0,0,0,,{\rZH\blur0.8}他在圣盔谷的惨败 他知道一件事\N{\rEN\blur0.8}His defeat at Helm's Deep showed our enemy one thing.
+Dialogue: 0,0:33:31.55,0:33:34.01,ZH,,0,0,0,,{\rZH\blur0.8}伊兰迪尔的承人出现了\N{\rEN\blur0.8}He knows the heir of Elendil has come forth.
+Dialogue: 0,0:33:34.05,0:33:36.31,ZH,,0,0,0,,{\rZH\blur0.8}人类没有他想的那脆弱\N{\rEN\blur0.8}Men are not as weak as he supposed.
+Dialogue: 0,0:33:36.35,0:33:40.27,ZH,,0,0,0,,{\rZH\blur0.8}人类仍有勇气 也许有足力量挑他\N{\rEN\blur0.8}There is courage still, strength enough perhaps to challenge him.
+Dialogue: 0,0:33:40.35,0:33:42.35,ZH,,0,0,0,,{\rZH\blur0.8}索伦害怕这一点\N{\rEN\blur0.8}Sauron fears this.
+Dialogue: 0,0:33:42.40,0:33:46.86,ZH,,0,0,0,,{\rZH\blur0.8}他不能中土世界的人民 在同一旗下勇作\N{\rEN\blur0.8}He will not risk the peoples of Middle-earth uniting under one banner.
+Dialogue: 0,0:33:47.90,0:33:50.44,ZH,,0,0,0,,{\rZH\blur0.8}他打算摧毁米那斯提力斯\N{\rEN\blur0.8}He will raze Minas Tirith to the ground...
+Dialogue: 0,0:33:50.49,0:33:54.12,ZH,,0,0,0,,{\rZH\blur0.8}阻止人类的王者再\N{\rEN\blur0.8}...before he sees a king return to the throne of Men.
+Dialogue: 0,0:33:54.16,0:33:58.20,ZH,,0,0,0,,{\rZH\blur0.8}如果刚点燃烽火 洛汗国必须备参\N{\rEN\blur0.8}If the beacons of Gondor are lit, Rohan must be ready for war.
+Dialogue: 0,0:33:59.00,0:34:01.33,ZH,,0,0,0,,{\rZH\blur0.8}告我\N{\rEN\blur0.8}Tell me...
+Dialogue: 0,0:34:01.37,0:34:05.29,ZH,,0,0,0,,{\rZH\blur0.8}他们没来助我们 甚要我们出兵救援？\N{\rEN\blur0.8}...why should we ride to the aid of those who did not come to ours?
+Dialogue: 0,0:34:09.05,0:34:11.01,ZH,,0,0,0,,{\rZH\blur0.8}我们欠刚甚？\N{\rEN\blur0.8}What do we owe Gondor?
+Dialogue: 0,0:34:12.01,0:34:14.18,ZH,,0,0,0,,{\rZH\blur0.8}-那我去好了 -不行\N{\rEN\blur0.8}-I will go.   -No!
+Dialogue: 0,0:34:14.22,0:34:17.51,ZH,,0,0,0,,{\rZH\blur0.8}-一定要警告他们 -他们会受到警告\N{\rEN\blur0.8}-They must be warned.   -They will be.
+Dialogue: 0,0:34:20.81,0:34:23.48,ZH,,0,0,0,,{\rZH\blur0.8}你要另一条路去那儿\N{\rEN\blur0.8}You must come to Minas Tirith by another road.
+Dialogue: 0,0:34:23.90,0:34:28.48,ZH,,0,0,0,,{\rZH\blur0.8}逆河而上 寻找黑色大船\N{\rEN\blur0.8}Follow the river. Look to the black ships.
+Dialogue: 0,0:34:29.32,0:34:31.40,ZH,,0,0,0,,{\rZH\blur0.8}你们要明白\N{\rEN\blur0.8}Understand this:
+Dialogue: 0,0:34:31.44,0:34:35.24,ZH,,0,0,0,,{\rZH\blur0.8}大如箭在弦 一触即发\N{\rEN\blur0.8}Things are now in motion that cannot be undone.
+Dialogue: 0,0:34:36.62,0:34:38.83,ZH,,0,0,0,,{\rZH\blur0.8}我要去米那斯提力斯\N{\rEN\blur0.8}I ride for Minas Tirith...
+Dialogue: 0,0:34:40.95,0:34:43.75,ZH,,0,0,0,,{\rZH\blur0.8}但我不会一个人去\N{\rEN\blur0.8}...and I won't be going alone.
+Dialogue: 0,0:34:45.38,0:34:49.17,ZH,,0,0,0,,{\rZH\blur0.8}皮理根多克 你这个爱管间事的哈比人\N{\rEN\blur0.8}Of all the inquisitive Hobbits, Peregrin Took, you are the worst.
+Dialogue: 0,0:34:50.05,0:34:51.84,ZH,,0,0,0,,{\rZH\blur0.8}快 ！ 快\N{\rEN\blur0.8}Hurry! Hurry!
+Dialogue: 0,0:34:53.22,0:34:54.76,ZH,,0,0,0,,{\rZH\blur0.8}我们要去哪儿？\N{\rEN\blur0.8}Where are we going?
+Dialogue: 0,0:34:54.80,0:34:56.18,ZH,,0,0,0,,{\rZH\blur0.8}你为甚要鼠看？\N{\rEN\blur0.8}Why did you look?
+Dialogue: 0,0:34:56.22,0:34:59.10,ZH,,0,0,0,,{\rZH\blur0.8}你为甚每次都要看？\N{\rEN\blur0.8}Why do you always have to look?
+Dialogue: 0,0:34:59.14,0:35:02.35,ZH,,0,0,0,,{\rZH\blur0.8}-不晓得 我忍不住 -你每次都忍不住\N{\rEN\blur0.8}-I don't know. I can't help it.   -You never can.
+Dialogue: 0,0:35:02.68,0:35:04.23,ZH,,0,0,0,,{\rZH\blur0.8}对不起 好？\N{\rEN\blur0.8}I'm sorry, all right?
+Dialogue: 0,0:35:06.19,0:35:09.23,ZH,,0,0,0,,{\rZH\blur0.8}-我下次不敢了 -你还不懂\N{\rEN\blur0.8}-I won't do it again.   -Don't you understand?
+Dialogue: 0,0:35:09.86,0:35:11.94,ZH,,0,0,0,,{\rZH\blur0.8}人以为魔戒在你手上\N{\rEN\blur0.8}The enemy thinks you have the Ring.
+Dialogue: 0,0:35:11.98,0:35:15.86,ZH,,0,0,0,,{\rZH\blur0.8}他会来找你 皮聘 他们一定要把你带走\N{\rEN\blur0.8}He's going to be looking for you, Pip. They have to get you out of here.
+Dialogue: 0,0:35:17.16,0:35:19.95,ZH,,0,0,0,,{\rZH\blur0.8}你呢？你会跟我来吧？\N{\rEN\blur0.8}And you--? You're coming with me?
+Dialogue: 0,0:35:22.04,0:35:23.58,ZH,,0,0,0,,{\rZH\blur0.8}梅里？\N{\rEN\blur0.8}Merry?
+Dialogue: 0,0:35:23.62,0:35:25.04,ZH,,0,0,0,,{\rZH\blur0.8}走吧\N{\rEN\blur0.8}Come on.
+Dialogue: 0,0:35:30.42,0:35:31.92,ZH,,0,0,0,,{\rZH\blur0.8}米那斯提力斯有多远？\N{\rEN\blur0.8}How far is Minas Tirith?
+Dialogue: 0,0:35:31.96,0:35:34.72,ZH,,0,0,0,,{\rZH\blur0.8}马要三天 戒灵都用飞的\N{\rEN\blur0.8}Three days' ride, as the Nazgdl flies.
+Dialogue: 0,0:35:34.76,0:35:38.39,ZH,,0,0,0,,{\rZH\blur0.8}你最好祈祷他们不会追上来\N{\rEN\blur0.8}And you better hope we don't have one of those on our tail.
+Dialogue: 0,0:35:38.97,0:35:40.60,ZH,,0,0,0,,{\rZH\blur0.8}拿去\N{\rEN\blur0.8}Here.
+Dialogue: 0,0:35:40.64,0:35:42.56,ZH,,0,0,0,,{\rZH\blur0.8}给你在路上抽\N{\rEN\blur0.8}Something for the road.
+Dialogue: 0,0:35:43.31,0:35:45.39,ZH,,0,0,0,,{\rZH\blur0.8}最后一-包长底烟草\N{\rEN\blur0.8}The last of the Longbottom Leaf.
+Dialogue: 0,0:35:45.44,0:35:49.56,ZH,,0,0,0,,{\rZH\blur0.8}我知道你抽完了 你抽得太兑了\N{\rEN\blur0.8}I Know you've run out. You smoke too much, Pippin.
+Dialogue: 0,0:35:49.61,0:35:52.23,ZH,,0,0,0,,{\rZH\blur0.8}可是 我们很快会再见面\N{\rEN\blur0.8}But-- But we'll see each other soon.
+Dialogue: 0,0:35:55.45,0:35:58.07,ZH,,0,0,0,,{\rZH\blur0.8}-对吧？  -我不知道\N{\rEN\blur0.8}-Won't we?   -I don't know.
+Dialogue: 0,0:35:59.82,0:36:02.12,ZH,,0,0,0,,{\rZH\blur0.8}我不知道以后的事\N{\rEN\blur0.8}I don't know what's going to happen.
+Dialogue: 0,0:36:02.16,0:36:04.00,ZH,,0,0,0,,{\rZH\blur0.8}-梅里 -快跑 影疾\N{\rEN\blur0.8}-Merry.   -Run, Shadowfax.
+Dialogue: 0,0:36:04.04,0:36:05.62,ZH,,0,0,0,,{\rZH\blur0.8}我们看看甚叫疾奔\N{\rEN\blur0.8}Show us the meaning of haste.
+Dialogue: 0,0:36:05.66,0:36:07.71,ZH,,0,0,0,,{\rZH\blur0.8}梅里\N{\rEN\blur0.8}Merry!
+Dialogue: 0,0:36:18.05,0:36:19.30,ZH,,0,0,0,,{\rZH\blur0.8}梅里\N{\rEN\blur0.8}Merry!
+Dialogue: 0,0:36:29.65,0:36:31.27,ZH,,0,0,0,,{\rZH\blur0.8}他总是黏著我\N{\rEN\blur0.8}He's always followed me...
+Dialogue: 0,0:36:31.82,0:36:33.98,ZH,,0,0,0,,{\rZH\blur0.8}不管我去哪里\N{\rEN\blur0.8}...everywhere I went...
+Dialogue: 0,0:36:34.19,0:36:36.11,ZH,,0,0,0,,{\rZH\blur0.8}双生儿就是那样\N{\rEN\blur0.8}...since before we were tweens.
+Dialogue: 0,0:36:37.15,0:36:41.20,ZH,,0,0,0,,{\rZH\blur0.8}我总是害他惹上最糟糕的麻\N{\rEN\blur0.8}I would get him into the worst sort of trouble...
+Dialogue: 0,0:36:41.24,0:36:43.45,ZH,,0,0,0,,{\rZH\blur0.8}可是我也一定会替他解围\N{\rEN\blur0.8}...but I was always there to get him out.
+Dialogue: 0,0:36:45.79,0:36:47.79,ZH,,0,0,0,,{\rZH\blur0.8}现在他不在了\N{\rEN\blur0.8}Now he's gone.
+Dialogue: 0,0:36:49.33,0:36:52.38,ZH,,0,0,0,,{\rZH\blur0.8}就跟佛罗多和山姆一样\N{\rEN\blur0.8}Just like Frodo and Sam.
+Dialogue: 0,0:36:52.88,0:36:55.76,ZH,,0,0,0,,{\rZH\blur0.8}我哈比人身上学到一件事\N{\rEN\blur0.8}One thing I have learned about Hobbits:
+Dialogue: 0,0:36:55.80,0:36:57.59,ZH,,0,0,0,,{\rZH\blur0.8}他们都很坠强\N{\rEN\blur0.8}They're a most hardy folk.
+Dialogue: 0,0:36:58.01,0:37:01.84,ZH,,0,0,0,,{\rZH\blur0.8}不管他多笨 他也是多克家子弟\N{\rEN\blur0.8}Foolhardy, maybe. He's a Took.
+Dialogue: 0,0:37:16.19,0:37:18.61,ZH,,0,0,0,,{\rZH\blur0.8}带她走最安全的路\N{\rEN\blur0.8}Take her by the safest road.
+Dialogue: 0,0:37:18.65,0:37:21.28,ZH,,0,0,0,,{\rZH\blur0.8}有一艘船停靠在灰港岸\N{\rEN\blur0.8}A ship lies anchored in the Grey Havens.
+Dialogue: 0,0:37:21.32,0:37:25.33,ZH,,0,0,0,,{\rZH\blur0.8}等著载她到海外仙境\N{\rEN\blur0.8}It waits to carry her across the sea.
+Dialogue: 0,0:37:25.37,0:37:28.87,ZH,,0,0,0,,{\rZH\blur0.8}这是亚玟安多米尔的最后之旅\N{\rEN\blur0.8}The last journey of Arwen Undémiel.
+Dialogue: 0,0:38:34.35,0:38:37.56,ZH,,0,0,0,,{\rZH\blur0.8}你留下来甚也没有\N{\rEN\blur0.8}There is nothing for you here...
+Dialogue: 0,0:38:37.94,0:38:40.28,ZH,,0,0,0,,{\rZH\blur0.8}只有死亡\N{\rEN\blur0.8}...only death.
+Dialogue: 0,0:38:47.45,0:38:48.87,ZH,,0,0,0,,{\rZH\blur0.8}亚玟公主\N{\rEN\blur0.8}Lady Arwen...
+Dialogue: 0,0:38:49.66,0:38:51.70,ZH,,0,0,0,,{\rZH\blur0.8}不能再耽时间了\N{\rEN\blur0.8}...we cannot delay.
+Dialogue: 0,0:38:54.04,0:38:55.42,ZH,,0,0,0,,{\rZH\blur0.8}公主\N{\rEN\blur0.8}My lady!
+Dialogue: 0,0:39:14.69,0:39:17.44,ZH,,0,0,0,,{\rZH\blur0.8}-告我你看到甚 ？  -亚玟\N{\rEN\blur0.8}Tell me what you have seen. Arwen.
+Dialogue: 0,0:39:17.48,0:39:19.57,ZH,,0,0,0,,{\rZH\blur0.8}你有预知的能力\N{\rEN\blur0.8}You have the gift of foresight.
+Dialogue: 0,0:39:19.61,0:39:21.53,ZH,,0,0,0,,{\rZH\blur0.8}你看见甚？\N{\rEN\blur0.8}What did you see?
+Dialogue: 0,0:39:22.03,0:39:25.49,ZH,,0,0,0,,{\rZH\blur0.8}我看见你的未来有死亡\N{\rEN\blur0.8}I looked into your future, and I saw death.
+Dialogue: 0,0:39:25.91,0:39:28.16,ZH,,0,0,0,,{\rZH\blur0.8}但是也有生命\N{\rEN\blur0.8}But there is also life.
+Dialogue: 0,0:39:29.95,0:39:34.12,ZH,,0,0,0,,{\rZH\blur0.8}你看见有一个小孩 那是我的儿子\N{\rEN\blur0.8}You saw there was a child. You saw my son.
+Dialogue: 0,0:39:34.62,0:39:37.29,ZH,,0,0,0,,{\rZH\blur0.8}那个未来乎已无法成真\N{\rEN\blur0.8}That future is almost gone.
+Dialogue: 0,0:39:37.33,0:39:39.46,ZH,,0,0,0,,{\rZH\blur0.8}但是仍有希望\N{\rEN\blur0.8}But it is not lost.
+Dialogue: 0,0:39:41.92,0:39:44.26,ZH,,0,0,0,,{\rZH\blur0.8}妳不能确定\N{\rEN\blur0.8}Nothing is certain.
+Dialogue: 0,0:39:45.84,0:39:48.68,ZH,,0,0,0,,{\rZH\blur0.8}我只确定一件事\N{\rEN\blur0.8}Some things are certain.
+Dialogue: 0,0:39:52.35,0:39:55.31,ZH,,0,0,0,,{\rZH\blur0.8}如果我现在离开他\N{\rEN\blur0.8}If I leave him now...
+Dialogue: 0,0:39:55.35,0:39:58.10,ZH,,0,0,0,,{\rZH\blur0.8}一定会终生悔恨\N{\rEN\blur0.8}...I will regret it forever.
+Dialogue: 0,0:39:59.06,0:40:01.52,ZH,,0,0,0,,{\rZH\blur0.8}是时候了\N{\rEN\blur0.8}It is time.
+Dialogue: 0,0:40:06.65,0:40:10.57,ZH,,0,0,0,,{\rZH\blur0.8}火花将死灰中复燃\N{\rEN\blur0.8}From the ashes a fire shall be woken
+Dialogue: 0,0:40:10.62,0:40:14.16,ZH,,0,0,0,,{\rZH\blur0.8}光明将阴影中再现\N{\rEN\blur0.8}A light from the shadow shall spring
+Dialogue: 0,0:40:14.20,0:40:17.62,ZH,,0,0,0,,{\rZH\blur0.8}断裂的圣剑将重新接上\N{\rEN\blur0.8}Renewed shall be blade that was broken
+Dialogue: 0,0:40:24.88,0:40:28.22,ZH,,0,0,0,,{\rZH\blur0.8}失去王冠者将再次成为人皇\N{\rEN\blur0.8}The crownless again shall be king
+Dialogue: 0,0:40:31.85,0:40:34.02,ZH,,0,0,0,,{\rZH\blur0.8}请你重圣剑\N{\rEN\blur0.8}Re-forge the sword.
+Dialogue: 0,0:41:08.76,0:41:11.59,ZH,,0,0,0,,{\rZH\blur0.8}妳的手好冰冷\N{\rEN\blur0.8}Your hands are cold.
+Dialogue: 0,0:41:14.85,0:41:18.10,ZH,,0,0,0,,{\rZH\blur0.8}你已失去精灵的永生\N{\rEN\blur0.8}The life of the Eldar is leaving you.
+Dialogue: 0,0:41:21.40,0:41:23.44,ZH,,0,0,0,,{\rZH\blur0.8}这是我的选选\N{\rEN\blur0.8}This was my choice.
+Dialogue: 0,0:41:25.15,0:41:27.57,ZH,,0,0,0,,{\rZH\blur0.8}不管你答不答应\N{\rEN\blur0.8}Whether by your will or not...
+Dialogue: 0,0:41:28.78,0:41:33.20,ZH,,0,0,0,,{\rZH\blur0.8}我都不会乘船离开这儿\N{\rEN\blur0.8}...there is no ship now that can bear me hence.
+Dialogue: 0,0:42:20.29,0:42:23.25,ZH,,0,0,0,,{\rZH\blur0.8}我们刚刚越过刚界\N{\rEN\blur0.8}We've just passed into the realm of Gondor.
+Dialogue: 0,0:42:34.76,0:42:37.14,ZH,,0,0,0,,{\rZH\blur0.8}米那斯提力斯\N{\rEN\blur0.8}Minas Tirith.
+Dialogue: 0,0:42:37.60,0:42:40.06,ZH,,0,0,0,,{\rZH\blur0.8}王之城\N{\rEN\blur0.8}City of kings.
+Dialogue: 0,0:43:11.30,0:43:13.26,ZH,,0,0,0,,{\rZH\blur0.8}开\N{\rEN\blur0.8}Make way!
+Dialogue: 0,0:43:42.29,0:43:44.29,ZH,,0,0,0,,{\rZH\blur0.8}就是那棵树\N{\rEN\blur0.8}It's the tree.
+Dialogue: 0,0:43:44.29,0:43:46.12,ZH,,0,0,0,,{\rZH\blur0.8}甘道夫 甘道夫\N{\rEN\blur0.8}Gandalf. Gandalf.
+Dialogue: 0,0:43:46.12,0:43:48.54,ZH,,0,0,0,,{\rZH\blur0.8}这就是刚的圣白树\N{\rEN\blur0.8}Yes, the White Tree of Gondor.
+Dialogue: 0,0:43:48.54,0:43:50.54,ZH,,0,0,0,,{\rZH\blur0.8}王者之树\N{\rEN\blur0.8}The tree of the king.
+Dialogue: 0,0:43:50.54,0:43:53.38,ZH,,0,0,0,,{\rZH\blur0.8}但是迪耐瑟大人亚不是国王\N{\rEN\blur0.8}Lord Denethor, however, is not king.
+Dialogue: 0,0:43:53.38,0:43:56.22,ZH,,0,0,0,,{\rZH\blur0.8}他只是刚的宰相和摄政王\N{\rEN\blur0.8}He is a steward only, a caretaker of the throne.
+Dialogue: 0,0:43:56.80,0:44:00.51,ZH,,0,0,0,,{\rZH\blur0.8}给我好了 迪耐瑟大人是波莫的父亲\N{\rEN\blur0.8}Now listen carefully. Lord Denethor is Boromir's father.
+Dialogue: 0,0:44:00.89,0:44:04.85,ZH,,0,0,0,,{\rZH\blur0.8}你最好别他知道他爱子的死讯\N{\rEN\blur0.8}To give him news of his beloved son's death would be most unwise.
+Dialogue: 0,0:44:05.14,0:44:08.77,ZH,,0,0,0,,{\rZH\blur0.8}也别提起佛罗多和魔戒的事\N{\rEN\blur0.8}And do not mention Frodo or the Ring.
+Dialogue: 0,0:44:09.48,0:44:12.40,ZH,,0,0,0,,{\rZH\blur0.8}也别提到亚拉网\N{\rEN\blur0.8}And say nothing of Aragorn either.
+Dialogue: 0,0:44:14.07,0:44:18.11,ZH,,0,0,0,,{\rZH\blur0.8}你最好一句话都不要 皮理根多克\N{\rEN\blur0.8}In fact, it's better if you don't speak at all, Peregrin Took.
+Dialogue: 0,0:44:48.10,0:44:54.78,ZH,,0,0,0,,{\rZH\blur0.8}迪耐瑟大人 艾克西里昂之子 刚的宰相和摄政王\N{\rEN\blur0.8}Hail Denethor, son of Ecthelion, lord and steward of Gondor.
+Dialogue: 0,0:45:00.11,0:45:04.99,ZH,,0,0,0,,{\rZH\blur0.8}我在黑暗的时刻 前来提供我的忠告\N{\rEN\blur0.8}I come with tidings in this dark hour, and with counsel.
+Dialogue: 0,0:45:05.79,0:45:09.33,ZH,,0,0,0,,{\rZH\blur0.8}也许你能给我一个交代\N{\rEN\blur0.8}Perhaps you come to explain this.
+Dialogue: 0,0:45:14.80,0:45:19.51,ZH,,0,0,0,,{\rZH\blur0.8}也许你是来告我 我儿子的死因\N{\rEN\blur0.8}Perhaps you come to tell me why my son is dead.
+Dialogue: 0,0:45:33.81,0:45:36.98,ZH,,0,0,0,,{\rZH\blur0.8}波罗莫是为了救我们而死\N{\rEN\blur0.8}Boromir died to save us...
+Dialogue: 0,0:45:36.98,0:45:38.82,ZH,,0,0,0,,{\rZH\blur0.8}我跟我的同胞\N{\rEN\blur0.8}...my kinsman and me.
+Dialogue: 0,0:45:38.82,0:45:42.49,ZH,,0,0,0,,{\rZH\blur0.8}-人多 他为保护我们牲 -皮聘\N{\rEN\blur0.8}-He fell defending us from many foes.   -Pippin.
+Dialogue: 0,0:45:47.83,0:45:51.46,ZH,,0,0,0,,{\rZH\blur0.8}为了回报他的救命之恩\N{\rEN\blur0.8}I offer you my service, such as it is...
+Dialogue: 0,0:45:51.83,0:45:54.00,ZH,,0,0,0,,{\rZH\blur0.8}我意效忠于你\N{\rEN\blur0.8}...in payment of this debt.
+Dialogue: 0,0:45:56.00,0:45:59.51,ZH,,0,0,0,,{\rZH\blur0.8}既然如此 我首先要问你\N{\rEN\blur0.8}This is my first command to you.
+Dialogue: 0,0:46:00.05,0:46:03.68,ZH,,0,0,0,,{\rZH\blur0.8}你为甚能逃走 而我儿子武艺如此高强\N{\rEN\blur0.8}How did you escape and my son did not...
+Dialogue: 0,0:46:03.84,0:46:06.35,ZH,,0,0,0,,{\rZH\blur0.8}不能活著逃出来？\N{\rEN\blur0.8}...SO mighty a man as he was?
+Dialogue: 0,0:46:06.85,0:46:10.35,ZH,,0,0,0,,{\rZH\blur0.8}强者只要中一箭就会死\N{\rEN\blur0.8}The mightiest man may be slain by one arrow...
+Dialogue: 0,0:46:10.43,0:46:12.52,ZH,,0,0,0,,{\rZH\blur0.8}沉且波罗莫身中了好箭\N{\rEN\blur0.8}...and Boromir was pierced by many.
+Dialogue: 0,0:46:16.48,0:46:18.36,ZH,,0,0,0,,{\rZH\blur0.8}起来\N{\rEN\blur0.8}Get up.
+Dialogue: 0,0:46:18.36,0:46:23.16,ZH,,0,0,0,,{\rZH\blur0.8}大人 请你以后再为波莫哀悼\N{\rEN\blur0.8}My lord, there will be a time to grieve for Boromir...
+Dialogue: 0,0:46:23.45,0:46:25.37,ZH,,0,0,0,,{\rZH\blur0.8}现在亚不是时候\N{\rEN\blur0.8}...but it is not now.
+Dialogue: 0,0:46:25.91,0:46:28.29,ZH,,0,0,0,,{\rZH\blur0.8}大即将展开\N{\rEN\blur0.8}War is coming.
+Dialogue: 0,0:46:28.45,0:46:33.04,ZH,,0,0,0,,{\rZH\blur0.8}军已经逼近界 你身为刚宰相\N{\rEN\blur0.8}The enemy is on your doorstep. As steward, you are charged...
+Dialogue: 0,0:46:33.04,0:46:37.38,ZH,,0,0,0,,{\rZH\blur0.8}必须捍卫这座城市 刚的大军在哪里？\N{\rEN\blur0.8}...with the defense of this city. Where are Gondor's armies?
+Dialogue: 0,0:46:37.38,0:46:42.42,ZH,,0,0,0,,{\rZH\blur0.8}你仍然有盟友 不会孤军\N{\rEN\blur0.8}You still have friends. You are not alone in this fight.
+Dialogue: 0,0:46:42.42,0:46:47.10,ZH,,0,0,0,,{\rZH\blur0.8}向洛汗国的希优顿王求救 点燃烽火\N{\rEN\blur0.8}Send word to Théoden of Rohan. Light the beacons.
+Dialogue: 0,0:46:48.51,0:46:52.23,ZH,,0,0,0,,{\rZH\blur0.8}你自以为很明 米斯兰逹\N{\rEN\blur0.8}You think you are wise, Mithrandir.
+Dialogue: 0,0:46:52.23,0:46:55.44,ZH,,0,0,0,,{\rZH\blur0.8}但是你低估了我\N{\rEN\blur0.8}Yet for all your subtleties, you have not wisdom.
+Dialogue: 0,0:46:57.40,0:47:01.74,ZH,,0,0,0,,{\rZH\blur0.8}你以为我是瞎了眼睛？\N{\rEN\blur0.8}Do you think the eyes of the White Tower are blind?
+Dialogue: 0,0:47:01.74,0:47:04.99,ZH,,0,0,0,,{\rZH\blur0.8}我知道的比你想像中的多\N{\rEN\blur0.8}I have seen more than you know.
+Dialogue: 0,0:47:04.99,0:47:08.37,ZH,,0,0,0,,{\rZH\blur0.8}你一方面想将我 当成对抗魔多的盾牌\N{\rEN\blur0.8}With your left hand you would use me as a Shield against Mordor.
+Dialogue: 0,0:47:08.37,0:47:11.41,ZH,,0,0,0,,{\rZH\blur0.8}另一方面想趁机推翻我\N{\rEN\blur0.8}And with your right you'd seek to supplant me.
+Dialogue: 0,0:47:11.41,0:47:15.29,ZH,,0,0,0,,{\rZH\blur0.8}我知道在协助希优顿王\N{\rEN\blur0.8}I know who rides with Théoden of Rohan.
+Dialogue: 0,0:47:15.29,0:47:21.42,ZH,,0,0,0,,{\rZH\blur0.8}没错 我早就过亚拉罔 了 他是亚拉松之子\N{\rEN\blur0.8}Oh, yes. Word has reached my ears of this Aragorn, son of Arathorn.
+Dialogue: 0,0:47:21.42,0:47:26.43,ZH,,0,0,0,,{\rZH\blur0.8}我要告你 我才不会向北方游侠屈服\N{\rEN\blur0.8}And I tell you now, I will not bow to this Ranger from the North...
+Dialogue: 0,0:47:26.43,0:47:31.10,ZH,,0,0,0,,{\rZH\blur0.8}他只是失去王位的落魄王族\N{\rEN\blur0.8}...last of a ragged house long bereft of lordship.
+Dialogue: 0,0:47:31.10,0:47:37.10,ZH,,0,0,0,,{\rZH\blur0.8}你没有权利拒人皇回归 宰相大人\N{\rEN\blur0.8}Authority is not given to you to deny the return of the king, steward.
+Dialogue: 0,0:47:37.10,0:47:41.69,ZH,,0,0,0,,{\rZH\blur0.8}除了我没有人能统治刚绎\N{\rEN\blur0.8}The rule of Gondor is mine and no other's.
+Dialogue: 0,0:47:46.70,0:47:48.66,ZH,,0,0,0,,{\rZH\blur0.8}来吧\N{\rEN\blur0.8}Come.
+Dialogue: 0,0:47:56.42,0:47:59.17,ZH,,0,0,0,,{\rZH\blur0.8}他现在眼里只有权力\N{\rEN\blur0.8}All has turned to vain ambition.
+Dialogue: 0,0:47:59.17,0:48:02.80,ZH,,0,0,0,,{\rZH\blur0.8}他甚至会用哀伤掩饰他的野心\N{\rEN\blur0.8}He would even use his grief as a Cloak.
+Dialogue: 0,0:48:05.51,0:48:08.47,ZH,,0,0,0,,{\rZH\blur0.8}这座王都屹立了·一千年\N{\rEN\blur0.8}A thousand years this city has stood.
+Dialogue: 0,0:48:09.39,0:48:11.97,ZH,,0,0,0,,{\rZH\blur0.8}现在它将毁于一个疯子的手中\N{\rEN\blur0.8}Now, at the whim of a madman, it will fall.
+Dialogue: 0,0:48:13.02,0:48:15.39,ZH,,0,0,0,,{\rZH\blur0.8}而圣白树 王者之树\N{\rEN\blur0.8}And the White Tree, the tree of the king...
+Dialogue: 0,0:48:15.39,0:48:17.10,ZH,,0,0,0,,{\rZH\blur0.8}将永远不会开花\N{\rEN\blur0.8}...Will never bloom again.
+Dialogue: 0,0:48:17.10,0:48:21.02,ZH,,0,0,0,,{\rZH\blur0.8}-他们为甚还在守著它 -因为他们仍抱有一线希望\N{\rEN\blur0.8}Why are they still guarding it? They guard it because they have hope.
+Dialogue: 0,0:48:20.82,0:48:23.98,ZH,,0,0,0,,{\rZH\blur0.8}这个小小的希望 有一天会开花结果\N{\rEN\blur0.8}A faint and fading hope that one day it will flower.
+Dialogue: 0,0:48:23.98,0:48:28.91,ZH,,0,0,0,,{\rZH\blur0.8}人皇将回归 王都也将恢复昔日 光辉\N{\rEN\blur0.8}That a king will come and this city will be as it once was...
+Dialogue: 0,0:48:28.91,0:48:31.99,ZH,,0,0,0,,{\rZH\blur0.8}不会遭到毁减\N{\rEN\blur0.8}...before it fell into decay.
+Dialogue: 0,0:48:31.99,0:48:35.41,ZH,,0,0,0,,{\rZH\blur0.8}西方孕育的智慧早被遗忘\N{\rEN\blur0.8}The old wisdom borne out of the West was forsaken.
+Dialogue: 0,0:48:35.41,0:48:39.88,ZH,,0,0,0,,{\rZH\blur0.8}历任国王盖的墓陵 远比王宫还要奢华\N{\rEN\blur0.8}Kings made tombs more splendid than the houses of the living...
+Dialogue: 0,0:48:39.92,0:48:42.00,ZH,,0,0,0,,{\rZH\blur0.8}他们只会缅怀先祖的丰功伟业\N{\rEN\blur0.8}...and counted the old names of their descent...
+Dialogue: 0,0:48:42.00,0:48:44.96,ZH,,0,0,0,,{\rZH\blur0.8}对自 己的儿子不屑一顾\N{\rEN\blur0.8}...dearer than the names of their sons.
+Dialogue: 0,0:48:44.96,0:48:50.18,ZH,,0,0,0,,{\rZH\blur0.8}后无人的城主 坐在古老的宫殿墨守成规\N{\rEN\blur0.8}Childless lords sat in aged halls, musing on heraldry...
+Dialogue: 0,0:48:50.18,0:48:55.68,ZH,,0,0,0,,{\rZH\blur0.8}或是登上冰冷的高塔 求神问运 占星 卜卦\N{\rEN\blur0.8}...or in high, cold towers, asking questions of the stars.
+Dialogue: 0,0:48:55.68,0:48:59.64,ZH,,0,0,0,,{\rZH\blur0.8}因此刚人民命运堪虞\N{\rEN\blur0.8}And so the people of Gondor fell into ruin.
+Dialogue: 0,0:49:00.44,0:49:02.94,ZH,,0,0,0,,{\rZH\blur0.8}王室香火无以为\N{\rEN\blur0.8}The line of kings failed.
+Dialogue: 0,0:49:03.48,0:49:06.03,ZH,,0,0,0,,{\rZH\blur0.8}圣白树也枯萎凋零\N{\rEN\blur0.8}The White Tree withered.
+Dialogue: 0,0:49:06.57,0:49:10.91,ZH,,0,0,0,,{\rZH\blur0.8}刚的王权落入无能者手中\N{\rEN\blur0.8}The rule of Gondor was given over to lesser men.
+Dialogue: 0,0:49:21.46,0:49:22.88,ZH,,0,0,0,,{\rZH\blur0.8}魔多\N{\rEN\blur0.8}Mordor.
+Dialogue: 0,0:49:23.21,0:49:27.05,ZH,,0,0,0,,{\rZH\blur0.8}是的 它就在那儿\N{\rEN\blur0.8}Yes, there it lies.
+Dialogue: 0,0:49:27.72,0:49:31.22,ZH,,0,0,0,,{\rZH\blur0.8}这座城市长久以来 都龙罩在它的阴影之下\N{\rEN\blur0.8}This city has dwelt ever in the sight of its shadow.
+Dialogue: 0,0:49:33.05,0:49:34.89,ZH,,0,0,0,,{\rZH\blur0.8}暴风雨即将来\N{\rEN\blur0.8}A storm is coming.
+Dialogue: 0,0:49:35.39,0:49:38.48,ZH,,0,0,0,,{\rZH\blur0.8}这亚不是自然的现象\N{\rEN\blur0.8}This is not the weather of the world.
+Dialogue: 0,0:49:38.48,0:49:40.85,ZH,,0,0,0,,{\rZH\blur0.8}而是索伦一手造成的具象\N{\rEN\blur0.8}This is a device of Sauron's making.
+Dialogue: 0,0:49:40.85,0:49:44.77,ZH,,0,0,0,,{\rZH\blur0.8}这也是他大进攻的前兆\N{\rEN\blur0.8}A broil of fume he sends ahead of his host.
+Dialogue: 0,0:49:45.19,0:49:47.82,ZH,,0,0,0,,{\rZH\blur0.8}魔多的半默人不能忍受阳光\N{\rEN\blur0.8}The Orcs of Mordor have no love of daylight...
+Dialogue: 0,0:49:47.82,0:49:49.82,ZH,,0,0,0,,{\rZH\blur0.8}所以他就将太阳遮蔽\N{\rEN\blur0.8}...soO he covers the face of the sun...
+Dialogue: 0,0:49:49.82,0:49:53.74,ZH,,0,0,0,,{\rZH\blur0.8}好他们踏上征途\N{\rEN\blur0.8}...to ease their passage along the road to war.
+Dialogue: 0,0:49:53.74,0:49:57.20,ZH,,0,0,0,,{\rZH\blur0.8}当魔多的魔影到达这座城市\N{\rEN\blur0.8}When the Shadow of Mordor reaches this city...
+Dialogue: 0,0:49:57.74,0:49:59.62,ZH,,0,0,0,,{\rZH\blur0.8}大就会展开\N{\rEN\blur0.8}..it will begin.
+Dialogue: 0,0:50:01.12,0:50:02.88,ZH,,0,0,0,,{\rZH\blur0.8}那……\N{\rEN\blur0.8}Well...
+Dialogue: 0,0:50:03.08,0:50:04.58,ZH,,0,0,0,,{\rZH\blur0.8}米那斯提力斯\N{\rEN\blur0.8}...Minas Tirith...
+Dialogue: 0,0:50:06.34,0:50:07.92,ZH,,0,0,0,,{\rZH\blur0.8}真是令人为观止\N{\rEN\blur0.8}...very impressive.
+Dialogue: 0,0:50:07.88,0:50:10.72,ZH,,0,0,0,,{\rZH\blur0.8}-我们还要去哪儿？  -现在要走太邂了 皮聘\N{\rEN\blur0.8}-So where are we off to next?   -Oh, it's too late for that, Peregrin.
+Dialogue: 0,0:50:10.72,0:50:12.93,ZH,,0,0,0,,{\rZH\blur0.8}我们无法离开这座城市\N{\rEN\blur0.8}There's no leaving this city.
+Dialogue: 0,0:50:15.26,0:50:18.39,ZH,,0,0,0,,{\rZH\blur0.8}救兵一定要提来支援\N{\rEN\blur0.8}Help must come to us.
+Dialogue: 0,0:50:19.98,0:50:22.81,ZH,,0,0,0,,{\rZH\blur0.8}下午茶时间-一定快到了\N{\rEN\blur0.8}It must be getting near teatime.
+Dialogue: 0,0:50:22.81,0:50:26.69,ZH,,0,0,0,,{\rZH\blur0.8}如果在好一点的地方 就一定会有下午茶时间\N{\rEN\blur0.8}Leastways, it would be in decent places where there is still teatime.
+Dialogue: 0,0:50:26.69,0:50:30.44,ZH,,0,0,0,,{\rZH\blur0.8}我们不是在一个好地方\N{\rEN\blur0.8}We're not in decent places.
+Dialogue: 0,0:50:35.82,0:50:37.24,ZH,,0,0,0,,{\rZH\blur0.8}佛罗多先生？\N{\rEN\blur0.8}Mr. Frodo?
+Dialogue: 0,0:50:40.12,0:50:41.50,ZH,,0,0,0,,{\rZH\blur0.8}怎了 ？\N{\rEN\blur0.8}What is it?
+Dialogue: 0,0:50:43.79,0:50:46.34,ZH,,0,0,0,,{\rZH\blur0.8}我有一种感\N{\rEN\blur0.8}It's just a feeling.
+Dialogue: 0,0:50:48.59,0:50:50.92,ZH,,0,0,0,,{\rZH\blur0.8}我想我回不了家\N{\rEN\blur0.8}I don't think I'll be coming back.
+Dialogue: 0,0:50:55.26,0:50:57.97,ZH,,0,0,0,,{\rZH\blur0.8}你回得了家 你一定会回家\N{\rEN\blur0.8}Yes, you will. Of course you will.
+Dialogue: 0,0:50:58.43,0:51:00.47,ZH,,0,0,0,,{\rZH\blur0.8}你别胡思想了\N{\rEN\blur0.8}That's just morbid thinking.
+Dialogue: 0,0:51:00.77,0:51:03.39,ZH,,0,0,0,,{\rZH\blur0.8}我们一定会去而复返\N{\rEN\blur0.8}We're going there and back again...
+Dialogue: 0,0:51:03.39,0:51:05.85,ZH,,0,0,0,,{\rZH\blur0.8}就跟比宝先生一样\N{\rEN\blur0.8}.. jUSt like Mr. Bilbo.
+Dialogue: 0,0:51:06.65,0:51:08.94,ZH,,0,0,0,,{\rZH\blur0.8}你等著瞧\N{\rEN\blur0.8}You'll see.
+Dialogue: 0,0:51:16.95,0:51:20.74,ZH,,0,0,0,,{\rZH\blur0.8}这些土地曾经是 刚王国的一部份\N{\rEN\blur0.8}I think these lands were once part of the kingdom of Gondor.
+Dialogue: 0,0:51:24.96,0:51:29.17,ZH,,0,0,0,,{\rZH\blur0.8}在很久以前 还有国王的时候\N{\rEN\blur0.8}Long ago, when there was a king.
+Dialogue: 0,0:51:49.65,0:51:52.65,ZH,,0,0,0,,{\rZH\blur0.8}佛罗多先生 你看\N{\rEN\blur0.8}Mr. Frodo, look.
+Dialogue: 0,0:51:54.11,0:51:57.03,ZH,,0,0,0,,{\rZH\blur0.8}国王头上又有王冠了\N{\rEN\blur0.8}The king has got a crown again.
+Dialogue: 0,0:52:08.00,0:52:12.42,ZH,,0,0,0,,{\rZH\blur0.8}快来啊 哈比人 不要停下来 往这儿走\N{\rEN\blur0.8}Come on, Hobbits! Mustn't stop now. This way.
+Dialogue: 0,0:52:29.10,0:52:33.32,ZH,,0,0,0,,{\rZH\blur0.8}我猜我只是树名的卫兵吧\N{\rEN\blur0.8}So I imagine this is just a ceremonial position.
+Dialogue: 0,0:52:33.32,0:52:37.74,ZH,,0,0,0,,{\rZH\blur0.8}我是我不必真的上场吧\N{\rEN\blur0.8}I mean, they don't actually expect me to do any fighting.
+Dialogue: 0,0:52:38.40,0:52:41.82,ZH,,0,0,0,,{\rZH\blur0.8}-对不对？  -你已经对宰相宣誓效忠\N{\rEN\blur0.8}-Do they?   -You're in the service of the steward now.
+Dialogue: 0,0:52:41.82,0:52:45.37,ZH,,0,0,0,,{\rZH\blur0.8}你必须奉命行事 皮理根多克\N{\rEN\blur0.8}You'll have to do as you're told, Peregrin Took.
+Dialogue: 0,0:52:49.25,0:52:51.92,ZH,,0,0,0,,{\rZH\blur0.8}傻哈比人\N{\rEN\blur0.8}Ridiculous Hobbit.
+Dialogue: 0,0:52:52.92,0:52:55.30,ZH,,0,0,0,,{\rZH\blur0.8}刚卫兵\N{\rEN\blur0.8}Guard of the Citadel.
+Dialogue: 0,0:53:04.64,0:53:06.64,ZH,,0,0,0,,{\rZH\blur0.8}谢谢你\N{\rEN\blur0.8}Thank you.
+Dialogue: 0,0:53:15.86,0:53:18.28,ZH,,0,0,0,,{\rZH\blur0.8}天上没有星星了\N{\rEN\blur0.8}There's no more stars.
+Dialogue: 0,0:53:18.61,0:53:19.99,ZH,,0,0,0,,{\rZH\blur0.8}时候到了？\N{\rEN\blur0.8}Is it time?
+Dialogue: 0,0:53:20.99,0:53:22.91,ZH,,0,0,0,,{\rZH\blur0.8}是的\N{\rEN\blur0.8}Yes.
+Dialogue: 0,0:53:25.37,0:53:27.20,ZH,,0,0,0,,{\rZH\blur0.8}好安静\N{\rEN\blur0.8}It's so quiet.
+Dialogue: 0,0:53:28.04,0:53:32.46,ZH,,0,0,0,,{\rZH\blur0.8}这只是暴风雨前的宁静\N{\rEN\blur0.8}It's the deep breath before the plunge.
+Dialogue: 0,0:53:33.46,0:53:36.50,ZH,,0,0,0,,{\rZH\blur0.8}我不想上场\N{\rEN\blur0.8}I don't want to be in a battle...
+Dialogue: 0,0:53:37.17,0:53:42.30,ZH,,0,0,0,,{\rZH\blur0.8}但是等待一场 不可避免的大更令人害怕\N{\rEN\blur0.8}...out waiting on the edge of one I can't escape is even worse.
+Dialogue: 0,0:53:45.68,0:53:49.48,ZH,,0,0,0,,{\rZH\blur0.8}甘道夫 佛多和山姆 有成功的希望\N{\rEN\blur0.8}Is there any hope, Gandalf, for Frodo and Sam?
+Dialogue: 0,0:53:50.64,0:53:53.94,ZH,,0,0,0,,{\rZH\blur0.8}他们的希望亚不大\N{\rEN\blur0.8}There never was much hope.
+Dialogue: 0,0:53:55.73,0:53:57.65,ZH,,0,0,0,,{\rZH\blur0.8}只有一线希望\N{\rEN\blur0.8}Just a fool's hope.
+Dialogue: 0,0:54:03.36,0:54:06.33,ZH,,0,0,0,,{\rZH\blur0.8}人已蓄势待发\N{\rEN\blur0.8}Our enemy is ready.
+Dialogue: 0,0:54:06.33,0:54:09.16,ZH,,0,0,0,,{\rZH\blur0.8}他集结了强大兵力\N{\rEN\blur0.8}His full strength's gathered.
+Dialogue: 0,0:54:09.16,0:54:12.83,ZH,,0,0,0,,{\rZH\blur0.8}不只是半兽人 还有人类\N{\rEN\blur0.8}Not only Orcs, but Men as well.
+Dialogue: 0,0:54:12.83,0:54:16.04,ZH,,0,0,0,,{\rZH\blur0.8}来自 南方的哈拉德林人部隧\N{\rEN\blur0.8}Legions of Haradrim from the south...
+Dialogue: 0,0:54:16.04,0:54:18.92,ZH,,0,0,0,,{\rZH\blur0.8}以及来自海岸的慵兵\N{\rEN\blur0.8}...mercenaries from the coast.
+Dialogue: 0,0:54:18.92,0:54:21.68,ZH,,0,0,0,,{\rZH\blur0.8}全都魔多的命令\N{\rEN\blur0.8}All will answer Mordor's call.
+Dialogue: 0,0:54:21.68,0:54:23.38,ZH,,0,0,0,,{\rZH\blur0.8}来吧\N{\rEN\blur0.8}Come on.
+Dialogue: 0,0:54:24.34,0:54:27.85,ZH,,0,0,0,,{\rZH\blur0.8}刚将难逃减亡的命运\N{\rEN\blur0.8}This will be the end of Gondor as we know tt.
+Dialogue: 0,0:54:27.85,0:54:31.39,ZH,,0,0,0,,{\rZH\blur0.8}人会对这里展开猛烈攻势\N{\rEN\blur0.8}Here the hammer stroke will fall hardest.
+Dialogue: 0,0:54:32.19,0:54:36.69,ZH,,0,0,0,,{\rZH\blur0.8}如果安都因河被占领 奥斯吉力亚斯堡被攻陷\N{\rEN\blur0.8}If the river is taken, if the garrison at Osgiliath falls...
+Dialogue: 0,0:54:36.69,0:54:40.53,ZH,,0,0,0,,{\rZH\blur0.8}这座城市的最后防线就会瓦解\N{\rEN\blur0.8}.. the last defense of this city will be gone.
+Dialogue: 0,0:54:40.53,0:54:44.74,ZH,,0,0,0,,{\rZH\blur0.8}还有你这个白袍巫师 你一定会有瓣法的\N{\rEN\blur0.8}But we have the White Wizard. That's got to count for something.
+Dialogue: 0,0:54:50.45,0:54:52.21,ZH,,0,0,0,,{\rZH\blur0.8}对吧 甘道夫？\N{\rEN\blur0.8}Gandalf?
+Dialogue: 0,0:54:55.75,0:54:59.59,ZH,,0,0,0,,{\rZH\blur0.8}索伦还没派出最属害的手下\N{\rEN\blur0.8}Sauron has yet to reveal his deadliest servant...
+Dialogue: 0,0:54:59.88,0:55:03.88,ZH,,0,0,0,,{\rZH\blur0.8}他将率领魔多大军作\N{\rEN\blur0.8}...the one who will lead Mordor's armies in war.
+Dialogue: 0,0:55:03.88,0:55:09.22,ZH,,0,0,0,,{\rZH\blur0.8}据没有活人杀得了他\N{\rEN\blur0.8}The one they say no living man can kill.
+Dialogue: 0,0:55:10.06,0:55:12.39,ZH,,0,0,0,,{\rZH\blur0.8}安格马的巫王\N{\rEN\blur0.8}The Witch-king of Angmar.
+Dialogue: 0,0:55:13.31,0:55:15.85,ZH,,0,0,0,,{\rZH\blur0.8}你见过他\N{\rEN\blur0.8}You've met him before.
+Dialogue: 0,0:55:16.36,0:55:19.11,ZH,,0,0,0,,{\rZH\blur0.8}他在风云顶刺了佛罗多一剑\N{\rEN\blur0.8}He stabbed Frodo on Weathertop.
+Dialogue: 0,0:55:25.49,0:55:28.37,ZH,,0,0,0,,{\rZH\blur0.8}他就是戒灵之王\N{\rEN\blur0.8}He is the lord of the Nazgil...
+Dialogue: 0,0:55:28.66,0:55:31.29,ZH,,0,0,0,,{\rZH\blur0.8}九畸士之首\N{\rEN\blur0.8}...the greatest of the Nine.
+Dialogue: 0,0:55:31.29,0:55:34.83,ZH,,0,0,0,,{\rZH\blur0.8}他的巢穴是米那斯魔窟\N{\rEN\blur0.8}Minas Morgul is his lair.
+Dialogue: 0,0:55:38.38,0:55:42.09,ZH,,0,0,0,,{\rZH\blur0.8}死城\N{\rEN\blur0.8}The Dead City.
+Dialogue: 0,0:55:42.09,0:55:47.47,ZH,,0,0,0,,{\rZH\blur0.8}很可怕的地方 到处都是人\N{\rEN\blur0.8}Very nasty place. Full of enemies.
+Dialogue: 0,0:55:54.52,0:55:56.85,ZH,,0,0,0,,{\rZH\blur0.8}快点 快呀\N{\rEN\blur0.8}Quick. Quick.
+Dialogue: 0,0:55:56.85,0:56:01.02,ZH,,0,0,0,,{\rZH\blur0.8}他们会看到我们\N{\rEN\blur0.8}They will see. They will see.
+Dialogue: 0,0:56:10.12,0:56:15.58,ZH,,0,0,0,,{\rZH\blur0.8}别过去 别过去 瞧 我们找到 了\N{\rEN\blur0.8}Come away. Come away. Look, we have found it.
+Dialogue: 0,0:56:15.58,0:56:19.63,ZH,,0,0,0,,{\rZH\blur0.8}通往魔多的路\N{\rEN\blur0.8}The way into Mordor.
+Dialogue: 0,0:56:19.63,0:56:23.96,ZH,,0,0,0,,{\rZH\blur0.8}秘密隋梯\N{\rEN\blur0.8}The secret stair.
+Dialogue: 0,0:56:24.38,0:56:26.92,ZH,,0,0,0,,{\rZH\blur0.8}往上爬\N{\rEN\blur0.8}Climb.
+Dialogue: 0,0:56:47.03,0:56:49.95,ZH,,0,0,0,,{\rZH\blur0.8}-不 佛多先生 -不是那里\N{\rEN\blur0.8}-No, Mr. Frodo!   -Not that way!
+Dialogue: 0,0:56:54.62,0:56:57.66,ZH,,0,0,0,,{\rZH\blur0.8}-他在干什 ？  -别去\N{\rEN\blur0.8}-What's it doing?   -No.
+Dialogue: 0,0:56:57.66,0:57:00.92,ZH,,0,0,0,,{\rZH\blur0.8}-戒灵在召唤我 -糟了\N{\rEN\blur0.8}-They're calling me. No.
+Dialogue: 0,0:57:30.40,0:57:33.53,ZH,,0,0,0,,{\rZH\blur0.8}快躲起来 躲起来\N{\rEN\blur0.8}Hide! Hide!
+Dialogue: 0,0:58:16.91,0:58:19.91,ZH,,0,0,0,,{\rZH\blur0.8}我感觉得到他的剑锋\N{\rEN\blur0.8}I can feel his blade.
+Dialogue: 0,0:58:31.42,0:58:33.72,ZH,,0,0,0,,{\rZH\blur0.8}决时刻终于来临\N{\rEN\blur0.8}We come to it at last.
+Dialogue: 0,0:58:35.39,0:58:38.43,ZH,,0,0,0,,{\rZH\blur0.8}我们时代的大要开始了\N{\rEN\blur0.8}The great battle of our time.
+Dialogue: 0,0:59:17.43,0:59:20.85,ZH,,0,0,0,,{\rZH\blur0.8}来吧 小哈比人 我们一定要爬上去\N{\rEN\blur0.8}Come away, Hobbits. We climb. We must climb.
+Dialogue: 0,0:59:30.57,0:59:33.74,ZH,,0,0,0,,{\rZH\blur0.8}棋盘已经摄好\N{\rEN\blur0.8}The board is set.
+Dialogue: 0,0:59:33.74,0:59:36.11,ZH,,0,0,0,,{\rZH\blur0.8}棋子开始移动\N{\rEN\blur0.8}The pieces are moving.
+Dialogue: 0,0:59:38.82,0:59:41.66,ZH,,0,0,0,,{\rZH\blur0.8}爬上去 爬上隋梯\N{\rEN\blur0.8}Up, up, up the stairs we go.
+Dialogue: 0,0:59:41.66,0:59:44.50,ZH,,0,0,0,,{\rZH\blur0.8}然后就进入隧道\N{\rEN\blur0.8}And then it's into the tunnel.
+Dialogue: 0,0:59:44.50,0:59:47.88,ZH,,0,0,0,,{\rZH\blur0.8}这个隧道里头有甚？\N{\rEN\blur0.8}Hey, what's in this tunnel?
+Dialogue: 0,0:59:48.25,0:59:51.17,ZH,,0,0,0,,{\rZH\blur0.8}我 你给我好了\N{\rEN\blur0.8}You listen to me, and you listen good and proper.
+Dialogue: 0,0:59:51.17,0:59:54.26,ZH,,0,0,0,,{\rZH\blur0.8}要是他出事 我就找你算\N{\rEN\blur0.8}Anything happens to him, you have me to answer to.
+Dialogue: 0,0:59:54.26,0:59:56.01,ZH,,0,0,0,,{\rZH\blur0.8}我只要闻到甚不对劲\N{\rEN\blur0.8}One sniff something's not right...
+Dialogue: 0,0:59:56.01,0:59:59.35,ZH,,0,0,0,,{\rZH\blur0.8}要是我背上的汗毛暨起来 你就玩完了\N{\rEN\blur0.8}...one hair stands up on the back of my head, it's over.
+Dialogue: 0,0:59:59.39,1:00:02.22,ZH,,0,0,0,,{\rZH\blur0.8}我要宰了你这臭东西 你休想有好日 子过\N{\rEN\blur0.8}No more slinker. No more stinker.
+Dialogue: 0,1:00:02.39,1:00:05.18,ZH,,0,0,0,,{\rZH\blur0.8}你死定了 懂？\N{\rEN\blur0.8}You're gone. Got it?
+Dialogue: 0,1:00:05.89,1:00:08.06,ZH,,0,0,0,,{\rZH\blur0.8}我在看著你\N{\rEN\blur0.8}I'm watching you.
+Dialogue: 0,1:00:13.24,1:00:15.40,ZH,,0,0,0,,{\rZH\blur0.8}你刚才跟他甚？\N{\rEN\blur0.8}What was that about?
+Dialogue: 0,1:00:15.40,1:00:17.99,ZH,,0,0,0,,{\rZH\blur0.8}没甚 只是交代一些事\N{\rEN\blur0.8}Nothing. Just clearing something up.
+Dialogue: 0,1:00:24.45,1:00:27.50,ZH,,0,0,0,,{\rZH\blur0.8}皮聘 你要完成一项任务\N{\rEN\blur0.8}Peregrin Took, my lad, there is a task now to be done.
+Dialogue: 0,1:00:27.50,1:00:32.25,ZH,,0,0,0,,{\rZH\blur0.8}你这哈比人有机会 再一次证明 自 己的能力\N{\rEN\blur0.8}Another opportunity for one of the Shire-folk to prove their great worth.
+Dialogue: 0,1:00:36.92,1:00:38.68,ZH,,0,0,0,,{\rZH\blur0.8}你对不能失败\N{\rEN\blur0.8}You must not fail me.
+Dialogue: 0,1:01:12.75,1:01:16.01,ZH,,0,0,0,,{\rZH\blur0.8}人在对岸没有任何动静\N{\rEN\blur0.8}It's been very quiet across the river.
+Dialogue: 0,1:01:16.01,1:01:18.51,ZH,,0,0,0,,{\rZH\blur0.8}半兽人躲起来了\N{\rEN\blur0.8}The Orcs are lying low.
+Dialogue: 0,1:01:18.51,1:01:20.68,ZH,,0,0,0,,{\rZH\blur0.8}他们很可能已经撤离\N{\rEN\blur0.8}The garrison may have moved out.
+Dialogue: 0,1:01:21.64,1:01:24.51,ZH,,0,0,0,,{\rZH\blur0.8}我们派了探子到凯尔安卓斯\N{\rEN\blur0.8}We've sent scouts to Cair Andros.
+Dialogue: 0,1:01:24.51,1:01:27.98,ZH,,0,0,0,,{\rZH\blur0.8}如果半默人北进攻 我们一定会有预警\N{\rEN\blur0.8}If the Orcs attack from the north, we'll have some warning.
+Dialogue: 0,1:01:53.13,1:01:54.50,ZH,,0,0,0,,{\rZH\blur0.8}安静\N{\rEN\blur0.8}Quiet.
+Dialogue: 0,1:01:58.42,1:02:00.55,ZH,,0,0,0,,{\rZH\blur0.8}还需要十个人\N{\rEN\blur0.8}We need 10 more.
+Dialogue: 0,1:02:21.70,1:02:23.41,ZH,,0,0,0,,{\rZH\blur0.8}杀了他\N{\rEN\blur0.8}Kill him!
+Dialogue: 0,1:02:40.55,1:02:43.13,ZH,,0,0,0,,{\rZH\blur0.8}他们不是徙北进攻\N{\rEN\blur0.8}They're not coming from the north.
+Dialogue: 0,1:02:44.39,1:02:48.89,ZH,,0,0,0,,{\rZH\blur0.8}快到河 快点\N{\rEN\blur0.8}-To the river. Quick. Quick.   -Go. Come on.
+Dialogue: 0,1:02:52.18,1:02:53.94,ZH,,0,0,0,,{\rZH\blur0.8}划快一点\N{\rEN\blur0.8}Faster.
+Dialogue: 0,1:03:06.91,1:03:09.45,ZH,,0,0,0,,{\rZH\blur0.8}拔剑\N{\rEN\blur0.8}Draw swords.
+Dialogue: 0,1:04:03.84,1:04:06.59,ZH,,0,0,0,,{\rZH\blur0.8}描住他们\N{\rEN\blur0.8}Hold! Hold them!
+Dialogue: 0,1:05:26.71,1:05:28.76,ZH,,0,0,0,,{\rZH\blur0.8}甚？\N{\rEN\blur0.8}What?
+Dialogue: 0,1:05:41.15,1:05:42.73,ZH,,0,0,0,,{\rZH\blur0.8}阿蒙丁\N{\rEN\blur0.8}Amon Din.
+Dialogue: 0,1:05:48.36,1:05:51.57,ZH,,0,0,0,,{\rZH\blur0.8}阿蒙丁的烽火点燃了\N{\rEN\blur0.8}The beacon. The beacon of Amon Din is lit.
+Dialogue: 0,1:05:54.66,1:05:59.04,ZH,,0,0,0,,{\rZH\blur0.8}终于燃起一线希望\N{\rEN\blur0.8}Hope is kindled.
+Dialogue: 0,1:07:31.26,1:07:35.80,ZH,,0,0,0,,{\rZH\blur0.8}米那斯提力斯的烽火 烽火点燃了\N{\rEN\blur0.8}The beacons of Minas Tirith! The beacons are lit!
+Dialogue: 0,1:07:36.84,1:07:38.64,ZH,,0,0,0,,{\rZH\blur0.8}刚向我们求救\N{\rEN\blur0.8}Gondor calls for aid.
+Dialogue: 0,1:07:48.98,1:07:52.07,ZH,,0,0,0,,{\rZH\blur0.8}洛汗国将前往支援\N{\rEN\blur0.8}And Rohan will answer.
+Dialogue: 0,1:07:52.32,1:07:55.28,ZH,,0,0,0,,{\rZH\blur0.8}洛汗国全军集结\N{\rEN\blur0.8}Muster the Rohirrim.
+Dialogue: 0,1:08:10.21,1:08:12.34,ZH,,0,0,0,,{\rZH\blur0.8}召集登哈洛大军\N{\rEN\blur0.8}Assemble the army at Dunharrow.
+Dialogue: 0,1:08:12.34,1:08:16.88,ZH,,0,0,0,,{\rZH\blur0.8}量召集人马 我给你雨天时间\N{\rEN\blur0.8}As many men as can be found. You have two days.
+Dialogue: 0,1:08:16.88,1:08:22.35,ZH,,0,0,0,,{\rZH\blur0.8}第三天就整装出发 前往刚展开大\N{\rEN\blur0.8}On the third, we ride for Gondor and war.
+Dialogue: 0,1:08:22.68,1:08:24.64,ZH,,0,0,0,,{\rZH\blur0.8}-前进 -很好\N{\rEN\blur0.8}Forward. Very good, sir.
+Dialogue: 0,1:08:24.52,1:08:26.14,ZH,,0,0,0,,{\rZH\blur0.8}-加姆林 -皇上\N{\rEN\blur0.8}-Gamling. My lord.
+Dialogue: 0,1:08:26.10,1:08:27.90,ZH,,0,0,0,,{\rZH\blur0.8}全速跨越国\N{\rEN\blur0.8}Make haste across the Riddermark.
+Dialogue: 0,1:08:27.90,1:08:30.19,ZH,,0,0,0,,{\rZH\blur0.8}召集人马前往登哈洛\N{\rEN\blur0.8}Summon every able-bodied man to Dunharrow.
+Dialogue: 0,1:08:30.19,1:08:31.94,ZH,,0,0,0,,{\rZH\blur0.8}遵命\N{\rEN\blur0.8}I will.
+Dialogue: 0,1:08:35.86,1:08:39.20,ZH,,0,0,0,,{\rZH\blur0.8}-你跟我们一起去 -我最远只能跟到营地\N{\rEN\blur0.8}-Will you ride with us?   -Just to the encampment.
+Dialogue: 0,1:08:39.20,1:08:43.29,ZH,,0,0,0,,{\rZH\blur0.8}按照传统 王女必须为士兵送行\N{\rEN\blur0.8}It's tradition for the women of the court to farewell the men.
+Dialogue: 0,1:08:49.67,1:08:51.75,ZH,,0,0,0,,{\rZH\blur0.8}人民已找到他们的领袖\N{\rEN\blur0.8}The men have found their captain.
+Dialogue: 0,1:08:51.75,1:08:55.26,ZH,,0,0,0,,{\rZH\blur0.8}他们意跟随你作 甚至意烈牲\N{\rEN\blur0.8}They will follow you into battle, even to death.
+Dialogue: 0,1:08:55.26,1:08:57.01,ZH,,0,0,0,,{\rZH\blur0.8}你给了我们希望\N{\rEN\blur0.8}You have given us hope.
+Dialogue: 0,1:09:00.05,1:09:02.18,ZH,,0,0,0,,{\rZH\blur0.8}对不起\N{\rEN\blur0.8}Excuse me.
+Dialogue: 0,1:09:03.35,1:09:05.02,ZH,,0,0,0,,{\rZH\blur0.8}我有一把剑\N{\rEN\blur0.8}I have a sword.
+Dialogue: 0,1:09:05.14,1:09:06.68,ZH,,0,0,0,,{\rZH\blur0.8}请你我参\N{\rEN\blur0.8}Please accept it.
+Dialogue: 0,1:09:07.64,1:09:12.31,ZH,,0,0,0,,{\rZH\blur0.8}我意为你效忠 希优顿王\N{\rEN\blur0.8}I offer you my service, Théoden King.
+Dialogue: 0,1:09:15.57,1:09:17.82,ZH,,0,0,0,,{\rZH\blur0.8}我很乐意接受\N{\rEN\blur0.8}And gladly I accept it.
+Dialogue: 0,1:09:18.74,1:09:22.99,ZH,,0,0,0,,{\rZH\blur0.8}我封你为洛汗士梅里多\N{\rEN\blur0.8}You shall be Meriadoc, esquire of Rohan.
+Dialogue: 0,1:09:27.70,1:09:29.08,ZH,,0,0,0,,{\rZH\blur0.8}勇士\N{\rEN\blur0.8}Horse-Men.
+Dialogue: 0,1:09:29.58,1:09:35.38,ZH,,0,0,0,,{\rZH\blur0.8}我真希望能召集矮人大军 披上盔甲和你们肩作\N{\rEN\blur0.8}I wish I could muster a legion of Dwarves, fully armed and filthy.
+Dialogue: 0,1:09:35.59,1:09:38.72,ZH,,0,0,0,,{\rZH\blur0.8}你的族人可能不需要参\N{\rEN\blur0.8}Your kinsmen may have no need to ride to war.
+Dialogue: 0,1:09:38.72,1:09:42.30,ZH,,0,0,0,,{\rZH\blur0.8}恐怕争就已经找上门了\N{\rEN\blur0.8}I fear war already marches on their own lands.
+Dialogue: 0,1:10:00.61,1:10:04.24,ZH,,0,0,0,,{\rZH\blur0.8}米那斯提力斯的攻城\N{\rEN\blur0.8}So it is before the walls of Minas Tirith...
+Dialogue: 0,1:10:04.24,1:10:08.29,ZH,,0,0,0,,{\rZH\blur0.8}将决定人类的生死存亡\N{\rEN\blur0.8}...the doom of our time will be decided.
+Dialogue: 0,1:10:10.71,1:10:16.42,ZH,,0,0,0,,{\rZH\blur0.8}这是决时刻 洛汗士 你们曾誓死\N{\rEN\blur0.8}Now is the hour. Riders of Rohan, oaths you have taken.
+Dialogue: 0,1:10:16.42,1:10:20.80,ZH,,0,0,0,,{\rZH\blur0.8}现在该行动了 为吾王及国土作\N{\rEN\blur0.8}Now, fulfill them all. To lord and land! Hyah!
+Dialogue: 0,1:11:03.05,1:11:05.18,ZH,,0,0,0,,{\rZH\blur0.8}法拉墨\N{\rEN\blur0.8}Faramir!
+Dialogue: 0,1:11:11.31,1:11:15.19,ZH,,0,0,0,,{\rZH\blur0.8}我们抵描不了 城市已经湓陷\N{\rEN\blur0.8}We can't hold them. The city is lost.
+Dialogue: 0,1:11:15.60,1:11:18.86,ZH,,0,0,0,,{\rZH\blur0.8}下令撤退 我们退回米那斯提力斯\N{\rEN\blur0.8}Tell the men to break cover. We ride for Minas Tirith.
+Dialogue: 0,1:11:27.45,1:11:29.87,ZH,,0,0,0,,{\rZH\blur0.8}戒灵\N{\rEN\blur0.8}NazgOl.
+Dialogue: 0,1:11:32.08,1:11:34.71,ZH,,0,0,0,,{\rZH\blur0.8}快找掩护\N{\rEN\blur0.8}Take cover!
+Dialogue: 0,1:11:34.71,1:11:37.42,ZH,,0,0,0,,{\rZH\blur0.8}戒灵\N{\rEN\blur0.8}NazgAl!
+Dialogue: 0,1:11:37.42,1:11:41.26,ZH,,0,0,0,,{\rZH\blur0.8}撤退 退回米那斯提力斯\N{\rEN\blur0.8}Fall back. Fall back to Minas Tirith!
+Dialogue: 0,1:11:47.68,1:11:49.72,ZH,,0,0,0,,{\rZH\blur0.8}快撤退\N{\rEN\blur0.8}Fall back!
+Dialogue: 0,1:11:56.60,1:12:01.36,ZH,,0,0,0,,{\rZH\blur0.8}-撤退 撤退 -快逃命吧\N{\rEN\blur0.8}-Retreat! Retreat! Run for your lives!
+Dialogue: 0,1:12:25.42,1:12:29.93,ZH,,0,0,0,,{\rZH\blur0.8}人类的时代结束了\N{\rEN\blur0.8}The age of Men is over.
+Dialogue: 0,1:12:29.93,1:12:35.73,ZH,,0,0,0,,{\rZH\blur0.8}半默人的时代来临了\N{\rEN\blur0.8}The time of the Orc has come.
+Dialogue: 0,1:12:37.94,1:12:40.44,ZH,,0,0,0,,{\rZH\blur0.8}-向前跑 -是戒灵\N{\rEN\blur0.8}Keep going. It's the Nazgdl.
+Dialogue: 0,1:12:41.90,1:12:44.44,ZH,,0,0,0,,{\rZH\blur0.8}大人 快找掩护\N{\rEN\blur0.8}Take cover, my lord!
+Dialogue: 0,1:12:44.57,1:12:46.07,ZH,,0,0,0,,{\rZH\blur0.8}他们来了\N{\rEN\blur0.8}It's coming!
+Dialogue: 0,1:12:51.45,1:12:55.00,ZH,,0,0,0,,{\rZH\blur0.8}-是米斯兰逹 -迎接白袍士\N{\rEN\blur0.8}-It's Mithrandir.   -The White Rider!
+Dialogue: 0,1:13:34.78,1:13:36.33,ZH,,0,0,0,,{\rZH\blur0.8}打开城门\N{\rEN\blur0.8}Pull!
+Dialogue: 0,1:13:53.89,1:13:56.47,ZH,,0,0,0,,{\rZH\blur0.8}米斯兰逹\N{\rEN\blur0.8}Mithrandir.
+Dialogue: 0,1:13:56.47,1:13:58.39,ZH,,0,0,0,,{\rZH\blur0.8}他们攻破我们的防线\N{\rEN\blur0.8}They broke through our defenses.
+Dialogue: 0,1:13:58.39,1:14:00.77,ZH,,0,0,0,,{\rZH\blur0.8}占领了桥楔和西岸\N{\rEN\blur0.8}They've taken the bridge and the west bank.
+Dialogue: 0,1:14:01.69,1:14:06.02,ZH,,0,0,0,,{\rZH\blur0.8}-半默人大军正越河而来 -迪耐瑟大人早就料到 了\N{\rEN\blur0.8}Battalions of Orcs are crossing the river. It is as the Lord Denethor predicted.
+Dialogue: 0,1:14:06.02,1:14:10.74,ZH,,0,0,0,,{\rZH\blur0.8}-他早就预知有这种结局 -他甚也不做\N{\rEN\blur0.8}-Long has he foreseen this doom.   -Foreseen and done nothing.
+Dialogue: 0,1:14:13.95,1:14:16.54,ZH,,0,0,0,,{\rZH\blur0.8}法拉墨？\N{\rEN\blur0.8}Faramir?
+Dialogue: 0,1:14:18.29,1:14:22.29,ZH,,0,0,0,,{\rZH\blur0.8}这不是你第一次见到半人\N{\rEN\blur0.8}This is not the first Halfling to have crossed your path.
+Dialogue: 0,1:14:22.29,1:14:24.67,ZH,,0,0,0,,{\rZH\blur0.8}没错\N{\rEN\blur0.8}No.
+Dialogue: 0,1:14:25.84,1:14:27.55,ZH,,0,0,0,,{\rZH\blur0.8}你见到佛多和山姆？\N{\rEN\blur0.8}You've seen Frodo and Sam?
+Dialogue: 0,1:14:28.26,1:14:31.84,ZH,,0,0,0,,{\rZH\blur0.8}-在哪里？ 时？  -在伊西力安\N{\rEN\blur0.8}-Where? When?   -In Ithilien.
+Dialogue: 0,1:14:31.84,1:14:34.10,ZH,,0,0,0,,{\rZH\blur0.8}不到雨天前\N{\rEN\blur0.8}Not two days ago.
+Dialogue: 0,1:14:34.39,1:14:39.02,ZH,,0,0,0,,{\rZH\blur0.8}甘道夫 他们往魔窟谷的方向前进\N{\rEN\blur0.8}Gandalf, they're taking the road to the Morgul Vale.
+Dialogue: 0,1:14:39.56,1:14:42.35,ZH,,0,0,0,,{\rZH\blur0.8}然后会通过西力斯昂哥隘口\N{\rEN\blur0.8}And then the pass of Cirith Ungol.
+Dialogue: 0,1:14:44.40,1:14:46.94,ZH,,0,0,0,,{\rZH\blur0.8}那是甚意思？\N{\rEN\blur0.8}What does that mean?
+Dialogue: 0,1:14:46.94,1:14:52.03,ZH,,0,0,0,,{\rZH\blur0.8}一怎了 -法拉墨 把一切经过告我\N{\rEN\blur0.8}-What's wrong?   -Faramir, tell me everything.
+Dialogue: 0,1:14:52.03,1:14:54.24,ZH,,0,0,0,,{\rZH\blur0.8}把你知道的都告我\N{\rEN\blur0.8}Tell me all you know.
+Dialogue: 0,1:14:55.24,1:14:58.83,ZH,,0,0,0,,{\rZH\blur0.8}你就是这样效忠王都？\N{\rEN\blur0.8}This is how you would serve your city?
+Dialogue: 0,1:14:58.83,1:15:02.29,ZH,,0,0,0,,{\rZH\blur0.8}你要它遭到毁减？\N{\rEN\blur0.8}You would risk its utter ruin?
+Dialogue: 0,1:15:03.16,1:15:04.92,ZH,,0,0,0,,{\rZH\blur0.8}我以我的判做出正确决定\N{\rEN\blur0.8}I did what I judged to be right.
+Dialogue: 0,1:15:05.46,1:15:08.63,ZH,,0,0,0,,{\rZH\blur0.8}你判的正确决定？\N{\rEN\blur0.8}What you judged to be right.
+Dialogue: 0,1:15:09.09,1:15:15.14,ZH,,0,0,0,,{\rZH\blur0.8}你把手持权能之戒的半人 送进魔多的魔掌\N{\rEN\blur0.8}You sent the Ring of Power into Mordor in the hands of a witless Halfling.
+Dialogue: 0,1:15:18.93,1:15:23.94,ZH,,0,0,0,,{\rZH\blur0.8}你应该把魔戒带回来 放在安全的地方\N{\rEN\blur0.8}It should have been brought back to the Citadel to be kept safe.
+Dialogue: 0,1:15:25.40,1:15:27.11,ZH,,0,0,0,,{\rZH\blur0.8}藏起来\N{\rEN\blur0.8}Hidden.
+Dialogue: 0,1:15:27.36,1:15:30.28,ZH,,0,0,0,,{\rZH\blur0.8}锁在严密的保险库里\N{\rEN\blur0.8}Dark and deep in the vaults...
+Dialogue: 0,1:15:30.28,1:15:32.61,ZH,,0,0,0,,{\rZH\blur0.8}对不能使用\N{\rEN\blur0.8}...not to be used.
+Dialogue: 0,1:15:36.62,1:15:41.66,ZH,,0,0,0,,{\rZH\blur0.8}除非在最危急的时刻\N{\rEN\blur0.8}Unless at the uttermost end of need.
+Dialogue: 0,1:15:41.95,1:15:44.16,ZH,,0,0,0,,{\rZH\blur0.8}我不会使用魔戒\N{\rEN\blur0.8}I would not use the Ring.
+Dialogue: 0,1:15:44.16,1:15:47.42,ZH,,0,0,0,,{\rZH\blur0.8}就算米那斯提力斯湓陷 只剩下我一人能捍卫它\N{\rEN\blur0.8}Not if Minas Tirith were falling in ruin and I alone could save her.
+Dialogue: 0,1:15:47.58,1:15:52.59,ZH,,0,0,0,,{\rZH\blur0.8}你一直想效法古代的国王\N{\rEN\blur0.8}Ever you desire to appear lordly and gracious...
+Dialogue: 0,1:15:52.59,1:15:55.01,ZH,,0,0,0,,{\rZH\blur0.8}像他们一样大公无私\N{\rEN\blur0.8}...as a king of old.
+Dialogue: 0,1:15:56.64,1:16:00.56,ZH,,0,0,0,,{\rZH\blur0.8}波罗莫就会记得他父亲的需求\N{\rEN\blur0.8}Boromir would have remembered his father's need.
+Dialogue: 0,1:16:00.81,1:16:03.43,ZH,,0,0,0,,{\rZH\blur0.8}他就会把那个 贵重的礼物带来给我\N{\rEN\blur0.8}He would have brought me a kingly gift.
+Dialogue: 0,1:16:03.48,1:16:06.19,ZH,,0,0,0,,{\rZH\blur0.8}波罗莫才不会把魔戒带来\N{\rEN\blur0.8}Boromir would not have brought the Ring.
+Dialogue: 0,1:16:06.44,1:16:09.73,ZH,,0,0,0,,{\rZH\blur0.8}他会伸出手走魔戒 为魔王的爪牙\N{\rEN\blur0.8}He would have stretched out his hand to this thing and taken it. He would've fallen.
+Dialogue: 0,1:16:09.73,1:16:12.15,ZH,,0,0,0,,{\rZH\blur0.8}-你甚也不懂 -他会把魔戒占为己有\N{\rEN\blur0.8}-You know nothing of this matter!   -He would have kept it for his own.
+Dialogue: 0,1:16:13.86,1:16:16.20,ZH,,0,0,0,,{\rZH\blur0.8}然后当他回来\N{\rEN\blur0.8}And when he returned...
+Dialogue: 0,1:16:17.16,1:16:18.99,ZH,,0,0,0,,{\rZH\blur0.8}你对不出 自 己的儿子\N{\rEN\blur0.8}...you would not have known your son.
+Dialogue: 0,1:16:18.99,1:16:21.70,ZH,,0,0,0,,{\rZH\blur0.8}波罗莫对我忠心耿耿\N{\rEN\blur0.8}Boromir was loyal to me!
+Dialogue: 0,1:16:21.70,1:16:24.46,ZH,,0,0,0,,{\rZH\blur0.8}他不是巫师的徒弟\N{\rEN\blur0.8}Not some wizard's pupil!
+Dialogue: 0,1:16:32.42,1:16:33.92,ZH,,0,0,0,,{\rZH\blur0.8}父亲\N{\rEN\blur0.8}Father?
+Dialogue: 0,1:16:46.44,1:16:48.52,ZH,,0,0,0,,{\rZH\blur0.8}儿子\N{\rEN\blur0.8}My son.
+Dialogue: 0,1:17:14.59,1:17:16.13,ZH,,0,0,0,,{\rZH\blur0.8}你走吧\N{\rEN\blur0.8}Leave me.
+Dialogue: 0,1:17:49.54,1:17:52.25,ZH,,0,0,0,,{\rZH\blur0.8}小心点 主人 小心点\N{\rEN\blur0.8}Careful, master. Careful.
+Dialogue: 0,1:17:52.42,1:17:55.50,ZH,,0,0,0,,{\rZH\blur0.8}这座山谷很深\N{\rEN\blur0.8}Very far to fall.
+Dialogue: 0,1:17:57.84,1:18:01.93,ZH,,0,0,0,,{\rZH\blur0.8}这些隋梯很危险\N{\rEN\blur0.8}Very dangerous are the stairs.
+Dialogue: 0,1:18:04.43,1:18:07.14,ZH,,0,0,0,,{\rZH\blur0.8}来吧 主人\N{\rEN\blur0.8}Come, master.
+Dialogue: 0,1:18:12.77,1:18:16.11,ZH,,0,0,0,,{\rZH\blur0.8}到史参戈这儿\N{\rEN\blur0.8}Come to Sméagol.
+Dialogue: 0,1:18:22.28,1:18:23.95,ZH,,0,0,0,,{\rZH\blur0.8}佛罗多先生\N{\rEN\blur0.8}Mr. Frodo.
+Dialogue: 0,1:18:24.78,1:18:26.49,ZH,,0,0,0,,{\rZH\blur0.8}你给我退后\N{\rEN\blur0.8}Get back, you!
+Dialogue: 0,1:18:26.49,1:18:28.87,ZH,,0,0,0,,{\rZH\blur0.8}别碰他\N{\rEN\blur0.8}Don't touch him!
+Dialogue: 0,1:18:32.83,1:18:35.84,ZH,,0,0,0,,{\rZH\blur0.8}他为甚这痛恨可的史参戈？\N{\rEN\blur0.8}Why does he hates poor Sméagol?
+Dialogue: 0,1:18:35.84,1:18:39.72,ZH,,0,0,0,,{\rZH\blur0.8}史参戈到底对他做了甚？\N{\rEN\blur0.8}What has Sméagol ever done to him?
+Dialogue: 0,1:18:39.72,1:18:42.26,ZH,,0,0,0,,{\rZH\blur0.8}主人？\N{\rEN\blur0.8}Master?
+Dialogue: 0,1:18:42.88,1:18:46.51,ZH,,0,0,0,,{\rZH\blur0.8}主人身上的子好沉重\N{\rEN\blur0.8}Master carries heavy burden.
+Dialogue: 0,1:18:46.51,1:18:52.10,ZH,,0,0,0,,{\rZH\blur0.8}史参戈知道 好沉重的子\N{\rEN\blur0.8}Sméagol knows. Heavy, heavy burden.
+Dialogue: 0,1:18:52.10,1:18:55.52,ZH,,0,0,0,,{\rZH\blur0.8}小胖子不会懂\N{\rEN\blur0.8}Fat one cannot know.
+Dialogue: 0,1:18:57.40,1:19:00.32,ZH,,0,0,0,,{\rZH\blur0.8}史参戈会照顾主人\N{\rEN\blur0.8}Sméagol look after master.
+Dialogue: 0,1:19:01.36,1:19:03.74,ZH,,0,0,0,,{\rZH\blur0.8}他想要它\N{\rEN\blur0.8}He wants it.
+Dialogue: 0,1:19:03.74,1:19:08.45,ZH,,0,0,0,,{\rZH\blur0.8}他需要它 史麦戈他的眼神看得出来\N{\rEN\blur0.8}He needs it. Sméagol sees it in his eye.
+Dialogue: 0,1:19:08.45,1:19:14.08,ZH,,0,0,0,,{\rZH\blur0.8}他很快就会向你要 你等著瞧\N{\rEN\blur0.8}Very soon he will ask you for it. You will see.
+Dialogue: 0,1:19:14.08,1:19:18.13,ZH,,0,0,0,,{\rZH\blur0.8}小胖子会把它徙你手中过去\N{\rEN\blur0.8}The fat one will take it from you.
+Dialogue: 0,1:19:25.18,1:19:29.68,ZH,,0,0,0,,{\rZH\blur0.8}派出所有军隧\N{\rEN\blur0.8}Send forth all legions.
+Dialogue: 0,1:19:29.68,1:19:33.89,ZH,,0,0,0,,{\rZH\blur0.8}全力进攻直到把城市攻陷\N{\rEN\blur0.8}Do not stop the attack until the city is taken.
+Dialogue: 0,1:19:34.44,1:19:37.73,ZH,,0,0,0,,{\rZH\blur0.8}把他们提杀\N{\rEN\blur0.8}Slay them all.
+Dialogue: 0,1:19:39.23,1:19:45.20,ZH,,0,0,0,,{\rZH\blur0.8}-巫师呢？  -我会摧毁他\N{\rEN\blur0.8}-What of the wizard? I will break him.
+Dialogue: 0,1:19:48.37,1:19:50.95,ZH,,0,0,0,,{\rZH\blur0.8}希优顿王的呢？\N{\rEN\blur0.8}Where are Théoden's riders?
+Dialogue: 0,1:19:50.95,1:19:53.71,ZH,,0,0,0,,{\rZH\blur0.8}洛汗大军会来？\N{\rEN\blur0.8}Will Rohan's army come?
+Dialogue: 0,1:19:53.71,1:19:56.12,ZH,,0,0,0,,{\rZH\blur0.8}米斯兰逹\N{\rEN\blur0.8}Mithrandir.
+Dialogue: 0,1:19:57.00,1:20:00.88,ZH,,0,0,0,,{\rZH\blur0.8}你们现在的最佳防就是勇气\N{\rEN\blur0.8}Courage is the best defense that you have now.
+Dialogue: 0,1:20:05.68,1:20:08.55,ZH,,0,0,0,,{\rZH\blur0.8}你到底在想甚 皮理根多克？\N{\rEN\blur0.8}What were you thinking, Peregrin Took?
+Dialogue: 0,1:20:10.47,1:20:16.35,ZH,,0,0,0,,{\rZH\blur0.8}像我这个小哈比人 能为伟大的城主做甚 ？\N{\rEN\blur0.8}What service can a Hobbit offer such a great lord of Men?
+Dialogue: 0,1:20:16.35,1:20:18.02,ZH,,0,0,0,,{\rZH\blur0.8}你已经做得很好了\N{\rEN\blur0.8}It was well-done.
+Dialogue: 0,1:20:21.02,1:20:25.24,ZH,,0,0,0,,{\rZH\blur0.8}你这种慷慨激昂的行为 不该受到冰冷的阻\N{\rEN\blur0.8}A generous deed should not be checked with cold counsel.
+Dialogue: 0,1:20:25.82,1:20:28.53,ZH,,0,0,0,,{\rZH\blur0.8}你要加入要塞卫戍部隧\N{\rEN\blur0.8}You are to join the tower guard.
+Dialogue: 0,1:20:28.91,1:20:32.08,ZH,,0,0,0,,{\rZH\blur0.8}我还以为他们找不到 我合穿的军服\N{\rEN\blur0.8}I didn't think they would find any livery that would fit me.
+Dialogue: 0,1:20:32.08,1:20:34.70,ZH,,0,0,0,,{\rZH\blur0.8}这身军服曾属于城中一个少年\N{\rEN\blur0.8}Once belonged to a young boy of the city.
+Dialogue: 0,1:20:34.70,1:20:36.42,ZH,,0,0,0,,{\rZH\blur0.8}一个很愚蠢的少年\N{\rEN\blur0.8}A very foolish one...
+Dialogue: 0,1:20:36.42,1:20:40.84,ZH,,0,0,0,,{\rZH\blur0.8}他浪费太多时间屠龙 没有乖乖学习\N{\rEN\blur0.8}...who wasted many hours slaying dragons instead of attending to his studies.
+Dialogue: 0,1:20:40.84,1:20:43.76,ZH,,0,0,0,,{\rZH\blur0.8}-这是你的 ？  -是的\N{\rEN\blur0.8}-This was yours?   -Yes, it was mine.
+Dialogue: 0,1:20:43.76,1:20:45.72,ZH,,0,0,0,,{\rZH\blur0.8}这是我父亲替我缝制的\N{\rEN\blur0.8}My father had it made for me.
+Dialogue: 0,1:20:46.59,1:20:48.09,ZH,,0,0,0,,{\rZH\blur0.8}那……\N{\rEN\blur0.8}Well...
+Dialogue: 0,1:20:48.09,1:20:50.26,ZH,,0,0,0,,{\rZH\blur0.8}我比你当时还要高\N{\rEN\blur0.8}...I'm taller than you were then.
+Dialogue: 0,1:20:50.26,1:20:53.77,ZH,,0,0,0,,{\rZH\blur0.8}不过我不会再长高 了 只会长胖\N{\rEN\blur0.8}Though I'm not likely to grow anymore, except sideways.
+Dialogue: 0,1:20:56.56,1:20:58.77,ZH,,0,0,0,,{\rZH\blur0.8}我穿军服也不太适合\N{\rEN\blur0.8}Never fitted me either.
+Dialogue: 0,1:20:58.77,1:21:01.77,ZH,,0,0,0,,{\rZH\blur0.8}波罗莫比较像一个军人\N{\rEN\blur0.8}Boromir was always the soldier.
+Dialogue: 0,1:21:04.61,1:21:07.20,ZH,,0,0,0,,{\rZH\blur0.8}他跟我父亲其实很像\N{\rEN\blur0.8}They were so alike, he and my father.
+Dialogue: 0,1:21:09.11,1:21:10.91,ZH,,0,0,0,,{\rZH\blur0.8}心高氯傲\N{\rEN\blur0.8}Proud.
+Dialogue: 0,1:21:10.91,1:21:12.28,ZH,,0,0,0,,{\rZH\blur0.8}他们都很固执\N{\rEN\blur0.8}Stubborn even.
+Dialogue: 0,1:21:13.87,1:21:15.54,ZH,,0,0,0,,{\rZH\blur0.8}但是很强\N{\rEN\blur0.8}But strong.
+Dialogue: 0,1:21:16.87,1:21:20.21,ZH,,0,0,0,,{\rZH\blur0.8}你有不同的力量\N{\rEN\blur0.8}I think you have strength of a different kind.
+Dialogue: 0,1:21:20.67,1:21:23.30,ZH,,0,0,0,,{\rZH\blur0.8}有一天你父亲会了解\N{\rEN\blur0.8}And one day your father will see it.
+Dialogue: 0,1:21:27.30,1:21:31.26,ZH,,0,0,0,,{\rZH\blur0.8}我在此宣誓效忠刚\N{\rEN\blur0.8}Here do I swear fealty and service to Gondor...
+Dialogue: 0,1:21:31.26,1:21:32.93,ZH,,0,0,0,,{\rZH\blur0.8}不管和平或争\N{\rEN\blur0.8}...1N peace or war...
+Dialogue: 0,1:21:33.39,1:21:36.02,ZH,,0,0,0,,{\rZH\blur0.8}置生死于度外\N{\rEN\blur0.8}...1n living or dying...
+Dialogue: 0,1:21:37.23,1:21:38.64,ZH,,0,0,0,,{\rZH\blur0.8}……\N{\rEN\blur0.8}...ffrom....
+Dialogue: 0,1:21:41.15,1:21:44.11,ZH,,0,0,0,,{\rZH\blur0.8}现在开始\N{\rEN\blur0.8}From this hour henceforth...
+Dialogue: 0,1:21:44.11,1:21:46.19,ZH,,0,0,0,,{\rZH\blur0.8}直到大人解除我的誓言\N{\rEN\blur0.8}...until my lord release me...
+Dialogue: 0,1:21:47.53,1:21:49.90,ZH,,0,0,0,,{\rZH\blur0.8}或是直到我死为止\N{\rEN\blur0.8}...or death take me.
+Dialogue: 0,1:21:50.32,1:21:52.99,ZH,,0,0,0,,{\rZH\blur0.8}我不会忘记你的誓言\N{\rEN\blur0.8}And I shall not forget it...
+Dialogue: 0,1:21:52.99,1:21:56.54,ZH,,0,0,0,,{\rZH\blur0.8}也一定会回应你的效忠\N{\rEN\blur0.8}...nor fail to reward that which is given.
+Dialogue: 0,1:22:03.96,1:22:06.42,ZH,,0,0,0,,{\rZH\blur0.8}以爱回应忠诚\N{\rEN\blur0.8}Fealty with love.
+Dialogue: 0,1:22:07.34,1:22:09.17,ZH,,0,0,0,,{\rZH\blur0.8}以荣寥回应英勇\N{\rEN\blur0.8}Valor with honor.
+Dialogue: 0,1:22:10.59,1:22:14.10,ZH,,0,0,0,,{\rZH\blur0.8}以复仇回应背叛\N{\rEN\blur0.8}Disloyalty with vengeance.
+Dialogue: 0,1:22:22.56,1:22:26.82,ZH,,0,0,0,,{\rZH\blur0.8}你不该轻易放界防线\N{\rEN\blur0.8}I do not think we should so lightly abandon the outer defenses...
+Dialogue: 0,1:22:26.82,1:22:29.74,ZH,,0,0,0,,{\rZH\blur0.8}那是你兄长一直守的防线\N{\rEN\blur0.8}...defenses that your brother long held intact.
+Dialogue: 0,1:22:29.74,1:22:32.41,ZH,,0,0,0,,{\rZH\blur0.8}-你要我怎做？  -我不能就这样守……\N{\rEN\blur0.8}-What would you have me do?   -I will not yield...
+Dialogue: 0,1:22:32.41,1:22:35.37,ZH,,0,0,0,,{\rZH\blur0.8}帕兰诺平原和安都因河\N{\rEN\blur0.8}...the river in Pelennor unfought.
+Dialogue: 0,1:22:35.37,1:22:37.20,ZH,,0,0,0,,{\rZH\blur0.8}一定要夺回奥斯吉力亚斯\N{\rEN\blur0.8}Osgiliath must be retaken.
+Dialogue: 0,1:22:37.20,1:22:39.41,ZH,,0,0,0,,{\rZH\blur0.8}大人 奥斯吉力亚斯已经被攻陷\N{\rEN\blur0.8}My lord, Osgiliath is overrun.
+Dialogue: 0,1:22:39.91,1:22:42.88,ZH,,0,0,0,,{\rZH\blur0.8}打仗一定有风险\N{\rEN\blur0.8}Much must be risked in war.
+Dialogue: 0,1:22:45.34,1:22:49.46,ZH,,0,0,0,,{\rZH\blur0.8}有哪位将军 有勇气为摄政王效命？\N{\rEN\blur0.8}Is there a captain here who still has the courage to do his lord's will?
+Dialogue: 0,1:22:55.51,1:22:58.93,ZH,,0,0,0,,{\rZH\blur0.8}你希望我跟哥哥交换命运\N{\rEN\blur0.8}You wish now that our places had been exchanged...
+Dialogue: 0,1:22:59.73,1:23:02.73,ZH,,0,0,0,,{\rZH\blur0.8}你宁我死 ’波罗莫活\N{\rEN\blur0.8}...that I had died and Boromir had lived.
+Dialogue: 0,1:23:05.98,1:23:07.90,ZH,,0,0,0,,{\rZH\blur0.8}是的\N{\rEN\blur0.8}Yes.
+Dialogue: 0,1:23:08.40,1:23:10.78,ZH,,0,0,0,,{\rZH\blur0.8}我是那希望\N{\rEN\blur0.8}I wish that.
+Dialogue: 0,1:23:18.99,1:23:21.66,ZH,,0,0,0,,{\rZH\blur0.8}既然你失去了波罗莫\N{\rEN\blur0.8}Since you were robbed of Boromir...
+Dialogue: 0,1:23:23.33,1:23:26.42,ZH,,0,0,0,,{\rZH\blur0.8}我就代替他执行这项任务\N{\rEN\blur0.8}...I Will do what I can in his stead.
+Dialogue: 0,1:23:34.43,1:23:39.06,ZH,,0,0,0,,{\rZH\blur0.8}如果我能生还 请父亲你肯定我的能力\N{\rEN\blur0.8}If I should return, think better of me, Father.
+Dialogue: 0,1:23:40.97,1:23:44.77,ZH,,0,0,0,,{\rZH\blur0.8}这要看你是不是凯旋归来\N{\rEN\blur0.8}That will depend on the manner of your return.
+Dialogue: 0,1:24:44.04,1:24:45.87,ZH,,0,0,0,,{\rEN\blur0.8}Ugh.
+Dialogue: 0,1:25:07.89,1:25:10.40,ZH,,0,0,0,,{\rZH\blur0.8}你想干甚？\N{\rEN\blur0.8}What are you up to?
+Dialogue: 0,1:25:10.40,1:25:11.81,ZH,,0,0,0,,{\rZH\blur0.8}你想偷溜 对吧？\N{\rEN\blur0.8}Sneaking off, are we?
+Dialogue: 0,1:25:12.36,1:25:14.36,ZH,,0,0,0,,{\rZH\blur0.8}偷溜？\N{\rEN\blur0.8}Sneaking?
+Dialogue: 0,1:25:15.19,1:25:17.53,ZH,,0,0,0,,{\rZH\blur0.8}偷溜？\N{\rEN\blur0.8}Sneaking?
+Dialogue: 0,1:25:18.78,1:25:22.12,ZH,,0,0,0,,{\rZH\blur0.8}小胖子总是那有礼貌\N{\rEN\blur0.8}Fat Hobbit is always so polite.
+Dialogue: 0,1:25:22.12,1:25:27.37,ZH,,0,0,0,,{\rZH\blur0.8}史参戈带他们找到 没有人找得到的秘密通道\N{\rEN\blur0.8}Sméagol shows them secret ways that nobody else could find...
+Dialogue: 0,1:25:27.37,1:25:29.71,ZH,,0,0,0,,{\rZH\blur0.8}他们我想偷溜\N{\rEN\blur0.8}...and they say "sneak."
+Dialogue: 0,1:25:30.17,1:25:32.92,ZH,,0,0,0,,{\rZH\blur0.8}偷溜？\N{\rEN\blur0.8}Sneak?
+Dialogue: 0,1:25:33.38,1:25:36.26,ZH,,0,0,0,,{\rZH\blur0.8}你真是个好朋友 是啊 你真是个好兄弟\N{\rEN\blur0.8}Very nice friend. Oh, yes, my precious.
+Dialogue: 0,1:25:36.26,1:25:39.05,ZH,,0,0,0,,{\rZH\blur0.8}-好兄弟 -了 了\N{\rEN\blur0.8}-Very nice, very nice.   -All right. All right!
+Dialogue: 0,1:25:40.14,1:25:42.51,ZH,,0,0,0,,{\rZH\blur0.8}我只是被你了一跳\N{\rEN\blur0.8}You just startled me is all.
+Dialogue: 0,1:25:42.85,1:25:44.85,ZH,,0,0,0,,{\rZH\blur0.8}你刚才在干什？\N{\rEN\blur0.8}What were you doing?
+Dialogue: 0,1:25:46.31,1:25:48.60,ZH,,0,0,0,,{\rZH\blur0.8}偷溜呀\N{\rEN\blur0.8}Sneaking.
+Dialogue: 0,1:25:48.81,1:25:52.06,ZH,,0,0,0,,{\rZH\blur0.8}好吧 随便你\N{\rEN\blur0.8}Fine. Have it your own way.
+Dialogue: 0,1:25:54.15,1:25:56.82,ZH,,0,0,0,,{\rZH\blur0.8}佛罗多先生 抱歉把你吵醒\N{\rEN\blur0.8}I'm sorry to wake you, Mr. Frodo.
+Dialogue: 0,1:25:57.03,1:25:59.15,ZH,,0,0,0,,{\rZH\blur0.8}我们得出发了\N{\rEN\blur0.8}We have to be moving on.
+Dialogue: 0,1:26:04.16,1:26:05.91,ZH,,0,0,0,,{\rZH\blur0.8}天色还是很暗\N{\rEN\blur0.8}It's dark still.
+Dialogue: 0,1:26:05.91,1:26:08.29,ZH,,0,0,0,,{\rZH\blur0.8}天色一直都很暗\N{\rEN\blur0.8}It's always dark here.
+Dialogue: 0,1:26:12.38,1:26:14.46,ZH,,0,0,0,,{\rZH\blur0.8}不见了\N{\rEN\blur0.8}It's gone!
+Dialogue: 0,1:26:15.50,1:26:18.55,ZH,,0,0,0,,{\rZH\blur0.8}-精灵干不见了 -甚\N{\rEN\blur0.8}-The Elven bread.   -What?
+Dialogue: 0,1:26:18.55,1:26:20.18,ZH,,0,0,0,,{\rZH\blur0.8}我们只剩下那点干\N{\rEN\blur0.8}That's all we have left.
+Dialogue: 0,1:26:24.10,1:26:26.77,ZH,,0,0,0,,{\rZH\blur0.8}他拿走了 一定是他偷的\N{\rEN\blur0.8}He took it. He must have!
+Dialogue: 0,1:26:27.10,1:26:30.52,ZH,,0,0,0,,{\rZH\blur0.8}史参戈？可的史参戈才没拿\N{\rEN\blur0.8}Sméagol? No, no, not poor Sméagol.
+Dialogue: 0,1:26:30.52,1:26:33.60,ZH,,0,0,0,,{\rZH\blur0.8}史参戈最讨吃精灵干\N{\rEN\blur0.8}Sméagol hates nasty Elf bread.
+Dialogue: 0,1:26:33.60,1:26:36.94,ZH,,0,0,0,,{\rZH\blur0.8}你人 你拿到哪儿了 ？\N{\rEN\blur0.8}You're a lying rat! What did you do with it?!
+Dialogue: 0,1:26:36.94,1:26:38.65,ZH,,0,0,0,,{\rZH\blur0.8}他不吃那玩意\N{\rEN\blur0.8}He doesn't eat it.
+Dialogue: 0,1:26:39.49,1:26:41.99,ZH,,0,0,0,,{\rZH\blur0.8}-不可能是他拿的 一瞧\N{\rEN\blur0.8}-He can't have taken it. Look.
+Dialogue: 0,1:26:42.86,1:26:44.87,ZH,,0,0,0,,{\rZH\blur0.8}这是甚？\N{\rEN\blur0.8}What's this?
+Dialogue: 0,1:26:47.37,1:26:50.87,ZH,,0,0,0,,{\rZH\blur0.8}他的外套上有干屑 是他拿的\N{\rEN\blur0.8}Crumbs on his jacketses. He took it!
+Dialogue: 0,1:26:51.42,1:26:53.25,ZH,,0,0,0,,{\rZH\blur0.8}是他偷走的\N{\rEN\blur0.8}He took it.
+Dialogue: 0,1:26:53.92,1:26:58.30,ZH,,0,0,0,,{\rZH\blur0.8}我亲眼看到 他老是趁主人不注意偷吃\N{\rEN\blur0.8}I seen him. He's always stuffing his face when master's not looking.
+Dialogue: 0,1:26:58.30,1:27:00.26,ZH,,0,0,0,,{\rZH\blur0.8}你\N{\rEN\blur0.8}That's a filthy lie!
+Dialogue: 0,1:27:00.26,1:27:02.63,ZH,,0,0,0,,{\rZH\blur0.8}你这个狡猾的小蛋\N{\rEN\blur0.8}You stinking, two-faced sneak!
+Dialogue: 0,1:27:02.63,1:27:04.05,ZH,,0,0,0,,{\rZH\blur0.8}-山姆 -你敢是我\N{\rEN\blur0.8}-Sam! Call me--
+Dialogue: 0,1:27:04.05,1:27:05.47,ZH,,0,0,0,,{\rZH\blur0.8}住手\N{\rEN\blur0.8}Stop it!
+Dialogue: 0,1:27:06.47,1:27:08.64,ZH,,0,0,0,,{\rZH\blur0.8}山姆\N{\rEN\blur0.8}Sam!
+Dialogue: 0,1:27:08.81,1:27:12.60,ZH,,0,0,0,,{\rZH\blur0.8}-我要宰了他 -山姆 不\N{\rEN\blur0.8}-I'll kill him!   -Sam! No!
+Dialogue: 0,1:27:13.48,1:27:19.19,ZH,,0,0,0,,{\rZH\blur0.8}对不起 我不是故意的 我只是……气炸了\N{\rEN\blur0.8}Oh, my-- I'm sorry. I didn't mean it to go so far. I was just so-- So angry.
+Dialogue: 0,1:27:19.19,1:27:21.49,ZH,,0,0,0,,{\rZH\blur0.8}来，休息一下吧\N{\rEN\blur0.8}Here, just-- Let's just rest a bit.
+Dialogue: 0,1:27:21.49,1:27:23.74,ZH,,0,0,0,,{\rZH\blur0.8}-我很好 -不\N{\rEN\blur0.8}-I'm all right.   -No.
+Dialogue: 0,1:27:23.74,1:27:26.99,ZH,,0,0,0,,{\rZH\blur0.8}你不好 你累了\N{\rEN\blur0.8}No, you're not all right. You're exhausted.
+Dialogue: 0,1:27:26.99,1:27:29.29,ZH,,0,0,0,,{\rZH\blur0.8}都是咕嘈害的\N{\rEN\blur0.8}It's that Gollum.
+Dialogue: 0,1:27:29.29,1:27:31.16,ZH,,0,0,0,,{\rZH\blur0.8}是这地方害的\N{\rEN\blur0.8}It's this place.
+Dialogue: 0,1:27:31.16,1:27:33.92,ZH,,0,0,0,,{\rZH\blur0.8}是你戴在上的东西害的\N{\rEN\blur0.8}It's that thing around your neck.
+Dialogue: 0,1:27:37.25,1:27:38.71,ZH,,0,0,0,,{\rZH\blur0.8}我可以点忙\N{\rEN\blur0.8}I could help a bit.
+Dialogue: 0,1:27:38.71,1:27:41.55,ZH,,0,0,0,,{\rZH\blur0.8}我可以替你戴一下\N{\rEN\blur0.8}I could carry it for a while.
+Dialogue: 0,1:27:41.55,1:27:43.47,ZH,,0,0,0,,{\rZH\blur0.8}我替你戴一阵子\N{\rEN\blur0.8}Carry it for a while.
+Dialogue: 0,1:27:43.47,1:27:44.88,ZH,,0,0,0,,{\rZH\blur0.8}我可以替你戴一下\N{\rEN\blur0.8}I could carry it... could carry it.
+Dialogue: 0,1:27:45.34,1:27:50.97,ZH,,0,0,0,,{\rZH\blur0.8}减轻你的负\N{\rEN\blur0.8}Share the load...Share the load... the load...the load.
+Dialogue: 0,1:27:50.97,1:27:52.35,ZH,,0,0,0,,{\rZH\blur0.8}走开\N{\rEN\blur0.8}Get away!
+Dialogue: 0,1:27:52.35,1:27:54.10,ZH,,0,0,0,,{\rZH\blur0.8}我不想要它\N{\rEN\blur0.8}I don't want to keep it.
+Dialogue: 0,1:27:57.52,1:27:59.69,ZH,,0,0,0,,{\rZH\blur0.8}我只想忙\N{\rEN\blur0.8}I just want to help.
+Dialogue: 0,1:28:01.57,1:28:04.36,ZH,,0,0,0,,{\rZH\blur0.8}瞧……\N{\rEN\blur0.8}See? See?
+Dialogue: 0,1:28:04.36,1:28:07.95,ZH,,0,0,0,,{\rZH\blur0.8}他想把它占为已有\N{\rEN\blur0.8}He wants it for himself.
+Dialogue: 0,1:28:07.95,1:28:09.83,ZH,,0,0,0,,{\rZH\blur0.8}给我嘴\N{\rEN\blur0.8}Shut up, you!
+Dialogue: 0,1:28:10.20,1:28:12.20,ZH,,0,0,0,,{\rZH\blur0.8}快滚 给我走吧\N{\rEN\blur0.8}Go away! Get out of here!
+Dialogue: 0,1:28:12.20,1:28:14.21,ZH,,0,0,0,,{\rZH\blur0.8}不 山姆\N{\rEN\blur0.8}No, Sam.
+Dialogue: 0,1:28:14.21,1:28:15.62,ZH,,0,0,0,,{\rZH\blur0.8}你才该走\N{\rEN\blur0.8}It's you.
+Dialogue: 0,1:28:19.67,1:28:21.55,ZH,,0,0,0,,{\rZH\blur0.8}很抱歉 山姆\N{\rEN\blur0.8}I'm sorry, Sam.
+Dialogue: 0,1:28:23.05,1:28:24.59,ZH,,0,0,0,,{\rZH\blur0.8}他是个子\N{\rEN\blur0.8}But he's a liar.
+Dialogue: 0,1:28:24.59,1:28:27.43,ZH,,0,0,0,,{\rZH\blur0.8}他在挑我们的感情\N{\rEN\blur0.8}He's poisoned you against me.
+Dialogue: 0,1:28:28.68,1:28:30.76,ZH,,0,0,0,,{\rZH\blur0.8}你再也不了我\N{\rEN\blur0.8}You can't help me anymore.
+Dialogue: 0,1:28:32.56,1:28:34.60,ZH,,0,0,0,,{\rZH\blur0.8}这不是你的真心话\N{\rEN\blur0.8}You don't mean that.
+Dialogue: 0,1:28:36.94,1:28:38.90,ZH,,0,0,0,,{\rZH\blur0.8}回家吧\N{\rEN\blur0.8}Go home.
+Dialogue: 0,1:29:58.77,1:30:02.81,ZH,,0,0,0,,{\rZH\blur0.8}法拉墨 ！\N{\rEN\blur0.8}Faramir!
+Dialogue: 0,1:30:04.15,1:30:06.36,ZH,,0,0,0,,{\rZH\blur0.8}你父亲完全失去理智\N{\rEN\blur0.8}Your father's will has turned to madness.
+Dialogue: 0,1:30:07.36,1:30:09.57,ZH,,0,0,0,,{\rZH\blur0.8}不要白白去送死\N{\rEN\blur0.8}Do not throw away your life so rashly.
+Dialogue: 0,1:30:10.16,1:30:12.66,ZH,,0,0,0,,{\rZH\blur0.8}我必须誓死效忠刚\N{\rEN\blur0.8}Where does my allegiance lie if not here?
+Dialogue: 0,1:30:13.12,1:30:16.20,ZH,,0,0,0,,{\rZH\blur0.8}这是努曼诺尔人的圣城\N{\rEN\blur0.8}This is the city of the Men of Numenor.
+Dialogue: 0,1:30:16.66,1:30:19.62,ZH,,0,0,0,,{\rZH\blur0.8}为了捍卫这座美丽的圣城 它辉煌的过去和智慧\N{\rEN\blur0.8}I will gladly give my life to defend her beauty...
+Dialogue: 0,1:30:19.62,1:30:23.00,ZH,,0,0,0,,{\rZH\blur0.8}我很乐意牲我的性命\N{\rEN\blur0.8}... er memory, her wisdom.
+Dialogue: 0,1:30:25.21,1:30:28.80,ZH,,0,0,0,,{\rZH\blur0.8}你父亲很爱你 法拉墨\N{\rEN\blur0.8}Your father loves you, Faramir.
+Dialogue: 0,1:30:29.34,1:30:32.51,ZH,,0,0,0,,{\rZH\blur0.8}他最后会记起来的\N{\rEN\blur0.8}He will remember it before the end.
+Dialogue: 0,1:31:41.96,1:31:43.66,ZH,,0,0,0,,{\rZH\blur0.8}你会唱歌 小哈比人？\N{\rEN\blur0.8}Can you sing, Master Hobbit?
+Dialogue: 0,1:31:46.38,1:31:48.04,ZH,,0,0,0,,{\rZH\blur0.8}这个……\N{\rEN\blur0.8}Well...
+Dialogue: 0,1:31:48.42,1:31:50.21,ZH,,0,0,0,,{\rZH\blur0.8}会啊\N{\rEN\blur0.8}yes.
+Dialogue: 0,1:31:50.76,1:31:54.68,ZH,,0,0,0,,{\rZH\blur0.8}我的同胞觉得我唱得不错\N{\rEN\blur0.8}At least, well enough for my own people.
+Dialogue: 0,1:31:56.14,1:31:58.72,ZH,,0,0,0,,{\rZH\blur0.8}不过我们唱的歌都很粗俗\N{\rEN\blur0.8}But we have no songs for great halls...
+Dialogue: 0,1:31:59.60,1:32:01.02,ZH,,0,0,0,,{\rZH\blur0.8}不能登大雅之堂\N{\rEN\blur0.8}...and evil times.
+Dialogue: 0,1:32:01.68,1:32:05.02,ZH,,0,0,0,,{\rZH\blur0.8}为甚不能登大雅之堂？\N{\rEN\blur0.8}And why should your songs be unfit for my halls?
+Dialogue: 0,1:32:07.65,1:32:09.23,ZH,,0,0,0,,{\rZH\blur0.8}来吧 口日一首来 目\N{\rEN\blur0.8}Come, sing me a song.
+Dialogue: 0,1:32:20.12,1:32:23.62,ZH,,0,0,0,,{\rZH\blur0.8}家园在后方\N{\rEN\blur0.8}Home is behind
+Dialogue: 0,1:32:23.62,1:32:27.54,ZH,,0,0,0,,{\rZH\blur0.8}世界在前方\N{\rEN\blur0.8}The world ahead
+Dialogue: 0,1:32:29.79,1:32:35.80,ZH,,0,0,0,,{\rZH\blur0.8}路途多遥远 千辛又万苦\N{\rEN\blur0.8}And there are many paths to tread
+Dialogue: 0,1:32:37.43,1:32:41.14,ZH,,0,0,0,,{\rZH\blur0.8}穿过幽暗阴影\N{\rEN\blur0.8}Through shadow
+Dialogue: 0,1:32:41.14,1:32:45.48,ZH,,0,0,0,,{\rZH\blur0.8}迎向黑夜缘\N{\rEN\blur0.8}To the edge of night
+Dialogue: 0,1:32:46.98,1:32:52.23,ZH,,0,0,0,,{\rZH\blur0.8}直到夜空繁星闪烁\N{\rEN\blur0.8}Until the stars are all alight
+Dialogue: 0,1:32:55.07,1:32:59.57,ZH,,0,0,0,,{\rZH\blur0.8}迷霖和阴影\N{\rEN\blur0.8}Mist and shadow
+Dialogue: 0,1:32:59.57,1:33:04.04,ZH,,0,0,0,,{\rZH\blur0.8}乌云和黑暗\N{\rEN\blur0.8}Cloud and shade
+Dialogue: 0,1:33:06.25,1:33:09.75,ZH,,0,0,0,,{\rZH\blur0.8}全都消失\N{\rEN\blur0.8}All shall fade
+Dialogue: 0,1:33:11.96,1:33:16.13,ZH,,0,0,0,,{\rZH\blur0.8}全都消失\N{\rEN\blur0.8}All shall
+Dialogue: 0,1:33:21.72,1:33:24.26,ZH,,0,0,0,,{\rZH\blur0.8}消散一空\N{\rEN\blur0.8}Fade
+Dialogue: 0,1:33:48.50,1:33:52.13,ZH,,0,0,0,,{\rZH\blur0.8}前进 ！ 前进\N{\rEN\blur0.8}March! March!
+Dialogue: 0,1:33:52.13,1:33:57.26,ZH,,0,0,0,,{\rZH\blur0.8}前进 ！ 前进\N{\rEN\blur0.8}March! March! March!
+Dialogue: 0,1:34:00.80,1:34:03.30,ZH,,0,0,0,,{\rZH\blur0.8}国王来了\N{\rEN\blur0.8}Make way for the king.
+Dialogue: 0,1:34:04.64,1:34:06.81,ZH,,0,0,0,,{\rZH\blur0.8}开\N{\rEN\blur0.8}Make way.
+Dialogue: 0,1:34:09.10,1:34:11.31,ZH,,0,0,0,,{\rZH\blur0.8}国王来了\N{\rEN\blur0.8}The king is here.
+Dialogue: 0,1:34:13.11,1:34:14.90,ZH,,0,0,0,,{\rZH\blur0.8}皇上\N{\rEN\blur0.8}My lord.
+Dialogue: 0,1:34:15.98,1:34:18.11,ZH,,0,0,0,,{\rZH\blur0.8}吾王万\N{\rEN\blur0.8}Hail to you, sire.
+Dialogue: 0,1:34:18.40,1:34:19.78,ZH,,0,0,0,,{\rZH\blur0.8}葛林伯 有多少人马？\N{\rEN\blur0.8}Grimbold, how many?
+Dialogue: 0,1:34:19.78,1:34:22.41,ZH,,0,0,0,,{\rZH\blur0.8}皇上 ，我西谷带来五百人\N{\rEN\blur0.8}I bring 500 men from the Westfold, my lord.
+Dialogue: 0,1:34:23.20,1:34:26.04,ZH,,0,0,0,,{\rZH\blur0.8}沼境来了三百人 希优顿王\N{\rEN\blur0.8}We have 300 more from Fenmarch, Théoden King.
+Dialogue: 0,1:34:27.00,1:34:31.12,ZH,,0,0,0,,{\rZH\blur0.8}-雪界河来了多少士？  -一个也没有 皇上\N{\rEN\blur0.8}-Where are the riders from Snowbourn? None have come, my lord.
+Dialogue: 0,1:34:48.02,1:34:50.31,ZH,,0,0,0,,{\rZH\blur0.8}六千名长矛手\N{\rEN\blur0.8}Six thousand spears.
+Dialogue: 0,1:34:51.19,1:34:53.35,ZH,,0,0,0,,{\rZH\blur0.8}比我预期的少一半\N{\rEN\blur0.8}Less than half of what I'd hoped for.
+Dialogue: 0,1:34:53.48,1:34:57.02,ZH,,0,0,0,,{\rZH\blur0.8}六千人不能突破魔多大军防线\N{\rEN\blur0.8}Six thousand will not be enough to break the lines of Mordor.
+Dialogue: 0,1:34:59.61,1:35:01.53,ZH,,0,0,0,,{\rZH\blur0.8}会有更多人马来到\N{\rEN\blur0.8}More will come.
+Dialogue: 0,1:35:01.74,1:35:04.87,ZH,,0,0,0,,{\rZH\blur0.8}时间拖久了刚就会湓陷\N{\rEN\blur0.8}Every hour lost hastens Gondor's defeat.
+Dialogue: 0,1:35:04.87,1:35:07.62,ZH,,0,0,0,,{\rZH\blur0.8}只能等到天亮 然后就要出发\N{\rEN\blur0.8}We have till dawn, then we must ride.
+Dialogue: 0,1:35:26.93,1:35:29.43,ZH,,0,0,0,,{\rZH\blur0.8}马焦躁不安\N{\rEN\blur0.8}The horses are restless...
+Dialogue: 0,1:35:29.43,1:35:31.10,ZH,,0,0,0,,{\rZH\blur0.8}士寂静无声\N{\rEN\blur0.8}..and the men are quiet.
+Dialogue: 0,1:35:31.39,1:35:34.69,ZH,,0,0,0,,{\rZH\blur0.8}他们在山谷的阴影中坐立不安\N{\rEN\blur0.8}They grow nervous in the shadow of the mountain.
+Dialogue: 0,1:35:36.98,1:35:39.02,ZH,,0,0,0,,{\rZH\blur0.8}那条路·\N{\rEN\blur0.8}That road there...
+Dialogue: 0,1:35:39.78,1:35:42.03,ZH,,0,0,0,,{\rZH\blur0.8}通往哪里？\N{\rEN\blur0.8}...where does that lead?
+Dialogue: 0,1:35:42.61,1:35:46.62,ZH,,0,0,0,,{\rZH\blur0.8}那条路通向丁 山中之门\N{\rEN\blur0.8}It is the road to the Dimholt, the door under the mountain.
+Dialogue: 0,1:35:47.16,1:35:50.33,ZH,,0,0,0,,{\rZH\blur0.8}没有人进去能活著出来\N{\rEN\blur0.8}None who venture there ever return.
+Dialogue: 0,1:35:51.37,1:35:53.41,ZH,,0,0,0,,{\rZH\blur0.8}那是亡灵之山\N{\rEN\blur0.8}That mountain is evil.
+Dialogue: 0,1:36:04.59,1:36:06.68,ZH,,0,0,0,,{\rEN\blur0.8}Hold!
+Dialogue: 0,1:36:16.19,1:36:18.19,ZH,,0,0,0,,{\rZH\blur0.8}亚拉罔\N{\rEN\blur0.8}Aragorn.
+Dialogue: 0,1:36:18.77,1:36:20.86,ZH,,0,0,0,,{\rZH\blur0.8}我们去找吃的\N{\rEN\blur0.8}Let's find some food.
+Dialogue: 0,1:36:37.21,1:36:38.75,ZH,,0,0,0,,{\rZH\blur0.8}好了\N{\rEN\blur0.8}There.
+Dialogue: 0,1:36:39.54,1:36:42.71,ZH,,0,0,0,,{\rZH\blur0.8}你是真正的洛汗了\N{\rEN\blur0.8}A true esquire of Rohan.
+Dialogue: 0,1:36:46.22,1:36:48.34,ZH,,0,0,0,,{\rZH\blur0.8}我备好了\N{\rEN\blur0.8}I'm ready.
+Dialogue: 0,1:36:49.80,1:36:51.22,ZH,,0,0,0,,{\rZH\blur0.8}对不起\N{\rEN\blur0.8}Sorry.
+Dialogue: 0,1:36:51.22,1:36:53.64,ZH,,0,0,0,,{\rZH\blur0.8}这把剑不利\N{\rEN\blur0.8}It isn't all that dangerous.
+Dialogue: 0,1:36:54.02,1:36:56.48,ZH,,0,0,0,,{\rZH\blur0.8}它其实挺的\N{\rEN\blur0.8}It's not even sharp.
+Dialogue: 0,1:36:57.02,1:37:00.56,ZH,,0,0,0,,{\rZH\blur0.8}那可不行 用剑可杀不了很多半兽人\N{\rEN\blur0.8}Well, that's no good. You won't kill many Orcs with a blunt blade.
+Dialogue: 0,1:37:00.56,1:37:02.23,ZH,,0,0,0,,{\rZH\blur0.8}来吧\N{\rEN\blur0.8}Come on.
+Dialogue: 0,1:37:06.24,1:37:08.91,ZH,,0,0,0,,{\rZH\blur0.8}去找铁匠磨剑 去吧\N{\rEN\blur0.8}To the smithy. Go!
+Dialogue: 0,1:37:10.24,1:37:12.91,ZH,,0,0,0,,{\rZH\blur0.8}你不该他\N{\rEN\blur0.8}You should not encourage him.
+Dialogue: 0,1:37:12.95,1:37:15.54,ZH,,0,0,0,,{\rZH\blur0.8}你不该对他没信心\N{\rEN\blur0.8}You should not doubt him.
+Dialogue: 0,1:37:15.58,1:37:19.00,ZH,,0,0,0,,{\rZH\blur0.8}他很有勇气 只是手太短\N{\rEN\blur0.8}I do not doubt his heart, only the reach of his arm.
+Dialogue: 0,1:37:21.59,1:37:23.30,ZH,,0,0,0,,{\rZH\blur0.8}梅里为甚不能上场？\N{\rEN\blur0.8}Why should Merry be left behind?
+Dialogue: 0,1:37:23.34,1:37:26.09,ZH,,0,0,0,,{\rZH\blur0.8}他跟你一样有参的理由\N{\rEN\blur0.8}He has as much cause to go to war as you.
+Dialogue: 0,1:37:28.09,1:37:31.43,ZH,,0,0,0,,{\rZH\blur0.8}他为甚就不能 为他所爱的人？\N{\rEN\blur0.8}Why can he not fight for those he loves?
+Dialogue: 0,1:37:34.56,1:37:37.68,ZH,,0,0,0,,{\rZH\blur0.8}妳对争的了解 跟那个哈比人一样少\N{\rEN\blur0.8}You know as little of war as that Hobbit.
+Dialogue: 0,1:37:38.77,1:37:41.02,ZH,,0,0,0,,{\rZH\blur0.8}当他心中充满恐\N{\rEN\blur0.8}When the fear takes him...
+Dialogue: 0,1:37:41.06,1:37:46.24,ZH,,0,0,0,,{\rZH\blur0.8}当他看到士兵在场上 全身血淋淋地惨叫\N{\rEN\blur0.8}...and the blood and the screams and the horror of battle take hold...
+Dialogue: 0,1:37:46.49,1:37:48.78,ZH,,0,0,0,,{\rZH\blur0.8}你为他还会勇作？\N{\rEN\blur0.8}...do you think he would stand and fight?
+Dialogue: 0,1:37:51.20,1:37:52.95,ZH,,0,0,0,,{\rZH\blur0.8}他一定会逃之天天\N{\rEN\blur0.8}He would flee.
+Dialogue: 0,1:37:52.99,1:37:55.16,ZH,,0,0,0,,{\rZH\blur0.8}他这做亚没有错\N{\rEN\blur0.8}And he would be right to do so.
+Dialogue: 0,1:37:57.25,1:38:01.33,ZH,,0,0,0,,{\rZH\blur0.8}人类是逼不得已才会作\N{\rEN\blur0.8}War is the province of Men, Eowyn.
+Dialogue: 0,1:38:36.83,1:38:40.71,ZH,,0,0,0,,{\rZH\blur0.8}我选选了凡人的生命\N{\rEN\blur0.8}I choose a mortal life.
+Dialogue: 0,1:38:43.50,1:38:46.50,ZH,,0,0,0,,{\rZH\blur0.8}我真希望能见到他.·.\N{\rEN\blur0.8}I wish I could've seen him...
+Dialogue: 0,1:38:47.50,1:38:50.34,ZH,,0,0,0,,{\rZH\blur0.8}最后一面\N{\rEN\blur0.8}...one last time.
+Dialogue: 0,1:39:01.35,1:39:02.94,ZH,,0,0,0,,{\rZH\blur0.8}大人\N{\rEN\blur0.8}Sir?
+Dialogue: 0,1:39:04.65,1:39:07.36,ZH,,0,0,0,,{\rZH\blur0.8}希优顿王找你\N{\rEN\blur0.8}King Théoden awaits you, my lord.
+Dialogue: 0,1:39:28.00,1:39:30.09,ZH,,0,0,0,,{\rZH\blur0.8}我先走了\N{\rEN\blur0.8}I take my leave.
+Dialogue: 0,1:39:44.60,1:39:45.98,ZH,,0,0,0,,{\rZH\blur0.8}爱隆王\N{\rEN\blur0.8}My lord Elrond.
+Dialogue: 0,1:39:46.40,1:39:50.07,ZH,,0,0,0,,{\rZH\blur0.8}我是为了挚爱的女儿而来\N{\rEN\blur0.8}I come on behalf of one whom I love.
+Dialogue: 0,1:39:53.03,1:39:55.16,ZH,,0,0,0,,{\rZH\blur0.8}亚玟就快死了\N{\rEN\blur0.8}Arwen is dying.
+Dialogue: 0,1:39:59.83,1:40:04.00,ZH,,0,0,0,,{\rZH\blur0.8}魔多出的邪恶力量 她时日无多\N{\rEN\blur0.8}She will not long survive the evil that now spreads from Mordor.
+Dialogue: 0,1:40:04.62,1:40:08.13,ZH,,0,0,0,,{\rZH\blur0.8}暮星的光芒越来越微弱\N{\rEN\blur0.8}The light of the Evenstar is failing.
+Dialogue: 0,1:40:08.17,1:40:12.30,ZH,,0,0,0,,{\rZH\blur0.8}索伦的力量日 益强大 她就逐失去生命力\N{\rEN\blur0.8}As Sauron's power grows, her strength wanes.
+Dialogue: 0,1:40:12.34,1:40:16.22,ZH,,0,0,0,,{\rZH\blur0.8}亚玟的生命 和魔戒的命运息息相关\N{\rEN\blur0.8}Arwen's life is now tied to the fate of the Ring.
+Dialogue: 0,1:40:16.84,1:40:19.56,ZH,,0,0,0,,{\rZH\blur0.8}亚拉 魔影即将麓罩我们\N{\rEN\blur0.8}The Shadow is upon us, Aragorn.
+Dialogue: 0,1:40:19.76,1:40:21.60,ZH,,0,0,0,,{\rZH\blur0.8}世界末日即将来临\N{\rEN\blur0.8}The end has come.
+Dialogue: 0,1:40:21.85,1:40:24.60,ZH,,0,0,0,,{\rZH\blur0.8}这将是魔王的末日 不是我们的终结\N{\rEN\blur0.8}It will not be our end, but his.
+Dialogue: 0,1:40:25.23,1:40:28.94,ZH,,0,0,0,,{\rZH\blur0.8}你们对无法胜\N{\rEN\blur0.8}You ride to war, but not to victory.
+Dialogue: 0,1:40:29.77,1:40:33.61,ZH,,0,0,0,,{\rZH\blur0.8}索伦的邪恶大军 正向米那斯提力斯前进\N{\rEN\blur0.8}Sauron's armies march on Minas Tirith, this you know.
+Dialogue: 0,1:40:33.65,1:40:38.20,ZH,,0,0,0,,{\rZH\blur0.8}他另外又秘密派一支军隧 河面展开攻\N{\rEN\blur0.8}But in secret he sends another force which will attack from the river.
+Dialogue: 0,1:40:38.53,1:40:42.08,ZH,,0,0,0,,{\rZH\blur0.8}他派昂巴海盗船徙南方进攻\N{\rEN\blur0.8}A fleet of Corsair ships sails from the south.
+Dialogue: 0,1:40:42.58,1:40:44.79,ZH,,0,0,0,,{\rZH\blur0.8}雨天后就会攻到\N{\rEN\blur0.8}They'll be in the city in two days.
+Dialogue: 0,1:40:45.16,1:40:48.12,ZH,,0,0,0,,{\rZH\blur0.8}亚拉 你们寡不\N{\rEN\blur0.8}You're outnumbered, Aragorn.
+Dialogue: 0,1:40:48.71,1:40:50.96,ZH,,0,0,0,,{\rZH\blur0.8}你们需要搬更多救兵\N{\rEN\blur0.8}You need more men.
+Dialogue: 0,1:40:51.21,1:40:53.09,ZH,,0,0,0,,{\rZH\blur0.8}没有救兵可搬了\N{\rEN\blur0.8}There are none.
+Dialogue: 0,1:40:54.72,1:40:58.76,ZH,,0,0,0,,{\rZH\blur0.8}亡灵之山住了·一些人\N{\rEN\blur0.8}There are those who dwell in the mountain.
+Dialogue: 0,1:41:07.64,1:41:09.94,ZH,,0,0,0,,{\rZH\blur0.8}他们是杀人手\N{\rEN\blur0.8}Murderers...
+Dialogue: 0,1:41:09.98,1:41:11.52,ZH,,0,0,0,,{\rZH\blur0.8}叛徒\N{\rEN\blur0.8}...traitors.
+Dialogue: 0,1:41:13.82,1:41:16.15,ZH,,0,0,0,,{\rZH\blur0.8}你要我找他们忙？\N{\rEN\blur0.8}You would call upon them to fight?
+Dialogue: 0,1:41:16.20,1:41:17.90,ZH,,0,0,0,,{\rZH\blur0.8}他们甚都不相信\N{\rEN\blur0.8}They believe in nothing.
+Dialogue: 0,1:41:17.95,1:41:20.20,ZH,,0,0,0,,{\rZH\blur0.8}也不任何人的命令\N{\rEN\blur0.8}They answer to no one.
+Dialogue: 0,1:41:20.24,1:41:23.45,ZH,,0,0,0,,{\rZH\blur0.8}他们会刚人皇的命令\N{\rEN\blur0.8}They will answer to the king of Gondor.
+Dialogue: 0,1:41:30.46,1:41:35.72,ZH,,0,0,0,,{\rZH\blur0.8}安都瑞尔 西方之炎 用纳希尔圣剑碎片 重而成\N{\rEN\blur0.8}Anduril, the Flame of the West, forged from the shards of Narsil.
+Dialogue: 0,1:41:49.85,1:41:54.44,ZH,,0,0,0,,{\rZH\blur0.8}索伦对不会忘记伊兰迪尔圣剑\N{\rEN\blur0.8}Sauron will not have forgotten the Sword of Elendil.
+Dialogue: 0,1:42:08.37,1:42:13.25,ZH,,0,0,0,,{\rZH\blur0.8}曾经破碎的圣剑 将再度回到米那斯提力斯\N{\rEN\blur0.8}The blade that was broken shall return to Minas Tirith.
+Dialogue: 0,1:42:13.29,1:42:15.84,ZH,,0,0,0,,{\rZH\blur0.8}能驾这把圣剑的人\N{\rEN\blur0.8}The man who can wield the power of this sword...
+Dialogue: 0,1:42:15.88,1:42:19.88,ZH,,0,0,0,,{\rZH\blur0.8}将召集史上最强大的军隧\N{\rEN\blur0.8}...can summon to him an army more deadly than any that walks this earth.
+Dialogue: 0,1:42:21.55,1:42:23.89,ZH,,0,0,0,,{\rZH\blur0.8}把避侠的身份放下\N{\rEN\blur0.8}Put aside the Ranger.
+Dialogue: 0,1:42:23.89,1:42:27.39,ZH,,0,0,0,,{\rZH\blur0.8}成为你命中定的人皇\N{\rEN\blur0.8}Become who you were born to be.
+Dialogue: 0,1:42:27.39,1:42:29.56,ZH,,0,0,0,,{\rZH\blur0.8}往丁褐走上亡者之道\N{\rEN\blur0.8}Take the Dimholt road.
+Dialogue: 0,1:42:33.56,1:42:36.36,ZH,,0,0,0,,{\rZH\blur0.8}我给人类希望
+Dialogue: 0,1:42:39.61,1:42:43.74,ZH,,0,0,0,,{\rZH\blur0.8}我将舍一切而
+Dialogue: 0,1:42:55.42,1:42:57.25,ZH,,0,0,0,,{\rZH\blur0.8}你为甚要走？\N{\rEN\blur0.8}Why are you doing this?
+Dialogue: 0,1:42:57.59,1:43:00.92,ZH,,0,0,0,,{\rZH\blur0.8}大即将在西方展开 你不能阵脱逃\N{\rEN\blur0.8}The war lies to the east. You cannot leave on the eve of battle.
+Dialogue: 0,1:43:03.22,1:43:05.43,ZH,,0,0,0,,{\rZH\blur0.8}你不能抛这些弟兄\N{\rEN\blur0.8}You cannot abandon the men.
+Dialogue: 0,1:43:06.60,1:43:08.31,ZH,,0,0,0,,{\rZH\blur0.8}伊欧斑\N{\rEN\blur0.8}Eowyn...
+Dialogue: 0,1:43:08.35,1:43:10.68,ZH,,0,0,0,,{\rZH\blur0.8}我们需要你在这里\N{\rEN\blur0.8}We need you here.
+Dialogue: 0,1:43:11.69,1:43:13.69,ZH,,0,0,0,,{\rZH\blur0.8}你为甚跟来？\N{\rEN\blur0.8}Why have you come?
+Dialogue: 0,1:43:15.23,1:43:17.32,ZH,,0,0,0,,{\rZH\blur0.8}难道你不知道？\N{\rEN\blur0.8}Do you not know?
+Dialogue: 0,1:43:26.45,1:43:29.62,ZH,,0,0,0,,{\rZH\blur0.8}你爱的只是一个理想 一个幻影\N{\rEN\blur0.8}It is but a shadow and a thought that you love.
+Dialogue: 0,1:43:33.42,1:43:35.96,ZH,,0,0,0,,{\rZH\blur0.8}我不能回报你的爱\N{\rEN\blur0.8}I cannot give you what you seek.
+Dialogue: 0,1:43:49.35,1:43:53.39,ZH,,0,0,0,,{\rZH\blur0.8}我第一次看到你就希望你快乐\N{\rEN\blur0.8}I have wished you joy since first I saw you.
+Dialogue: 0,1:44:12.41,1:44:14.83,ZH,,0,0,0,,{\rZH\blur0.8}你想去哪儿？\N{\rEN\blur0.8}Just where do you think you're off to?
+Dialogue: 0,1:44:14.87,1:44:16.33,ZH,,0,0,0,,{\rZH\blur0.8}这次不行\N{\rEN\blur0.8}Not this time.
+Dialogue: 0,1:44:16.38,1:44:18.71,ZH,,0,0,0,,{\rZH\blur0.8}这次你要留下来，金丽\N{\rEN\blur0.8}-This time you must stay, Gimli.   -Mm.
+Dialogue: 0,1:44:21.30,1:44:24.26,ZH,,0,0,0,,{\rZH\blur0.8}你还不知道矮人族最固执？\N{\rEN\blur0.8}Have you learned nothing of the stubbornness of Dwarves?
+Dialogue: 0,1:44:24.30,1:44:28.10,ZH,,0,0,0,,{\rZH\blur0.8}你就了吧 我们要跟你去\N{\rEN\blur0.8}You might as well accept it. We're going with you, laddie.
+Dialogue: 0,1:44:50.28,1:44:52.58,ZH,,0,0,0,,{\rZH\blur0.8}-怎回事？  -他要去哪儿？\N{\rEN\blur0.8}-What's happening?   -Where is he going?
+Dialogue: 0,1:44:52.79,1:44:54.79,ZH,,0,0,0,,{\rZH\blur0.8}他要去哪儿？\N{\rEN\blur0.8}Where's he going?
+Dialogue: 0,1:44:57.21,1:44:59.42,ZH,,0,0,0,,{\rZH\blur0.8}我不明白\N{\rEN\blur0.8}I don't understand.
+Dialogue: 0,1:45:03.71,1:45:05.63,ZH,,0,0,0,,{\rZH\blur0.8}亚拉大人\N{\rEN\blur0.8}Lord Aragorn!
+Dialogue: 0,1:45:05.92,1:45:08.76,ZH,,0,0,0,,{\rZH\blur0.8}他为甚在大前夕离开？\N{\rEN\blur0.8}Why does he leave on the eve of battle?
+Dialogue: 0,1:45:09.84,1:45:12.06,ZH,,0,0,0,,{\rZH\blur0.8}他离开是因为没有希望\N{\rEN\blur0.8}He leaves because there is no hope.
+Dialogue: 0,1:45:12.56,1:45:14.85,ZH,,0,0,0,,{\rZH\blur0.8}他离开是因为非走不可\N{\rEN\blur0.8}He leaves because he must.
+Dialogue: 0,1:45:14.89,1:45:16.73,ZH,,0,0,0,,{\rZH\blur0.8}我们势单力薄\N{\rEN\blur0.8}Too few have come.
+Dialogue: 0,1:45:16.73,1:45:19.06,ZH,,0,0,0,,{\rZH\blur0.8}不可能擎败魔多大军\N{\rEN\blur0.8}We cannot defeat the armies of Mordor.
+Dialogue: 0,1:45:21.44,1:45:23.23,ZH,,0,0,0,,{\rZH\blur0.8}没错\N{\rEN\blur0.8}No...
+Dialogue: 0,1:45:23.53,1:45:24.90,ZH,,0,0,0,,{\rZH\blur0.8}是不可能\N{\rEN\blur0.8}...we cannot.
+Dialogue: 0,1:45:27.66,1:45:31.58,ZH,,0,0,0,,{\rZH\blur0.8}但我们还是要誓死一\N{\rEN\blur0.8}But we will meet them in battle nonetheless.
+Dialogue: 0,1:45:45.88,1:45:47.76,ZH,,0,0,0,,{\rZH\blur0.8}我留下了指示\N{\rEN\blur0.8}I have left instruction.
+Dialogue: 0,1:45:50.26,1:45:53.68,ZH,,0,0,0,,{\rZH\blur0.8}我死后人民要你的命令\N{\rEN\blur0.8}The people are to follow your rule in my stead.
+Dialogue: 0,1:46:00.10,1:46:02.52,ZH,,0,0,0,,{\rZH\blur0.8}坐上我在金殿的王位\N{\rEN\blur0.8}Take up my seat in the Golden Hall.
+Dialogue: 0,1:46:03.61,1:46:06.61,ZH,,0,0,0,,{\rZH\blur0.8}如果我们不幸落败\N{\rEN\blur0.8}Long may you defend Edoras...
+Dialogue: 0,1:46:06.61,1:46:09.11,ZH,,0,0,0,,{\rZH\blur0.8}你要全力捍卫伊多拉斯\N{\rEN\blur0.8}...if the battle goes ill.
+Dialogue: 0,1:46:10.07,1:46:13.62,ZH,,0,0,0,,{\rZH\blur0.8}你还要我甚职？\N{\rEN\blur0.8}What other duty would you have me do, my lord?
+Dialogue: 0,1:46:15.70,1:46:17.79,ZH,,0,0,0,,{\rZH\blur0.8}职？\N{\rEN\blur0.8}Duty?
+Dialogue: 0,1:46:19.79,1:46:21.29,ZH,,0,0,0,,{\rZH\blur0.8}没有了\N{\rEN\blur0.8}No.
+Dialogue: 0,1:46:29.47,1:46:31.72,ZH,,0,0,0,,{\rZH\blur0.8}我只希望你能重展笑容\N{\rEN\blur0.8}I would have you smile again...
+Dialogue: 0,1:46:35.01,1:46:40.14,ZH,,0,0,0,,{\rZH\blur0.8}别再为死去的人难过\N{\rEN\blur0.8}...not grieve for those whose time has come.
+Dialogue: 0,1:46:44.82,1:46:48.48,ZH,,0,0,0,,{\rZH\blur0.8}你要率领洛汗人民重建家园\N{\rEN\blur0.8}You shall live to see these days renewed...
+Dialogue: 0,1:46:52.66,1:46:55.58,ZH,,0,0,0,,{\rZH\blur0.8}永远不再悲伤\N{\rEN\blur0.8}...and no more despair.
+Dialogue: 0,1:47:01.66,1:47:05.50,ZH,,0,0,0,,{\rZH\blur0.8}甚人会住在这种鬼地方？\N{\rEN\blur0.8}What kind of army would linger in such a place?
+Dialogue: 0,1:47:05.54,1:47:07.50,ZH,,0,0,0,,{\rZH\blur0.8}受到咒的人\N{\rEN\blur0.8}One that is cursed.
+Dialogue: 0,1:47:09.34,1:47:12.01,ZH,,0,0,0,,{\rZH\blur0.8}很久以前亡灵之山的人\N{\rEN\blur0.8}Long ago, the Men of the Mountains swore an oath...
+Dialogue: 0,1:47:12.30,1:47:15.18,ZH,,0,0,0,,{\rZH\blur0.8}向刚最后一位人皇宣誓\N{\rEN\blur0.8}...to the last king of Gondor...
+Dialogue: 0,1:47:15.64,1:47:17.35,ZH,,0,0,0,,{\rZH\blur0.8}只要他一声令下\N{\rEN\blur0.8}...to come to his aid...
+Dialogue: 0,1:47:17.35,1:47:19.22,ZH,,0,0,0,,{\rZH\blur0.8}就会前来\N{\rEN\blur0.8}...to fight.
+Dialogue: 0,1:47:19.60,1:47:21.89,ZH,,0,0,0,,{\rZH\blur0.8}但是当那一刻来临\N{\rEN\blur0.8}But when the time came...
+Dialogue: 0,1:47:22.35,1:47:25.15,ZH,,0,0,0,,{\rZH\blur0.8}刚的况危急\N{\rEN\blur0.8}...when Gondor's need was dire...
+Dialogue: 0,1:47:25.19,1:47:27.19,ZH,,0,0,0,,{\rZH\blur0.8}他们仓惶逃亡\N{\rEN\blur0.8}...they fled...
+Dialogue: 0,1:47:27.19,1:47:30.74,ZH,,0,0,0,,{\rZH\blur0.8}消失在亡灵之山的阴影中\N{\rEN\blur0.8}... vanishing into the darkness of the mountain.
+Dialogue: 0,1:47:31.65,1:47:34.11,ZH,,0,0,0,,{\rZH\blur0.8}于是埃西诅咒他们\N{\rEN\blur0.8}And so Isildur cursed them...
+Dialogue: 0,1:47:35.53,1:47:39.54,ZH,,0,0,0,,{\rZH\blur0.8}在实现誓言之前 他们将永远不得安息\N{\rEN\blur0.8}...never to rest until they had fulfilled their pledge.
+Dialogue: 0,1:47:43.71,1:47:47.00,ZH,,0,0,0,,{\rZH\blur0.8}能把他们 灰色的阴影中叫出来？\N{\rEN\blur0.8}Who shall call them from the grey twilight?
+Dialogue: 0,1:47:47.34,1:47:49.71,ZH,,0,0,0,,{\rZH\blur0.8}被遗忘的人\N{\rEN\blur0.8}The forgotten people.
+Dialogue: 0,1:47:49.71,1:47:52.38,ZH,,0,0,0,,{\rZH\blur0.8}他们誓言效忠的人皇承者\N{\rEN\blur0.8}The heir of him to whom the oath they swore.
+Dialogue: 0,1:47:52.72,1:47:54.72,ZH,,0,0,0,,{\rZH\blur0.8}他将徙北方而来\N{\rEN\blur0.8}From the north shall he come.
+Dialogue: 0,1:47:55.09,1:47:56.89,ZH,,0,0,0,,{\rZH\blur0.8}他对他们有所要求\N{\rEN\blur0.8}Need shall drive him.
+Dialogue: 0,1:47:57.85,1:48:01.48,ZH,,0,0,0,,{\rZH\blur0.8}他将穿过黑暗之门 踏上亡者之道\N{\rEN\blur0.8}He shall pass the door to the Paths of the Dead.
+Dialogue: 0,1:48:19.83,1:48:23.25,ZH,,0,0,0,,{\rZH\blur0.8}我全身的血液都结冰了\N{\rEN\blur0.8}The very warmth of my blood seems stolen away.
+Dialogue: 0,1:48:28.67,1:48:30.75,ZH,,0,0,0,,{\rZH\blur0.8}黑暗之门被封住\N{\rEN\blur0.8}The way is shut.
+Dialogue: 0,1:48:31.38,1:48:33.46,ZH,,0,0,0,,{\rZH\blur0.8}这是亡者打造的门\N{\rEN\blur0.8}It was made by those who are dead.
+Dialogue: 0,1:48:33.92,1:48:36.34,ZH,,0,0,0,,{\rZH\blur0.8}由他们负责掌管\N{\rEN\blur0.8}And the Dead keep it.
+Dialogue: 0,1:48:36.76,1:48:38.43,ZH,,0,0,0,,{\rZH\blur0.8}路被封住了\N{\rEN\blur0.8}The way is shut.
+Dialogue: 0,1:48:49.65,1:48:51.28,ZH,,0,0,0,,{\rZH\blur0.8}布理哥\N{\rEN\blur0.8}Brego!
+Dialogue: 0,1:48:54.65,1:48:57.49,ZH,,0,0,0,,{\rZH\blur0.8}我不怕死\N{\rEN\blur0.8}I do not fear death.
+Dialogue: 0,1:49:09.67,1:49:12.21,ZH,,0,0,0,,{\rZH\blur0.8}来没过有这种事\N{\rEN\blur0.8}Well, this is a thing unheard-of.
+Dialogue: 0,1:49:12.25,1:49:17.05,ZH,,0,0,0,,{\rZH\blur0.8}连精灵都肯进入地底 矮人不敢？\N{\rEN\blur0.8}An Elf will go underground where a Dwarf dare not?
+Dialogue: 0,1:49:17.09,1:49:18.55,ZH,,0,0,0,,{\rZH\blur0.8}真是的\N{\rEN\blur0.8}Oh.
+Dialogue: 0,1:49:18.59,1:49:21.56,ZH,,0,0,0,,{\rZH\blur0.8}我一定会被笑死了\N{\rEN\blur0.8}Oh, I'd never hear the end of it.
+Dialogue: 0,1:49:36.44,1:49:38.82,ZH,,0,0,0,,{\rZH\blur0.8}减轻负 全速前进\N{\rEN\blur0.8}We must ride light and swift.
+Dialogue: 0,1:49:38.82,1:49:40.74,ZH,,0,0,0,,{\rZH\blur0.8}前面的路很长\N{\rEN\blur0.8}It is a long road ahead.
+Dialogue: 0,1:49:40.78,1:49:43.99,ZH,,0,0,0,,{\rZH\blur0.8}人和马都要保留精力 才能在场上全力\N{\rEN\blur0.8}And man and beast must reach the end with the strength to fight.
+Dialogue: 0,1:49:49.33,1:49:52.50,ZH,,0,0,0,,{\rZH\blur0.8}小哈比人不该上场 梅里大人\N{\rEN\blur0.8}Little Hobbits do not belong in war, Master Meriadoc.
+Dialogue: 0,1:49:52.71,1:49:54.84,ZH,,0,0,0,,{\rZH\blur0.8}我的朋友都参了\N{\rEN\blur0.8}All my friends have gone to battle.
+Dialogue: 0,1:49:54.84,1:49:56.88,ZH,,0,0,0,,{\rZH\blur0.8}只有我留下来会很丢\N{\rEN\blur0.8}I would be ashamed to be left behind.
+Dialogue: 0,1:49:56.92,1:49:59.18,ZH,,0,0,0,,{\rZH\blur0.8}到米那斯提力斯要三天\N{\rEN\blur0.8}It is a three-day gallop to Minas Tirith.
+Dialogue: 0,1:49:59.22,1:50:01.72,ZH,,0,0,0,,{\rZH\blur0.8}我的士不能浪费力氯载你\N{\rEN\blur0.8}And none of my riders can bear you as a burden.
+Dialogue: 0,1:50:02.60,1:50:04.85,ZH,,0,0,0,,{\rZH\blur0.8}我想要参\N{\rEN\blur0.8}I want to fight.
+Dialogue: 0,1:50:05.22,1:50:07.35,ZH,,0,0,0,,{\rZH\blur0.8}别再了\N{\rEN\blur0.8}I will say no more.
+Dialogue: 0,1:50:24.03,1:50:26.12,ZH,,0,0,0,,{\rZH\blur0.8}跟我一起去\N{\rEN\blur0.8}Ride with me.
+Dialogue: 0,1:50:27.45,1:50:29.00,ZH,,0,0,0,,{\rZH\blur0.8}王女\N{\rEN\blur0.8}My lady.
+Dialogue: 0,1:50:29.04,1:50:34.92,ZH,,0,0,0,,{\rZH\blur0.8}整装出发\N{\rEN\blur0.8}Form up! Move out!
+Dialogue: 0,1:50:37.88,1:50:39.22,ZH,,0,0,0,,{\rZH\blur0.8}出发吧\N{\rEN\blur0.8}Ride!
+Dialogue: 0,1:50:39.26,1:50:42.34,ZH,,0,0,0,,{\rZH\blur0.8}前往刚\N{\rEN\blur0.8}Ride now to Gondor!
+Dialogue: 0,1:51:23.84,1:51:25.72,ZH,,0,0,0,,{\rZH\blur0.8}那是甚？\N{\rEN\blur0.8}What is it?
+Dialogue: 0,1:51:25.76,1:51:27.43,ZH,,0,0,0,,{\rZH\blur0.8}你看见甚？\N{\rEN\blur0.8}What do you see?
+Dialogue: 0,1:51:27.56,1:51:29.81,ZH,,0,0,0,,{\rZH\blur0.8}我看到人影\N{\rEN\blur0.8}I see shapes of men.
+Dialogue: 0,1:51:32.35,1:51:33.85,ZH,,0,0,0,,{\rZH\blur0.8}还有马匹\N{\rEN\blur0.8}And of horses.
+Dialogue: 0,1:51:34.44,1:51:35.81,ZH,,0,0,0,,{\rZH\blur0.8}在哪里？\N{\rEN\blur0.8}Where?
+Dialogue: 0,1:51:35.86,1:51:38.94,ZH,,0,0,0,,{\rZH\blur0.8}像云朵一般的白旗\N{\rEN\blur0.8}Pale banners like shreds of cloud.
+Dialogue: 0,1:51:41.24,1:51:43.57,ZH,,0,0,0,,{\rZH\blur0.8}高睾的长矛\N{\rEN\blur0.8}Spears rise...
+Dialogue: 0,1:51:44.07,1:51:47.66,ZH,,0,0,0,,{\rZH\blur0.8}就像严冬里的枯树 刺向薄薄的迷雾\N{\rEN\blur0.8}.. like winter-thickets through a shroud of mist.
+Dialogue: 0,1:51:48.78,1:51:51.08,ZH,,0,0,0,,{\rZH\blur0.8}后面跟著一群亡者\N{\rEN\blur0.8}The Dead are following.
+Dialogue: 0,1:51:52.12,1:51:53.79,ZH,,0,0,0,,{\rZH\blur0.8}他们受到召唤\N{\rEN\blur0.8}They have been summoned.
+Dialogue: 0,1:51:54.33,1:51:56.29,ZH,,0,0,0,,{\rZH\blur0.8}亡者？\N{\rEN\blur0.8}The Dead?
+Dialogue: 0,1:51:56.54,1:51:58.38,ZH,,0,0,0,,{\rZH\blur0.8}召唤？\N{\rEN\blur0.8}Summoned?
+Dialogue: 0,1:51:58.63,1:52:00.67,ZH,,0,0,0,,{\rZH\blur0.8}我早知道了\N{\rEN\blur0.8}I knew that.
+Dialogue: 0,1:52:01.09,1:52:03.26,ZH,,0,0,0,,{\rEN\blur0.8}Huh. Ha.
+Dialogue: 0,1:52:03.88,1:52:05.76,ZH,,0,0,0,,{\rZH\blur0.8}我不怕\N{\rEN\blur0.8}Very good.
+Dialogue: 0,1:52:06.34,1:52:08.56,ZH,,0,0,0,,{\rZH\blur0.8}我才不怕 勒苟拉斯\N{\rEN\blur0.8}Very good! Legolas!
+Dialogue: 0,1:52:46.38,1:52:47.93,ZH,,0,0,0,,{\rZH\blur0.8}别往下看\N{\rEN\blur0.8}Do not look down.
+Dialogue: 0,1:53:40.40,1:53:45.65,ZH,,0,0,0,,{\rZH\blur0.8}是关入我的领土？\N{\rEN\blur0.8}Who enters my domain?
+Dialogue: 0,1:53:49.24,1:53:51.62,ZH,,0,0,0,,{\rZH\blur0.8}你们要效忠的主人\N{\rEN\blur0.8}One who will have your allegiance.
+Dialogue: 0,1:53:54.45,1:53:59.92,ZH,,0,0,0,,{\rZH\blur0.8}亡者不能容许活人过去\N{\rEN\blur0.8}The Dead do not suffer the living to pass.
+Dialogue: 0,1:54:00.08,1:54:02.92,ZH,,0,0,0,,{\rZH\blur0.8}你要容许我过去\N{\rEN\blur0.8}You will suffer me.
+Dialogue: 0,1:54:26.28,1:54:29.82,ZH,,0,0,0,,{\rZH\blur0.8}黑暗之门被封住了\N{\rEN\blur0.8}The way is shut.
+Dialogue: 0,1:54:30.86,1:54:35.45,ZH,,0,0,0,,{\rZH\blur0.8}这是亡者打造的门\N{\rEN\blur0.8}It was made by those who are dead.
+Dialogue: 0,1:54:35.70,1:54:40.00,ZH,,0,0,0,,{\rZH\blur0.8}由他们负责掌管\N{\rEN\blur0.8}And the Dead keep it.
+Dialogue: 0,1:54:49.01,1:54:52.22,ZH,,0,0,0,,{\rZH\blur0.8}路被封住了\N{\rEN\blur0.8}The way is shut.
+Dialogue: 0,1:54:53.80,1:54:56.60,ZH,,0,0,0,,{\rZH\blur0.8}现在你们非死不可\N{\rEN\blur0.8}Now you must die.
+Dialogue: 0,1:55:00.31,1:55:03.31,ZH,,0,0,0,,{\rZH\blur0.8}我召你实现你的誓言\N{\rEN\blur0.8}I summon you to fulfill your oath.
+Dialogue: 0,1:55:03.52,1:55:08.61,ZH,,0,0,0,,{\rZH\blur0.8}只有刚人皇才能命令我\N{\rEN\blur0.8}None but the king of Gondor may command me.
+Dialogue: 0,1:55:14.07,1:55:16.37,ZH,,0,0,0,,{\rZH\blur0.8}圣剑早就断裂\N{\rEN\blur0.8}That line was broken.
+Dialogue: 0,1:55:18.83,1:55:21.21,ZH,,0,0,0,,{\rZH\blur0.8}圣剑被重了\N{\rEN\blur0.8}It has been remade.
+Dialogue: 0,1:55:29.00,1:55:30.67,ZH,,0,0,0,,{\rZH\blur0.8}为我们作\N{\rEN\blur0.8}Fight for us...
+Dialogue: 0,1:55:30.67,1:55:33.38,ZH,,0,0,0,,{\rZH\blur0.8}重拾你们的尊严\N{\rEN\blur0.8}...and regain your honor.
+Dialogue: 0,1:55:37.43,1:55:38.89,ZH,,0,0,0,,{\rZH\blur0.8}你们怎？\N{\rEN\blur0.8}What say you?
+Dialogue: 0,1:55:50.99,1:55:52.65,ZH,,0,0,0,,{\rZH\blur0.8}你们怎？\N{\rEN\blur0.8}What say you?
+Dialogue: 0,1:55:52.70,1:55:55.20,ZH,,0,0,0,,{\rZH\blur0.8}你在浪费时间 亚拉\N{\rEN\blur0.8}Ah! You waste your time, Aragorn.
+Dialogue: 0,1:55:55.20,1:55:58.54,ZH,,0,0,0,,{\rZH\blur0.8}他们活著没尊严 死后更没有\N{\rEN\blur0.8}They had no honor in life, they have none now in death.
+Dialogue: 0,1:55:58.87,1:56:01.54,ZH,,0,0,0,,{\rZH\blur0.8}我是埃西的子嗣\N{\rEN\blur0.8}I am Isildur's heir.
+Dialogue: 0,1:56:01.96,1:56:04.04,ZH,,0,0,0,,{\rZH\blur0.8}只要为我作\N{\rEN\blur0.8}Fight for me...
+Dialogue: 0,1:56:04.50,1:56:08.21,ZH,,0,0,0,,{\rZH\blur0.8}你们的誓言就算实现了\N{\rEN\blur0.8}...and I will hold your oaths fulfilled.
+Dialogue: 0,1:56:12.01,1:56:14.09,ZH,,0,0,0,,{\rZH\blur0.8}怎样？\N{\rEN\blur0.8}What say you?
+Dialogue: 0,1:56:21.89,1:56:24.23,ZH,,0,0,0,,{\rZH\blur0.8}我向你们保证\N{\rEN\blur0.8}You have my word!
+Dialogue: 0,1:56:24.39,1:56:28.52,ZH,,0,0,0,,{\rZH\blur0.8}只要为我作 我就把你们死国放走\N{\rEN\blur0.8}Fight, and I will release you from this living death!
+Dialogue: 0,1:56:29.86,1:56:31.48,ZH,,0,0,0,,{\rZH\blur0.8}你们怎？\N{\rEN\blur0.8}What say you?!
+Dialogue: 0,1:56:34.65,1:56:37.74,ZH,,0,0,0,,{\rZH\blur0.8}站出来，叛徒\N{\rEN\blur0.8}Stand, you traitors!
+Dialogue: 0,1:57:04.56,1:57:05.73,ZH,,0,0,0,,{\rZH\blur0.8}快跑\N{\rEN\blur0.8}Out!
+Dialogue: 0,1:57:26.96,1:57:28.67,ZH,,0,0,0,,{\rZH\blur0.8}勒苟拉斯\N{\rEN\blur0.8}Legolas!
+Dialogue: 0,1:57:29.67,1:57:31.00,ZH,,0,0,0,,{\rZH\blur0.8}快跑\N{\rEN\blur0.8}Run!
+Dialogue: 0,1:58:37.19,1:58:39.24,ZH,,0,0,0,,{\rZH\blur0.8}我们为你作\N{\rEN\blur0.8}We fight.
+Dialogue: 0,1:58:49.62,1:58:52.33,ZH,,0,0,0,,{\rZH\blur0.8}把城门打开 快点\N{\rEN\blur0.8}Open the gate! Quick!
+Dialogue: 0,1:59:23.24,1:59:25.37,ZH,,0,0,0,,{\rZH\blur0.8}快点\N{\rEN\blur0.8}Quick! Hurry!
+Dialogue: 0,1:59:39.00,1:59:40.76,ZH,,0,0,0,,{\rZH\blur0.8}法拉墨 ！\N{\rEN\blur0.8}Faramir!
+Dialogue: 0,1:59:41.59,1:59:45.01,ZH,,0,0,0,,{\rZH\blur0.8}别跟我他死了\N{\rEN\blur0.8}Say not that he has fallen.
+Dialogue: 0,1:59:46.05,1:59:47.72,ZH,,0,0,0,,{\rZH\blur0.8}他们寡不\N{\rEN\blur0.8}They were outnumbered.
+Dialogue: 0,1:59:48.01,1:59:49.72,ZH,,0,0,0,,{\rZH\blur0.8}没有人生还\N{\rEN\blur0.8}None survived.
+Dialogue: 0,1:59:50.31,1:59:52.44,ZH,,0,0,0,,{\rZH\blur0.8}恐\N{\rEN\blur0.8}Fear.
+Dialogue: 0,1:59:52.85,1:59:56.19,ZH,,0,0,0,,{\rZH\blur0.8}全城充满恐\N{\rEN\blur0.8}The city is rank with it.
+Dialogue: 0,1:59:58.40,2:00:00.98,ZH,,0,0,0,,{\rZH\blur0.8}我们为他们减轻痛苦\N{\rEN\blur0.8}Let us ease their pain.
+Dialogue: 0,2:00:01.11,2:00:02.99,ZH,,0,0,0,,{\rZH\blur0.8}把犯人还给他们\N{\rEN\blur0.8}Release the prisoners.
+Dialogue: 0,2:00:03.03,2:00:05.12,ZH,,0,0,0,,{\rZH\blur0.8}发射\N{\rEN\blur0.8}Catapults!
+Dialogue: 0,2:00:08.24,2:00:10.33,ZH,,0,0,0,,{\rEN\blur0.8}Shields up!
+Dialogue: 0,2:00:18.34,2:00:21.92,ZH,,0,0,0,,{\rZH\blur0.8}我的儿子都死了\N{\rEN\blur0.8}My sons are spent.
+Dialogue: 0,2:00:22.84,2:00:25.88,ZH,,0,0,0,,{\rZH\blur0.8}我的家族香火了\N{\rEN\blur0.8}My line has ended.
+Dialogue: 0,2:00:28.60,2:00:30.14,ZH,,0,0,0,,{\rZH\blur0.8}他还活著\N{\rEN\blur0.8}He's alive!
+Dialogue: 0,2:00:30.14,2:00:33.48,ZH,,0,0,0,,{\rZH\blur0.8}宰相世家后了\N{\rEN\blur0.8}The House of Stewards has failed.
+Dialogue: 0,2:00:33.48,2:00:35.10,ZH,,0,0,0,,{\rZH\blur0.8}大人 他需要救治\N{\rEN\blur0.8}He needs medicine, my lord.
+Dialogue: 0,2:00:35.98,2:00:38.82,ZH,,0,0,0,,{\rZH\blur0.8}我子豫了\N{\rEN\blur0.8}My line has ended!
+Dialogue: 0,2:00:40.15,2:00:42.32,ZH,,0,0,0,,{\rZH\blur0.8}大人\N{\rEN\blur0.8}My lord!
+Dialogue: 0,2:00:49.16,2:00:51.24,ZH,,0,0,0,,{\rEN\blur0.8}Put it in!
+Dialogue: 0,2:00:55.66,2:00:57.67,ZH,,0,0,0,,{\rZH\blur0.8}洛汗人\N{\rEN\blur0.8}Rohan...
+Dialogue: 0,2:00:58.29,2:01:00.84,ZH,,0,0,0,,{\rZH\blur0.8}抛了我们\N{\rEN\blur0.8}...nas deserted us.
+Dialogue: 0,2:01:15.14,2:01:18.48,ZH,,0,0,0,,{\rZH\blur0.8}希优顿背叛了我\N{\rEN\blur0.8}Théoden's betrayed me.
+Dialogue: 0,2:01:29.49,2:01:31.45,ZH,,0,0,0,,{\rZH\blur0.8}守吧\N{\rEN\blur0.8}Abandon your posts!
+Dialogue: 0,2:01:32.37,2:01:36.41,ZH,,0,0,0,,{\rZH\blur0.8}快逃吧 快逃命吧\N{\rEN\blur0.8}Flee! Flee for your lives!
+Dialogue: 0,2:01:38.79,2:01:40.63,ZH,,0,0,0,,{\rEN\blur0.8}Oh!
+Dialogue: 0,2:01:46.42,2:01:48.09,ZH,,0,0,0,,{\rZH\blur0.8}准备迎\N{\rEN\blur0.8}Prepare for battle!
+Dialogue: 0,2:01:48.51,2:01:51.80,ZH,,0,0,0,,{\rZH\blur0.8}快到 保护城 ！\N{\rEN\blur0.8}Hurry, men! To the wall! Defend the wall!
+Dialogue: 0,2:01:52.85,2:01:54.93,ZH,,0,0,0,,{\rZH\blur0.8}这里\N{\rEN\blur0.8}Over here!
+Dialogue: 0,2:01:55.56,2:01:58.06,ZH,,0,0,0,,{\rZH\blur0.8}返回作岗位\N{\rEN\blur0.8}Return to your posts!
+Dialogue: 0,2:02:08.74,2:02:11.49,ZH,,0,0,0,,{\rZH\blur0.8}把这些怪物打下地\N{\rEN\blur0.8}Send these foul beasts into the abyss.
+Dialogue: 0,2:02:21.54,2:02:23.13,ZH,,0,0,0,,{\rZH\blur0.8}留在原地\N{\rEN\blur0.8}Stay where you are.
+Dialogue: 0,2:02:39.98,2:02:41.52,ZH,,0,0,0,,{\rZH\blur0.8}我们需要更多石块\N{\rEN\blur0.8}We need more rubble!
+Dialogue: 0,2:02:41.56,2:02:43.56,ZH,,0,0,0,,{\rZH\blur0.8}小心\N{\rEN\blur0.8}Watch out!
+Dialogue: 0,2:02:43.61,2:02:46.28,ZH,,0,0,0,,{\rZH\blur0.8}到下一层 快点\N{\rEN\blur0.8}Down to the lower levels. Quick!
+Dialogue: 0,2:02:48.03,2:02:49.70,ZH,,0,0,0,,{\rZH\blur0.8}动作快点\N{\rEN\blur0.8}Double up, men!
+Dialogue: 0,2:03:05.63,2:03:07.09,ZH,,0,0,0,,{\rEN\blur0.8}Yah!
+Dialogue: 0,2:03:58.56,2:04:01.68,ZH,,0,0,0,,{\rZH\blur0.8}勇敢抗 不要被恐打败\N{\rEN\blur0.8}Hold them back! Do not give in to fear.
+Dialogue: 0,2:04:02.06,2:04:05.69,ZH,,0,0,0,,{\rZH\blur0.8}坠守岗位 誓死\N{\rEN\blur0.8}Stand to your posts! Fight!
+Dialogue: 0,2:04:46.23,2:04:47.98,ZH,,0,0,0,,{\rZH\blur0.8}别瞄攻城塔\N{\rEN\blur0.8}Not at the towers!
+Dialogue: 0,2:04:48.02,2:04:51.15,ZH,,0,0,0,,{\rZH\blur0.8}瞄食人妖 减食人妖\N{\rEN\blur0.8}Aim for the trolls! Kill the trolls!
+Dialogue: 0,2:04:51.73,2:04:53.74,ZH,,0,0,0,,{\rZH\blur0.8}把们扳倒\N{\rEN\blur0.8}Bring them down!
+Dialogue: 0,2:05:28.73,2:05:30.90,ZH,,0,0,0,,{\rZH\blur0.8}把们退！\N{\rEN\blur0.8}Fight them back!
+Dialogue: 0,2:05:30.94,2:05:33.07,ZH,,0,0,0,,{\rZH\blur0.8}皮聘\N{\rEN\blur0.8}Peregrin Took!
+Dialogue: 0,2:05:33.78,2:05:37.11,ZH,,0,0,0,,{\rZH\blur0.8}-快回堡 -你要我们誓死\N{\rEN\blur0.8}-Go back to the Citadel!   -They'd called us out to fight.
+Dialogue: 0,2:05:52.67,2:05:55.17,ZH,,0,0,0,,{\rZH\blur0.8}哈比人不该上场\N{\rEN\blur0.8}This is no place for a Hobbit.
+Dialogue: 0,2:06:20.78,2:06:22.37,ZH,,0,0,0,,{\rZH\blur0.8}回去捍卫碍堡\N{\rEN\blur0.8}Guard of the Citadel, indeed.
+Dialogue: 0,2:06:22.82,2:06:26.33,ZH,,0,0,0,,{\rZH\blur0.8}快上去 快点\N{\rEN\blur0.8}Now, back, up the hill. Quickly. Quick!
+Dialogue: 0,2:06:37.51,2:06:40.64,ZH,,0,0,0,,{\rZH\blur0.8}你们在干什？没用的东西\N{\rEN\blur0.8}What are you doing, you useless scum?!
+Dialogue: 0,2:06:40.68,2:06:42.76,ZH,,0,0,0,,{\rZH\blur0.8}城门太固了 撞不破\N{\rEN\blur0.8}The door won't give. It's too strong.
+Dialogue: 0,2:06:48.98,2:06:51.52,ZH,,0,0,0,,{\rZH\blur0.8}给我回去把它撞破\N{\rEN\blur0.8}Get back there and smash it down.
+Dialogue: 0,2:06:51.52,2:06:53.69,ZH,,0,0,0,,{\rZH\blur0.8}用甚都撞不破\N{\rEN\blur0.8}But nothing can breach it.
+Dialogue: 0,2:06:56.48,2:06:58.86,ZH,,0,0,0,,{\rZH\blur0.8}用葛龙德就可以\N{\rEN\blur0.8}Grond will breach it.
+Dialogue: 0,2:07:02.16,2:07:04.37,ZH,,0,0,0,,{\rZH\blur0.8}把破城拉过来\N{\rEN\blur0.8}Bring up the wolf's head.
+Dialogue: 0,2:07:07.37,2:07:17.05,ZH,,0,0,0,,{\rZH\blur0.8}葛龙德 ！ 葛龙德\N{\rEN\blur0.8}Grond! Grond! Grond! Grond! Grond! Grond! Grond!
+Dialogue: 0,2:07:18.84,2:07:22.38,ZH,,0,0,0,,{\rZH\blur0.8}葛龙德 ！ 葛龙德\N{\rEN\blur0.8}Grond! Grond! Grond!
+Dialogue: 0,2:07:22.97,2:07:35.02,ZH,,0,0,0,,{\rZH\blur0.8}葛龙德 ！ 葛龙德\N{\rEN\blur0.8}Grond! Grond! Grond!
+Dialogue: 10,0:01:17.29,0:01:22.79,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 692 0 l 692 124 l 0 124
+Dialogue: 11,0:01:17.29,0:01:22.79,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:01:17.29,0:01:22.79,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}史麦戈{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,0:01:17.29,0:01:22.79,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}哈比人史麦戈，即后来的咕噜，因魔戒堕落。
+Dialogue: 10,0:01:35.47,0:01:40.47,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 468 0 l 468 124 l 0 124
+Dialogue: 11,0:01:35.47,0:01:40.47,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:01:35.47,0:01:40.47,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}德戈{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,0:01:35.47,0:01:40.47,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}史麦戈的表亲，同为哈比人。
+Dialogue: 10,0:04:46.79,0:04:51.79,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 532 0 l 532 124 l 0 124
+Dialogue: 11,0:04:46.79,0:04:51.79,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:04:46.79,0:04:51.79,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}我的宝贝{\b0\fs24\1c&H00C8C8C8}  俚语
+Dialogue: 12,0:04:46.79,0:04:51.79,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}咕噜对魔戒的昵称，显露其执念。
+Dialogue: 10,0:36:34.19,0:36:39.84,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 724 0 l 724 124 l 0 124
+Dialogue: 11,0:36:34.19,0:36:39.84,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:36:34.19,0:36:39.84,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}青春阶段{\b0\fs24\1c&H00C8C8C8}  俚语
+Dialogue: 12,0:36:34.19,0:36:39.84,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}哈比人二十余岁尚未成年的阶段，不是双胞胎。
+Dialogue: 10,0:36:58.01,0:37:03.51,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 692 0 l 692 124 l 0 124
+Dialogue: 11,0:36:58.01,0:37:03.51,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:36:58.01,0:37:03.51,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}有勇无谋{\b0\fs24\1c&H00C8C8C8}  俚语
+Dialogue: 12,0:36:58.01,0:37:03.51,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}意为有勇无谋的鲁莽，也暗指图克家爱冒险。
+Dialogue: 10,0:37:18.65,0:37:23.70,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 596 0 l 596 124 l 0 124
+Dialogue: 11,0:37:18.65,0:37:23.70,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:37:18.65,0:37:23.70,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}灰港岸{\b0\fs24\1c&H00C8C8C8}  地点
+Dialogue: 12,0:37:18.65,0:37:23.70,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}中土西岸的精灵海港，精灵由此西渡。
+Dialogue: 10,0:43:50.54,0:43:55.60,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 596 0 l 596 124 l 0 124
+Dialogue: 11,0:43:50.54,0:43:55.60,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:43:50.54,0:43:55.60,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}迪耐瑟{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,0:43:50.54,0:43:55.60,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}刚铎摄政宰相，波罗莫与法拉墨之父。
+Dialogue: 10,0:46:48.51,0:46:53.71,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 628 0 l 628 124 l 0 124
+Dialogue: 11,0:46:48.51,0:46:53.71,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:46:48.51,0:46:53.71,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}米斯兰达{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,0:46:48.51,0:46:53.71,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}甘道夫的精灵语称号，意为灰袍朝圣者。
+Dialogue: 10,0:54:12.83,0:54:17.88,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 596 0 l 596 124 l 0 124
+Dialogue: 11,0:54:12.83,0:54:17.88,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:54:12.83,0:54:17.88,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}哈拉德林人{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,0:54:12.83,0:54:17.88,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}南方哈拉德的人类，与索伦结盟作战。
+Dialogue: 10,0:54:32.19,0:54:37.54,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 660 0 l 660 124 l 0 124
+Dialogue: 11,0:54:32.19,0:54:37.54,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:54:32.19,0:54:37.54,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}奥斯吉力亚斯{\b0\fs24\1c&H00C8C8C8}  地点
+Dialogue: 12,0:54:32.19,0:54:37.54,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}安都因河上的古城，刚铎旧都，现为前线。
+Dialogue: 10,0:55:10.06,0:55:15.06,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 564 0 l 564 124 l 0 124
+Dialogue: 11,0:55:10.06,0:55:15.06,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:55:10.06,0:55:15.06,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}安格马的巫王{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,0:55:10.06,0:55:15.06,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}九戒灵之首，曾为安格马王国之主。
+Dialogue: 10,1:47:31.65,1:47:37.00,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 660 0 l 660 124 l 0 124
+Dialogue: 11,1:47:31.65,1:47:37.00,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,1:47:31.65,1:47:37.00,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}埃西铎{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,1:47:31.65,1:47:37.00,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}努曼诺尔王族，砍下至尊魔戒的人类君王。
+Dialogue: 10,2:06:56.48,2:07:01.48,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 564 0 l 564 124 l 0 124
+Dialogue: 11,2:06:56.48,2:07:01.48,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,2:06:56.48,2:07:01.48,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}葛龙德{\b0\fs24\1c&H00C8C8C8}  典故
+Dialogue: 12,2:06:56.48,2:07:01.48,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}巨型攻城锤，名取自魔苟斯的战锤。

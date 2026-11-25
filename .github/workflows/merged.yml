@@ -1,0 +1,16 @@
+name: 合并后关认领
+on:
+  pull_request_target:          # 只跑 main 上的 check.py，不碰 PR 里的代码
+    types: [closed]
+permissions:
+  contents: read
+  issues: write
+jobs:
+  close:
+    if: github.event.pull_request.merged
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 tools/check.py merged

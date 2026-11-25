@@ -1,0 +1,13 @@
+title = "釜山行"
+original_title = "부산행"
+year = 2016
+authors = ["ReelCoreHQ"]
+origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+fonts = ["LXGW WenKai", "Noto Sans CJK SC"]
+
+[source]
+release = "Train.to.Busan.2016.1080p.POL.Blu-ray.AVC.DTS-HD.MA.5.1-JMG"
+fps = "24"
+frames = 169632
+duration = "01:57:48.000"
+crop = [0, 20, 0, 20]                # 字幕画布对的是裁掉这些之后的画面（左、上、右、下）

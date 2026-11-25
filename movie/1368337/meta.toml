@@ -1,0 +1,12 @@
+title = "奥德赛"
+original_title = "The Odyssey"
+year = 2026
+authors = ["ReelCoreHQ"]
+origin = "reelcore-encode：原盘字幕 OCR + 机器翻译 / 配对"
+fonts = ["Noto Sans CJK SC"]
+
+[source]
+release = "The.Odyssey.2026.USA.UHD.BluRay.2160p.REMUX.HDR.HEVC.DTS-HD.MA.5.1-UBits"
+fps = "24000/1001"
+frames = 248289
+duration = "02:52:35.723"

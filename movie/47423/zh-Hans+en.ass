@@ -1,0 +1,2207 @@
+[Script Info]
+Title: Once a Thief 1991
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ZH,Noto Sans CJK SC,56,&H00FDFAFA,&H000000FF,&H00060C14,&H90000000,-1,0,0,0,100,100,0.5,0,1,2.5,1.5,2,80,80,120,1
+Style: EN,Noto Sans CJK SC,40,&H0066D9FF,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.25,0,1,2,1,2,80,80,76,1
+Style: ZH_L,LXGW WenKai,46,&H00BEDDE9,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.5,0,1,1.8,1,8,80,80,40,1
+Style: EN_L,LXGW WenKai,38,&H008AC0D9,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.25,0,1,1.5,0.8,8,80,80,96,1
+Style: ZH_C,LXGW WenKai,50,&H00BEDDE9,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.5,0,1,2,1.2,2,80,80,120,1
+Style: EN_C,LXGW WenKai,42,&H008AC0D9,&H000000FF,&H00060C14,&H90000000,0,0,0,0,100,100,0.25,0,1,1.7,1,2,80,80,76,1
+Style: NOTE,Noto Sans CJK SC,28,&H00EDEDED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0.5,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:01:53.53,0:01:56.12,ZH,,0,0,0,,{\rZH\blur0.8}请跟我来，我们去下一个房间。
+Dialogue: 1,0:01:53.53,0:01:56.12,EN,,0,0,0,,{\rEN\blur0.8}Please follow me. Let's move on to the next room.
+Dialogue: 2,0:01:56.70,0:01:58.08,ZH,,0,0,0,,{\rZH\blur0.8}这边请。
+Dialogue: 1,0:01:56.70,0:01:58.08,EN,,0,0,0,,{\rEN\blur0.8}This way.
+Dialogue: 2,0:01:58.16,0:02:01.25,ZH,,0,0,0,,{\rZH\blur0.8}这里以前挂着一幅特鲁瓦耶贝尔的画
+Dialogue: 1,0:01:58.16,0:02:01.25,EN,,0,0,0,,{\rEN\blur0.8}There used to be a painting here by an artist named Trouillebert
+Dialogue: 2,0:02:01.33,0:02:03.87,ZH,,0,0,0,,{\rZH\blur0.8}画的是一个女仆。
+Dialogue: 1,0:02:01.33,0:02:03.87,EN,,0,0,0,,{\rEN\blur0.8}depicting a servant girl.
+Dialogue: 2,0:02:03.96,0:02:06.71,ZH,,0,0,0,,{\rZH\blur0.8}但那幅画几周前被偷了。
+Dialogue: 1,0:02:03.96,0:02:06.71,EN,,0,0,0,,{\rEN\blur0.8}But the painting was stolen a few weeks ago.
+Dialogue: 2,0:02:06.79,0:02:10.30,ZH,,0,0,0,,{\rZH\blur0.8}所以我们馆长才这么恼火。
+Dialogue: 1,0:02:06.79,0:02:10.30,EN,,0,0,0,,{\rEN\blur0.8}That's why our director is so upset.
+Dialogue: 2,0:02:10.38,0:02:13.30,ZH,,0,0,0,,{\rZH\blur0.8}警方还在继续调查。
+Dialogue: 1,0:02:10.38,0:02:13.30,EN,,0,0,0,,{\rEN\blur0.8}The police are continuing their investigation.
+Dialogue: 2,0:02:13.38,0:02:15.84,ZH,,0,0,0,,{\rZH\blur0.8}我们希望很快能找回那幅画。
+Dialogue: 1,0:02:13.38,0:02:15.84,EN,,0,0,0,,{\rEN\blur0.8}We hope to recover the painting soon.
+Dialogue: 2,0:02:16.39,0:02:17.93,ZH,,0,0,0,,{\rZH\blur0.8}请跟我来。
+Dialogue: 1,0:02:16.39,0:02:17.93,EN,,0,0,0,,{\rEN\blur0.8}Please follow me.
+Dialogue: 2,0:02:19.51,0:02:22.60,ZH,,0,0,0,,{\rZH\blur0.8}现在，我们去看超现实主义画家的作品。
+Dialogue: 1,0:02:19.51,0:02:22.60,EN,,0,0,0,,{\rEN\blur0.8}Now, let's move on to the surrealist painters.
+Dialogue: 2,0:02:45.16,0:02:46.29,ZH,,0,0,0,,{\rZH\blur0.8}瞧！
+Dialogue: 1,0:02:45.16,0:02:46.29,EN,,0,0,0,,{\rEN\blur0.8}Voila!
+Dialogue: 2,0:03:53.19,0:03:55.69,ZH,,0,0,0,,{\rZH\blur0.8}小姐，你受伤了吗？
+Dialogue: 1,0:03:53.19,0:03:55.69,EN,,0,0,0,,{\rEN\blur0.8}Miss, are you hurt?
+Dialogue: 2,0:03:55.78,0:03:57.61,ZH,,0,0,0,,{\rZH\blur0.8}你没事吧？
+Dialogue: 1,0:03:55.78,0:03:57.61,EN,,0,0,0,,{\rEN\blur0.8}Are you okay?
+Dialogue: 2,0:03:58.99,0:03:59.82,ZH,,0,0,0,,{\rZH\blur0.8}照顾一下她。
+Dialogue: 1,0:03:58.99,0:03:59.82,EN,,0,0,0,,{\rEN\blur0.8}Take care of her.
+Dialogue: 2,0:03:59.91,0:04:02.58,ZH,,0,0,0,,{\rZH\blur0.8}你不能坐这儿，这是贵重物品。
+Dialogue: 1,0:03:59.91,0:04:02.58,EN,,0,0,0,,{\rEN\blur0.8}You can't sit here. it's a valuable package.
+Dialogue: 2,0:04:02.66,0:04:04.49,ZH,,0,0,0,,{\rZH\blur0.8}里面是一幅画。
+Dialogue: 1,0:04:02.66,0:04:04.49,EN,,0,0,0,,{\rEN\blur0.8}There's a painting in there.
+Dialogue: 2,0:04:05.20,0:04:06.91,ZH,,0,0,0,,{\rZH\blur0.8}-蒙娜丽莎？  -不，不是蒙娜丽莎。
+Dialogue: 1,0:04:05.20,0:04:06.91,EN,,0,0,0,,{\rEN\blur0.8}-Mona Lisa?   -No, it's not the Mona Lisa.
+Dialogue: 2,0:04:07.00,0:04:09.83,ZH,,0,0,0,,{\rZH\blur0.8}是莫迪利亚尼画的让娜·埃比泰恩肖像。
+Dialogue: 1,0:04:07.00,0:04:09.83,EN,,0,0,0,,{\rEN\blur0.8}It's Modigliani's portrait of Jeanne Hébuterne.
+Dialogue: 2,0:04:12.96,0:04:15.26,ZH,,0,0,0,,{\rZH\blur0.8}小姐，请你坐到别处去。
+Dialogue: 1,0:04:12.96,0:04:15.26,EN,,0,0,0,,{\rEN\blur0.8}Miss, I'm asking you to sit somewhere else.
+Dialogue: 2,0:04:15.92,0:04:18.84,ZH,,0,0,0,,{\rZH\blur0.8}你会害我惹麻烦的，这东西非常贵重。
+Dialogue: 1,0:04:15.92,0:04:18.84,EN,,0,0,0,,{\rEN\blur0.8}You're going to get me in trouble. It's very valuable.
+Dialogue: 2,0:04:19.76,0:04:21.68,ZH,,0,0,0,,{\rZH\blur0.8}我们正在装车。
+Dialogue: 1,0:04:19.76,0:04:21.68,EN,,0,0,0,,{\rEN\blur0.8}We're loading the truck.
+Dialogue: 2,0:04:21.76,0:04:24.56,ZH,,0,0,0,,{\rZH\blur0.8}到别处坐去！我说真的！
+Dialogue: 1,0:04:21.76,0:04:24.56,EN,,0,0,0,,{\rEN\blur0.8}Go sit somewhere else! I'm serious!
+Dialogue: 2,0:04:25.14,0:04:26.68,ZH,,0,0,0,,{\rZH\blur0.8}求你了，小姐。
+Dialogue: 1,0:04:25.14,0:04:26.68,EN,,0,0,0,,{\rEN\blur0.8}Please, miss.
+Dialogue: 2,0:04:26.77,0:04:29.90,ZH,,0,0,0,,{\rZH\blur0.8}我老板随时会来，我会因为你挨骂的。
+Dialogue: 1,0:04:26.77,0:04:29.90,EN,,0,0,0,,{\rEN\blur0.8}My boss will be here any minute, and I'll get in trouble because of you.
+Dialogue: 2,0:04:32.31,0:04:34.44,ZH,,0,0,0,,{\rZH\blur0.8}请走吧。
+Dialogue: 1,0:04:32.31,0:04:34.44,EN,,0,0,0,,{\rEN\blur0.8}Please leave.
+Dialogue: 2,0:04:40.20,0:04:41.20,ZH,,0,0,0,,{\rZH\blur0.8}拜拜。
+Dialogue: 1,0:04:40.20,0:04:41.20,EN,,0,0,0,,{\rEN\blur0.8}Ciao.
+Dialogue: 2,0:04:48.00,0:04:49.92,ZH,,0,0,0,,{\rZH\blur0.8}嗨，Gi Gi。
+Dialogue: 1,0:04:48.00,0:04:49.92,EN,,0,0,0,,{\rEN\blur0.8}Hi, Gi Gi.
+Dialogue: 2,0:04:52.38,0:04:54.80,ZH,,0,0,0,,{\rZH\blur0.8}你今天的香水真香，一定很贵吧。
+Dialogue: 1,0:04:52.38,0:04:54.80,EN,,0,0,0,,{\rEN\blur0.8}Your perfume today is so fragrant. It must be very expensive.
+Dialogue: 2,0:04:54.88,0:04:57.59,ZH,,0,0,0,,{\rZH\blur0.8}好吧。
+Dialogue: 1,0:04:54.88,0:04:57.59,EN,,0,0,0,,{\rEN\blur0.8}All right.
+Dialogue: 2,0:04:57.67,0:04:59.30,ZH,,0,0,0,,{\rZH\blur0.8}我差不多把整瓶都用完了。
+Dialogue: 1,0:04:57.67,0:04:59.30,EN,,0,0,0,,{\rEN\blur0.8}I almost finished the whole bottle.
+Dialogue: 2,0:04:59.38,0:05:00.80,ZH,,0,0,0,,{\rZH\blur0.8}非常感谢。
+Dialogue: 1,0:04:59.38,0:05:00.80,EN,,0,0,0,,{\rEN\blur0.8}Thank you very much.
+Dialogue: 2,0:05:02.59,0:05:04.14,ZH,,0,0,0,,{\rZH\blur0.8}我在老佛爷给你再买一瓶。
+Dialogue: 1,0:05:02.59,0:05:04.14,EN,,0,0,0,,{\rEN\blur0.8}I'll buy you another one in Lafayette.
+Dialogue: 2,0:05:04.22,0:05:05.81,ZH,,0,0,0,,{\rZH\blur0.8}不过先让我吃饭。
+Dialogue: 1,0:05:04.22,0:05:05.81,EN,,0,0,0,,{\rEN\blur0.8}But let me eat first.
+Dialogue: 2,0:05:07.10,0:05:08.93,ZH,,0,0,0,,{\rZH\blur0.8}快点，时间不多了。
+Dialogue: 1,0:05:07.10,0:05:08.93,EN,,0,0,0,,{\rEN\blur0.8}Hurry up, time is running out.
+Dialogue: 2,0:05:09.02,0:05:10.35,ZH,,0,0,0,,{\rZH\blur0.8}急什么？
+Dialogue: 1,0:05:09.02,0:05:10.35,EN,,0,0,0,,{\rEN\blur0.8}What's the hurry?
+Dialogue: 2,0:05:10.44,0:05:12.14,ZH,,0,0,0,,{\rZH\blur0.8}你能不能正经点？
+Dialogue: 1,0:05:10.44,0:05:12.14,EN,,0,0,0,,{\rEN\blur0.8}Can you be more serious?
+Dialogue: 2,0:05:12.77,0:05:14.86,ZH,,0,0,0,,{\rZH\blur0.8}我不急，天还没黑呢。
+Dialogue: 1,0:05:12.77,0:05:14.86,EN,,0,0,0,,{\rEN\blur0.8}I'm in no hurry, it's not dark yet.
+Dialogue: 2,0:05:20.61,0:05:21.53,ZH,,0,0,0,,{\rZH\blur0.8}Gi Gi！
+Dialogue: 1,0:05:20.61,0:05:21.53,EN,,0,0,0,,{\rEN\blur0.8}Gi Gi!
+Dialogue: 2,0:05:21.61,0:05:23.57,ZH,,0,0,0,,{\rZH\blur0.8}你一直就是个懒鬼。
+Dialogue: 1,0:05:21.61,0:05:23.57,EN,,0,0,0,,{\rEN\blur0.8}You have always been a slacker.
+Dialogue: 2,0:05:23.66,0:05:25.45,ZH,,0,0,0,,{\rZH\blur0.8}所以法国最适合你。
+Dialogue: 1,0:05:23.66,0:05:25.45,EN,,0,0,0,,{\rEN\blur0.8}So, France is the best place for you.
+Dialogue: 2,0:05:25.53,0:05:26.87,ZH,,0,0,0,,{\rZH\blur0.8}-一点没错。  -尤其是法国女人。
+Dialogue: 1,0:05:25.53,0:05:26.87,EN,,0,0,0,,{\rEN\blur0.8}-Exactly.   -Especially French women.
+Dialogue: 2,0:05:26.95,0:05:27.79,ZH,,0,0,0,,{\rZH\blur0.8}对，对。
+Dialogue: 1,0:05:26.95,0:05:27.79,EN,,0,0,0,,{\rEN\blur0.8}Yes, yes.
+Dialogue: 2,0:05:36.67,0:05:38.00,ZH,,0,0,0,,{\rZH\blur0.8}你知道那是什么吗？
+Dialogue: 1,0:05:36.67,0:05:38.00,EN,,0,0,0,,{\rEN\blur0.8}Do you know what that is?
+Dialogue: 2,0:05:39.59,0:05:42.59,ZH,,0,0,0,,{\rZH\blur0.8}-是“淘气夫人”。  -不，是巴黎圣母院。
+Dialogue: 1,0:05:39.59,0:05:42.59,EN,,0,0,0,,{\rEN\blur0.8}-It's Naughty Dame.   -No, it's Notre-Dame.
+Dialogue: 2,0:05:42.68,0:05:45.01,ZH,,0,0,0,,{\rZH\blur0.8}我一直想在那里办婚礼。
+Dialogue: 1,0:05:42.68,0:05:45.01,EN,,0,0,0,,{\rEN\blur0.8}I have always wanted to have my wedding there.
+Dialogue: 2,0:05:45.89,0:05:48.14,ZH,,0,0,0,,{\rZH\blur0.8}我要请一群花童和戒童
+Dialogue: 1,0:05:45.89,0:05:48.14,EN,,0,0,0,,{\rEN\blur0.8}I will have a bunch of flower girls and ring bearers
+Dialogue: 2,0:05:48.22,0:05:49.77,ZH,,0,0,0,,{\rZH\blur0.8}陪我一起走进教堂。
+Dialogue: 1,0:05:48.22,0:05:49.77,EN,,0,0,0,,{\rEN\blur0.8}walking into the church with me.
+Dialogue: 2,0:05:50.93,0:05:52.77,ZH,,0,0,0,,{\rZH\blur0.8}我还想把它布置
+Dialogue: 1,0:05:50.93,0:05:52.77,EN,,0,0,0,,{\rEN\blur0.8}I also wanted it to be decorated
+Dialogue: 2,0:05:52.85,0:05:55.15,ZH,,0,0,0,,{\rZH\blur0.8}-用牵牛花。  -牵牛花？
+Dialogue: 1,0:05:52.85,0:05:55.15,EN,,0,0,0,,{\rEN\blur0.8}-with morning glories.   -Morning glories?
+Dialogue: 2,0:06:10.66,0:06:13.33,ZH,,0,0,0,,{\rZH\blur0.8}关门，走吧。
+Dialogue: 1,0:06:10.66,0:06:13.33,EN,,0,0,0,,{\rEN\blur0.8}Close the door, let's go.
+Dialogue: 2,0:06:43.90,0:06:45.28,ZH,,0,0,0,,{\rZH\blur0.8}我叫詹姆斯。
+Dialogue: 1,0:06:43.90,0:06:45.28,EN,,0,0,0,,{\rEN\blur0.8}My name is James.
+Dialogue: 2,0:06:49.12,0:06:50.41,ZH,,0,0,0,,{\rZH\blur0.8}谢谢！
+Dialogue: 1,0:06:49.12,0:06:50.41,EN,,0,0,0,,{\rEN\blur0.8}Thank you!
+Dialogue: 2,0:06:51.24,0:06:53.16,ZH,,0,0,0,,{\rZH\blur0.8}我是个臭名昭著的大盗。
+Dialogue: 1,0:06:51.24,0:06:53.16,EN,,0,0,0,,{\rEN\blur0.8}I'm a notorious thief.
+Dialogue: 2,0:06:54.92,0:06:56.25,ZH,,0,0,0,,{\rZH\blur0.8}明天看报纸吧。
+Dialogue: 1,0:06:54.92,0:06:56.25,EN,,0,0,0,,{\rEN\blur0.8}Read the newspaper tomorrow.
+Dialogue: 2,0:07:55.27,0:07:57.31,ZH,,0,0,0,,{\rZH\blur0.8}嘿，你看到他们在车里干什么了吗？
+Dialogue: 1,0:07:55.27,0:07:57.31,EN,,0,0,0,,{\rEN\blur0.8}Hey, did you see what they're doing in the car?
+Dialogue: 2,0:08:02.61,0:08:05.11,ZH,,0,0,0,,{\rZH\blur0.8}啊，他高兴着呢！
+Dialogue: 1,0:08:02.61,0:08:05.11,EN,,0,0,0,,{\rEN\blur0.8}Ah, he's happy!
+Dialogue: 2,0:09:01.42,0:09:02.71,ZH,,0,0,0,,{\rZH\blur0.8}踩油门，靠近点。
+Dialogue: 1,0:09:01.42,0:09:02.71,EN,,0,0,0,,{\rEN\blur0.8}Step on the gas. Get closer.
+Dialogue: 2,0:09:05.34,0:09:06.46,ZH,,0,0,0,,{\rZH\blur0.8}-接住。  -好。
+Dialogue: 1,0:09:05.34,0:09:06.46,EN,,0,0,0,,{\rEN\blur0.8}-Take it.   -Okay.
+Dialogue: 2,0:09:06.55,0:09:08.84,ZH,,0,0,0,,{\rZH\blur0.8}-你能聪明点吗？  -记住，香水！
+Dialogue: 1,0:09:06.55,0:09:08.84,EN,,0,0,0,,{\rEN\blur0.8}-Could you be smarter?   -Remember, the perfume!
+Dialogue: 2,0:09:08.92,0:09:10.42,ZH,,0,0,0,,{\rZH\blur0.8}接我的时候别忘了用低速挡。
+Dialogue: 1,0:09:08.92,0:09:10.42,EN,,0,0,0,,{\rEN\blur0.8}Don't forget to drive in low gear when you pick me up.
+Dialogue: 2,0:09:10.51,0:09:12.51,ZH,,0,0,0,,{\rZH\blur0.8}-放心。  -别忘了！
+Dialogue: 1,0:09:10.51,0:09:12.51,EN,,0,0,0,,{\rEN\blur0.8}-Don'tworry.forget!
+Dialogue: 2,0:09:27.65,0:09:29.32,ZH,,0,0,0,,{\rZH\blur0.8}快走！
+Dialogue: 1,0:09:27.65,0:09:29.32,EN,,0,0,0,,{\rEN\blur0.8}Go now!
+Dialogue: 2,0:10:02.02,0:10:03.39,ZH,,0,0,0,,{\rZH\blur0.8}我怎么什么都闻不到？
+Dialogue: 1,0:10:02.02,0:10:03.39,EN,,0,0,0,,{\rEN\blur0.8}How come I don't smell a thing?
+Dialogue: 2,0:10:21.75,0:10:23.41,ZH,,0,0,0,,{\rZH\blur0.8}天哪，这香水真臭！
+Dialogue: 1,0:10:21.75,0:10:23.41,EN,,0,0,0,,{\rEN\blur0.8}Jeez, the perfume stinks!
+Dialogue: 2,0:10:26.29,0:10:27.50,ZH,,0,0,0,,{\rZH\blur0.8}比马尿还臭。
+Dialogue: 1,0:10:26.29,0:10:27.50,EN,,0,0,0,,{\rEN\blur0.8}It stinks worse than horse urine.
+Dialogue: 2,0:10:28.17,0:10:29.50,ZH,,0,0,0,,{\rZH\blur0.8}香水肯定过期了。
+Dialogue: 1,0:10:28.17,0:10:29.50,EN,,0,0,0,,{\rEN\blur0.8}The perfume must have expired.
+Dialogue: 2,0:13:00.61,0:13:02.07,ZH,,0,0,0,,{\rZH\blur0.8}怎么回事？
+Dialogue: 1,0:13:00.61,0:13:02.07,EN,,0,0,0,,{\rEN\blur0.8}What's going on?
+Dialogue: 2,0:13:02.16,0:13:04.41,ZH,,0,0,0,,{\rZH\blur0.8}该死！刹车失灵了。
+Dialogue: 1,0:13:02.16,0:13:04.41,EN,,0,0,0,,{\rEN\blur0.8}Damn! The brakes aren't working.
+Dialogue: 2,0:13:21.09,0:13:22.47,ZH,,0,0,0,,{\rZH\blur0.8}嘿，红豆糕！
+Dialogue: 1,0:13:21.09,0:13:22.47,EN,,0,0,0,,{\rEN\blur0.8}Hey, Red Bean Pudding!
+Dialogue: 2,0:13:23.93,0:13:25.10,ZH,,0,0,0,,{\rZH\blur0.8}他来了。
+Dialogue: 1,0:13:23.93,0:13:25.10,EN,,0,0,0,,{\rEN\blur0.8}He'scoming.
+Dialogue: 2,0:13:26.22,0:13:27.81,ZH,,0,0,0,,{\rZH\blur0.8}我们去接他，快。
+Dialogue: 1,0:13:26.22,0:13:27.81,EN,,0,0,0,,{\rEN\blur0.8}Let's go get him, come on.
+Dialogue: 2,0:13:27.89,0:13:29.39,ZH,,0,0,0,,{\rZH\blur0.8}嘿，这边，快点！
+Dialogue: 1,0:13:27.89,0:13:29.39,EN,,0,0,0,,{\rEN\blur0.8}Hey, over here, hurry!
+Dialogue: 2,0:13:29.98,0:13:31.77,ZH,,0,0,0,,{\rZH\blur0.8}嘿，这边！
+Dialogue: 1,0:13:29.98,0:13:31.77,EN,,0,0,0,,{\rEN\blur0.8}Hey, over here!
+Dialogue: 2,0:13:34.86,0:13:36.36,ZH,,0,0,0,,{\rZH\blur0.8}-慢点。  -好。
+Dialogue: 1,0:13:34.86,0:13:36.36,EN,,0,0,0,,{\rEN\blur0.8}-Slow down.   -Okay.
+Dialogue: 2,0:13:36.44,0:13:38.57,ZH,,0,0,0,,{\rZH\blur0.8}-慢点。  -快点。
+Dialogue: 1,0:13:36.44,0:13:38.57,EN,,0,0,0,,{\rEN\blur0.8}-Slow down.   -Come on.
+Dialogue: 2,0:13:38.65,0:13:39.86,ZH,,0,0,0,,{\rZH\blur0.8}快到了。
+Dialogue: 1,0:13:38.65,0:13:39.86,EN,,0,0,0,,{\rEN\blur0.8}Almost there.
+Dialogue: 2,0:13:39.94,0:13:42.28,ZH,,0,0,0,,{\rZH\blur0.8}-快到了。  -低速挡，笨蛋！
+Dialogue: 1,0:13:39.94,0:13:42.28,EN,,0,0,0,,{\rEN\blur0.8}-Almost there.   -Low gear, stupid!
+Dialogue: 2,0:13:42.36,0:13:44.28,ZH,,0,0,0,,{\rZH\blur0.8}好，我试试。你接到他了吗？
+Dialogue: 1,0:13:42.36,0:13:44.28,EN,,0,0,0,,{\rEN\blur0.8}Okay, I try. Do you get him?
+Dialogue: 2,0:13:44.36,0:13:45.78,ZH,,0,0,0,,{\rZH\blur0.8}我接到了！
+Dialogue: 1,0:13:44.36,0:13:45.78,EN,,0,0,0,,{\rEN\blur0.8}I got him!
+Dialogue: 2,0:13:45.87,0:13:47.49,ZH,,0,0,0,,{\rZH\blur0.8}-慢点！  -糟了！
+Dialogue: 1,0:13:45.87,0:13:47.49,EN,,0,0,0,,{\rEN\blur0.8}-Slow down!   -Oh no!
+Dialogue: 2,0:13:50.04,0:13:51.41,ZH,,0,0,0,,{\rZH\blur0.8}-嘿，停车！  -好。
+Dialogue: 1,0:13:50.04,0:13:51.41,EN,,0,0,0,,{\rEN\blur0.8}-Hey, stop the car!   -Okay.
+Dialogue: 2,0:13:51.50,0:13:52.79,ZH,,0,0,0,,{\rZH\blur0.8}-停车！  -好。
+Dialogue: 1,0:13:51.50,0:13:52.79,EN,,0,0,0,,{\rEN\blur0.8}-Stop!   -Okay.
+Dialogue: 2,0:13:54.71,0:13:56.13,ZH,,0,0,0,,{\rZH\blur0.8}你这混蛋！
+Dialogue: 1,0:13:54.71,0:13:56.13,EN,,0,0,0,,{\rEN\blur0.8}Damn you!
+Dialogue: 2,0:13:57.25,0:13:58.84,ZH,,0,0,0,,{\rZH\blur0.8}你怎么能这样？
+Dialogue: 1,0:13:57.25,0:13:58.84,EN,,0,0,0,,{\rEN\blur0.8}How could you do that?
+Dialogue: 2,0:14:01.26,0:14:02.63,ZH,,0,0,0,,{\rZH\blur0.8}-你没事吧？  -你受伤了吗？
+Dialogue: 1,0:14:01.26,0:14:02.63,EN,,0,0,0,,{\rEN\blur0.8}-Are you all right?   -Are you hurt?
+Dialogue: 2,0:14:02.72,0:14:05.05,ZH,,0,0,0,,{\rZH\blur0.8}你没事吧？疼不疼？
+Dialogue: 1,0:14:02.72,0:14:05.05,EN,,0,0,0,,{\rEN\blur0.8}Are you okay? Does it hurt?
+Dialogue: 2,0:14:05.14,0:14:07.30,ZH,,0,0,0,,{\rZH\blur0.8}-告诉我，疼不疼？  -够了。
+Dialogue: 1,0:14:05.14,0:14:07.30,EN,,0,0,0,,{\rEN\blur0.8}-Tell me, does it hurt?   -Enough already.
+Dialogue: 2,0:14:07.39,0:14:09.89,ZH,,0,0,0,,{\rZH\blur0.8}-你怎么回事？  -我跟你说过多少次了？
+Dialogue: 1,0:14:07.39,0:14:09.89,EN,,0,0,0,,{\rEN\blur0.8}-What's wrong with you?   -How many times did I tell?
+Dialogue: 2,0:14:09.97,0:14:11.64,ZH,,0,0,0,,{\rZH\blur0.8}别老用低速挡开。
+Dialogue: 1,0:14:09.97,0:14:11.64,EN,,0,0,0,,{\rEN\blur0.8}Don't drive only in low gear.
+Dialogue: 2,0:14:11.73,0:14:13.64,ZH,,0,0,0,,{\rZH\blur0.8}有时候用一挡，有时候用二挡。
+Dialogue: 1,0:14:11.73,0:14:13.64,EN,,0,0,0,,{\rEN\blur0.8}Sometimes use the first gear, sometimes the second.
+Dialogue: 2,0:14:13.73,0:14:15.15,ZH,,0,0,0,,{\rZH\blur0.8}你从来不听我的。
+Dialogue: 1,0:14:13.73,0:14:15.15,EN,,0,0,0,,{\rEN\blur0.8}You never do what I tell you.
+Dialogue: 2,0:14:15.23,0:14:17.23,ZH,,0,0,0,,{\rZH\blur0.8}我让你刹车，你却踩油门。
+Dialogue: 1,0:14:15.23,0:14:17.23,EN,,0,0,0,,{\rEN\blur0.8}When I ask you to brake, you step on the gas.
+Dialogue: 2,0:14:17.32,0:14:20.03,ZH,,0,0,0,,{\rZH\blur0.8}-你真是没救了。  -我哪懂这些啊？
+Dialogue: 1,0:14:17.32,0:14:20.03,EN,,0,0,0,,{\rEN\blur0.8}-You're really hopeless.   -How do I know all this?
+Dialogue: 2,0:14:20.86,0:14:22.20,ZH,,0,0,0,,{\rZH\blur0.8}我失陪一下。
+Dialogue: 1,0:14:20.86,0:14:22.20,EN,,0,0,0,,{\rEN\blur0.8}I'll excuse myself for a moment.
+Dialogue: 2,0:14:22.28,0:14:23.82,ZH,,0,0,0,,{\rZH\blur0.8}-你去哪？  -去浇花。
+Dialogue: 1,0:14:22.28,0:14:23.82,EN,,0,0,0,,{\rEN\blur0.8}-Where are you going?   -Water the plant.
+Dialogue: 2,0:14:28.78,0:14:32.83,ZH,,0,0,0,,{\rZH\blur0.8}失陪一下。
+Dialogue: 1,0:14:28.78,0:14:32.83,EN,,0,0,0,,{\rEN\blur0.8}Please excuse me.
+Dialogue: 2,0:14:33.37,0:14:35.29,ZH,,0,0,0,,{\rZH\blur0.8}嘿，你说过起步绝不能用哪个挡？
+Dialogue: 1,0:14:33.37,0:14:35.29,EN,,0,0,0,,{\rEN\blur0.8}Hey, you said never start the car in which gear?
+Dialogue: 2,0:14:35.38,0:14:37.08,ZH,,0,0,0,,{\rZH\blur0.8}-低速挡。  -低速挡，对吧？
+Dialogue: 1,0:14:35.38,0:14:37.08,EN,,0,0,0,,{\rEN\blur0.8}-The low gear.   -The low gear, right?
+Dialogue: 2,0:14:38.29,0:14:40.84,ZH,,0,0,0,,{\rZH\blur0.8}-对。  -走吧！
+Dialogue: 1,0:14:38.29,0:14:40.84,EN,,0,0,0,,{\rEN\blur0.8}-Yes.   -Let'sgo!
+Dialogue: 2,0:14:40.92,0:14:42.51,ZH,,0,0,0,,{\rZH\blur0.8}嘿！
+Dialogue: 1,0:14:40.92,0:14:42.51,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,0:14:44.42,0:14:46.89,ZH,,0,0,0,,{\rZH\blur0.8}你们两个会后悔的！
+Dialogue: 1,0:14:44.42,0:14:46.89,EN,,0,0,0,,{\rEN\blur0.8}You two will regret this!
+Dialogue: 2,0:14:46.97,0:14:49.26,ZH,,0,0,0,,{\rZH\blur0.8}走啊，走吧！
+Dialogue: 1,0:14:46.97,0:14:49.26,EN,,0,0,0,,{\rEN\blur0.8}Go on, just leave!
+Dialogue: 2,0:14:49.35,0:14:53.85,ZH,,0,0,0,,{\rZH\blur0.8}我希望你们很快遭报应！
+Dialogue: 1,0:14:49.35,0:14:53.85,EN,,0,0,0,,{\rEN\blur0.8}I hope you get your comeuppance soon!
+Dialogue: 2,0:15:24.38,0:15:26.05,ZH,,0,0,0,,{\rZH\blur0.8}你们三个一定要记住。
+Dialogue: 1,0:15:24.38,0:15:26.05,EN,,0,0,0,,{\rEN\blur0.8}You three must always remember this.
+Dialogue: 2,0:15:28.30,0:15:29.93,ZH,,0,0,0,,{\rZH\blur0.8}是我把你们捡回来的
+Dialogue: 1,0:15:28.30,0:15:29.93,EN,,0,0,0,,{\rEN\blur0.8}I'm the one who picked you up
+Dialogue: 2,0:15:31.51,0:15:33.89,ZH,,0,0,0,,{\rZH\blur0.8}养大你们的！所以你们得听我的。
+Dialogue: 1,0:15:31.51,0:15:33.89,EN,,0,0,0,,{\rEN\blur0.8}and raised you! So you have to listen to me.
+Dialogue: 2,0:15:35.39,0:15:36.56,ZH,,0,0,0,,{\rZH\blur0.8}从今以后，
+Dialogue: 1,0:15:35.39,0:15:36.56,EN,,0,0,0,,{\rEN\blur0.8}From now on,
+Dialogue: 2,0:15:38.65,0:15:40.48,ZH,,0,0,0,,{\rZH\blur0.8}我教你们怎么谋生。
+Dialogue: 1,0:15:38.65,0:15:40.48,EN,,0,0,0,,{\rEN\blur0.8}I'll teach you how to make a living.
+Dialogue: 2,0:15:44.40,0:15:45.49,ZH,,0,0,0,,{\rZH\blur0.8}看。
+Dialogue: 1,0:15:44.40,0:15:45.49,EN,,0,0,0,,{\rEN\blur0.8}Look.
+Dialogue: 2,0:15:45.57,0:15:47.24,ZH,,0,0,0,,{\rZH\blur0.8}要眼明手快。
+Dialogue: 1,0:15:45.57,0:15:47.24,EN,,0,0,0,,{\rEN\blur0.8}You have to be sharp of eye and quick of hand.
+Dialogue: 2,0:15:47.90,0:15:49.57,ZH,,0,0,0,,{\rZH\blur0.8}-钵仔糕。  -什么事？
+Dialogue: 1,0:15:47.90,0:15:49.57,EN,,0,0,0,,{\rEN\blur0.8}-Red Bean Pudding.   -What?
+Dialogue: 2,0:15:49.66,0:15:52.54,ZH,,0,0,0,,{\rZH\blur0.8}-我现在在巴士上，过来吧。  -好。
+Dialogue: 1,0:15:49.66,0:15:52.54,EN,,0,0,0,,{\rEN\blur0.8}-I'm on a bus now, so come here.   -Okay.
+Dialogue: 2,0:15:54.91,0:15:56.87,ZH,,0,0,0,,{\rZH\blur0.8}怎么了？你疯了？
+Dialogue: 1,0:15:54.91,0:15:56.87,EN,,0,0,0,,{\rEN\blur0.8}What's the matter? Are you crazy?
+Dialogue: 2,0:15:58.21,0:16:00.63,ZH,,0,0,0,,{\rZH\blur0.8}没事，巴士太颠了。
+Dialogue: 1,0:15:58.21,0:16:00.63,EN,,0,0,0,,{\rEN\blur0.8}Nothing, the bus ride is jumpy.
+Dialogue: 2,0:16:02.50,0:16:03.46,ZH,,0,0,0,,{\rZH\blur0.8}到那边去。
+Dialogue: 1,0:16:02.50,0:16:03.46,EN,,0,0,0,,{\rEN\blur0.8}Go over there.
+Dialogue: 2,0:16:18.60,0:16:19.52,ZH,,0,0,0,,{\rZH\blur0.8}混蛋！
+Dialogue: 1,0:16:18.60,0:16:19.52,EN,,0,0,0,,{\rEN\blur0.8}Damn you!
+Dialogue: 2,0:16:20.06,0:16:22.11,ZH,,0,0,0,,{\rZH\blur0.8}怎么教都教不会，一点用都没有！
+Dialogue: 1,0:16:20.06,0:16:22.11,EN,,0,0,0,,{\rEN\blur0.8}You'll never learn, you aren't worth anything!
+Dialogue: 2,0:16:23.23,0:16:24.23,ZH,,0,0,0,,{\rZH\blur0.8}看看你！
+Dialogue: 1,0:16:23.23,0:16:24.23,EN,,0,0,0,,{\rEN\blur0.8}Look at you!
+Dialogue: 2,0:16:25.28,0:16:26.86,ZH,,0,0,0,,{\rZH\blur0.8}总是哭哭啼啼的，会给我带来霉运。
+Dialogue: 1,0:16:25.28,0:16:26.86,EN,,0,0,0,,{\rEN\blur0.8}You're always crying. You'll bring me bad luck.
+Dialogue: 2,0:16:26.94,0:16:29.49,ZH,,0,0,0,,{\rZH\blur0.8}今天没你的饭吃！
+Dialogue: 1,0:16:26.94,0:16:29.49,EN,,0,0,0,,{\rEN\blur0.8}No food for you today!
+Dialogue: 2,0:16:41.50,0:16:42.63,ZH,,0,0,0,,{\rZH\blur0.8}红豆，喝点汤。
+Dialogue: 1,0:16:41.50,0:16:42.63,EN,,0,0,0,,{\rEN\blur0.8}Red Bean, have some soup.
+Dialogue: 2,0:16:43.29,0:16:45.38,ZH,,0,0,0,,{\rZH\blur0.8}因为你，我裤子都弄脏了。
+Dialogue: 1,0:16:43.29,0:16:45.38,EN,,0,0,0,,{\rEN\blur0.8}I stained my pants because of you.
+Dialogue: 2,0:16:46.46,0:16:48.47,ZH,,0,0,0,,{\rZH\blur0.8}-我为你偷吃的。  -快吃。
+Dialogue: 1,0:16:46.46,0:16:48.47,EN,,0,0,0,,{\rEN\blur0.8}-I stole food for you.   -Eat up.
+Dialogue: 2,0:16:50.05,0:16:50.97,ZH,,0,0,0,,{\rZH\blur0.8}-吃啊。  -吃。
+Dialogue: 1,0:16:50.05,0:16:50.97,EN,,0,0,0,,{\rEN\blur0.8}-Go on, eat.   -Eat.
+Dialogue: 2,0:16:51.05,0:16:52.14,ZH,,0,0,0,,{\rZH\blur0.8}好。
+Dialogue: 1,0:16:51.05,0:16:52.14,EN,,0,0,0,,{\rEN\blur0.8}Okay.
+Dialogue: 2,0:16:52.22,0:16:55.14,ZH,,0,0,0,,{\rZH\blur0.8}-你一定饿了，快吃。  -真好吃。
+Dialogue: 1,0:16:52.22,0:16:55.14,EN,,0,0,0,,{\rEN\blur0.8}-You must be hungry, eat up.   -It's delicious.
+Dialogue: 2,0:17:07.86,0:17:09.07,ZH,,0,0,0,,{\rZH\blur0.8}面包店
+Dialogue: 1,0:17:07.86,0:17:09.07,EN,,0,0,0,,{\rEN\blur0.8}BAKERY SHOP
+Dialogue: 2,0:17:09.15,0:17:11.57,ZH,,0,0,0,,{\rZH\blur0.8}-红豆，你来扮乞丐。  -又是我？
+Dialogue: 1,0:17:09.15,0:17:11.57,EN,,0,0,0,,{\rEN\blur0.8}-Red Bean, you be the beggar.   -Me again?
+Dialogue: 2,0:17:11.66,0:17:12.95,ZH,,0,0,0,,{\rZH\blur0.8}去吧。
+Dialogue: 1,0:17:11.66,0:17:12.95,EN,,0,0,0,,{\rEN\blur0.8}Go on.
+Dialogue: 2,0:17:13.82,0:17:15.08,ZH,,0,0,0,,{\rZH\blur0.8}-你到那边去。  -好。
+Dialogue: 1,0:17:13.82,0:17:15.08,EN,,0,0,0,,{\rEN\blur0.8}-You go over there.   -Okay.
+Dialogue: 2,0:17:17.87,0:17:20.29,ZH,,0,0,0,,{\rZH\blur0.8}请给我点面包好吗？
+Dialogue: 1,0:17:17.87,0:17:20.29,EN,,0,0,0,,{\rEN\blur0.8}Can you give me some bread, please?
+Dialogue: 2,0:17:20.37,0:17:22.00,ZH,,0,0,0,,{\rZH\blur0.8}我好几天没吃东西了。
+Dialogue: 1,0:17:20.37,0:17:22.00,EN,,0,0,0,,{\rEN\blur0.8}I haven't eaten in days.
+Dialogue: 2,0:17:22.08,0:17:23.83,ZH,,0,0,0,,{\rZH\blur0.8}-请帮帮我。  -走开，你这个乞丐！
+Dialogue: 1,0:17:22.08,0:17:23.83,EN,,0,0,0,,{\rEN\blur0.8}-Please help me.   -Go away, you beggar!
+Dialogue: 2,0:17:23.92,0:17:26.30,ZH,,0,0,0,,{\rZH\blur0.8}-别烦我！滚开！  -求求你别这样。
+Dialogue: 1,0:17:23.92,0:17:26.30,EN,,0,0,0,,{\rEN\blur0.8}-Don't bother me! Get lost!   -Please don't.
+Dialogue: 2,0:17:26.38,0:17:27.59,ZH,,0,0,0,,{\rZH\blur0.8}滚开！
+Dialogue: 1,0:17:26.38,0:17:27.59,EN,,0,0,0,,{\rEN\blur0.8}Get lost!
+Dialogue: 2,0:17:28.34,0:17:29.38,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,0:17:28.34,0:17:29.38,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,0:17:29.46,0:17:30.59,ZH,,0,0,0,,{\rZH\blur0.8}-你敢打我？  -不是我。
+Dialogue: 1,0:17:29.46,0:17:30.59,EN,,0,0,0,,{\rEN\blur0.8}-How dare you hit me?   -It's not me.
+Dialogue: 2,0:17:30.68,0:17:31.93,ZH,,0,0,0,,{\rZH\blur0.8}-不是我。  -滚开！
+Dialogue: 1,0:17:30.68,0:17:31.93,EN,,0,0,0,,{\rEN\blur0.8}-It's not me.   -Get lost!
+Dialogue: 2,0:17:35.30,0:17:38.47,ZH,,0,0,0,,{\rZH\blur0.8}-还敢否认？滚开！  -真的不是我。
+Dialogue: 1,0:17:35.30,0:17:38.47,EN,,0,0,0,,{\rEN\blur0.8}-You still deny it? Get lost!   -Really, it's not me.
+Dialogue: 2,0:17:40.77,0:17:41.77,ZH,,0,0,0,,{\rZH\blur0.8}你敢偷我的面包。
+Dialogue: 1,0:17:40.77,0:17:41.77,EN,,0,0,0,,{\rEN\blur0.8}How dare you steal my bread.
+Dialogue: 2,0:17:41.85,0:17:43.27,ZH,,0,0,0,,{\rZH\blur0.8}-喂，我们走。  -小小年纪为什么偷东西？
+Dialogue: 1,0:17:41.85,0:17:43.27,EN,,0,0,0,,{\rEN\blur0.8}-Hey, let's go.   -Why do you steal at such a young age?
+Dialogue: 2,0:17:43.35,0:17:44.65,ZH,,0,0,0,,{\rZH\blur0.8}谁教你的？
+Dialogue: 1,0:17:43.35,0:17:44.65,EN,,0,0,0,,{\rEN\blur0.8}Who taught you that?
+Dialogue: 2,0:17:44.73,0:17:46.48,ZH,,0,0,0,,{\rZH\blur0.8}-我们走。  -站住！
+Dialogue: 1,0:17:44.73,0:17:46.48,EN,,0,0,0,,{\rEN\blur0.8}-Let'sgo.   -Stop!
+Dialogue: 2,0:17:46.57,0:17:48.32,ZH,,0,0,0,,{\rZH\blur0.8}-红豆，快跑！  -那三个小鬼偷了我的面包。
+Dialogue: 1,0:17:46.57,0:17:48.32,EN,,0,0,0,,{\rEN\blur0.8}-Red Bean, run!   -Those three kids stole my bread.
+Dialogue: 2,0:17:48.40,0:17:49.61,ZH,,0,0,0,,{\rZH\blur0.8}抓住他们，快！
+Dialogue: 1,0:17:48.40,0:17:49.61,EN,,0,0,0,,{\rEN\blur0.8}Get them, hurry!
+Dialogue: 2,0:17:55.70,0:17:57.83,ZH,,0,0,0,,{\rZH\blur0.8}婆婆，慢慢吃。
+Dialogue: 1,0:17:55.70,0:17:57.83,EN,,0,0,0,,{\rEN\blur0.8}Granny, eat slowly.
+Dialogue: 2,0:17:58.33,0:17:59.74,ZH,,0,0,0,,{\rZH\blur0.8}没人会抢你的面包。
+Dialogue: 1,0:17:58.33,0:17:59.74,EN,,0,0,0,,{\rEN\blur0.8}No one will take your bread away.
+Dialogue: 2,0:17:59.83,0:18:03.16,ZH,,0,0,0,,{\rZH\blur0.8}我们帮你把风。婆婆，好吃吗？
+Dialogue: 1,0:17:59.83,0:18:03.16,EN,,0,0,0,,{\rEN\blur0.8}We'll keep a lookout. Granny, is it good?
+Dialogue: 2,0:18:03.25,0:18:05.25,ZH,,0,0,0,,{\rZH\blur0.8}-真好吃。  -慢慢吃。
+Dialogue: 1,0:18:03.25,0:18:05.25,EN,,0,0,0,,{\rEN\blur0.8}-It's delicious.   -Eat slowly.
+Dialogue: 2,0:18:08.04,0:18:09.21,ZH,,0,0,0,,{\rZH\blur0.8}再吃点。
+Dialogue: 1,0:18:08.04,0:18:09.21,EN,,0,0,0,,{\rEN\blur0.8}Have more.
+Dialogue: 2,0:18:10.17,0:18:11.72,ZH,,0,0,0,,{\rZH\blur0.8}-站住，回来。  -好痛。
+Dialogue: 1,0:18:10.17,0:18:11.72,EN,,0,0,0,,{\rEN\blur0.8}-Hold it, come back.   -It hurts.
+Dialogue: 2,0:18:11.80,0:18:13.47,ZH,,0,0,0,,{\rZH\blur0.8}过来。
+Dialogue: 1,0:18:11.80,0:18:13.47,EN,,0,0,0,,{\rEN\blur0.8}Come over.
+Dialogue: 2,0:18:14.05,0:18:16.76,ZH,,0,0,0,,{\rZH\blur0.8}-你想干什么？我们什么都没做。  -别抓他们。
+Dialogue: 1,0:18:14.05,0:18:16.76,EN,,0,0,0,,{\rEN\blur0.8}-What do you want? We didn't do anything.   -Don't catch them.
+Dialogue: 2,0:18:16.85,0:18:17.85,ZH,,0,0,0,,{\rZH\blur0.8}-我们什么都没做。  -别担心。
+Dialogue: 1,0:18:16.85,0:18:17.85,EN,,0,0,0,,{\rEN\blur0.8}-We didn't do anything.   -Don't worry.
+Dialogue: 2,0:18:17.93,0:18:18.81,ZH,,0,0,0,,{\rZH\blur0.8}我们是无辜的。
+Dialogue: 1,0:18:17.93,0:18:18.81,EN,,0,0,0,,{\rEN\blur0.8}We're innocent.
+Dialogue: 2,0:18:18.89,0:18:20.77,ZH,,0,0,0,,{\rZH\blur0.8}-求你别抓我们。  -我不会抓你们。
+Dialogue: 1,0:18:18.89,0:18:20.77,EN,,0,0,0,,{\rEN\blur0.8}-Please don't arrest us.   -I won't arrest you.
+Dialogue: 2,0:18:22.27,0:18:23.14,ZH,,0,0,0,,{\rZH\blur0.8}怎么样？
+Dialogue: 1,0:18:22.27,0:18:23.14,EN,,0,0,0,,{\rEN\blur0.8}Well?
+Dialogue: 2,0:18:23.23,0:18:25.27,ZH,,0,0,0,,{\rZH\blur0.8}-你们一定饿坏了。  -是。
+Dialogue: 1,0:18:23.23,0:18:25.27,EN,,0,0,0,,{\rEN\blur0.8}-You must be starving.   -Yes.
+Dialogue: 2,0:18:34.82,0:18:37.07,ZH,,0,0,0,,{\rZH\blur0.8}天变冷了，拿些衣服穿。
+Dialogue: 1,0:18:34.82,0:18:37.07,EN,,0,0,0,,{\rEN\blur0.8}It's getting cold, get some clothes.
+Dialogue: 2,0:18:40.54,0:18:42.83,ZH,,0,0,0,,{\rZH\blur0.8}-谢谢你，契爷。  -谢谢你，契爷。
+Dialogue: 1,0:18:40.54,0:18:42.83,EN,,0,0,0,,{\rEN\blur0.8}-Thank you, Godfather.
+Dialogue: 2,0:18:44.33,0:18:45.71,ZH,,0,0,0,,{\rZH\blur0.8}我什么时候成了你们的契爷？
+Dialogue: 1,0:18:44.33,0:18:45.71,EN,,0,0,0,,{\rEN\blur0.8}When did I become your godfather?
+Dialogue: 2,0:18:45.79,0:18:47.00,ZH,,0,0,0,,{\rZH\blur0.8}你给我们吃的，就是我们的契爷。
+Dialogue: 1,0:18:45.79,0:18:47.00,EN,,0,0,0,,{\rEN\blur0.8}You're our godfather because you gave us food.
+Dialogue: 2,0:18:47.08,0:18:48.17,ZH,,0,0,0,,{\rZH\blur0.8}-对。  -没错。
+Dialogue: 1,0:18:47.08,0:18:48.17,EN,,0,0,0,,{\rEN\blur0.8}-Yes.   -Exactly.
+Dialogue: 2,0:18:48.25,0:18:52.05,ZH,,0,0,0,,{\rZH\blur0.8}只有你对我们好。
+Dialogue: 1,0:18:48.25,0:18:52.05,EN,,0,0,0,,{\rEN\blur0.8}You're the only one who has been nice to us.
+Dialogue: 2,0:18:52.09,0:18:54.09,ZH,,0,0,0,,{\rZH\blur0.8}你们自己也不赖。
+Dialogue: 1,0:18:52.09,0:18:54.09,EN,,0,0,0,,{\rEN\blur0.8}You're not so bad yourselves.
+Dialogue: 2,0:18:54.72,0:18:56.55,ZH,,0,0,0,,{\rZH\blur0.8}想过当警察吗？
+Dialogue: 1,0:18:54.72,0:18:56.55,EN,,0,0,0,,{\rEN\blur0.8}Ever think of becoming a policeman?
+Dialogue: 2,0:18:58.89,0:19:00.26,ZH,,0,0,0,,{\rZH\blur0.8}以后再说吧。
+Dialogue: 1,0:18:58.89,0:19:00.26,EN,,0,0,0,,{\rEN\blur0.8}Let's talk about it later.
+Dialogue: 2,0:19:00.35,0:19:02.52,ZH,,0,0,0,,{\rZH\blur0.8}不一定要当警察才能帮人。
+Dialogue: 1,0:19:00.35,0:19:02.52,EN,,0,0,0,,{\rEN\blur0.8}We don't have to be policemen to help people.
+Dialogue: 2,0:19:02.60,0:19:03.98,ZH,,0,0,0,,{\rZH\blur0.8}说得对，契爷。
+Dialogue: 1,0:19:02.60,0:19:03.98,EN,,0,0,0,,{\rEN\blur0.8}That's right, Godfather.
+Dialogue: 2,0:19:06.52,0:19:09.27,ZH,,0,0,0,,{\rZH\blur0.8}有困难就来找我。
+Dialogue: 1,0:19:06.52,0:19:09.27,EN,,0,0,0,,{\rEN\blur0.8}Whenever you're in trouble, come to me. y
+Dialogue: 2,0:19:09.86,0:19:11.98,ZH,,0,0,0,,{\rZH\blur0.8}-以后别再偷东西了。  -好。
+Dialogue: 1,0:19:09.86,0:19:11.98,EN,,0,0,0,,{\rEN\blur0.8}-Don't ever steal again.   -Yes.
+Dialogue: 2,0:19:36.88,0:19:39.89,ZH,,0,0,0,,{\rZH\blur0.8}画家怎么会选这位女士做模特？
+Dialogue: 1,0:19:36.88,0:19:39.89,EN,,0,0,0,,{\rEN\blur0.8}How come the painter chose this lady as a model?
+Dialogue: 2,0:19:39.97,0:19:41.47,ZH,,0,0,0,,{\rZH\blur0.8}她看起来像扭伤了脖子很难受。
+Dialogue: 1,0:19:39.97,0:19:41.47,EN,,0,0,0,,{\rEN\blur0.8}She looks like she's suffering a sprained neck.
+Dialogue: 2,0:19:44.22,0:19:46.44,ZH,,0,0,0,,{\rZH\blur0.8}阿占，来尝尝汤。
+Dialogue: 1,0:19:44.22,0:19:46.44,EN,,0,0,0,,{\rEN\blur0.8}James, come and try the soup.
+Dialogue: 2,0:19:46.52,0:19:47.94,ZH,,0,0,0,,{\rZH\blur0.8}已经煲了四个小时。
+Dialogue: 1,0:19:46.52,0:19:47.94,EN,,0,0,0,,{\rEN\blur0.8}It's been boiling for four hours.
+Dialogue: 2,0:19:50.77,0:19:51.65,ZH,,0,0,0,,{\rZH\blur0.8}怎么样？
+Dialogue: 1,0:19:50.77,0:19:51.65,EN,,0,0,0,,{\rEN\blur0.8}Well?
+Dialogue: 2,0:19:52.98,0:19:56.03,ZH,,0,0,0,,{\rZH\blur0.8}怎么喝起来像罐头汤？
+Dialogue: 1,0:19:52.98,0:19:56.03,EN,,0,0,0,,{\rEN\blur0.8}Why does it taste like canned soup?
+Dialogue: 2,0:19:56.11,0:19:57.95,ZH,,0,0,0,,{\rZH\blur0.8}去死吧！
+Dialogue: 1,0:19:56.11,0:19:57.95,EN,,0,0,0,,{\rEN\blur0.8}Go to hell!
+Dialogue: 2,0:20:13.92,0:20:20.59,ZH,,0,0,0,,{\rZH\blur0.8}祝你生日快乐，祝你撞到头和鼻子。
+Dialogue: 1,0:20:13.92,0:20:20.59,EN,,0,0,0,,{\rEN\blur0.8}Happy birthday to you. I hope you hit your head and nose.
+Dialogue: 2,0:20:21.30,0:20:25.18,ZH,,0,0,0,,{\rZH\blur0.8}以后你每年都得做饭。
+Dialogue: 1,0:20:21.30,0:20:25.18,EN,,0,0,0,,{\rEN\blur0.8}You will have to cook every year.
+Dialogue: 2,0:20:25.27,0:20:26.81,ZH,,0,0,0,,{\rZH\blur0.8}祝你生日快乐。
+Dialogue: 1,0:20:25.27,0:20:26.81,EN,,0,0,0,,{\rEN\blur0.8}Happy birthday to you.
+Dialogue: 2,0:20:26.89,0:20:29.73,ZH,,0,0,0,,{\rZH\blur0.8}-生日快乐，你今天真漂亮。  -谢谢！
+Dialogue: 1,0:20:26.89,0:20:29.73,EN,,0,0,0,,{\rEN\blur0.8}-Happy birthday, you look gorgeous.   -Thanks!
+Dialogue: 2,0:20:33.73,0:20:35.82,ZH,,0,0,0,,{\rZH\blur0.8}今天是我生日，所以听我的。
+Dialogue: 1,0:20:33.73,0:20:35.82,EN,,0,0,0,,{\rEN\blur0.8}Today's my birthday, so do what I say.
+Dialogue: 2,0:20:35.90,0:20:38.45,ZH,,0,0,0,,{\rZH\blur0.8}-你生日又怎样？  -喝完这杯香槟，
+Dialogue: 1,0:20:35.90,0:20:38.45,EN,,0,0,0,,{\rEN\blur0.8}-It's your birthday. So what?   -After this glass of champagne,
+Dialogue: 2,0:20:38.53,0:20:40.11,ZH,,0,0,0,,{\rZH\blur0.8}我们就收手，不再偷东西。
+Dialogue: 1,0:20:38.53,0:20:40.11,EN,,0,0,0,,{\rEN\blur0.8}let's stop stealing.
+Dialogue: 2,0:20:41.57,0:20:43.45,ZH,,0,0,0,,{\rZH\blur0.8}好啊。
+Dialogue: 1,0:20:41.57,0:20:43.45,EN,,0,0,0,,{\rEN\blur0.8}Sure.
+Dialogue: 2,0:20:51.12,0:20:53.63,ZH,,0,0,0,,{\rZH\blur0.8}喂，吹蜡烛吧。
+Dialogue: 1,0:20:51.12,0:20:53.63,EN,,0,0,0,,{\rEN\blur0.8}Hey, blow out the candles.
+Dialogue: 2,0:20:54.75,0:20:55.84,ZH,,0,0,0,,{\rZH\blur0.8}快点。
+Dialogue: 1,0:20:54.75,0:20:55.84,EN,,0,0,0,,{\rEN\blur0.8}Hurry up.
+Dialogue: 2,0:20:56.84,0:20:58.05,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,0:20:56.84,0:20:58.05,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,0:20:58.13,0:21:00.59,ZH,,0,0,0,,{\rZH\blur0.8}-先许个愿。  -来吧。
+Dialogue: 1,0:20:58.13,0:21:00.59,EN,,0,0,0,,{\rEN\blur0.8}-Make a wish first.   -Go on.
+Dialogue: 2,0:21:00.68,0:21:01.64,ZH,,0,0,0,,{\rZH\blur0.8}好。
+Dialogue: 1,0:21:00.68,0:21:01.64,EN,,0,0,0,,{\rEN\blur0.8}Sure.
+Dialogue: 2,0:21:03.01,0:21:04.43,ZH,,0,0,0,,{\rZH\blur0.8}我希望我们退休之后，
+Dialogue: 1,0:21:03.01,0:21:04.43,EN,,0,0,0,,{\rEN\blur0.8}I hope after we retire,
+Dialogue: 2,0:21:04.97,0:21:06.60,ZH,,0,0,0,,{\rZH\blur0.8}-能平平安安地生活——-打住！
+Dialogue: 1,0:21:04.97,0:21:06.60,EN,,0,0,0,,{\rEN\blur0.8}-we can live in peace-- -Hold it!
+Dialogue: 2,0:21:07.18,0:21:08.89,ZH,,0,0,0,,{\rZH\blur0.8}够了。蛋糕都凉了。
+Dialogue: 1,0:21:07.18,0:21:08.89,EN,,0,0,0,,{\rEN\blur0.8}That's enough. The cake is cold already.
+Dialogue: 2,0:21:13.40,0:21:15.11,ZH,,0,0,0,,{\rZH\blur0.8}白雪公主！
+Dialogue: 1,0:21:13.40,0:21:15.11,EN,,0,0,0,,{\rEN\blur0.8}Snow White!
+Dialogue: 2,0:21:15.69,0:21:16.69,ZH,,0,0,0,,{\rZH\blur0.8}我来帮你。
+Dialogue: 1,0:21:15.69,0:21:16.69,EN,,0,0,0,,{\rEN\blur0.8}Let me help you.
+Dialogue: 2,0:21:22.74,0:21:24.45,ZH,,0,0,0,,{\rZH\blur0.8}喂，你太过分了。
+Dialogue: 1,0:21:22.74,0:21:24.45,EN,,0,0,0,,{\rEN\blur0.8}Hey, you went too much.
+Dialogue: 2,0:21:24.53,0:21:27.04,ZH,,0,0,0,,{\rZH\blur0.8}我一出手就做到底。
+Dialogue: 1,0:21:24.53,0:21:27.04,EN,,0,0,0,,{\rEN\blur0.8}When I make a take, I go all the way.
+Dialogue: 2,0:21:28.24,0:21:29.46,ZH,,0,0,0,,{\rZH\blur0.8}去哄哄她。
+Dialogue: 1,0:21:28.24,0:21:29.46,EN,,0,0,0,,{\rEN\blur0.8}Go and comfort her.
+Dialogue: 2,0:21:29.54,0:21:32.17,ZH,,0,0,0,,{\rZH\blur0.8}-也包括你。  -去吧，她听你的。
+Dialogue: 1,0:21:29.54,0:21:32.17,EN,,0,0,0,,{\rEN\blur0.8}-That includes you too.   -Come on, she listens to you.
+Dialogue: 2,0:21:32.25,0:21:33.33,ZH,,0,0,0,,{\rZH\blur0.8}真是丢人。
+Dialogue: 1,0:21:32.25,0:21:33.33,EN,,0,0,0,,{\rEN\blur0.8}This is embarrassing.
+Dialogue: 2,0:21:47.39,0:21:49.64,ZH,,0,0,0,,{\rZH\blur0.8}亲爱的红豆。
+Dialogue: 1,0:21:47.39,0:21:49.64,EN,,0,0,0,,{\rEN\blur0.8}My dear Cherie.
+Dialogue: 2,0:21:51.35,0:21:54.40,ZH,,0,0,0,,{\rZH\blur0.8}你真的生我气了？
+Dialogue: 1,0:21:51.35,0:21:54.40,EN,,0,0,0,,{\rEN\blur0.8}Are you really mad at me?
+Dialogue: 2,0:21:56.69,0:21:57.57,ZH,,0,0,0,,{\rZH\blur0.8}你看！
+Dialogue: 1,0:21:56.69,0:21:57.57,EN,,0,0,0,,{\rEN\blur0.8}Look!
+Dialogue: 2,0:21:58.11,0:22:00.44,ZH,,0,0,0,,{\rZH\blur0.8}我可爱漂亮的红豆。
+Dialogue: 1,0:21:58.11,0:22:00.44,EN,,0,0,0,,{\rEN\blur0.8}My lovely and pretty Cherie.
+Dialogue: 2,0:22:00.53,0:22:04.99,ZH,,0,0,0,,{\rZH\blur0.8}我最爱的人是你。
+Dialogue: 1,0:22:00.53,0:22:04.99,EN,,0,0,0,,{\rEN\blur0.8}You're the one I truly love.
+Dialogue: 2,0:22:05.07,0:22:07.24,ZH,,0,0,0,,{\rZH\blur0.8}我发誓，我只爱你一个，没有别人。
+Dialogue: 1,0:22:05.07,0:22:07.24,EN,,0,0,0,,{\rEN\blur0.8}I swear, you're my only one, no other.
+Dialogue: 2,0:22:07.33,0:22:10.33,ZH,,0,0,0,,{\rZH\blur0.8}你害羞的样子真迷人。
+Dialogue: 1,0:22:07.33,0:22:10.33,EN,,0,0,0,,{\rEN\blur0.8}You look charming when you're shy.
+Dialogue: 2,0:22:10.87,0:22:15.54,ZH,,0,0,0,,{\rZH\blur0.8}美丽和魅力都属于你，客家妹！
+Dialogue: 1,0:22:10.87,0:22:15.54,EN,,0,0,0,,{\rEN\blur0.8}Beauty and charm belong to you, the Hakka girl!
+Dialogue: 2,0:22:16.84,0:22:18.17,ZH,,0,0,0,,{\rZH\blur0.8}来嘛！
+Dialogue: 1,0:22:16.84,0:22:18.17,EN,,0,0,0,,{\rEN\blur0.8}Come on!
+Dialogue: 2,0:22:18.25,0:22:21.55,ZH,,0,0,0,,{\rZH\blur0.8}来嘛，亲爱的红豆。
+Dialogue: 1,0:22:18.25,0:22:21.55,EN,,0,0,0,,{\rEN\blur0.8}Come on, my dear Cherie.
+Dialogue: 2,0:22:21.63,0:22:25.51,ZH,,0,0,0,,{\rZH\blur0.8}你想浪漫，我就懂怎么浪漫。
+Dialogue: 1,0:22:21.63,0:22:25.51,EN,,0,0,0,,{\rEN\blur0.8}If you want to be romantic, I know how to be romantic.
+Dialogue: 2,0:22:25.59,0:22:27.64,ZH,,0,0,0,,{\rZH\blur0.8}你想看电影，我就带你去戏院。
+Dialogue: 1,0:22:25.59,0:22:27.64,EN,,0,0,0,,{\rEN\blur0.8}If you want to see a movie, I'll take you to the cinema.
+Dialogue: 2,0:22:27.72,0:22:30.60,ZH,,0,0,0,,{\rZH\blur0.8}你想当明星，我就带你去试镜。
+Dialogue: 1,0:22:27.72,0:22:30.60,EN,,0,0,0,,{\rEN\blur0.8}If you want to be a star, I'll take you to the audition.
+Dialogue: 2,0:22:30.68,0:22:33.56,ZH,,0,0,0,,{\rZH\blur0.8}我真正爱的是你。
+Dialogue: 1,0:22:30.68,0:22:33.56,EN,,0,0,0,,{\rEN\blur0.8}You're the one I truly love.
+Dialogue: 2,0:22:33.64,0:22:36.44,ZH,,0,0,0,,{\rZH\blur0.8}先坐下。
+Dialogue: 1,0:22:33.64,0:22:36.44,EN,,0,0,0,,{\rEN\blur0.8}Have a seat first.
+Dialogue: 2,0:22:36.98,0:22:38.94,ZH,,0,0,0,,{\rZH\blur0.8}来，坐下。
+Dialogue: 1,0:22:36.98,0:22:38.94,EN,,0,0,0,,{\rEN\blur0.8}Come on, have a seat.
+Dialogue: 2,0:22:39.57,0:22:41.86,ZH,,0,0,0,,{\rZH\blur0.8}看看你多美。
+Dialogue: 1,0:22:39.57,0:22:41.86,EN,,0,0,0,,{\rEN\blur0.8}Look how beautiful you are.
+Dialogue: 2,0:22:41.94,0:22:44.15,ZH,,0,0,0,,{\rZH\blur0.8}我已经爱上你了。
+Dialogue: 1,0:22:41.94,0:22:44.15,EN,,0,0,0,,{\rEN\blur0.8}I've fallen in love with you.
+Dialogue: 2,0:22:44.24,0:22:46.07,ZH,,0,0,0,,{\rZH\blur0.8}亲爱的红豆。
+Dialogue: 1,0:22:44.24,0:22:46.07,EN,,0,0,0,,{\rEN\blur0.8}My dear Cherie.
+Dialogue: 2,0:22:46.16,0:22:48.83,ZH,,0,0,0,,{\rZH\blur0.8}我好爱你！
+Dialogue: 1,0:22:46.16,0:22:48.83,EN,,0,0,0,,{\rEN\blur0.8}I love you so much!
+Dialogue: 2,0:22:48.91,0:22:52.04,ZH,,0,0,0,,{\rZH\blur0.8}我真的很爱你。
+Dialogue: 1,0:22:48.91,0:22:52.04,EN,,0,0,0,,{\rEN\blur0.8}I really love you.
+Dialogue: 2,0:22:52.12,0:22:56.04,ZH,,0,0,0,,{\rZH\blur0.8}你要是有什么事，我也活不下去。
+Dialogue: 1,0:22:52.12,0:22:56.04,EN,,0,0,0,,{\rEN\blur0.8}I can't live if anything happens to you.
+Dialogue: 2,0:22:56.12,0:22:59.30,ZH,,0,0,0,,{\rZH\blur0.8}哦，亲爱的红豆。
+Dialogue: 1,0:22:56.12,0:22:59.30,EN,,0,0,0,,{\rEN\blur0.8}Oh, my dear Cherie.
+Dialogue: 2,0:23:00.96,0:23:02.55,ZH,,0,0,0,,{\rZH\blur0.8}糟了，我要淹死了！
+Dialogue: 1,0:23:00.96,0:23:02.55,EN,,0,0,0,,{\rEN\blur0.8}Oh no, I'm drowning!
+Dialogue: 2,0:23:05.26,0:23:06.68,ZH,,0,0,0,,{\rZH\blur0.8}你敢踢我？
+Dialogue: 1,0:23:05.26,0:23:06.68,EN,,0,0,0,,{\rEN\blur0.8}How dare you kick me?
+Dialogue: 2,0:23:06.76,0:23:08.34,ZH,,0,0,0,,{\rZH\blur0.8}不是我，有东西撞到我腿了。
+Dialogue: 1,0:23:06.76,0:23:08.34,EN,,0,0,0,,{\rEN\blur0.8}It's not me, something hit my leg.
+Dialogue: 2,0:23:08.43,0:23:09.97,ZH,,0,0,0,,{\rZH\blur0.8}-拉我出去。  -来吧。
+Dialogue: 1,0:23:08.43,0:23:09.97,EN,,0,0,0,,{\rEN\blur0.8}-Get me out of here.   -Come on.
+Dialogue: 2,0:23:10.06,0:23:11.18,ZH,,0,0,0,,{\rZH\blur0.8}-来吧。  -我冷死了！
+Dialogue: 1,0:23:10.06,0:23:11.18,EN,,0,0,0,,{\rEN\blur0.8}-Come on.   -I'm freezing!
+Dialogue: 2,0:23:11.68,0:23:13.60,ZH,,0,0,0,,{\rZH\blur0.8}-走吧，来。  -都怪你。
+Dialogue: 1,0:23:11.68,0:23:13.60,EN,,0,0,0,,{\rEN\blur0.8}-Let's go, come on.   -It's all your fault.
+Dialogue: 2,0:23:13.68,0:23:17.23,ZH,,0,0,0,,{\rZH\blur0.8}你拿她来骗我！别走。
+Dialogue: 1,0:23:13.68,0:23:17.23,EN,,0,0,0,,{\rEN\blur0.8}You fooled me with her! Don't go.
+Dialogue: 2,0:23:25.61,0:23:28.49,ZH,,0,0,0,,{\rZH\blur0.8}钵仔糕，你老了想去哪儿？
+Dialogue: 1,0:23:25.61,0:23:28.49,EN,,0,0,0,,{\rEN\blur0.8}Red Bean Pudding, where do you want to go when you get old?
+Dialogue: 2,0:23:28.57,0:23:30.41,ZH,,0,0,0,,{\rZH\blur0.8}我哪儿都行。
+Dialogue: 1,0:23:28.57,0:23:30.41,EN,,0,0,0,,{\rEN\blur0.8}Anywhere is fine with me.
+Dialogue: 2,0:23:30.49,0:23:31.70,ZH,,0,0,0,,{\rZH\blur0.8}不过，你呢？
+Dialogue: 1,0:23:30.49,0:23:31.70,EN,,0,0,0,,{\rEN\blur0.8}But, how about you?
+Dialogue: 2,0:23:33.24,0:23:35.16,ZH,,0,0,0,,{\rZH\blur0.8}我想先过点太平清静的日子。
+Dialogue: 1,0:23:33.24,0:23:35.16,EN,,0,0,0,,{\rEN\blur0.8}I first want to live in peace and quiet.
+Dialogue: 2,0:23:35.25,0:23:37.08,ZH,,0,0,0,,{\rZH\blur0.8}你可以去伊拉克，那边很太平。
+Dialogue: 1,0:23:35.25,0:23:37.08,EN,,0,0,0,,{\rEN\blur0.8}You can go to Iraq. It's peace over there.
+Dialogue: 2,0:23:37.17,0:23:39.21,ZH,,0,0,0,,{\rZH\blur0.8}你也可以上天堂，那里空气新鲜。
+Dialogue: 1,0:23:37.17,0:23:39.21,EN,,0,0,0,,{\rEN\blur0.8}You can also go to Heaven. The air there is fresh.
+Dialogue: 2,0:23:39.29,0:23:40.54,ZH,,0,0,0,,{\rZH\blur0.8}去你的！
+Dialogue: 1,0:23:39.29,0:23:40.54,EN,,0,0,0,,{\rEN\blur0.8}Damn you!
+Dialogue: 2,0:23:49.80,0:23:51.06,ZH,,0,0,0,,{\rZH\blur0.8}我们总是东奔西跑。
+Dialogue: 1,0:23:49.80,0:23:51.06,EN,,0,0,0,,{\rEN\blur0.8}We're always on the move.
+Dialogue: 2,0:23:51.14,0:23:53.10,ZH,,0,0,0,,{\rZH\blur0.8}我们应该找个地方安定下来。
+Dialogue: 1,0:23:51.14,0:23:53.10,EN,,0,0,0,,{\rEN\blur0.8}We should try to find a place to settle down.
+Dialogue: 2,0:23:53.18,0:23:55.81,ZH,,0,0,0,,{\rZH\blur0.8}我不同意。
+Dialogue: 1,0:23:53.18,0:23:55.81,EN,,0,0,0,,{\rEN\blur0.8}Idon'tagree.
+Dialogue: 2,0:23:55.89,0:23:59.10,ZH,,0,0,0,,{\rZH\blur0.8}宇宙无边无际，勇者永远在探索。
+Dialogue: 1,0:23:55.89,0:23:59.10,EN,,0,0,0,,{\rEN\blur0.8}The universe is boundless, and the brave are always exploring.
+Dialogue: 2,0:23:59.19,0:24:02.57,ZH,,0,0,0,,{\rZH\blur0.8}我过这种生活，自由又快乐。
+Dialogue: 1,0:23:59.19,0:24:02.57,EN,,0,0,0,,{\rEN\blur0.8}I feel free and happy living the life I am living.
+Dialogue: 2,0:24:02.65,0:24:04.53,ZH,,0,0,0,,{\rZH\blur0.8}其实，我挺想念香港的。
+Dialogue: 1,0:24:02.65,0:24:04.53,EN,,0,0,0,,{\rEN\blur0.8}Actually, I miss Hong Kong.
+Dialogue: 2,0:24:05.57,0:24:08.91,ZH,,0,0,0,,{\rZH\blur0.8}-我想念云吞面。  -还有元朗的饼干。
+Dialogue: 1,0:24:05.57,0:24:08.91,EN,,0,0,0,,{\rEN\blur0.8}-I miss Wonton noodles.   -And also the cookies at Yuen Long.
+Dialogue: 2,0:24:09.53,0:24:10.95,ZH,,0,0,0,,{\rZH\blur0.8}深圳的烧鹅。
+Dialogue: 1,0:24:09.53,0:24:10.95,EN,,0,0,0,,{\rEN\blur0.8}Shenzhen's roast goose.
+Dialogue: 2,0:24:11.03,0:24:12.24,ZH,,0,0,0,,{\rZH\blur0.8}铜锣湾的海鲜。
+Dialogue: 1,0:24:11.03,0:24:12.24,EN,,0,0,0,,{\rEN\blur0.8}Causeway Bay's seafood.
+Dialogue: 2,0:24:12.33,0:24:13.62,ZH,,0,0,0,,{\rZH\blur0.8}上环的鸡蛋仔。
+Dialogue: 1,0:24:12.33,0:24:13.62,EN,,0,0,0,,{\rEN\blur0.8}Sheung Wan's egg cakes.
+Dialogue: 2,0:24:13.70,0:24:15.16,ZH,,0,0,0,,{\rZH\blur0.8}还有赤柱的牛仔裤。
+Dialogue: 1,0:24:13.70,0:24:15.16,EN,,0,0,0,,{\rEN\blur0.8}Also, Stanley's jeans.
+Dialogue: 2,0:24:15.24,0:24:20.83,ZH,,0,0,0,,{\rZH\blur0.8}对，皇后大道东，皇后大道西。
+Dialogue: 1,0:24:15.24,0:24:20.83,EN,,0,0,0,,{\rEN\blur0.8}Yes, Queen's Road East, Queen's Road West.
+Dialogue: 2,0:24:23.42,0:24:24.38,ZH,,0,0,0,,{\rZH\blur0.8}-这里是不是很美？  -是啊。
+Dialogue: 1,0:24:23.42,0:24:24.38,EN,,0,0,0,,{\rEN\blur0.8}-Isn't it gorgeous here?   -Yes.
+Dialogue: 2,0:24:24.42,0:24:25.59,ZH,,0,0,0,,{\rZH\blur0.8}我们去看看。
+Dialogue: 1,0:24:24.42,0:24:25.59,EN,,0,0,0,,{\rEN\blur0.8}Let's check it out.
+Dialogue: 2,0:24:28.93,0:24:31.64,ZH,,0,0,0,,{\rZH\blur0.8}林青霞，邓丽君！
+Dialogue: 1,0:24:28.93,0:24:31.64,EN,,0,0,0,,{\rEN\blur0.8}Brigitte Lin, Teresa Teng!
+Dialogue: 2,0:24:33.43,0:24:35.31,ZH,,0,0,0,,{\rZH\blur0.8}你喊什么？
+Dialogue: 1,0:24:33.43,0:24:35.31,EN,,0,0,0,,{\rEN\blur0.8}What are you yelling at?
+Dialogue: 2,0:24:35.39,0:24:37.85,ZH,,0,0,0,,{\rZH\blur0.8}我只是想看看她们来过没有。
+Dialogue: 1,0:24:35.39,0:24:37.85,EN,,0,0,0,,{\rEN\blur0.8}I just want to check if they were here.
+Dialogue: 2,0:24:38.39,0:24:40.48,ZH,,0,0,0,,{\rZH\blur0.8}-胡说！  -你没看报纸吗？
+Dialogue: 1,0:24:38.39,0:24:40.48,EN,,0,0,0,,{\rEN\blur0.8}-Nonsense!   -Didn't you read the newspaper?
+Dialogue: 2,0:24:40.56,0:24:44.44,ZH,,0,0,0,,{\rZH\blur0.8}报纸上说她们常在这里裸晒。
+Dialogue: 1,0:24:40.56,0:24:44.44,EN,,0,0,0,,{\rEN\blur0.8}They said they often sunbathe naked here.
+Dialogue: 2,0:24:44.52,0:24:45.82,ZH,,0,0,0,,{\rZH\blur0.8}我想要她们的签名。
+Dialogue: 1,0:24:44.52,0:24:45.82,EN,,0,0,0,,{\rEN\blur0.8}I want their autographs.
+Dialogue: 2,0:24:46.53,0:24:48.61,ZH,,0,0,0,,{\rZH\blur0.8}她们光着身子，哪来的笔？
+Dialogue: 1,0:24:46.53,0:24:48.61,EN,,0,0,0,,{\rEN\blur0.8}How can they have pens if they're naked?
+Dialogue: 2,0:24:49.15,0:24:50.86,ZH,,0,0,0,,{\rZH\blur0.8}-走吧，色鬼。  -我有笔。
+Dialogue: 1,0:24:49.15,0:24:50.86,EN,,0,0,0,,{\rEN\blur0.8}-Let's go, you pervert.   -I have one.
+Dialogue: 2,0:24:58.54,0:24:59.71,ZH,,0,0,0,,{\rZH\blur0.8}嗨！
+Dialogue: 1,0:24:58.54,0:24:59.71,EN,,0,0,0,,{\rEN\blur0.8}Hi!
+Dialogue: 2,0:25:13.76,0:25:15.18,ZH,,0,0,0,,{\rZH\blur0.8}-你好，红豆。  -你好。
+Dialogue: 1,0:25:13.76,0:25:15.18,EN,,0,0,0,,{\rEN\blur0.8}-Hello, Cherie.   -Hello.
+Dialogue: 2,0:25:15.76,0:25:18.31,ZH,,0,0,0,,{\rZH\blur0.8}-阿海，阿占，欢迎。  -你们好吗？
+Dialogue: 1,0:25:15.76,0:25:18.31,EN,,0,0,0,,{\rEN\blur0.8}-Joey, James, welcome.   -How are you?
+Dialogue: 2,0:25:18.39,0:25:20.31,ZH,,0,0,0,,{\rZH\blur0.8}怎么回事？
+Dialogue: 1,0:25:18.39,0:25:20.31,EN,,0,0,0,,{\rEN\blur0.8}How come?
+Dialogue: 2,0:25:25.94,0:25:27.36,ZH,,0,0,0,,{\rZH\blur0.8}太贵了！
+Dialogue: 1,0:25:25.94,0:25:27.36,EN,,0,0,0,,{\rEN\blur0.8}It's too expensive!
+Dialogue: 2,0:25:27.44,0:25:30.20,ZH,,0,0,0,,{\rZH\blur0.8}不值这个价。二十万？
+Dialogue: 1,0:25:27.44,0:25:30.20,EN,,0,0,0,,{\rEN\blur0.8}It's not worth that price. $200, 000?
+Dialogue: 2,0:25:31.49,0:25:33.49,ZH,,0,0,0,,{\rZH\blur0.8}他说太贵了，他出四十万。
+Dialogue: 1,0:25:31.49,0:25:33.49,EN,,0,0,0,,{\rEN\blur0.8}He said it's too expensive. He offers 400, 000 dollars.
+Dialogue: 2,0:25:35.58,0:25:37.33,ZH,,0,0,0,,{\rZH\blur0.8}告诉他，他是个王八蛋。
+Dialogue: 1,0:25:35.58,0:25:37.33,EN,,0,0,0,,{\rEN\blur0.8}Tell him he's a motherfucker.
+Dialogue: 2,0:25:37.83,0:25:40.54,ZH,,0,0,0,,{\rZH\blur0.8}-这怎么翻译？  -随便。
+Dialogue: 1,0:25:37.83,0:25:40.54,EN,,0,0,0,,{\rEN\blur0.8}-How do I translate it?   -Anything.
+Dialogue: 2,0:25:41.08,0:25:43.38,ZH,,0,0,0,,{\rZH\blur0.8}我想问一下。
+Dialogue: 1,0:25:41.08,0:25:43.38,EN,,0,0,0,,{\rEN\blur0.8}I want to ask you this.
+Dialogue: 2,0:25:54.26,0:25:56.01,ZH,,0,0,0,,{\rZH\blur0.8}告诉他，一分都不能少。
+Dialogue: 1,0:25:54.26,0:25:56.01,EN,,0,0,0,,{\rEN\blur0.8}Tell him, not a penny less.
+Dialogue: 2,0:25:57.43,0:25:58.68,ZH,,0,0,0,,{\rZH\blur0.8}不打折，五十万。
+Dialogue: 1,0:25:57.43,0:25:58.68,EN,,0,0,0,,{\rEN\blur0.8}No discount, $500, 000.
+Dialogue: 2,0:25:59.48,0:26:00.77,ZH,,0,0,0,,{\rZH\blur0.8}不能再低了。
+Dialogue: 1,0:25:59.48,0:26:00.77,EN,,0,0,0,,{\rEN\blur0.8}No lower.
+Dialogue: 2,0:26:01.81,0:26:03.27,ZH,,0,0,0,,{\rZH\blur0.8}好，成交。
+Dialogue: 1,0:26:01.81,0:26:03.27,EN,,0,0,0,,{\rEN\blur0.8}Okay, deal.
+Dialogue: 2,0:26:03.81,0:26:05.52,ZH,,0,0,0,,{\rZH\blur0.8}他接受五十万。
+Dialogue: 1,0:26:03.81,0:26:05.52,EN,,0,0,0,,{\rEN\blur0.8}He's fine with 500, 000 dollars.
+Dialogue: 2,0:26:05.61,0:26:06.90,ZH,,0,0,0,,{\rZH\blur0.8}太好了！
+Dialogue: 1,0:26:05.61,0:26:06.90,EN,,0,0,0,,{\rEN\blur0.8}Great!
+Dialogue: 2,0:26:07.44,0:26:10.99,ZH,,0,0,0,,{\rZH\blur0.8}帮我偷这幅画
+Dialogue: 1,0:26:07.44,0:26:10.99,EN,,0,0,0,,{\rEN\blur0.8}Steal this painting for me
+Dialogue: 2,0:26:11.07,0:26:12.61,ZH,,0,0,0,,{\rZH\blur0.8}我就给你们五百万。
+Dialogue: 1,0:26:11.07,0:26:12.61,EN,,0,0,0,,{\rEN\blur0.8}and I'll give you five million.
+Dialogue: 2,0:26:13.99,0:26:15.36,ZH,,0,0,0,,{\rZH\blur0.8}请翻译一下。谢谢。
+Dialogue: 1,0:26:13.99,0:26:15.36,EN,,0,0,0,,{\rEN\blur0.8}Please translate. Thank you.
+Dialogue: 2,0:26:15.45,0:26:17.28,ZH,,0,0,0,,{\rZH\blur0.8}他出两百万让你们偷一幅画。
+Dialogue: 1,0:26:15.45,0:26:17.28,EN,,0,0,0,,{\rEN\blur0.8}He offered you two million to steal a painting.
+Dialogue: 2,0:26:17.37,0:26:19.20,ZH,,0,0,0,,{\rZH\blur0.8}哇！两百万？
+Dialogue: 1,0:26:17.37,0:26:19.20,EN,,0,0,0,,{\rEN\blur0.8}Wow! Two million?
+Dialogue: 2,0:26:19.29,0:26:22.46,ZH,,0,0,0,,{\rZH\blur0.8}-可你答应过不再偷东西了。  -我说过吗？
+Dialogue: 1,0:26:19.29,0:26:22.46,EN,,0,0,0,,{\rEN\blur0.8}-But you promised not to steal anymore.   -Did I say that?
+Dialogue: 2,0:26:22.54,0:26:24.21,ZH,,0,0,0,,{\rZH\blur0.8}-我不记得说过。  -喂！
+Dialogue: 1,0:26:22.54,0:26:24.21,EN,,0,0,0,,{\rEN\blur0.8}-I don't remember saying that.   -Hey!
+Dialogue: 2,0:26:24.29,0:26:26.25,ZH,,0,0,0,,{\rZH\blur0.8}你不能食言。
+Dialogue: 1,0:26:24.29,0:26:26.25,EN,,0,0,0,,{\rEN\blur0.8}You can't break your promise.
+Dialogue: 2,0:26:26.34,0:26:29.05,ZH,,0,0,0,,{\rZH\blur0.8}这幅画在尼斯的一座城堡里。
+Dialogue: 1,0:26:26.34,0:26:29.05,EN,,0,0,0,,{\rEN\blur0.8}This painting is located in a castle in Nice.
+Dialogue: 2,0:26:29.13,0:26:31.13,ZH,,0,0,0,,{\rZH\blur0.8}它背后有一个非常动人的爱情故事。
+Dialogue: 1,0:26:29.13,0:26:31.13,EN,,0,0,0,,{\rEN\blur0.8}There is a very moving love story behind it.
+Dialogue: 2,0:26:31.72,0:26:34.51,ZH,,0,0,0,,{\rZH\blur0.8}画中的女人爱上了画家。
+Dialogue: 1,0:26:31.72,0:26:34.51,EN,,0,0,0,,{\rEN\blur0.8}The woman in the painting was in love with the painter.
+Dialogue: 2,0:26:34.55,0:26:37.01,ZH,,0,0,0,,{\rZH\blur0.8}画家画完不久就死了。
+Dialogue: 1,0:26:34.55,0:26:37.01,EN,,0,0,0,,{\rEN\blur0.8}The painter died shortly after finishing it.
+Dialogue: 2,0:26:37.10,0:26:38.76,ZH,,0,0,0,,{\rZH\blur0.8}有人说他的灵魂附在画上。
+Dialogue: 1,0:26:37.10,0:26:38.76,EN,,0,0,0,,{\rEN\blur0.8}Some say it is haunted by his soul.
+Dialogue: 2,0:26:39.56,0:26:41.64,ZH,,0,0,0,,{\rZH\blur0.8}世界各地的盗贼都以偷到它为荣。
+Dialogue: 1,0:26:39.56,0:26:41.64,EN,,0,0,0,,{\rEN\blur0.8}Thieves from all over the world would be proud to steal it.
+Dialogue: 2,0:26:41.72,0:26:43.48,ZH,,0,0,0,,{\rZH\blur0.8}可它从没离开过那座城堡。
+Dialogue: 1,0:26:41.72,0:26:43.48,EN,,0,0,0,,{\rEN\blur0.8}However, it has never left the castle.
+Dialogue: 2,0:26:43.56,0:26:47.61,ZH,,0,0,0,,{\rZH\blur0.8}偷这样一幅邪门的画，需要极高的本领。
+Dialogue: 1,0:26:43.56,0:26:47.61,EN,,0,0,0,,{\rEN\blur0.8}Stealing such a diabolical painting requires great skill.
+Dialogue: 2,0:26:48.19,0:26:50.40,ZH,,0,0,0,,{\rZH\blur0.8}谁要是能偷到它，就能一举成名。
+Dialogue: 1,0:26:48.19,0:26:50.40,EN,,0,0,0,,{\rEN\blur0.8}Anyone who manages to steal it would become famous.
+Dialogue: 2,0:26:50.48,0:26:52.94,ZH,,0,0,0,,{\rZH\blur0.8}对你们来说，这不过是又一个挑战。
+Dialogue: 1,0:26:50.48,0:26:52.94,EN,,0,0,0,,{\rEN\blur0.8}For you, it's just another challenge.
+Dialogue: 2,0:26:53.03,0:26:57.28,ZH,,0,0,0,,{\rZH\blur0.8}-他说什么？  -我不想告诉你。
+Dialogue: 1,0:26:53.03,0:26:57.28,EN,,0,0,0,,{\rEN\blur0.8}-What did he say?   -I don't want to tell you.
+Dialogue: 2,0:26:57.37,0:26:58.62,ZH,,0,0,0,,{\rZH\blur0.8}告诉我。
+Dialogue: 1,0:26:57.37,0:26:58.62,EN,,0,0,0,,{\rEN\blur0.8}Tell me.
+Dialogue: 2,0:26:58.70,0:27:00.58,ZH,,0,0,0,,{\rZH\blur0.8}快说嘛！
+Dialogue: 1,0:26:58.70,0:27:00.58,EN,,0,0,0,,{\rEN\blur0.8}Come on!
+Dialogue: 2,0:27:02.12,0:27:05.50,ZH,,0,0,0,,{\rZH\blur0.8}他说这幅画很邪，谁偷谁死。
+Dialogue: 1,0:27:02.12,0:27:05.50,EN,,0,0,0,,{\rEN\blur0.8}He said this painting is evil, whoever steals it will die.
+Dialogue: 2,0:27:08.00,0:27:09.63,ZH,,0,0,0,,{\rZH\blur0.8}-那怎么办？  -喂！
+Dialogue: 1,0:27:08.00,0:27:09.63,EN,,0,0,0,,{\rEN\blur0.8}-What now?   -Hey!
+Dialogue: 2,0:27:10.34,0:27:11.30,ZH,,0,0,0,,{\rZH\blur0.8}怎么样？
+Dialogue: 1,0:27:10.34,0:27:11.30,EN,,0,0,0,,{\rEN\blur0.8}Well?
+Dialogue: 2,0:27:11.38,0:27:12.26,ZH,,0,0,0,,{\rZH\blur0.8}动手吧。
+Dialogue: 1,0:27:11.38,0:27:12.26,EN,,0,0,0,,{\rEN\blur0.8}Let's do it.
+Dialogue: 2,0:27:12.92,0:27:14.68,ZH,,0,0,0,,{\rZH\blur0.8}-动手？  -当然！
+Dialogue: 1,0:27:12.92,0:27:14.68,EN,,0,0,0,,{\rEN\blur0.8}-Do it?   -Of course!
+Dialogue: 2,0:27:14.76,0:27:15.84,ZH,,0,0,0,,{\rZH\blur0.8}好吧。
+Dialogue: 1,0:27:14.76,0:27:15.84,EN,,0,0,0,,{\rEN\blur0.8}All right.
+Dialogue: 2,0:27:16.68,0:27:19.35,ZH,,0,0,0,,{\rZH\blur0.8}我们决定退出了，抱歉。
+Dialogue: 1,0:27:16.68,0:27:19.35,EN,,0,0,0,,{\rEN\blur0.8}We've decided to withdraw. Sorry.
+Dialogue: 2,0:27:19.43,0:27:20.60,ZH,,0,0,0,,{\rZH\blur0.8}真的？
+Dialogue: 1,0:27:19.43,0:27:20.60,EN,,0,0,0,,{\rEN\blur0.8}Really?
+Dialogue: 2,0:27:21.72,0:27:23.60,ZH,,0,0,0,,{\rZH\blur0.8}他问你们有没有把握。
+Dialogue: 1,0:27:21.72,0:27:23.60,EN,,0,0,0,,{\rEN\blur0.8}He asked if you're sure you can do it.
+Dialogue: 2,0:27:23.68,0:27:28.56,ZH,,0,0,0,,{\rZH\blur0.8}有。
+Dialogue: 1,0:27:23.68,0:27:28.56,EN,,0,0,0,,{\rEN\blur0.8}Yes.
+Dialogue: 2,0:27:28.65,0:27:31.57,ZH,,0,0,0,,{\rZH\blur0.8}好吧，算了，抱歉。
+Dialogue: 1,0:27:28.65,0:27:31.57,EN,,0,0,0,,{\rEN\blur0.8}Okay, never mind. I'm sorry.
+Dialogue: 2,0:27:32.19,0:27:34.53,ZH,,0,0,0,,{\rZH\blur0.8}-我们走吧。  -订金怎么办？
+Dialogue: 1,0:27:32.19,0:27:34.53,EN,,0,0,0,,{\rEN\blur0.8}-Let's go now.   -What about the deposit?
+Dialogue: 2,0:27:34.61,0:27:36.16,ZH,,0,0,0,,{\rZH\blur0.8}他事后会联系我们的。
+Dialogue: 1,0:27:34.61,0:27:36.16,EN,,0,0,0,,{\rEN\blur0.8}He will contact us after this.
+Dialogue: 2,0:27:36.24,0:27:38.82,ZH,,0,0,0,,{\rZH\blur0.8}既然都来了，先喝一杯吧。
+Dialogue: 1,0:27:36.24,0:27:38.82,EN,,0,0,0,,{\rEN\blur0.8}Since we're already here, let's have a drink first.
+Dialogue: 2,0:27:39.32,0:27:41.91,ZH,,0,0,0,,{\rZH\blur0.8}这么急，真搞不懂。
+Dialogue: 1,0:27:39.32,0:27:41.91,EN,,0,0,0,,{\rEN\blur0.8}What a hurry. I really don't understand.
+Dialogue: 2,0:27:41.99,0:27:44.00,ZH,,0,0,0,,{\rZH\blur0.8}再见。
+Dialogue: 1,0:27:41.99,0:27:44.00,EN,,0,0,0,,{\rEN\blur0.8}Bye.
+Dialogue: 2,0:27:44.83,0:27:47.33,ZH,,0,0,0,,{\rZH\blur0.8}你人真好，我迫不及待想跟你合作。
+Dialogue: 1,0:27:44.83,0:27:47.33,EN,,0,0,0,,{\rEN\blur0.8}It's so kind of you. I can't wait to work with you.
+Dialogue: 2,0:27:48.38,0:27:51.42,ZH,,0,0,0,,{\rZH\blur0.8}谢谢，再见。
+Dialogue: 1,0:27:48.38,0:27:51.42,EN,,0,0,0,,{\rEN\blur0.8}Thank you, bye.
+Dialogue: 2,0:27:57.51,0:28:00.26,ZH,,0,0,0,,{\rZH\blur0.8}-成功了。  -先生，香港来电。
+Dialogue: 1,0:27:57.51,0:28:00.26,EN,,0,0,0,,{\rEN\blur0.8}-It worked.   -A call from Hong Kong, sir.
+Dialogue: 2,0:28:00.34,0:28:01.39,ZH,,0,0,0,,{\rZH\blur0.8}谢谢。
+Dialogue: 1,0:28:00.34,0:28:01.39,EN,,0,0,0,,{\rEN\blur0.8}Thank you.
+Dialogue: 2,0:28:23.08,0:28:24.87,ZH,,0,0,0,,{\rZH\blur0.8}红豆，你看见占了吗？
+Dialogue: 1,0:28:23.08,0:28:24.87,EN,,0,0,0,,{\rEN\blur0.8}Red Bean, did you see James?
+Dialogue: 2,0:28:24.95,0:28:25.95,ZH,,0,0,0,,{\rZH\blur0.8}不知道他去哪了。
+Dialogue: 1,0:28:24.95,0:28:25.95,EN,,0,0,0,,{\rEN\blur0.8}I don't know where he went.
+Dialogue: 2,0:28:26.04,0:28:27.75,ZH,,0,0,0,,{\rZH\blur0.8}他房里的东西也不见了。
+Dialogue: 1,0:28:26.04,0:28:27.75,EN,,0,0,0,,{\rEN\blur0.8}His things were not in the room either.
+Dialogue: 2,0:28:27.83,0:28:29.54,ZH,,0,0,0,,{\rZH\blur0.8}-你说会不会——-妈的！
+Dialogue: 1,0:28:27.83,0:28:29.54,EN,,0,0,0,,{\rEN\blur0.8}-Do you think-- -Shit!
+Dialogue: 2,0:28:51.44,0:28:52.48,ZH,,0,0,0,,{\rZH\blur0.8}求你别去。
+Dialogue: 1,0:28:51.44,0:28:52.48,EN,,0,0,0,,{\rEN\blur0.8}Please don't go.
+Dialogue: 2,0:28:53.65,0:28:55.32,ZH,,0,0,0,,{\rZH\blur0.8}没我他什么都干不成。
+Dialogue: 1,0:28:53.65,0:28:55.32,EN,,0,0,0,,{\rEN\blur0.8}He can't do a thing without me.
+Dialogue: 2,0:28:56.28,0:28:57.49,ZH,,0,0,0,,{\rZH\blur0.8}他会没事的。
+Dialogue: 1,0:28:56.28,0:28:57.49,EN,,0,0,0,,{\rEN\blur0.8}He'll be fine.
+Dialogue: 2,0:28:58.15,0:28:59.61,ZH,,0,0,0,,{\rZH\blur0.8}我怕他会出事。
+Dialogue: 1,0:28:58.15,0:28:59.61,EN,,0,0,0,,{\rEN\blur0.8}I'm afraid he'll get into trouble.
+Dialogue: 2,0:29:03.32,0:29:04.62,ZH,,0,0,0,,{\rZH\blur0.8}我就知道你会这样。
+Dialogue: 1,0:29:03.32,0:29:04.62,EN,,0,0,0,,{\rEN\blur0.8}I knew you'd do this.
+Dialogue: 2,0:29:06.24,0:29:08.12,ZH,,0,0,0,,{\rZH\blur0.8}你们俩最好平安回来。
+Dialogue: 1,0:29:06.24,0:29:08.12,EN,,0,0,0,,{\rEN\blur0.8}You two better come back safe and sound.
+Dialogue: 2,0:29:17.92,0:29:20.76,ZH,,0,0,0,,{\rZH\blur0.8}我去，你去收拾东西。
+Dialogue: 1,0:29:17.92,0:29:20.76,EN,,0,0,0,,{\rEN\blur0.8}I'm going, you go pack up.
+Dialogue: 2,0:29:20.84,0:29:25.06,ZH,,0,0,0,,{\rZH\blur0.8}记得明天早上九点在戛纳机场等我们。
+Dialogue: 1,0:29:20.84,0:29:25.06,EN,,0,0,0,,{\rEN\blur0.8}Remember to wait for us at Cannes Airport tomorrow morning at nine o'clock.
+Dialogue: 2,0:29:25.14,0:29:27.85,ZH,,0,0,0,,{\rZH\blur0.8}订三张票，记住，三张票。
+Dialogue: 1,0:29:25.14,0:29:27.85,EN,,0,0,0,,{\rEN\blur0.8}Book three tickets. Remember, three tickets.
+Dialogue: 2,0:29:30.94,0:29:32.23,ZH,,0,0,0,,{\rZH\blur0.8}什么？
+Dialogue: 1,0:29:30.94,0:29:32.23,EN,,0,0,0,,{\rEN\blur0.8}What?
+Dialogue: 2,0:29:33.06,0:29:35.19,ZH,,0,0,0,,{\rZH\blur0.8}答应我，这是最后一次。
+Dialogue: 1,0:29:33.06,0:29:35.19,EN,,0,0,0,,{\rEN\blur0.8}Promise me this will be the last time.
+Dialogue: 2,0:29:36.86,0:29:39.11,ZH,,0,0,0,,{\rZH\blur0.8}你真啰嗦！
+Dialogue: 1,0:29:36.86,0:29:39.11,EN,,0,0,0,,{\rEN\blur0.8}You're so noisy!
+Dialogue: 2,0:31:37.52,0:31:38.65,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,0:31:37.52,0:31:38.65,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,0:31:38.73,0:31:40.90,ZH,,0,0,0,,{\rZH\blur0.8}-你怎么来了？  -没我不行吧。
+Dialogue: 1,0:31:38.73,0:31:40.90,EN,,0,0,0,,{\rEN\blur0.8}-Why are you here?   -You can't make it without me.
+Dialogue: 2,0:31:58.75,0:31:59.96,ZH,,0,0,0,,{\rZH\blur0.8}喂。
+Dialogue: 1,0:31:58.75,0:31:59.96,EN,,0,0,0,,{\rEN\blur0.8}Hey.
+Dialogue: 2,0:32:00.04,0:32:01.25,ZH,,0,0,0,,{\rZH\blur0.8}喂，太安静了。
+Dialogue: 1,0:32:00.04,0:32:01.25,EN,,0,0,0,,{\rEN\blur0.8}Hey, it's too quiet.
+Dialogue: 2,0:32:01.92,0:32:02.96,ZH,,0,0,0,,{\rZH\blur0.8}这里肯定有陷阱。
+Dialogue: 1,0:32:01.92,0:32:02.96,EN,,0,0,0,,{\rEN\blur0.8}There must be a trap here.
+Dialogue: 2,0:32:03.50,0:32:06.59,ZH,,0,0,0,,{\rZH\blur0.8}看来有不少暗线和暗箭。
+Dialogue: 1,0:32:03.50,0:32:06.59,EN,,0,0,0,,{\rEN\blur0.8}Looks like there's a lot of trap wire and arrows.
+Dialogue: 2,0:32:07.84,0:32:08.88,ZH,,0,0,0,,{\rZH\blur0.8}去看看。
+Dialogue: 1,0:32:07.84,0:32:08.88,EN,,0,0,0,,{\rEN\blur0.8}Let's check it out.
+Dialogue: 2,0:32:24.11,0:32:25.07,ZH,,0,0,0,,{\rZH\blur0.8}这里什么都没有。
+Dialogue: 1,0:32:24.11,0:32:25.07,EN,,0,0,0,,{\rEN\blur0.8}Nothing here.
+Dialogue: 2,0:32:31.95,0:32:33.41,ZH,,0,0,0,,{\rZH\blur0.8}石门在这儿。
+Dialogue: 1,0:32:31.95,0:32:33.41,EN,,0,0,0,,{\rEN\blur0.8}Here's the stone gate.
+Dialogue: 2,0:32:33.91,0:32:35.54,ZH,,0,0,0,,{\rZH\blur0.8}不知道机关在哪。
+Dialogue: 1,0:32:33.91,0:32:35.54,EN,,0,0,0,,{\rEN\blur0.8}I wonder where the switch is.
+Dialogue: 2,0:32:36.46,0:32:39.12,ZH,,0,0,0,,{\rZH\blur0.8}肯定藏得很隐蔽。
+Dialogue: 1,0:32:36.46,0:32:39.12,EN,,0,0,0,,{\rEN\blur0.8}For sure, it's well hidden.
+Dialogue: 2,0:32:40.25,0:32:41.33,ZH,,0,0,0,,{\rZH\blur0.8}你在说什么？
+Dialogue: 1,0:32:40.25,0:32:41.33,EN,,0,0,0,,{\rEN\blur0.8}What are you saying?
+Dialogue: 2,0:32:43.88,0:32:45.26,ZH,,0,0,0,,{\rZH\blur0.8}我不信。
+Dialogue: 1,0:32:43.88,0:32:45.26,EN,,0,0,0,,{\rEN\blur0.8}I don't believe it.
+Dialogue: 2,0:32:45.34,0:32:46.51,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,0:32:45.34,0:32:46.51,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,0:32:46.59,0:32:48.38,ZH,,0,0,0,,{\rZH\blur0.8}他们不可能把名画藏在这种地方
+Dialogue: 1,0:32:46.59,0:32:48.38,EN,,0,0,0,,{\rEN\blur0.8}They couldn't have hidden precious paintings here
+Dialogue: 2,0:32:48.47,0:32:49.80,ZH,,0,0,0,,{\rZH\blur0.8}跟这些便宜酒放在一起。
+Dialogue: 1,0:32:48.47,0:32:49.80,EN,,0,0,0,,{\rEN\blur0.8}with all the cheap wines.
+Dialogue: 2,0:32:52.22,0:32:53.68,ZH,,0,0,0,,{\rZH\blur0.8}一定藏在什么地方。
+Dialogue: 1,0:32:52.22,0:32:53.68,EN,,0,0,0,,{\rEN\blur0.8}It must be hidden somewhere.
+Dialogue: 2,0:33:06.65,0:33:08.57,ZH,,0,0,0,,{\rZH\blur0.8}喂，怎么这么长？
+Dialogue: 1,0:33:06.65,0:33:08.57,EN,,0,0,0,,{\rEN\blur0.8}Hey, how come it's so long?
+Dialogue: 2,0:33:15.45,0:33:17.45,ZH,,0,0,0,,{\rZH\blur0.8}走吧！
+Dialogue: 1,0:33:15.45,0:33:17.45,EN,,0,0,0,,{\rEN\blur0.8}Let'sgo!
+Dialogue: 2,0:33:38.27,0:33:39.81,ZH,,0,0,0,,{\rZH\blur0.8}是你。
+Dialogue: 1,0:33:38.27,0:33:39.81,EN,,0,0,0,,{\rEN\blur0.8}It'syou.
+Dialogue: 2,0:33:42.27,0:33:44.40,ZH,,0,0,0,,{\rZH\blur0.8}喂，你看见了吗？
+Dialogue: 1,0:33:42.27,0:33:44.40,EN,,0,0,0,,{\rEN\blur0.8}Hey, did you see that?
+Dialogue: 2,0:33:46.19,0:33:47.07,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,0:33:46.19,0:33:47.07,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,0:33:51.74,0:33:52.57,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,0:33:51.74,0:33:52.57,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,0:33:54.91,0:33:56.20,ZH,,0,0,0,,{\rZH\blur0.8}妈的，是哪一个？
+Dialogue: 1,0:33:54.91,0:33:56.20,EN,,0,0,0,,{\rEN\blur0.8}Damn, which one?
+Dialogue: 2,0:34:03.42,0:34:05.79,ZH,,0,0,0,,{\rZH\blur0.8}喂，它自己动了。
+Dialogue: 1,0:34:03.42,0:34:05.79,EN,,0,0,0,,{\rEN\blur0.8}Hey, it moved by itself.
+Dialogue: 2,0:34:05.88,0:34:07.04,ZH,,0,0,0,,{\rZH\blur0.8}是啊。
+Dialogue: 1,0:34:05.88,0:34:07.04,EN,,0,0,0,,{\rEN\blur0.8}Yeah.
+Dialogue: 2,0:34:07.92,0:34:09.96,ZH,,0,0,0,,{\rZH\blur0.8}-它缩回去了。  -快点。
+Dialogue: 1,0:34:07.92,0:34:09.96,EN,,0,0,0,,{\rEN\blur0.8}-It goes back.   -Hurry up.
+Dialogue: 2,0:34:30.11,0:34:31.03,ZH,,0,0,0,,{\rZH\blur0.8}那是什么？
+Dialogue: 1,0:34:30.11,0:34:31.03,EN,,0,0,0,,{\rEN\blur0.8}What is it?
+Dialogue: 2,0:34:35.66,0:34:36.70,ZH,,0,0,0,,{\rZH\blur0.8}你在干什么？
+Dialogue: 1,0:34:35.66,0:34:36.70,EN,,0,0,0,,{\rEN\blur0.8}What are you doing?
+Dialogue: 2,0:34:42.83,0:34:43.75,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,0:34:42.83,0:34:43.75,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,0:34:47.59,0:34:49.88,ZH,,0,0,0,,{\rZH\blur0.8}那可能不是激光，是电流。
+Dialogue: 1,0:34:47.59,0:34:49.88,EN,,0,0,0,,{\rEN\blur0.8}It might not be a laser beam, but electricity.
+Dialogue: 2,0:34:57.43,0:34:59.43,ZH,,0,0,0,,{\rZH\blur0.8}天哪，风好大。
+Dialogue: 1,0:34:57.43,0:34:59.43,EN,,0,0,0,,{\rEN\blur0.8}Gosh, it's so windy.
+Dialogue: 2,0:35:00.39,0:35:01.77,ZH,,0,0,0,,{\rZH\blur0.8}只是做点效果。
+Dialogue: 1,0:35:00.39,0:35:01.77,EN,,0,0,0,,{\rEN\blur0.8}It's just for some effects.
+Dialogue: 2,0:35:02.39,0:35:03.68,ZH,,0,0,0,,{\rZH\blur0.8}快点！
+Dialogue: 1,0:35:02.39,0:35:03.68,EN,,0,0,0,,{\rEN\blur0.8}Come on!
+Dialogue: 2,0:35:11.78,0:35:13.15,ZH,,0,0,0,,{\rZH\blur0.8}快点！
+Dialogue: 1,0:35:11.78,0:35:13.15,EN,,0,0,0,,{\rEN\blur0.8}Come on!
+Dialogue: 2,0:35:38.09,0:35:39.30,ZH,,0,0,0,,{\rZH\blur0.8}快点！
+Dialogue: 1,0:35:38.09,0:35:39.30,EN,,0,0,0,,{\rEN\blur0.8}Come on!
+Dialogue: 2,0:35:44.60,0:35:46.39,ZH,,0,0,0,,{\rZH\blur0.8}小心！
+Dialogue: 1,0:35:44.60,0:35:46.39,EN,,0,0,0,,{\rEN\blur0.8}Be careful!
+Dialogue: 2,0:35:50.73,0:35:51.82,ZH,,0,0,0,,{\rZH\blur0.8}-给。  -好。
+Dialogue: 1,0:35:50.73,0:35:51.82,EN,,0,0,0,,{\rEN\blur0.8}-Here.   -Okay.
+Dialogue: 2,0:35:55.28,0:35:56.36,ZH,,0,0,0,,{\rZH\blur0.8}-来吧。  -好。
+Dialogue: 1,0:35:55.28,0:35:56.36,EN,,0,0,0,,{\rEN\blur0.8}-Come on.   -Okay.
+Dialogue: 2,0:36:05.62,0:36:09.71,ZH,,0,0,0,,{\rZH\blur0.8}-喂！小心，你想死啊？  -你怎么这么重？
+Dialogue: 1,0:36:05.62,0:36:09.71,EN,,0,0,0,,{\rEN\blur0.8}-Hey! Be careful, do you want to die?   -How come you're so heavy?
+Dialogue: 2,0:36:09.79,0:36:11.88,ZH,,0,0,0,,{\rZH\blur0.8}我吃得多。拉我上去！
+Dialogue: 1,0:36:09.79,0:36:11.88,EN,,0,0,0,,{\rEN\blur0.8}I eat a lot. Pull me up!
+Dialogue: 2,0:36:13.21,0:36:14.76,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,0:36:13.21,0:36:14.76,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,0:36:14.84,0:36:16.55,ZH,,0,0,0,,{\rZH\blur0.8}我说拉我上去，不是往下，你想我死啊？
+Dialogue: 1,0:36:14.84,0:36:16.55,EN,,0,0,0,,{\rEN\blur0.8}I said pull me up, not down. Do you want me to die?
+Dialogue: 2,0:36:16.63,0:36:19.18,ZH,,0,0,0,,{\rZH\blur0.8}-抓紧。  -来吧。
+Dialogue: 1,0:36:16.63,0:36:19.18,EN,,0,0,0,,{\rEN\blur0.8}-Hold tight.   -Come on.
+Dialogue: 2,0:36:20.34,0:36:22.05,ZH,,0,0,0,,{\rZH\blur0.8}拉我上去！
+Dialogue: 1,0:36:20.34,0:36:22.05,EN,,0,0,0,,{\rEN\blur0.8}Pull me up!
+Dialogue: 2,0:36:22.89,0:36:24.10,ZH,,0,0,0,,{\rZH\blur0.8}你可别放屁。
+Dialogue: 1,0:36:22.89,0:36:24.10,EN,,0,0,0,,{\rEN\blur0.8}Don't you fart.
+Dialogue: 2,0:36:32.48,0:36:33.78,ZH,,0,0,0,,{\rZH\blur0.8}用力！
+Dialogue: 1,0:36:32.48,0:36:33.78,EN,,0,0,0,,{\rEN\blur0.8}Harder!
+Dialogue: 2,0:36:34.44,0:36:36.15,ZH,,0,0,0,,{\rZH\blur0.8}-拿到了吗？  -快了。
+Dialogue: 1,0:36:34.44,0:36:36.15,EN,,0,0,0,,{\rEN\blur0.8}-Did you get it?   -Almost.
+Dialogue: 2,0:36:41.70,0:36:44.54,ZH,,0,0,0,,{\rZH\blur0.8}-摸到了吗？  -摸到了，用力！
+Dialogue: 1,0:36:41.70,0:36:44.54,EN,,0,0,0,,{\rEN\blur0.8}-Did you touch it?   -Yeah, harder!
+Dialogue: 2,0:36:45.62,0:36:47.12,ZH,,0,0,0,,{\rZH\blur0.8}就快拿到了。
+Dialogue: 1,0:36:45.62,0:36:47.12,EN,,0,0,0,,{\rEN\blur0.8}I almost got it.
+Dialogue: 2,0:36:51.29,0:36:52.38,ZH,,0,0,0,,{\rZH\blur0.8}拿到了！
+Dialogue: 1,0:36:51.29,0:36:52.38,EN,,0,0,0,,{\rEN\blur0.8}Got it!
+Dialogue: 2,0:36:53.38,0:36:55.67,ZH,,0,0,0,,{\rZH\blur0.8}-准备好。  -好。
+Dialogue: 1,0:36:53.38,0:36:55.67,EN,,0,0,0,,{\rEN\blur0.8}-Be ready.   -Okay.
+Dialogue: 2,0:36:55.76,0:36:57.72,ZH,,0,0,0,,{\rZH\blur0.8}-走！  -放手！
+Dialogue: 1,0:36:55.76,0:36:57.72,EN,,0,0,0,,{\rEN\blur0.8}-Go!   -Release!
+Dialogue: 2,0:37:03.18,0:37:04.43,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,0:37:03.18,0:37:04.43,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,0:37:05.47,0:37:06.47,ZH,,0,0,0,,{\rZH\blur0.8}喂。
+Dialogue: 1,0:37:05.47,0:37:06.47,EN,,0,0,0,,{\rEN\blur0.8}Hey.
+Dialogue: 2,0:37:07.81,0:37:09.81,ZH,,0,0,0,,{\rZH\blur0.8}你的鞋还要不要？
+Dialogue: 1,0:37:07.81,0:37:09.81,EN,,0,0,0,,{\rEN\blur0.8}Do you still want your shoes?
+Dialogue: 2,0:37:09.89,0:37:12.90,ZH,,0,0,0,,{\rZH\blur0.8}成功了，是真货。
+Dialogue: 1,0:37:09.89,0:37:12.90,EN,,0,0,0,,{\rEN\blur0.8}We made it, it's the real thing.
+Dialogue: 2,0:37:12.98,0:37:15.11,ZH,,0,0,0,,{\rZH\blur0.8}血全冲到脑子里了，我快不行了。
+Dialogue: 1,0:37:12.98,0:37:15.11,EN,,0,0,0,,{\rEN\blur0.8}My blood is all going to my head. I'm dying soon.
+Dialogue: 2,0:37:18.86,0:37:20.82,ZH,,0,0,0,,{\rZH\blur0.8}她怎么一直盯着我？
+Dialogue: 1,0:37:18.86,0:37:20.82,EN,,0,0,0,,{\rEN\blur0.8}How come she is staring at me?
+Dialogue: 2,0:37:20.91,0:37:23.62,ZH,,0,0,0,,{\rZH\blur0.8}-是你灯光的倒影。  -对。
+Dialogue: 1,0:37:20.91,0:37:23.62,EN,,0,0,0,,{\rEN\blur0.8}-It's your lamp's reflection.   -Right.
+Dialogue: 2,0:37:25.49,0:37:27.00,ZH,,0,0,0,,{\rZH\blur0.8}喂！你干什么？
+Dialogue: 1,0:37:25.49,0:37:27.00,EN,,0,0,0,,{\rEN\blur0.8}Hey! What are you doing?
+Dialogue: 2,0:37:27.08,0:37:29.29,ZH,,0,0,0,,{\rZH\blur0.8}-来帮我。  -好。
+Dialogue: 1,0:37:27.08,0:37:29.29,EN,,0,0,0,,{\rEN\blur0.8}-Come help me.   -Okay.
+Dialogue: 2,0:37:29.37,0:37:30.96,ZH,,0,0,0,,{\rZH\blur0.8}快点！
+Dialogue: 1,0:37:29.37,0:37:30.96,EN,,0,0,0,,{\rEN\blur0.8}Hurry!
+Dialogue: 2,0:37:36.42,0:37:37.63,ZH,,0,0,0,,{\rZH\blur0.8}快来！
+Dialogue: 1,0:37:36.42,0:37:37.63,EN,,0,0,0,,{\rEN\blur0.8}Come on!
+Dialogue: 2,0:37:51.23,0:37:53.86,ZH,,0,0,0,,{\rZH\blur0.8}-安全了，走吧。  -喂。
+Dialogue: 1,0:37:51.23,0:37:53.86,EN,,0,0,0,,{\rEN\blur0.8}-We're safe, let's go.   -Hey.
+Dialogue: 2,0:37:55.19,0:37:56.48,ZH,,0,0,0,,{\rZH\blur0.8}我看像个陷阱。
+Dialogue: 1,0:37:55.19,0:37:56.48,EN,,0,0,0,,{\rEN\blur0.8}Looks like a trap to me.
+Dialogue: 2,0:37:57.28,0:38:01.11,ZH,,0,0,0,,{\rZH\blur0.8}奇怪，这么安静，怎么会呢？
+Dialogue: 1,0:37:57.28,0:38:01.11,EN,,0,0,0,,{\rEN\blur0.8}Strange, it's so quiet. How could that be?
+Dialogue: 2,0:38:01.20,0:38:02.28,ZH,,0,0,0,,{\rZH\blur0.8}等着瞧吧。
+Dialogue: 1,0:38:01.20,0:38:02.28,EN,,0,0,0,,{\rEN\blur0.8}Wait and see.
+Dialogue: 2,0:38:05.16,0:38:08.16,ZH,,0,0,0,,{\rZH\blur0.8}好，酒逢知己千杯少。
+Dialogue: 1,0:38:05.16,0:38:08.16,EN,,0,0,0,,{\rEN\blur0.8}Okay, good wine is never too much with a true friend.
+Dialogue: 2,0:38:09.62,0:38:11.29,ZH,,0,0,0,,{\rZH\blur0.8}话不投机半句多。
+Dialogue: 1,0:38:09.62,0:38:11.29,EN,,0,0,0,,{\rEN\blur0.8}There's no point in talking when we're not on the same page.
+Dialogue: 2,0:38:11.37,0:38:12.92,ZH,,0,0,0,,{\rZH\blur0.8}才不是。
+Dialogue: 1,0:38:11.37,0:38:12.92,EN,,0,0,0,,{\rEN\blur0.8}Not at all.
+Dialogue: 2,0:38:13.00,0:38:14.08,ZH,,0,0,0,,{\rZH\blur0.8}阿占，
+Dialogue: 1,0:38:13.00,0:38:14.08,EN,,0,0,0,,{\rEN\blur0.8}James,
+Dialogue: 2,0:38:14.17,0:38:15.54,ZH,,0,0,0,,{\rZH\blur0.8}可是酒会醉人。
+Dialogue: 1,0:38:14.17,0:38:15.54,EN,,0,0,0,,{\rEN\blur0.8}but alcohol makes us drunk.
+Dialogue: 2,0:38:17.17,0:38:19.34,ZH,,0,0,0,,{\rZH\blur0.8}众人皆醉我独醒。
+Dialogue: 1,0:38:17.17,0:38:19.34,EN,,0,0,0,,{\rEN\blur0.8}Everyone is drunk. Only I am sober.
+Dialogue: 2,0:38:21.01,0:38:22.18,ZH,,0,0,0,,{\rZH\blur0.8}哇！
+Dialogue: 1,0:38:21.01,0:38:22.18,EN,,0,0,0,,{\rEN\blur0.8}Wow!
+Dialogue: 2,0:38:22.97,0:38:24.26,ZH,,0,0,0,,{\rZH\blur0.8}你真有一手。
+Dialogue: 1,0:38:22.97,0:38:24.26,EN,,0,0,0,,{\rEN\blur0.8}You're really something.
+Dialogue: 2,0:38:30.43,0:38:32.68,ZH,,0,0,0,,{\rZH\blur0.8}-喂，这边。  -我看到了。
+Dialogue: 1,0:38:30.43,0:38:32.68,EN,,0,0,0,,{\rEN\blur0.8}-Hey, over here.   -I see it.
+Dialogue: 2,0:38:44.91,0:38:46.24,ZH,,0,0,0,,{\rZH\blur0.8}喂。
+Dialogue: 1,0:38:44.91,0:38:46.24,EN,,0,0,0,,{\rEN\blur0.8}Hey.
+Dialogue: 2,0:39:10.72,0:39:11.64,ZH,,0,0,0,,{\rZH\blur0.8}来吧。
+Dialogue: 1,0:39:10.72,0:39:11.64,EN,,0,0,0,,{\rEN\blur0.8}Come on.
+Dialogue: 2,0:39:14.44,0:39:16.19,ZH,,0,0,0,,{\rZH\blur0.8}-我帮你看着。  -看紧点。
+Dialogue: 1,0:39:14.44,0:39:16.19,EN,,0,0,0,,{\rEN\blur0.8}-I'll watch it for you.   -Watch closely.
+Dialogue: 2,0:39:16.27,0:39:17.27,ZH,,0,0,0,,{\rZH\blur0.8}好。
+Dialogue: 1,0:39:16.27,0:39:17.27,EN,,0,0,0,,{\rEN\blur0.8}Sure.
+Dialogue: 2,0:39:21.15,0:39:23.82,ZH,,0,0,0,,{\rZH\blur0.8}-小心你的屁股。  -没办法，我屁股太大。
+Dialogue: 1,0:39:21.15,0:39:23.82,EN,,0,0,0,,{\rEN\blur0.8}-Watch your hips.   -No choice, my hips are too big.
+Dialogue: 2,0:39:35.92,0:39:36.96,ZH,,0,0,0,,{\rZH\blur0.8}还有一个。
+Dialogue: 1,0:39:35.92,0:39:36.96,EN,,0,0,0,,{\rEN\blur0.8}There's one more.
+Dialogue: 2,0:39:38.00,0:39:39.54,ZH,,0,0,0,,{\rZH\blur0.8}-喝吧。  -干杯。
+Dialogue: 1,0:39:38.00,0:39:39.54,EN,,0,0,0,,{\rEN\blur0.8}-Let'sdrink.   -Cheers.
+Dialogue: 2,0:39:43.63,0:39:44.59,ZH,,0,0,0,,{\rZH\blur0.8}走吧。
+Dialogue: 1,0:39:43.63,0:39:44.59,EN,,0,0,0,,{\rEN\blur0.8}Let'sgo.
+Dialogue: 2,0:39:46.63,0:39:47.80,ZH,,0,0,0,,{\rZH\blur0.8}你多大了？
+Dialogue: 1,0:39:46.63,0:39:47.80,EN,,0,0,0,,{\rEN\blur0.8}How old are you?
+Dialogue: 2,0:39:49.05,0:39:50.47,ZH,,0,0,0,,{\rZH\blur0.8}你应该再大一点。
+Dialogue: 1,0:39:49.05,0:39:50.47,EN,,0,0,0,,{\rEN\blur0.8}You should be older.
+Dialogue: 2,0:39:50.55,0:39:52.26,ZH,,0,0,0,,{\rZH\blur0.8}看谁厉害？
+Dialogue: 1,0:39:50.55,0:39:52.26,EN,,0,0,0,,{\rEN\blur0.8}See who's better?
+Dialogue: 2,0:39:52.76,0:39:54.10,ZH,,0,0,0,,{\rZH\blur0.8}来吧。
+Dialogue: 1,0:39:52.76,0:39:54.10,EN,,0,0,0,,{\rEN\blur0.8}Come on.
+Dialogue: 2,0:40:04.24,0:40:05.11,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,0:40:04.24,0:40:05.11,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,0:40:07.61,0:40:09.70,ZH,,0,0,0,,{\rZH\blur0.8}今晚挺安静的。
+Dialogue: 1,0:40:07.61,0:40:09.70,EN,,0,0,0,,{\rEN\blur0.8}It's pretty quiet tonight.
+Dialogue: 2,0:40:11.41,0:40:12.62,ZH,,0,0,0,,{\rZH\blur0.8}-快点。  -好的。
+Dialogue: 1,0:40:11.41,0:40:12.62,EN,,0,0,0,,{\rEN\blur0.8}-Hurry up.   -All right.
+Dialogue: 2,0:40:13.87,0:40:15.91,ZH,,0,0,0,,{\rZH\blur0.8}有贼，抓住他们！
+Dialogue: 1,0:40:13.87,0:40:15.91,EN,,0,0,0,,{\rEN\blur0.8}Thieves, stop them!
+Dialogue: 2,0:40:16.00,0:40:18.50,ZH,,0,0,0,,{\rZH\blur0.8}站住！
+Dialogue: 1,0:40:16.00,0:40:18.50,EN,,0,0,0,,{\rEN\blur0.8}Stop!
+Dialogue: 2,0:40:19.96,0:40:21.17,ZH,,0,0,0,,{\rZH\blur0.8}快，上车！
+Dialogue: 1,0:40:19.96,0:40:21.17,EN,,0,0,0,,{\rEN\blur0.8}Quick, get in!
+Dialogue: 2,0:40:26.76,0:40:28.30,ZH,,0,0,0,,{\rZH\blur0.8}你没事吧？
+Dialogue: 1,0:40:26.76,0:40:28.30,EN,,0,0,0,,{\rEN\blur0.8}Are you all right?
+Dialogue: 2,0:40:44.94,0:40:46.40,ZH,,0,0,0,,{\rZH\blur0.8}幸好子弹没打太深。
+Dialogue: 1,0:40:44.94,0:40:46.40,EN,,0,0,0,,{\rEN\blur0.8}Luckily, the bullet isn't in too deep.
+Dialogue: 2,0:40:48.82,0:40:49.86,ZH,,0,0,0,,{\rZH\blur0.8}抬起手臂。
+Dialogue: 1,0:40:48.82,0:40:49.86,EN,,0,0,0,,{\rEN\blur0.8}Raise your arm.
+Dialogue: 2,0:40:51.20,0:40:52.28,ZH,,0,0,0,,{\rZH\blur0.8}再高点。
+Dialogue: 1,0:40:51.20,0:40:52.28,EN,,0,0,0,,{\rEN\blur0.8}Higher.
+Dialogue: 2,0:40:54.08,0:40:55.16,ZH,,0,0,0,,{\rZH\blur0.8}动动手指。
+Dialogue: 1,0:40:54.08,0:40:55.16,EN,,0,0,0,,{\rEN\blur0.8}Move your finger.
+Dialogue: 2,0:40:56.24,0:40:57.58,ZH,,0,0,0,,{\rZH\blur0.8}握拳。
+Dialogue: 1,0:40:56.24,0:40:57.58,EN,,0,0,0,,{\rEN\blur0.8}Make a fist.
+Dialogue: 2,0:41:00.25,0:41:02.84,ZH,,0,0,0,,{\rZH\blur0.8}没什么大碍，你会好起来的。
+Dialogue: 1,0:41:00.25,0:41:02.84,EN,,0,0,0,,{\rEN\blur0.8}No big deal, you'll make it.
+Dialogue: 2,0:41:05.76,0:41:08.55,ZH,,0,0,0,,{\rZH\blur0.8}我警告过你别一个人干。
+Dialogue: 1,0:41:05.76,0:41:08.55,EN,,0,0,0,,{\rEN\blur0.8}I warned you not to try it alone.
+Dialogue: 2,0:41:08.63,0:41:11.39,ZH,,0,0,0,,{\rZH\blur0.8}你就是不听我的。看看你现在。
+Dialogue: 1,0:41:08.63,0:41:11.39,EN,,0,0,0,,{\rEN\blur0.8}But you refused to listen to me. Look at you now.
+Dialogue: 2,0:41:14.85,0:41:16.64,ZH,,0,0,0,,{\rZH\blur0.8}我不是为了那法国佬干的。
+Dialogue: 1,0:41:14.85,0:41:16.64,EN,,0,0,0,,{\rEN\blur0.8}I didn't do it for the Frenchman.
+Dialogue: 2,0:41:16.72,0:41:18.85,ZH,,0,0,0,,{\rZH\blur0.8}别那么自以为是，你又不是艺术家。
+Dialogue: 1,0:41:16.72,0:41:18.85,EN,,0,0,0,,{\rEN\blur0.8}Don't be so superior. You're not an artist.
+Dialogue: 2,0:41:18.94,0:41:20.19,ZH,,0,0,0,,{\rZH\blur0.8}你说得对。
+Dialogue: 1,0:41:18.94,0:41:20.19,EN,,0,0,0,,{\rEN\blur0.8}You're right.
+Dialogue: 2,0:41:25.07,0:41:26.78,ZH,,0,0,0,,{\rZH\blur0.8}我是为了红豆。
+Dialogue: 1,0:41:25.07,0:41:26.78,EN,,0,0,0,,{\rEN\blur0.8}I did it for Red Bean.
+Dialogue: 2,0:41:29.82,0:41:31.61,ZH,,0,0,0,,{\rZH\blur0.8}你为了红豆，就是为你自己。
+Dialogue: 1,0:41:29.82,0:41:31.61,EN,,0,0,0,,{\rEN\blur0.8}If you did it for Red Bean, you did it for yourself.
+Dialogue: 2,0:41:31.70,0:41:33.07,ZH,,0,0,0,,{\rZH\blur0.8}你为了你自己，就是为我。
+Dialogue: 1,0:41:31.70,0:41:33.07,EN,,0,0,0,,{\rEN\blur0.8}If you did it for yourself, you did it for me.
+Dialogue: 2,0:41:33.16,0:41:35.08,ZH,,0,0,0,,{\rZH\blur0.8}-那就是为了我们大家。  -你在说什么？
+Dialogue: 1,0:41:33.16,0:41:35.08,EN,,0,0,0,,{\rEN\blur0.8}-That means you did it for us all.   -What are you talking about?
+Dialogue: 2,0:41:38.87,0:41:41.50,ZH,,0,0,0,,{\rZH\blur0.8}你对朋友比对心上人还好。
+Dialogue: 1,0:41:38.87,0:41:41.50,EN,,0,0,0,,{\rEN\blur0.8}You treat a friend better than the woman you love.
+Dialogue: 2,0:41:42.33,0:41:45.04,ZH,,0,0,0,,{\rZH\blur0.8}不，我对她们一样好。
+Dialogue: 1,0:41:42.33,0:41:45.04,EN,,0,0,0,,{\rEN\blur0.8}No, I treat them both the same.
+Dialogue: 2,0:41:45.13,0:41:48.01,ZH,,0,0,0,,{\rZH\blur0.8}一样？你确定？
+Dialogue: 1,0:41:45.13,0:41:48.01,EN,,0,0,0,,{\rEN\blur0.8}Same? Are you sure?
+Dialogue: 2,0:41:48.09,0:41:49.42,ZH,,0,0,0,,{\rZH\blur0.8}我对她不好吗？
+Dialogue: 1,0:41:48.09,0:41:49.42,EN,,0,0,0,,{\rEN\blur0.8}Am I not nice to her?
+Dialogue: 2,0:41:49.51,0:41:51.68,ZH,,0,0,0,,{\rZH\blur0.8}你把她当物件。
+Dialogue: 1,0:41:49.51,0:41:51.68,EN,,0,0,0,,{\rEN\blur0.8}You treat her like an object.
+Dialogue: 2,0:41:52.76,0:41:54.85,ZH,,0,0,0,,{\rZH\blur0.8}你有时对她好，有时又对她坏。
+Dialogue: 1,0:41:52.76,0:41:54.85,EN,,0,0,0,,{\rEN\blur0.8}Sometimes you're nice to her, but sometimes you're mean to her.
+Dialogue: 2,0:41:56.18,0:41:57.89,ZH,,0,0,0,,{\rZH\blur0.8}她对你很好，你却从来不知道。
+Dialogue: 1,0:41:56.18,0:41:57.89,EN,,0,0,0,,{\rEN\blur0.8}She was very kind to you, but you never realized it.
+Dialogue: 2,0:42:00.44,0:42:02.27,ZH,,0,0,0,,{\rZH\blur0.8}我很羡慕你，你知道吗？
+Dialogue: 1,0:42:00.44,0:42:02.27,EN,,0,0,0,,{\rEN\blur0.8}I'm so jealous of you. Do you know that?
+Dialogue: 2,0:42:04.06,0:42:06.15,ZH,,0,0,0,,{\rZH\blur0.8}你有没有想过她的将来？
+Dialogue: 1,0:42:04.06,0:42:06.15,EN,,0,0,0,,{\rEN\blur0.8}Did you ever think about her future?
+Dialogue: 2,0:42:07.23,0:42:08.61,ZH,,0,0,0,,{\rZH\blur0.8}你有吗？
+Dialogue: 1,0:42:07.23,0:42:08.61,EN,,0,0,0,,{\rEN\blur0.8}Did you?
+Dialogue: 2,0:42:17.28,0:42:20.04,ZH,,0,0,0,,{\rZH\blur0.8}太在乎别人，就会失去自己。
+Dialogue: 1,0:42:17.28,0:42:20.04,EN,,0,0,0,,{\rEN\blur0.8}If you care too much about others, you will lose yourself.
+Dialogue: 2,0:42:20.62,0:42:25.08,ZH,,0,0,0,,{\rZH\blur0.8}你们都了解我，我喜欢自由自在。
+Dialogue: 1,0:42:20.62,0:42:25.08,EN,,0,0,0,,{\rEN\blur0.8}You both know me very well. I like a free and carefree life.
+Dialogue: 2,0:42:27.21,0:42:30.21,ZH,,0,0,0,,{\rZH\blur0.8}为什么一定要跟心爱的人过一辈子？
+Dialogue: 1,0:42:27.21,0:42:30.21,EN,,0,0,0,,{\rEN\blur0.8}Why do we have to spend the rest of our lives with the one we love?
+Dialogue: 2,0:42:30.30,0:42:33.30,ZH,,0,0,0,,{\rZH\blur0.8}喜欢一朵花，不一定要摘下来。
+Dialogue: 1,0:42:30.30,0:42:33.30,EN,,0,0,0,,{\rEN\blur0.8}If I like a flower, I don't have to pick it.
+Dialogue: 2,0:42:34.14,0:42:37.26,ZH,,0,0,0,,{\rZH\blur0.8}喜欢风，不一定要抓住它。
+Dialogue: 1,0:42:34.14,0:42:37.26,EN,,0,0,0,,{\rEN\blur0.8}If I like the wind, I don't need to bag it.
+Dialogue: 2,0:42:37.89,0:42:40.48,ZH,,0,0,0,,{\rZH\blur0.8}喜欢云，不一定要留住它。
+Dialogue: 1,0:42:37.89,0:42:40.48,EN,,0,0,0,,{\rEN\blur0.8}If I like a cloud, I don't need to hold it.
+Dialogue: 2,0:42:40.56,0:42:42.23,ZH,,0,0,0,,{\rZH\blur0.8}-喜欢海，我不……  -你在说什么？
+Dialogue: 1,0:42:40.56,0:42:42.23,EN,,0,0,0,,{\rEN\blur0.8}-If I like the sea, I don't-- -What are you talking about?
+Dialogue: 2,0:42:42.31,0:42:43.39,ZH,,0,0,0,,{\rZH\blur0.8}我说的是人。
+Dialogue: 1,0:42:42.31,0:42:43.39,EN,,0,0,0,,{\rEN\blur0.8}I was talking about humans.
+Dialogue: 2,0:42:43.48,0:42:45.27,ZH,,0,0,0,,{\rZH\blur0.8}什么风啊花啊云的？
+Dialogue: 1,0:42:43.48,0:42:45.27,EN,,0,0,0,,{\rEN\blur0.8}What's that about wind, flowers, and clouds?
+Dialogue: 2,0:42:45.35,0:42:46.65,ZH,,0,0,0,,{\rZH\blur0.8}我说的是女人。
+Dialogue: 1,0:42:45.35,0:42:46.65,EN,,0,0,0,,{\rEN\blur0.8}I was talking about women.
+Dialogue: 2,0:42:48.52,0:42:50.44,ZH,,0,0,0,,{\rZH\blur0.8}女人需要爱护和照顾。
+Dialogue: 1,0:42:48.52,0:42:50.44,EN,,0,0,0,,{\rEN\blur0.8}Women need to be loved and cared for.
+Dialogue: 2,0:42:50.53,0:42:53.28,ZH,,0,0,0,,{\rZH\blur0.8}结了婚，我就没自由了。
+Dialogue: 1,0:42:50.53,0:42:53.28,EN,,0,0,0,,{\rEN\blur0.8}After marriage, I'll lose my freedom.
+Dialogue: 2,0:42:53.36,0:42:56.16,ZH,,0,0,0,,{\rZH\blur0.8}我要的只是
+Dialogue: 1,0:42:53.36,0:42:56.16,EN,,0,0,0,,{\rEN\blur0.8}All I want are
+Dialogue: 2,0:42:56.91,0:42:58.33,ZH,,0,0,0,,{\rZH\blur0.8}-露水情缘。  -你听过这句话吗？
+Dialogue: 1,0:42:56.91,0:42:58.33,EN,,0,0,0,,{\rEN\blur0.8}-flings.   -Have you ever heard about this?
+Dialogue: 2,0:42:58.41,0:43:00.83,ZH,,0,0,0,,{\rZH\blur0.8}露水情缘不会长久。
+Dialogue: 1,0:42:58.41,0:43:00.83,EN,,0,0,0,,{\rEN\blur0.8}A fling is not forever.
+Dialogue: 2,0:43:01.54,0:43:02.50,ZH,,0,0,0,,{\rZH\blur0.8}喂。
+Dialogue: 1,0:43:01.54,0:43:02.50,EN,,0,0,0,,{\rEN\blur0.8}Hey.
+Dialogue: 2,0:43:03.16,0:43:04.75,ZH,,0,0,0,,{\rZH\blur0.8}你知道你在流血吗？
+Dialogue: 1,0:43:03.16,0:43:04.75,EN,,0,0,0,,{\rEN\blur0.8}Do you know you're bleeding?
+Dialogue: 2,0:43:04.83,0:43:06.29,ZH,,0,0,0,,{\rZH\blur0.8}你知道你受伤了吗？
+Dialogue: 1,0:43:04.83,0:43:06.29,EN,,0,0,0,,{\rEN\blur0.8}Do you know you're wounded?
+Dialogue: 2,0:43:06.92,0:43:08.09,ZH,,0,0,0,,{\rZH\blur0.8}-那又怎样？  -你弄完了？
+Dialogue: 1,0:43:06.92,0:43:08.09,EN,,0,0,0,,{\rEN\blur0.8}-So what?   -Are you finished?
+Dialogue: 2,0:43:09.63,0:43:11.26,ZH,,0,0,0,,{\rZH\blur0.8}-怎么样？  -好了。
+Dialogue: 1,0:43:09.63,0:43:11.26,EN,,0,0,0,,{\rEN\blur0.8}-Well?   -That'sit.
+Dialogue: 2,0:43:11.34,0:43:12.38,ZH,,0,0,0,,{\rZH\blur0.8}真的？
+Dialogue: 1,0:43:11.34,0:43:12.38,EN,,0,0,0,,{\rEN\blur0.8}Really?
+Dialogue: 2,0:44:11.15,0:44:12.28,ZH,,0,0,0,,{\rZH\blur0.8}感觉怎样？
+Dialogue: 1,0:44:11.15,0:44:12.28,EN,,0,0,0,,{\rEN\blur0.8}How was it?
+Dialogue: 2,0:44:12.36,0:44:13.82,ZH,,0,0,0,,{\rZH\blur0.8}好点了吗？
+Dialogue: 1,0:44:12.36,0:44:13.82,EN,,0,0,0,,{\rEN\blur0.8}Are you feeling better?
+Dialogue: 2,0:44:15.24,0:44:17.70,ZH,,0,0,0,,{\rZH\blur0.8}没事的话就走吧，红豆在机场等着。
+Dialogue: 1,0:44:15.24,0:44:17.70,EN,,0,0,0,,{\rEN\blur0.8}If you're all right, let's go. Red Bean's waiting at the airport.
+Dialogue: 2,0:45:06.08,0:45:08.71,ZH,,0,0,0,,{\rZH\blur0.8}迈克，把他们全杀了，我要那幅画。
+Dialogue: 1,0:45:06.08,0:45:08.71,EN,,0,0,0,,{\rEN\blur0.8}Mike, kill them all, I want the painting.
+Dialogue: 2,0:45:46.70,0:45:48.08,ZH,,0,0,0,,{\rZH\blur0.8}阿占。
+Dialogue: 1,0:45:46.70,0:45:48.08,EN,,0,0,0,,{\rEN\blur0.8}James.
+Dialogue: 2,0:45:49.91,0:45:52.33,ZH,,0,0,0,,{\rZH\blur0.8}带着画走，别等我！
+Dialogue: 1,0:45:49.91,0:45:52.33,EN,,0,0,0,,{\rEN\blur0.8}Take the painting, don't wait for me!
+Dialogue: 2,0:45:53.42,0:45:56.04,ZH,,0,0,0,,{\rZH\blur0.8}告诉红豆，我会去找她。
+Dialogue: 1,0:45:53.42,0:45:56.04,EN,,0,0,0,,{\rEN\blur0.8}Tell Red Bean that I'll look for her.
+Dialogue: 2,0:47:18.21,0:47:22.55,ZH,,0,0,0,,{\rZH\blur0.8}-我挡住他们，你去机场！  -小心。
+Dialogue: 1,0:47:18.21,0:47:22.55,EN,,0,0,0,,{\rEN\blur0.8}-I'll hold them off, go to the airport!   -Be careful.
+Dialogue: 2,0:47:25.55,0:47:27.97,ZH,,0,0,0,,{\rZH\blur0.8}老板，我们快到码头了，去抓他们。
+Dialogue: 1,0:47:25.55,0:47:27.97,EN,,0,0,0,,{\rEN\blur0.8}Boss, we're arriving at the port, we're going to get them.
+Dialogue: 2,0:47:39.02,0:47:40.61,ZH,,0,0,0,,{\rZH\blur0.8}吵什么？
+Dialogue: 1,0:47:39.02,0:47:40.61,EN,,0,0,0,,{\rEN\blur0.8}What's all this commotion?
+Dialogue: 2,0:49:36.52,0:49:37.93,ZH,,0,0,0,,{\rZH\blur0.8}阿占！
+Dialogue: 1,0:49:36.52,0:49:37.93,EN,,0,0,0,,{\rEN\blur0.8}James!
+Dialogue: 2,0:49:56.28,0:49:57.62,ZH,,0,0,0,,{\rZH\blur0.8}糟了！
+Dialogue: 1,0:49:56.28,0:49:57.62,EN,,0,0,0,,{\rEN\blur0.8}Oh no!
+Dialogue: 2,0:50:34.24,0:50:35.20,ZH,,0,0,0,,{\rZH\blur0.8}阿占！
+Dialogue: 1,0:50:34.24,0:50:35.20,EN,,0,0,0,,{\rEN\blur0.8}James!
+Dialogue: 2,0:50:44.21,0:50:45.42,ZH,,0,0,0,,{\rZH\blur0.8}都搞定了吗？
+Dialogue: 1,0:50:44.21,0:50:45.42,EN,,0,0,0,,{\rEN\blur0.8}Is everything settled?
+Dialogue: 2,0:50:46.00,0:50:48.55,ZH,,0,0,0,,{\rZH\blur0.8}阿海呢？
+Dialogue: 1,0:50:46.00,0:50:48.55,EN,,0,0,0,,{\rEN\blur0.8}Where's Red Bean Pudding?
+Dialogue: 2,0:50:49.26,0:50:51.17,ZH,,0,0,0,,{\rZH\blur0.8}阿占，回答我。
+Dialogue: 1,0:50:49.26,0:50:51.17,EN,,0,0,0,,{\rEN\blur0.8}James, answer me.
+Dialogue: 2,0:50:51.88,0:50:53.42,ZH,,0,0,0,,{\rZH\blur0.8}发生什么事了？
+Dialogue: 1,0:50:51.88,0:50:53.42,EN,,0,0,0,,{\rEN\blur0.8}What happened?
+Dialogue: 2,0:50:56.89,0:50:58.14,ZH,,0,0,0,,{\rZH\blur0.8}出什么事了？
+Dialogue: 1,0:50:56.89,0:50:58.14,EN,,0,0,0,,{\rEN\blur0.8}What happened?
+Dialogue: 2,0:50:59.06,0:51:00.39,ZH,,0,0,0,,{\rZH\blur0.8}我们遇到点问题。
+Dialogue: 1,0:50:59.06,0:51:00.39,EN,,0,0,0,,{\rEN\blur0.8}We encountered some problems.
+Dialogue: 2,0:51:02.18,0:51:05.10,ZH,,0,0,0,,{\rZH\blur0.8}-我去找他。  -不，他死了！
+Dialogue: 1,0:51:02.18,0:51:05.10,EN,,0,0,0,,{\rEN\blur0.8}-I'll go look for him.   -No, he's dead!
+Dialogue: 2,0:51:05.19,0:51:06.90,ZH,,0,0,0,,{\rZH\blur0.8}-走吧！  -不行！
+Dialogue: 1,0:51:05.19,0:51:06.90,EN,,0,0,0,,{\rEN\blur0.8}-Let's go!   -No way!
+Dialogue: 2,0:51:06.98,0:51:08.69,ZH,,0,0,0,,{\rZH\blur0.8}-我要去找他。  -快走！
+Dialogue: 1,0:51:06.98,0:51:08.69,EN,,0,0,0,,{\rEN\blur0.8}-I want to find him.   -Let's go!
+Dialogue: 2,0:53:58.65,0:53:59.78,ZH,,0,0,0,,{\rZH\blur0.8}带他四处看看。
+Dialogue: 1,0:53:58.65,0:53:59.78,EN,,0,0,0,,{\rEN\blur0.8}Show him around.
+Dialogue: 2,0:54:43.32,0:54:44.24,ZH,,0,0,0,,{\rZH\blur0.8}爸！
+Dialogue: 1,0:54:43.32,0:54:44.24,EN,,0,0,0,,{\rEN\blur0.8}Dad!
+Dialogue: 2,0:54:47.45,0:54:48.70,ZH,,0,0,0,,{\rZH\blur0.8}干爹！
+Dialogue: 1,0:54:47.45,0:54:48.70,EN,,0,0,0,,{\rEN\blur0.8}Dad!
+Dialogue: 2,0:54:48.79,0:54:50.16,ZH,,0,0,0,,{\rZH\blur0.8}钵仔糕。
+Dialogue: 1,0:54:48.79,0:54:50.16,EN,,0,0,0,,{\rEN\blur0.8}Red Bean Pudding.
+Dialogue: 2,0:54:50.83,0:54:52.58,ZH,,0,0,0,,{\rZH\blur0.8}原来你还活着。
+Dialogue: 1,0:54:50.83,0:54:52.58,EN,,0,0,0,,{\rEN\blur0.8}So you're still alive.
+Dialogue: 2,0:54:56.58,0:54:59.00,ZH,,0,0,0,,{\rZH\blur0.8}-你的腿—— -我运气好
+Dialogue: 1,0:54:56.58,0:54:59.00,EN,,0,0,0,,{\rEN\blur0.8}-Your legs-- -I was lucky
+Dialogue: 2,0:54:59.67,0:55:01.05,ZH,,0,0,0,,{\rZH\blur0.8}爆炸没要了我的命。
+Dialogue: 1,0:54:59.67,0:55:01.05,EN,,0,0,0,,{\rEN\blur0.8}that the explosion did not take my life.
+Dialogue: 2,0:55:01.67,0:55:02.67,ZH,,0,0,0,,{\rZH\blur0.8}都怪我。
+Dialogue: 1,0:55:01.67,0:55:02.67,EN,,0,0,0,,{\rEN\blur0.8}It's all my fault.
+Dialogue: 2,0:55:04.05,0:55:06.89,ZH,,0,0,0,,{\rZH\blur0.8}一定是那个法国人干的。我去找他算账。
+Dialogue: 1,0:55:04.05,0:55:06.89,EN,,0,0,0,,{\rEN\blur0.8}It must be the Frenchman who did it. I'll get him.
+Dialogue: 2,0:55:08.60,0:55:12.02,ZH,,0,0,0,,{\rZH\blur0.8}你哥哥以前在这一行是最棒的。
+Dialogue: 1,0:55:08.60,0:55:12.02,EN,,0,0,0,,{\rEN\blur0.8}Your brother used to be the best in his field.
+Dialogue: 2,0:55:14.02,0:55:14.98,ZH,,0,0,0,,{\rZH\blur0.8}钵仔糕。
+Dialogue: 1,0:55:14.02,0:55:14.98,EN,,0,0,0,,{\rEN\blur0.8}Red Bean Pudding.
+Dialogue: 2,0:55:15.06,0:55:17.19,ZH,,0,0,0,,{\rZH\blur0.8}改天来跟我滑雪。
+Dialogue: 1,0:55:15.06,0:55:17.19,EN,,0,0,0,,{\rEN\blur0.8}Come and ski with me sometime.
+Dialogue: 2,0:55:17.27,0:55:18.73,ZH,,0,0,0,,{\rZH\blur0.8}如果你还行的话。
+Dialogue: 1,0:55:17.27,0:55:18.73,EN,,0,0,0,,{\rEN\blur0.8}If you still can.
+Dialogue: 2,0:55:18.82,0:55:19.94,ZH,,0,0,0,,{\rZH\blur0.8}干爹。
+Dialogue: 1,0:55:18.82,0:55:19.94,EN,,0,0,0,,{\rEN\blur0.8}Dad.
+Dialogue: 2,0:55:20.90,0:55:22.36,ZH,,0,0,0,,{\rZH\blur0.8}我从小跟着你。
+Dialogue: 1,0:55:20.90,0:55:22.36,EN,,0,0,0,,{\rEN\blur0.8}I've been with you since childhood.
+Dialogue: 2,0:55:23.28,0:55:24.99,ZH,,0,0,0,,{\rZH\blur0.8}我替你赚了不少钱。
+Dialogue: 1,0:55:23.28,0:55:24.99,EN,,0,0,0,,{\rEN\blur0.8}I made a lot of money for you.
+Dialogue: 2,0:55:25.82,0:55:27.45,ZH,,0,0,0,,{\rZH\blur0.8}现在我没用了。
+Dialogue: 1,0:55:25.82,0:55:27.45,EN,,0,0,0,,{\rEN\blur0.8}I'm useless now.
+Dialogue: 2,0:55:28.28,0:55:29.74,ZH,,0,0,0,,{\rZH\blur0.8}你能不能当是行善
+Dialogue: 1,0:55:28.28,0:55:29.74,EN,,0,0,0,,{\rEN\blur0.8}Could you consider it charity
+Dialogue: 2,0:55:30.58,0:55:32.20,ZH,,0,0,0,,{\rZH\blur0.8}给我点经济支持？
+Dialogue: 1,0:55:30.58,0:55:32.20,EN,,0,0,0,,{\rEN\blur0.8}and give me some financial support?
+Dialogue: 2,0:55:33.37,0:55:34.62,ZH,,0,0,0,,{\rZH\blur0.8}钵仔糕。
+Dialogue: 1,0:55:33.37,0:55:34.62,EN,,0,0,0,,{\rEN\blur0.8}Red Bean Pudding.
+Dialogue: 2,0:55:35.62,0:55:37.00,ZH,,0,0,0,,{\rZH\blur0.8}你现在这样。
+Dialogue: 1,0:55:35.62,0:55:37.00,EN,,0,0,0,,{\rEN\blur0.8}You're in such a situation.
+Dialogue: 2,0:55:38.71,0:55:40.50,ZH,,0,0,0,,{\rZH\blur0.8}看着你，我心疼得很。
+Dialogue: 1,0:55:38.71,0:55:40.50,EN,,0,0,0,,{\rEN\blur0.8}Looking at you, my heart hurts so much.
+Dialogue: 2,0:55:41.38,0:55:43.17,ZH,,0,0,0,,{\rZH\blur0.8}可我怎么帮你呢？
+Dialogue: 1,0:55:41.38,0:55:43.17,EN,,0,0,0,,{\rEN\blur0.8}But how should I help you?
+Dialogue: 2,0:55:57.98,0:56:00.52,ZH,,0,0,0,,{\rZH\blur0.8}-钵仔糕，你没事吧？  -儿子，你怎么样？
+Dialogue: 1,0:55:57.98,0:56:00.52,EN,,0,0,0,,{\rEN\blur0.8}-Red Bean Pudding, are you okay?   -My son, are you all right?
+Dialogue: 2,0:56:00.61,0:56:01.90,ZH,,0,0,0,,{\rZH\blur0.8}你这混蛋！
+Dialogue: 1,0:56:00.61,0:56:01.90,EN,,0,0,0,,{\rEN\blur0.8}You jerk!
+Dialogue: 2,0:56:01.98,0:56:05.65,ZH,,0,0,0,,{\rZH\blur0.8}-我现在告你殴打。  -少废话。
+Dialogue: 1,0:56:01.98,0:56:05.65,EN,,0,0,0,,{\rEN\blur0.8}-I'm now charging you with assault.   -Cut the nonsense.
+Dialogue: 2,0:56:05.74,0:56:08.36,ZH,,0,0,0,,{\rZH\blur0.8}你该去告楼梯弄伤他。
+Dialogue: 1,0:56:05.74,0:56:08.36,EN,,0,0,0,,{\rEN\blur0.8}You should sue the stairs for injuring him.
+Dialogue: 2,0:56:08.45,0:56:11.08,ZH,,0,0,0,,{\rZH\blur0.8}-什么？  -别吵了。
+Dialogue: 1,0:56:08.45,0:56:11.08,EN,,0,0,0,,{\rEN\blur0.8}-What?   -Please stop the argument.
+Dialogue: 2,0:56:11.83,0:56:13.87,ZH,,0,0,0,,{\rZH\blur0.8}不关他的事，都怪我。
+Dialogue: 1,0:56:11.83,0:56:13.87,EN,,0,0,0,,{\rEN\blur0.8}It has nothing to do with him. It's all my fault.
+Dialogue: 2,0:56:14.00,0:56:16.21,ZH,,0,0,0,,{\rZH\blur0.8}你还护着他？
+Dialogue: 1,0:56:14.00,0:56:16.21,EN,,0,0,0,,{\rEN\blur0.8}You're still protecting him?
+Dialogue: 2,0:56:16.29,0:56:17.67,ZH,,0,0,0,,{\rZH\blur0.8}好吧。
+Dialogue: 1,0:56:16.29,0:56:17.67,EN,,0,0,0,,{\rEN\blur0.8}All right.
+Dialogue: 2,0:56:18.17,0:56:19.50,ZH,,0,0,0,,{\rZH\blur0.8}给他买辆新轮椅。
+Dialogue: 1,0:56:18.17,0:56:19.50,EN,,0,0,0,,{\rEN\blur0.8}Buy him a new wheelchair.
+Dialogue: 2,0:56:20.13,0:56:21.59,ZH,,0,0,0,,{\rZH\blur0.8}我走了。
+Dialogue: 1,0:56:20.13,0:56:21.59,EN,,0,0,0,,{\rEN\blur0.8}I'mleaving.
+Dialogue: 2,0:56:34.02,0:56:36.02,ZH,,0,0,0,,{\rZH\blur0.8}喂，这么多怎么吃得完？
+Dialogue: 1,0:56:34.02,0:56:36.02,EN,,0,0,0,,{\rEN\blur0.8}Hey, how can we eat so much?
+Dialogue: 2,0:56:36.10,0:56:38.31,ZH,,0,0,0,,{\rZH\blur0.8}我不在的时候你自己做饭。
+Dialogue: 1,0:56:36.10,0:56:38.31,EN,,0,0,0,,{\rEN\blur0.8}You can cook for yourself when I'm not around.
+Dialogue: 2,0:56:47.28,0:56:49.28,ZH,,0,0,0,,{\rZH\blur0.8}先把它们踢到一边。
+Dialogue: 1,0:56:47.28,0:56:49.28,EN,,0,0,0,,{\rEN\blur0.8}Kick them aside first.
+Dialogue: 2,0:56:49.36,0:56:51.12,ZH,,0,0,0,,{\rZH\blur0.8}-来吧。  -好。
+Dialogue: 1,0:56:49.36,0:56:51.12,EN,,0,0,0,,{\rEN\blur0.8}-Come on.   -Okay.
+Dialogue: 2,0:56:51.87,0:56:54.33,ZH,,0,0,0,,{\rZH\blur0.8}-真不好意思。  -别管他们。
+Dialogue: 1,0:56:51.87,0:56:54.33,EN,,0,0,0,,{\rEN\blur0.8}-This is embarrassing.   -Never mind them.
+Dialogue: 2,0:57:12.30,0:57:13.26,ZH,,0,0,0,,{\rZH\blur0.8}走吧。
+Dialogue: 1,0:57:12.30,0:57:13.26,EN,,0,0,0,,{\rEN\blur0.8}Let'sgo.
+Dialogue: 2,0:57:18.10,0:57:20.19,ZH,,0,0,0,,{\rZH\blur0.8}喂，我有事，你先回去。
+Dialogue: 1,0:57:18.10,0:57:20.19,EN,,0,0,0,,{\rEN\blur0.8}Hey, I have something to do. You go back first.
+Dialogue: 2,0:57:20.98,0:57:22.61,ZH,,0,0,0,,{\rZH\blur0.8}快点回来，我还要你帮忙做饭。
+Dialogue: 1,0:57:20.98,0:57:22.61,EN,,0,0,0,,{\rEN\blur0.8}Hurry back, I need your help with cooking.
+Dialogue: 2,0:57:22.69,0:57:24.07,ZH,,0,0,0,,{\rZH\blur0.8}-你有钱吗？  -有。
+Dialogue: 1,0:57:22.69,0:57:24.07,EN,,0,0,0,,{\rEN\blur0.8}-Do you have money?   -I do.
+Dialogue: 2,0:57:24.15,0:57:24.98,ZH,,0,0,0,,{\rZH\blur0.8}好。
+Dialogue: 1,0:57:24.15,0:57:24.98,EN,,0,0,0,,{\rEN\blur0.8}Okay.
+Dialogue: 2,0:58:16.20,0:58:18.41,ZH,,0,0,0,,{\rZH\blur0.8}阿占！红豆！
+Dialogue: 1,0:58:16.20,0:58:18.41,EN,,0,0,0,,{\rEN\blur0.8}James! Red Bean!
+Dialogue: 2,0:58:18.50,0:58:19.96,ZH,,0,0,0,,{\rZH\blur0.8}-干爹。  -干爹。
+Dialogue: 1,0:58:18.50,0:58:19.96,EN,,0,0,0,,{\rEN\blur0.8}-Dad.
+Dialogue: 2,0:58:20.41,0:58:22.96,ZH,,0,0,0,,{\rZH\blur0.8}-你的手怎么了？  -哦，没什么大碍。
+Dialogue: 1,0:58:20.41,0:58:22.96,EN,,0,0,0,,{\rEN\blur0.8}-What happened to your hand?   -Oh, nothing serious.
+Dialogue: 2,0:58:23.04,0:58:25.54,ZH,,0,0,0,,{\rZH\blur0.8}-红豆，你怎么这么瘦？  -没有啦。
+Dialogue: 1,0:58:23.04,0:58:25.54,EN,,0,0,0,,{\rEN\blur0.8}-Red Bean, why are you so thin?   -Not really.
+Dialogue: 2,0:58:25.63,0:58:28.09,ZH,,0,0,0,,{\rZH\blur0.8}-阿占没给你好吃的？  -有啊。
+Dialogue: 1,0:58:25.63,0:58:28.09,EN,,0,0,0,,{\rEN\blur0.8}-Doesn't James feed you well?   -He does.
+Dialogue: 2,0:58:28.17,0:58:29.09,ZH,,0,0,0,,{\rZH\blur0.8}阿占。
+Dialogue: 1,0:58:28.17,0:58:29.09,EN,,0,0,0,,{\rEN\blur0.8}James.
+Dialogue: 2,0:58:30.30,0:58:31.63,ZH,,0,0,0,,{\rZH\blur0.8}你说过要报答我。
+Dialogue: 1,0:58:30.30,0:58:31.63,EN,,0,0,0,,{\rEN\blur0.8}You said you wanted to pay me back.
+Dialogue: 2,0:58:31.72,0:58:32.80,ZH,,0,0,0,,{\rZH\blur0.8}什么意思？
+Dialogue: 1,0:58:31.72,0:58:32.80,EN,,0,0,0,,{\rEN\blur0.8}What do you mean?
+Dialogue: 2,0:58:33.38,0:58:34.59,ZH,,0,0,0,,{\rZH\blur0.8}替我偷幅画。
+Dialogue: 1,0:58:33.38,0:58:34.59,EN,,0,0,0,,{\rEN\blur0.8}Steal a painting for me.
+Dialogue: 2,0:58:34.68,0:58:35.55,ZH,,0,0,0,,{\rZH\blur0.8}哪幅画？
+Dialogue: 1,0:58:34.68,0:58:35.55,EN,,0,0,0,,{\rEN\blur0.8}Which painting?
+Dialogue: 2,0:58:37.26,0:58:38.93,ZH,,0,0,0,,{\rZH\blur0.8}来，跟我来。
+Dialogue: 1,0:58:37.26,0:58:38.93,EN,,0,0,0,,{\rEN\blur0.8}Come on, follow me.
+Dialogue: 2,0:58:39.56,0:58:40.85,ZH,,0,0,0,,{\rZH\blur0.8}来吧。
+Dialogue: 1,0:58:39.56,0:58:40.85,EN,,0,0,0,,{\rEN\blur0.8}Come on.
+Dialogue: 2,0:58:56.20,0:58:58.37,ZH,,0,0,0,,{\rZH\blur0.8}-这幅画怎么在这儿？  -你不用知道。
+Dialogue: 1,0:58:56.20,0:58:58.37,EN,,0,0,0,,{\rEN\blur0.8}-How come the painting is here?   -You don't need to know.
+Dialogue: 2,0:58:59.08,0:59:01.41,ZH,,0,0,0,,{\rZH\blur0.8}才失踪两年，价钱就翻了三倍。
+Dialogue: 1,0:58:59.08,0:59:01.41,EN,,0,0,0,,{\rEN\blur0.8}It disappeared for just two years, and the price tripled.
+Dialogue: 2,0:59:01.96,0:59:06.29,ZH,,0,0,0,,{\rZH\blur0.8}要是再失踪两年，那得值多少？
+Dialogue: 1,0:59:01.96,0:59:06.29,EN,,0,0,0,,{\rEN\blur0.8}If it stayed lost for two more years, how much would it be worth then?
+Dialogue: 2,0:59:07.08,0:59:08.92,ZH,,0,0,0,,{\rZH\blur0.8}我晚点拿去拍卖。
+Dialogue: 1,0:59:07.08,0:59:08.92,EN,,0,0,0,,{\rEN\blur0.8}I'll take it to the auction later.
+Dialogue: 2,0:59:09.63,0:59:11.72,ZH,,0,0,0,,{\rZH\blur0.8}有钵仔糕在，就容易了。
+Dialogue: 1,0:59:09.63,0:59:11.72,EN,,0,0,0,,{\rEN\blur0.8}With Red Bean Pudding, it would be easy.
+Dialogue: 2,0:59:11.80,0:59:12.97,ZH,,0,0,0,,{\rZH\blur0.8}可惜他没了腿。
+Dialogue: 1,0:59:11.80,0:59:12.97,EN,,0,0,0,,{\rEN\blur0.8}It's such a shame that he lost his legs.
+Dialogue: 2,0:59:16.26,0:59:17.30,ZH,,0,0,0,,{\rZH\blur0.8}他不是死了吗？
+Dialogue: 1,0:59:16.26,0:59:17.30,EN,,0,0,0,,{\rEN\blur0.8}Didn't he die?
+Dialogue: 2,0:59:19.93,0:59:21.18,ZH,,0,0,0,,{\rZH\blur0.8}阿占见过他。
+Dialogue: 1,0:59:19.93,0:59:21.18,EN,,0,0,0,,{\rEN\blur0.8}James saw him.
+Dialogue: 2,0:59:21.98,0:59:23.14,ZH,,0,0,0,,{\rZH\blur0.8}你没告诉她？
+Dialogue: 1,0:59:21.98,0:59:23.14,EN,,0,0,0,,{\rEN\blur0.8}Didn't you tell her?
+Dialogue: 2,0:59:47.38,0:59:48.42,ZH,,0,0,0,,{\rZH\blur0.8}契爷。
+Dialogue: 1,0:59:47.38,0:59:48.42,EN,,0,0,0,,{\rEN\blur0.8}Godfather.
+Dialogue: 2,1:00:20.24,1:00:21.20,ZH,,0,0,0,,{\rZH\blur0.8}契爷。
+Dialogue: 1,1:00:20.24,1:00:21.20,EN,,0,0,0,,{\rEN\blur0.8}Godfather.
+Dialogue: 2,1:00:22.12,1:00:23.45,ZH,,0,0,0,,{\rZH\blur0.8}有人找我？
+Dialogue: 1,1:00:22.12,1:00:23.45,EN,,0,0,0,,{\rEN\blur0.8}Is somebody looking for me?
+Dialogue: 2,1:00:23.54,1:00:24.37,ZH,,0,0,0,,{\rZH\blur0.8}在外面？
+Dialogue: 1,1:00:23.54,1:00:24.37,EN,,0,0,0,,{\rEN\blur0.8}Outside?
+Dialogue: 2,1:00:43.47,1:00:44.85,ZH,,0,0,0,,{\rZH\blur0.8}钵仔糕。
+Dialogue: 1,1:00:43.47,1:00:44.85,EN,,0,0,0,,{\rEN\blur0.8}Red Bean Pudding.
+Dialogue: 2,1:00:55.69,1:00:56.78,ZH,,0,0,0,,{\rZH\blur0.8}你怎么样？
+Dialogue: 1,1:00:55.69,1:00:56.78,EN,,0,0,0,,{\rEN\blur0.8}How are you?
+Dialogue: 2,1:01:01.12,1:01:02.70,ZH,,0,0,0,,{\rZH\blur0.8}你以前经常到处跑。
+Dialogue: 1,1:01:01.12,1:01:02.70,EN,,0,0,0,,{\rEN\blur0.8}You used to travel a lot.
+Dialogue: 2,1:01:03.70,1:01:05.20,ZH,,0,0,0,,{\rZH\blur0.8}现在的生活你适应吗？
+Dialogue: 1,1:01:03.70,1:01:05.20,EN,,0,0,0,,{\rEN\blur0.8}Can you adapt to your life now?
+Dialogue: 2,1:01:05.29,1:01:06.33,ZH,,0,0,0,,{\rZH\blur0.8}没什么不同。
+Dialogue: 1,1:01:05.29,1:01:06.33,EN,,0,0,0,,{\rEN\blur0.8}Nothing'sdifferent.
+Dialogue: 2,1:01:07.37,1:01:09.96,ZH,,0,0,0,,{\rZH\blur0.8}现在我也能跑，不过只在这附近。
+Dialogue: 1,1:01:07.37,1:01:09.96,EN,,0,0,0,,{\rEN\blur0.8}Now I can still travel, but only around here.
+Dialogue: 2,1:01:10.04,1:01:11.67,ZH,,0,0,0,,{\rZH\blur0.8}我的旅程短了
+Dialogue: 1,1:01:10.04,1:01:11.67,EN,,0,0,0,,{\rEN\blur0.8}My trips are shorter
+Dialogue: 2,1:01:13.17,1:01:14.30,ZH,,0,0,0,,{\rZH\blur0.8}也安静了。
+Dialogue: 1,1:01:13.17,1:01:14.30,EN,,0,0,0,,{\rEN\blur0.8}and quieter.
+Dialogue: 2,1:01:15.05,1:01:17.38,ZH,,0,0,0,,{\rZH\blur0.8}不过清静多了。
+Dialogue: 1,1:01:15.05,1:01:17.38,EN,,0,0,0,,{\rEN\blur0.8}But it's a lot more peaceful.
+Dialogue: 2,1:01:19.59,1:01:20.89,ZH,,0,0,0,,{\rZH\blur0.8}我带你四处看看。
+Dialogue: 1,1:01:19.59,1:01:20.89,EN,,0,0,0,,{\rEN\blur0.8}I'll take you around.
+Dialogue: 2,1:01:28.94,1:01:31.52,ZH,,0,0,0,,{\rZH\blur0.8}算了，我的腿没感觉。
+Dialogue: 1,1:01:28.94,1:01:31.52,EN,,0,0,0,,{\rEN\blur0.8}Never mind, my legs don't feel a thing.
+Dialogue: 2,1:01:32.81,1:01:34.02,ZH,,0,0,0,,{\rZH\blur0.8}走吧。
+Dialogue: 1,1:01:32.81,1:01:34.02,EN,,0,0,0,,{\rEN\blur0.8}Let'sgo.
+Dialogue: 2,1:01:39.95,1:01:41.78,ZH,,0,0,0,,{\rZH\blur0.8}这是我工作的地方。
+Dialogue: 1,1:01:39.95,1:01:41.78,EN,,0,0,0,,{\rEN\blur0.8}This is where I work.
+Dialogue: 2,1:01:41.86,1:01:43.78,ZH,,0,0,0,,{\rZH\blur0.8}前面是我的天文台。
+Dialogue: 1,1:01:41.86,1:01:43.78,EN,,0,0,0,,{\rEN\blur0.8}My observatory is in the front.
+Dialogue: 2,1:01:44.58,1:01:46.87,ZH,,0,0,0,,{\rZH\blur0.8}这是我最新款的电脑。
+Dialogue: 1,1:01:44.58,1:01:46.87,EN,,0,0,0,,{\rEN\blur0.8}This is my latest computer.
+Dialogue: 2,1:01:46.95,1:01:48.96,ZH,,0,0,0,,{\rZH\blur0.8}有空我就打电脑游戏。
+Dialogue: 1,1:01:46.95,1:01:48.96,EN,,0,0,0,,{\rEN\blur0.8}I play computer games whenever I have free time.
+Dialogue: 2,1:01:50.37,1:01:51.75,ZH,,0,0,0,,{\rZH\blur0.8}这是客厅。
+Dialogue: 1,1:01:50.37,1:01:51.75,EN,,0,0,0,,{\rEN\blur0.8}This is the living room.
+Dialogue: 2,1:01:53.79,1:01:55.54,ZH,,0,0,0,,{\rZH\blur0.8}这是我最新画的作品，
+Dialogue: 1,1:01:53.79,1:01:55.54,EN,,0,0,0,,{\rEN\blur0.8}This is my newest painting,
+Dialogue: 2,1:01:55.63,1:01:57.38,ZH,,0,0,0,,{\rZH\blur0.8}我叫它《钵仔乐园》。
+Dialogue: 1,1:01:55.63,1:01:57.38,EN,,0,0,0,,{\rEN\blur0.8}I called it "Bud's Paradise. "
+Dialogue: 2,1:01:58.38,1:02:01.22,ZH,,0,0,0,,{\rZH\blur0.8}这是我新搭档，波波。
+Dialogue: 1,1:01:58.38,1:02:01.22,EN,,0,0,0,,{\rEN\blur0.8}This is my newest partner, Bobo.
+Dialogue: 2,1:02:06.14,1:02:09.10,ZH,,0,0,0,,{\rZH\blur0.8}这墙画我画了三个月，你喜欢吗？
+Dialogue: 1,1:02:06.14,1:02:09.10,EN,,0,0,0,,{\rEN\blur0.8}This wall painting took me three months, do you like it?
+Dialogue: 2,1:02:10.64,1:02:12.69,ZH,,0,0,0,,{\rZH\blur0.8}我也锻炼身体。
+Dialogue: 1,1:02:10.64,1:02:12.69,EN,,0,0,0,,{\rEN\blur0.8}I also do exercises.
+Dialogue: 2,1:02:16.19,1:02:17.86,ZH,,0,0,0,,{\rZH\blur0.8}这边是我的植物园。
+Dialogue: 1,1:02:16.19,1:02:17.86,EN,,0,0,0,,{\rEN\blur0.8}This side is my botanical garden.
+Dialogue: 2,1:02:18.40,1:02:21.03,ZH,,0,0,0,,{\rZH\blur0.8}那边是我的动物园。
+Dialogue: 1,1:02:18.40,1:02:21.03,EN,,0,0,0,,{\rEN\blur0.8}The other side is my zoo.
+Dialogue: 2,1:02:21.11,1:02:22.91,ZH,,0,0,0,,{\rZH\blur0.8}这些鸟都是从南非来的。
+Dialogue: 1,1:02:21.11,1:02:22.91,EN,,0,0,0,,{\rEN\blur0.8}All the birds are from South Africa.
+Dialogue: 2,1:02:22.99,1:02:25.45,ZH,,0,0,0,,{\rZH\blur0.8}坐在那儿一脸严肃的是我的恩人。
+Dialogue: 1,1:02:22.99,1:02:25.45,EN,,0,0,0,,{\rEN\blur0.8}The one sitting there looking serious is my benefactor.
+Dialogue: 2,1:02:25.53,1:02:27.49,ZH,,0,0,0,,{\rZH\blur0.8}也是我的契爷。
+Dialogue: 1,1:02:25.53,1:02:27.49,EN,,0,0,0,,{\rEN\blur0.8}He's also my godfather.
+Dialogue: 2,1:02:37.84,1:02:39.84,ZH,,0,0,0,,{\rZH\blur0.8}来，我带你去看看厨房。
+Dialogue: 1,1:02:37.84,1:02:39.84,EN,,0,0,0,,{\rEN\blur0.8}Come on, I'll show you the kitchen.
+Dialogue: 2,1:02:42.47,1:02:43.72,ZH,,0,0,0,,{\rZH\blur0.8}不用了。
+Dialogue: 1,1:02:42.47,1:02:43.72,EN,,0,0,0,,{\rEN\blur0.8}No need.
+Dialogue: 2,1:02:45.22,1:02:47.01,ZH,,0,0,0,,{\rZH\blur0.8}我是来请你帮忙的。
+Dialogue: 1,1:02:45.22,1:02:47.01,EN,,0,0,0,,{\rEN\blur0.8}I came to ask you a favor.
+Dialogue: 2,1:02:47.97,1:02:49.35,ZH,,0,0,0,,{\rZH\blur0.8}什么事？
+Dialogue: 1,1:02:47.97,1:02:49.35,EN,,0,0,0,,{\rEN\blur0.8}What is it?
+Dialogue: 2,1:02:49.43,1:02:50.60,ZH,,0,0,0,,{\rZH\blur0.8}我想你帮帮阿占。
+Dialogue: 1,1:02:49.43,1:02:50.60,EN,,0,0,0,,{\rEN\blur0.8}I want you to help James.
+Dialogue: 2,1:02:51.48,1:02:52.69,ZH,,0,0,0,,{\rZH\blur0.8}阿占怎么了？
+Dialogue: 1,1:02:51.48,1:02:52.69,EN,,0,0,0,,{\rEN\blur0.8}What's wrong with James?
+Dialogue: 2,1:02:54.85,1:02:56.44,ZH,,0,0,0,,{\rZH\blur0.8}他答应了干爹去执行任务。
+Dialogue: 1,1:02:54.85,1:02:56.44,EN,,0,0,0,,{\rEN\blur0.8}He promised Dad to go on the mission.
+Dialogue: 2,1:02:58.07,1:03:01.90,ZH,,0,0,0,,{\rZH\blur0.8}可上次他跟你们去偷画时就已经受了伤。
+Dialogue: 1,1:02:58.07,1:03:01.90,EN,,0,0,0,,{\rEN\blur0.8}But he was already injured the last time he stole a painting with you.
+Dialogue: 2,1:03:05.03,1:03:06.74,ZH,,0,0,0,,{\rZH\blur0.8}我怕他这次又出事。
+Dialogue: 1,1:03:05.03,1:03:06.74,EN,,0,0,0,,{\rEN\blur0.8}I'm afraid he'll get into trouble again.
+Dialogue: 2,1:03:11.83,1:03:13.46,ZH,,0,0,0,,{\rZH\blur0.8}求你帮帮他。
+Dialogue: 1,1:03:11.83,1:03:13.46,EN,,0,0,0,,{\rEN\blur0.8}Please help him.
+Dialogue: 2,1:03:15.62,1:03:17.71,ZH,,0,0,0,,{\rZH\blur0.8}你们俩一向配合得很好。
+Dialogue: 1,1:03:15.62,1:03:17.71,EN,,0,0,0,,{\rEN\blur0.8}You two always work well together.
+Dialogue: 2,1:03:19.55,1:03:21.05,ZH,,0,0,0,,{\rZH\blur0.8}我想帮，
+Dialogue: 1,1:03:19.55,1:03:21.05,EN,,0,0,0,,{\rEN\blur0.8}I want to help,
+Dialogue: 2,1:03:22.01,1:03:23.72,ZH,,0,0,0,,{\rZH\blur0.8}可他愿意让人帮吗？
+Dialogue: 1,1:03:22.01,1:03:23.72,EN,,0,0,0,,{\rEN\blur0.8}but does he want to be helped?
+Dialogue: 2,1:03:24.63,1:03:25.55,ZH,,0,0,0,,{\rZH\blur0.8}我就知道你会答应。
+Dialogue: 1,1:03:24.63,1:03:25.55,EN,,0,0,0,,{\rEN\blur0.8}I knew you would.
+Dialogue: 2,1:03:28.18,1:03:29.43,ZH,,0,0,0,,{\rZH\blur0.8}我先走了。
+Dialogue: 1,1:03:28.18,1:03:29.43,EN,,0,0,0,,{\rEN\blur0.8}I'm leaving first.
+Dialogue: 2,1:03:38.48,1:03:39.77,ZH,,0,0,0,,{\rZH\blur0.8}-再见。  -拜拜。
+Dialogue: 1,1:03:38.48,1:03:39.77,EN,,0,0,0,,{\rEN\blur0.8}-See you.   -Bye.
+Dialogue: 2,1:03:39.86,1:03:41.15,ZH,,0,0,0,,{\rZH\blur0.8}我的雪莉。
+Dialogue: 1,1:03:39.86,1:03:41.15,EN,,0,0,0,,{\rEN\blur0.8}My Cherie.
+Dialogue: 2,1:03:42.19,1:03:43.24,ZH,,0,0,0,,{\rZH\blur0.8}我的雪莉。
+Dialogue: 1,1:03:42.19,1:03:43.24,EN,,0,0,0,,{\rEN\blur0.8}My Cherie.
+Dialogue: 2,1:03:45.16,1:03:48.53,ZH,,0,0,0,,{\rZH\blur0.8}来吧，我的雪莉。
+Dialogue: 1,1:03:45.16,1:03:48.53,EN,,0,0,0,,{\rEN\blur0.8}Come on, my Cherie.
+Dialogue: 2,1:03:49.03,1:03:50.20,ZH,,0,0,0,,{\rZH\blur0.8}他很消沉，
+Dialogue: 1,1:03:49.03,1:03:50.20,EN,,0,0,0,,{\rEN\blur0.8}He'sdepressed
+Dialogue: 2,1:03:51.45,1:03:52.95,ZH,,0,0,0,,{\rZH\blur0.8}因为女朋友跟一只乌鸦跑了。
+Dialogue: 1,1:03:51.45,1:03:52.95,EN,,0,0,0,,{\rEN\blur0.8}as his girlfriend eloped with a crow.
+Dialogue: 2,1:03:53.58,1:03:55.04,ZH,,0,0,0,,{\rZH\blur0.8}他差点寻了短见。
+Dialogue: 1,1:03:53.58,1:03:55.04,EN,,0,0,0,,{\rEN\blur0.8}He almost killed himself.
+Dialogue: 2,1:03:58.17,1:03:59.63,ZH,,0,0,0,,{\rZH\blur0.8}你还是老样子。
+Dialogue: 1,1:03:58.17,1:03:59.63,EN,,0,0,0,,{\rEN\blur0.8}You're still the same as before.
+Dialogue: 2,1:04:00.42,1:04:01.50,ZH,,0,0,0,,{\rZH\blur0.8}一点都没变。
+Dialogue: 1,1:04:00.42,1:04:01.50,EN,,0,0,0,,{\rEN\blur0.8}You haven't changed at all.
+Dialogue: 2,1:04:10.01,1:04:12.43,ZH,,0,0,0,,{\rZH\blur0.8}波波，困了就睡吧。
+Dialogue: 1,1:04:10.01,1:04:12.43,EN,,0,0,0,,{\rEN\blur0.8}Bobo, if you're sleepy, then go to sleep.
+Dialogue: 2,1:04:13.31,1:04:15.18,ZH,,0,0,0,,{\rZH\blur0.8}我现在心都碎了，你不知道吗？
+Dialogue: 1,1:04:13.31,1:04:15.18,EN,,0,0,0,,{\rEN\blur0.8}I'm heartbroken now, don't you know that?
+Dialogue: 2,1:04:19.52,1:04:23.61,ZH,,0,0,0,,{\rZH\blur0.8}哈普顿先生以一百五十万拍得这件明代花瓶。
+Dialogue: 1,1:04:19.52,1:04:23.61,EN,,0,0,0,,{\rEN\blur0.8}Mr. Hamupton gets this vase from the Ming dynasty for 1. 5 million.
+Dialogue: 2,1:04:23.69,1:04:24.82,ZH,,0,0,0,,{\rZH\blur0.8}恭喜。
+Dialogue: 1,1:04:23.69,1:04:24.82,EN,,0,0,0,,{\rEN\blur0.8}Congratulations.
+Dialogue: 2,1:04:26.20,1:04:29.45,ZH,,0,0,0,,{\rZH\blur0.8}好，接下来是唐代骆驼雕像。
+Dialogue: 1,1:04:26.20,1:04:29.45,EN,,0,0,0,,{\rEN\blur0.8}Okay, now we have a camel statue from the Tang dynasty.
+Dialogue: 2,1:04:29.53,1:04:31.45,ZH,,0,0,0,,{\rZH\blur0.8}在第十五页，第六件。
+Dialogue: 1,1:04:29.53,1:04:31.45,EN,,0,0,0,,{\rEN\blur0.8}It's on page 15, the sixth item.
+Dialogue: 2,1:04:31.53,1:04:33.50,ZH,,0,0,0,,{\rZH\blur0.8}本次慈善拍卖的全部收益将捐给
+Dialogue: 1,1:04:31.53,1:04:33.50,EN,,0,0,0,,{\rEN\blur0.8}We will donate all the proceeds from this charity auction
+Dialogue: 2,1:04:33.58,1:04:35.75,ZH,,0,0,0,,{\rZH\blur0.8}香港伤残人士联会。
+Dialogue: 1,1:04:33.58,1:04:35.75,EN,,0,0,0,,{\rEN\blur0.8}to the Hong Kong Federation of Persons with Disabilities.
+Dialogue: 2,1:04:35.83,1:04:37.46,ZH,,0,0,0,,{\rZH\blur0.8}希望大家踊跃捐款。
+Dialogue: 1,1:04:35.83,1:04:37.46,EN,,0,0,0,,{\rEN\blur0.8}I hope you'll all contribute.
+Dialogue: 2,1:04:37.54,1:04:39.54,ZH,,0,0,0,,{\rZH\blur0.8}起拍价五十万。
+Dialogue: 1,1:04:37.54,1:04:39.54,EN,,0,0,0,,{\rEN\blur0.8}The starting price is thousand.
+Dialogue: 2,1:04:39.63,1:04:42.30,ZH,,0,0,0,,{\rZH\blur0.8}请大家踊跃，这毕竟是慈善活动。
+Dialogue: 1,1:04:39.63,1:04:42.30,EN,,0,0,0,,{\rEN\blur0.8}Please stay active. After all, this is for charity.
+Dialogue: 2,1:04:42.38,1:04:44.55,ZH,,0,0,0,,{\rZH\blur0.8}先生，凭请柬才能入场。
+Dialogue: 1,1:04:42.38,1:04:44.55,EN,,0,0,0,,{\rEN\blur0.8}Sir, you can only enter on invitation.
+Dialogue: 2,1:04:44.63,1:04:47.30,ZH,,0,0,0,,{\rZH\blur0.8}-是吗？抱歉，我不知道。  -六十万！
+Dialogue: 1,1:04:44.63,1:04:47.30,EN,,0,0,0,,{\rEN\blur0.8}-Really? Sorry, I didn't know.   -It's thousand!
+Dialogue: 2,1:04:47.38,1:04:49.47,ZH,,0,0,0,,{\rZH\blur0.8}好，价格已到七十万。
+Dialogue: 1,1:04:47.38,1:04:49.47,EN,,0,0,0,,{\rEN\blur0.8}Okay, the price has gone up to thousand.
+Dialogue: 2,1:04:49.55,1:04:52.68,ZH,,0,0,0,,{\rZH\blur0.8}-来啊，还有谁出价更高？  -周先生。
+Dialogue: 1,1:04:49.55,1:04:52.68,EN,,0,0,0,,{\rEN\blur0.8}-Come on, who offers more than that?   -Mr. Chow.
+Dialogue: 2,1:04:52.76,1:04:54.85,ZH,,0,0,0,,{\rZH\blur0.8}你的画很抢手。
+Dialogue: 1,1:04:52.76,1:04:54.85,EN,,0,0,0,,{\rEN\blur0.8}Your painting is popular.
+Dialogue: 2,1:04:54.93,1:04:58.27,ZH,,0,0,0,,{\rZH\blur0.8}-肯定能卖个好价钱。  -我知道。
+Dialogue: 1,1:04:54.93,1:04:58.27,EN,,0,0,0,,{\rEN\blur0.8}-It will definitely sell for a good price.   -I know.
+Dialogue: 2,1:04:58.35,1:05:01.23,ZH,,0,0,0,,{\rZH\blur0.8}不过你们的保安可靠吗？那画我可花了不少钱。
+Dialogue: 1,1:04:58.35,1:05:01.23,EN,,0,0,0,,{\rEN\blur0.8}But is your security safe? I spent a lot on that.
+Dialogue: 2,1:05:01.31,1:05:05.28,ZH,,0,0,0,,{\rZH\blur0.8}当然，画在我们这儿万无一失。
+Dialogue: 1,1:05:01.31,1:05:05.28,EN,,0,0,0,,{\rEN\blur0.8}Of course, your painting is safe with us.
+Dialogue: 2,1:05:05.36,1:05:06.86,ZH,,0,0,0,,{\rZH\blur0.8}失陪一下。
+Dialogue: 1,1:05:05.36,1:05:06.86,EN,,0,0,0,,{\rEN\blur0.8}Excuse me.
+Dialogue: 2,1:05:07.86,1:05:10.41,ZH,,0,0,0,,{\rZH\blur0.8}有一百一十万以上的吗？
+Dialogue: 1,1:05:07.86,1:05:10.41,EN,,0,0,0,,{\rEN\blur0.8}Is anyone bidding more than 1. 1 million?
+Dialogue: 2,1:05:10.49,1:05:11.66,ZH,,0,0,0,,{\rZH\blur0.8}还有吗？现在一百二十万。
+Dialogue: 1,1:05:10.49,1:05:11.66,EN,,0,0,0,,{\rEN\blur0.8}Anyone? It's 1. 2 million now.
+Dialogue: 2,1:05:11.74,1:05:14.58,ZH,,0,0,0,,{\rZH\blur0.8}一百三十万。好，请继续。
+Dialogue: 1,1:05:11.74,1:05:14.58,EN,,0,0,0,,{\rEN\blur0.8}It's 1. 3 million. Okay, please continue.
+Dialogue: 2,1:05:14.66,1:05:15.95,ZH,,0,0,0,,{\rZH\blur0.8}好，一百四十万。
+Dialogue: 1,1:05:14.66,1:05:15.95,EN,,0,0,0,,{\rEN\blur0.8}All right, it's 1. 4 million.
+Dialogue: 2,1:05:16.58,1:05:19.00,ZH,,0,0,0,,{\rZH\blur0.8}一百四十万一次，一百四十万两次。
+Dialogue: 1,1:05:16.58,1:05:19.00,EN,,0,0,0,,{\rEN\blur0.8}It's 1. 4 million once and 1. 4 million twice.
+Dialogue: 2,1:05:19.92,1:05:23.29,ZH,,0,0,0,,{\rZH\blur0.8}大厅那头发生了奇妙的一幕。
+Dialogue: 1,1:05:19.92,1:05:23.29,EN,,0,0,0,,{\rEN\blur0.8}On the far side of the hall, something wonderful happened.
+Dialogue: 2,1:05:23.38,1:05:25.05,ZH,,0,0,0,,{\rZH\blur0.8}一百五十万。
+Dialogue: 1,1:05:23.38,1:05:25.05,EN,,0,0,0,,{\rEN\blur0.8}It's1.5million.
+Dialogue: 2,1:05:25.13,1:05:26.38,ZH,,0,0,0,,{\rZH\blur0.8}有一百五十万以上的吗？
+Dialogue: 1,1:05:25.13,1:05:26.38,EN,,0,0,0,,{\rEN\blur0.8}Is anyone bidding more than 1. 5 million?
+Dialogue: 2,1:05:26.46,1:05:27.84,ZH,,0,0,0,,{\rZH\blur0.8}现在一百五十万。
+Dialogue: 1,1:05:26.46,1:05:27.84,EN,,0,0,0,,{\rEN\blur0.8}It's 1. 5 million now.
+Dialogue: 2,1:05:27.88,1:05:29.84,ZH,,0,0,0,,{\rZH\blur0.8}现在一百六十万。
+Dialogue: 1,1:05:27.88,1:05:29.84,EN,,0,0,0,,{\rEN\blur0.8}It's 1. 6 million now.
+Dialogue: 2,1:05:30.55,1:05:32.51,ZH,,0,0,0,,{\rZH\blur0.8}继续，现在一百六十万。
+Dialogue: 1,1:05:30.55,1:05:32.51,EN,,0,0,0,,{\rEN\blur0.8}Keep on, it's 1. 6 million now.
+Dialogue: 2,1:05:32.60,1:05:34.18,ZH,,0,0,0,,{\rZH\blur0.8}好，一百七十万。
+Dialogue: 1,1:05:32.60,1:05:34.18,EN,,0,0,0,,{\rEN\blur0.8}Okay, it's 1. 7 million.
+Dialogue: 2,1:05:34.85,1:05:36.31,ZH,,0,0,0,,{\rZH\blur0.8}有一百七十万以上的吗？
+Dialogue: 1,1:05:34.85,1:05:36.31,EN,,0,0,0,,{\rEN\blur0.8}Is anyone bidding more than 1. 7 million?
+Dialogue: 2,1:05:37.56,1:05:40.02,ZH,,0,0,0,,{\rZH\blur0.8}你虽然身有残疾，倒是很有能耐。
+Dialogue: 1,1:05:37.56,1:05:40.02,EN,,0,0,0,,{\rEN\blur0.8}Although you're disabled, you're very capable.
+Dialogue: 2,1:05:40.10,1:05:41.81,ZH,,0,0,0,,{\rZH\blur0.8}-佩服佩服。继续吧。  -爸爸。
+Dialogue: 1,1:05:40.10,1:05:41.81,EN,,0,0,0,,{\rEN\blur0.8}-I'm impressed. Let's proceed.   -Dad.
+Dialogue: 2,1:05:41.90,1:05:43.90,ZH,,0,0,0,,{\rZH\blur0.8}-你就装慈善吧。  -哇！
+Dialogue: 1,1:05:41.90,1:05:43.90,EN,,0,0,0,,{\rEN\blur0.8}-You're just pretending to be charitable.   -Wow!
+Dialogue: 2,1:05:43.98,1:05:46.44,ZH,,0,0,0,,{\rZH\blur0.8}一百八十万。
+Dialogue: 1,1:05:43.98,1:05:46.44,EN,,0,0,0,,{\rEN\blur0.8}It's1.8million.
+Dialogue: 2,1:05:46.53,1:05:49.15,ZH,,0,0,0,,{\rZH\blur0.8}一百九十万，请继续。
+Dialogue: 1,1:05:46.53,1:05:49.15,EN,,0,0,0,,{\rEN\blur0.8}It's 1. 9 million, please go on.
+Dialogue: 2,1:05:49.24,1:05:51.32,ZH,,0,0,0,,{\rZH\blur0.8}-你觉得他们知道你是——-现在两百万。
+Dialogue: 1,1:05:49.24,1:05:51.32,EN,,0,0,0,,{\rEN\blur0.8}-Do you think they know you're-- -Now, it's two million.
+Dialogue: 2,1:05:51.41,1:05:53.82,ZH,,0,0,0,,{\rZH\blur0.8}-这么虚伪的人吗？  -还有出价更高的吗？
+Dialogue: 1,1:05:51.41,1:05:53.82,EN,,0,0,0,,{\rEN\blur0.8}-such a hypocrite?   -Anyone offering a higher price?
+Dialogue: 2,1:05:53.91,1:05:56.49,ZH,,0,0,0,,{\rZH\blur0.8}好，曾先生出价两百一十万。
+Dialogue: 1,1:05:53.91,1:05:56.49,EN,,0,0,0,,{\rEN\blur0.8}Good, Mr. Tsang now bids 2. 1 million.
+Dialogue: 2,1:05:56.58,1:06:00.50,ZH,,0,0,0,,{\rZH\blur0.8}-你不怕报应吗？  -两百二十万。
+Dialogue: 1,1:05:56.58,1:06:00.50,EN,,0,0,0,,{\rEN\blur0.8}-Aren't you afraid of karma?   -It's 2. 2 million.
+Dialogue: 2,1:06:00.58,1:06:02.58,ZH,,0,0,0,,{\rZH\blur0.8}-两百二十万。  -你知道吗，你每叫一次价，
+Dialogue: 1,1:06:00.58,1:06:02.58,EN,,0,0,0,,{\rEN\blur0.8}-It's 2. 2 million.   -Did you know that every time you bid,
+Dialogue: 2,1:06:02.67,1:06:04.67,ZH,,0,0,0,,{\rZH\blur0.8}-我就亏二十万？  -两百二十万之后呢？
+Dialogue: 1,1:06:02.67,1:06:04.67,EN,,0,0,0,,{\rEN\blur0.8}-I lose thousand?   -What's after 2. 2 million?
+Dialogue: 2,1:06:04.75,1:06:07.59,ZH,,0,0,0,,{\rZH\blur0.8}-哦，现在两百三十万！  -我不同意。
+Dialogue: 1,1:06:04.75,1:06:07.59,EN,,0,0,0,,{\rEN\blur0.8}-Oh, it's 2. 3 million now!   -I don't agree.
+Dialogue: 2,1:06:07.67,1:06:09.84,ZH,,0,0,0,,{\rZH\blur0.8}我帮你赚了这么多钱，
+Dialogue: 1,1:06:07.67,1:06:09.84,EN,,0,0,0,,{\rEN\blur0.8}I helped you make so much money,
+Dialogue: 2,1:06:10.51,1:06:12.18,ZH,,0,0,0,,{\rZH\blur0.8}现在再帮你花掉。
+Dialogue: 1,1:06:10.51,1:06:12.18,EN,,0,0,0,,{\rEN\blur0.8}now I'm helping you to spend it.
+Dialogue: 2,1:06:12.26,1:06:15.72,ZH,,0,0,0,,{\rZH\blur0.8}轮椅上那位现在出价两百四十万。
+Dialogue: 1,1:06:12.26,1:06:15.72,EN,,0,0,0,,{\rEN\blur0.8}The guy in the wheelchair now bids 2. 4 million.
+Dialogue: 2,1:06:15.80,1:06:18.52,ZH,,0,0,0,,{\rZH\blur0.8}两百四十万之后呢？好，两百五十万。
+Dialogue: 1,1:06:15.80,1:06:18.52,EN,,0,0,0,,{\rEN\blur0.8}What's after 2. 4 million? Okay, it's 2. 5 million.
+Dialogue: 2,1:06:18.60,1:06:20.52,ZH,,0,0,0,,{\rZH\blur0.8}来啊，有两百五十万以上的吗？
+Dialogue: 1,1:06:18.60,1:06:20.52,EN,,0,0,0,,{\rEN\blur0.8}Come on, is anyone bidding more than 2. 5 million?
+Dialogue: 2,1:06:20.60,1:06:23.77,ZH,,0,0,0,,{\rZH\blur0.8}-别叫了，小心你的胳膊。  -请举手。
+Dialogue: 1,1:06:20.60,1:06:23.77,EN,,0,0,0,,{\rEN\blur0.8}-Stop it, or you'll lose your arms.   -Please raise your hand.
+Dialogue: 2,1:06:23.86,1:06:25.56,ZH,,0,0,0,,{\rZH\blur0.8}-好吧。  -两百六十万。
+Dialogue: 1,1:06:23.86,1:06:25.56,EN,,0,0,0,,{\rEN\blur0.8}-Okay.   -It's2.6million.
+Dialogue: 2,1:06:27.78,1:06:32.16,ZH,,0,0,0,,{\rZH\blur0.8}周先生把价加到两百七十万。还有更高的吗？
+Dialogue: 1,1:06:27.78,1:06:32.16,EN,,0,0,0,,{\rEN\blur0.8}Mr. Chow ups the bid to 2. 7 million. Is anyone bidding more than that?
+Dialogue: 2,1:06:36.78,1:06:38.45,ZH,,0,0,0,,{\rZH\blur0.8}我代表香港伤残人士联会，
+Dialogue: 1,1:06:36.78,1:06:38.45,EN,,0,0,0,,{\rEN\blur0.8}On behalf of the Hong Kong Federation of Persons with Disabilities,
+Dialogue: 2,1:06:38.54,1:06:40.29,ZH,,0,0,0,,{\rZH\blur0.8}感谢周先生。
+Dialogue: 1,1:06:38.54,1:06:40.29,EN,,0,0,0,,{\rEN\blur0.8}we thank Mr. Chow.
+Dialogue: 2,1:06:42.92,1:06:43.75,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,1:06:42.92,1:06:43.75,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,1:06:51.92,1:06:55.05,ZH,,0,0,0,,{\rZH\blur0.8}-摔碎了。  -抱歉，我是故意的。
+Dialogue: 1,1:06:51.92,1:06:55.05,EN,,0,0,0,,{\rEN\blur0.8}-It's broken.   -Sorry, I did it on purpose.
+Dialogue: 2,1:06:56.89,1:06:57.97,ZH,,0,0,0,,{\rZH\blur0.8}你干什么？
+Dialogue: 1,1:06:56.89,1:06:57.97,EN,,0,0,0,,{\rEN\blur0.8}What are you doing?
+Dialogue: 2,1:06:58.10,1:07:01.56,ZH,,0,0,0,,{\rZH\blur0.8}-放手！  -保安，来人！
+Dialogue: 1,1:06:58.10,1:07:01.56,EN,,0,0,0,,{\rEN\blur0.8}-Hands off!   -Security guards, help me!
+Dialogue: 2,1:07:01.64,1:07:03.56,ZH,,0,0,0,,{\rZH\blur0.8}-喂，放手！  -保安！
+Dialogue: 1,1:07:01.64,1:07:03.56,EN,,0,0,0,,{\rEN\blur0.8}-Hey, let go!   -Security guards!
+Dialogue: 2,1:07:03.64,1:07:05.10,ZH,,0,0,0,,{\rZH\blur0.8}-我警告你别乱来！  -喂！
+Dialogue: 1,1:07:03.64,1:07:05.10,EN,,0,0,0,,{\rEN\blur0.8}-I warn you not to do something silly!   -Hey!
+Dialogue: 2,1:07:05.19,1:07:06.98,ZH,,0,0,0,,{\rZH\blur0.8}你干什么？放手！
+Dialogue: 1,1:07:05.19,1:07:06.98,EN,,0,0,0,,{\rEN\blur0.8}What are you doing? Hands off!
+Dialogue: 2,1:07:07.11,1:07:08.69,ZH,,0,0,0,,{\rZH\blur0.8}请冷静。
+Dialogue: 1,1:07:07.11,1:07:08.69,EN,,0,0,0,,{\rEN\blur0.8}Please calm down.
+Dialogue: 2,1:07:08.78,1:07:11.40,ZH,,0,0,0,,{\rZH\blur0.8}麻烦把这些不值钱的碎瓷片清理一下。
+Dialogue: 1,1:07:08.78,1:07:11.40,EN,,0,0,0,,{\rEN\blur0.8}Please clean up these worthless ceramic pieces.
+Dialogue: 2,1:07:14.07,1:07:15.95,ZH,,0,0,0,,{\rZH\blur0.8}这件可非常贵重。
+Dialogue: 1,1:07:14.07,1:07:15.95,EN,,0,0,0,,{\rEN\blur0.8}This one is very valuable.
+Dialogue: 2,1:07:18.08,1:07:21.54,ZH,,0,0,0,,{\rZH\blur0.8}这座马像值六千万日元。
+Dialogue: 1,1:07:18.08,1:07:21.54,EN,,0,0,0,,{\rEN\blur0.8}This horse statue costs million yen.
+Dialogue: 2,1:07:23.37,1:07:25.12,ZH,,0,0,0,,{\rZH\blur0.8}这是现代的。
+Dialogue: 1,1:07:23.37,1:07:25.12,EN,,0,0,0,,{\rEN\blur0.8}This is modern.
+Dialogue: 2,1:07:35.68,1:07:38.89,ZH,,0,0,0,,{\rZH\blur0.8}喂，小心点，这些你可赔不起。
+Dialogue: 1,1:07:35.68,1:07:38.89,EN,,0,0,0,,{\rEN\blur0.8}Hey, be careful. You can't afford these.
+Dialogue: 2,1:07:39.39,1:07:41.77,ZH,,0,0,0,,{\rZH\blur0.8}后面还有别的。
+Dialogue: 1,1:07:39.39,1:07:41.77,EN,,0,0,0,,{\rEN\blur0.8}There is something else back there.
+Dialogue: 2,1:07:45.73,1:07:47.52,ZH,,0,0,0,,{\rZH\blur0.8}请往那边走。
+Dialogue: 1,1:07:45.73,1:07:47.52,EN,,0,0,0,,{\rEN\blur0.8}Please proceed that way.
+Dialogue: 2,1:08:05.04,1:08:06.33,ZH,,0,0,0,,{\rZH\blur0.8}抱歉。
+Dialogue: 1,1:08:05.04,1:08:06.33,EN,,0,0,0,,{\rEN\blur0.8}My apologies.
+Dialogue: 2,1:08:07.96,1:08:09.00,ZH,,0,0,0,,{\rZH\blur0.8}走吧。
+Dialogue: 1,1:08:07.96,1:08:09.00,EN,,0,0,0,,{\rEN\blur0.8}Let'sgo.
+Dialogue: 2,1:08:17.01,1:08:19.18,ZH,,0,0,0,,{\rZH\blur0.8}抱歉先生，请佩戴胸牌。
+Dialogue: 1,1:08:17.01,1:08:19.18,EN,,0,0,0,,{\rEN\blur0.8}Sorry, sir. Please put on your badge.
+Dialogue: 2,1:08:19.80,1:08:21.68,ZH,,0,0,0,,{\rZH\blur0.8}-好。抱歉，我忘了。  -谢谢。
+Dialogue: 1,1:08:19.80,1:08:21.68,EN,,0,0,0,,{\rEN\blur0.8}-Sure. Sorry, I forgot.   -Thank you.
+Dialogue: 2,1:08:33.69,1:08:34.57,ZH,,0,0,0,,{\rZH\blur0.8}去看看。
+Dialogue: 1,1:08:33.69,1:08:34.57,EN,,0,0,0,,{\rEN\blur0.8}Check it out.
+Dialogue: 2,1:08:36.86,1:08:38.20,ZH,,0,0,0,,{\rZH\blur0.8}出什么事了？
+Dialogue: 1,1:08:36.86,1:08:38.20,EN,,0,0,0,,{\rEN\blur0.8}What happened?
+Dialogue: 2,1:08:38.28,1:08:39.87,ZH,,0,0,0,,{\rZH\blur0.8}那边发生了爆炸。
+Dialogue: 1,1:08:38.28,1:08:39.87,EN,,0,0,0,,{\rEN\blur0.8}An explosion happened there.
+Dialogue: 2,1:08:39.95,1:08:42.54,ZH,,0,0,0,,{\rZH\blur0.8}-快灭火！  -关掉总闸！
+Dialogue: 1,1:08:39.95,1:08:42.54,EN,,0,0,0,,{\rEN\blur0.8}-Get the fire extinguished, quick.   -Turn off the main switch!
+Dialogue: 2,1:08:42.62,1:08:43.49,ZH,,0,0,0,,{\rZH\blur0.8}快点！
+Dialogue: 1,1:08:42.62,1:08:43.49,EN,,0,0,0,,{\rEN\blur0.8}Be quick!
+Dialogue: 2,1:08:46.37,1:08:47.33,ZH,,0,0,0,,{\rZH\blur0.8}跟我来。
+Dialogue: 1,1:08:46.37,1:08:47.33,EN,,0,0,0,,{\rEN\blur0.8}Follow me.
+Dialogue: 2,1:09:40.84,1:09:44.06,ZH,,0,0,0,,{\rZH\blur0.8}大哥，你把老爸气坏了。
+Dialogue: 1,1:09:40.84,1:09:44.06,EN,,0,0,0,,{\rEN\blur0.8}Brother, you made Dad furious.
+Dialogue: 2,1:09:45.60,1:09:49.81,ZH,,0,0,0,,{\rZH\blur0.8}别在这儿胡闹，这不是玩的地方。
+Dialogue: 1,1:09:45.60,1:09:49.81,EN,,0,0,0,,{\rEN\blur0.8}Don't fool around here. This place is not for playing.
+Dialogue: 2,1:09:50.40,1:09:52.65,ZH,,0,0,0,,{\rZH\blur0.8}这是我的地盘，滚！
+Dialogue: 1,1:09:50.40,1:09:52.65,EN,,0,0,0,,{\rEN\blur0.8}This is my turf, so scram!
+Dialogue: 2,1:09:52.73,1:09:54.31,ZH,,0,0,0,,{\rZH\blur0.8}不然你连轮椅都坐不上。
+Dialogue: 1,1:09:52.73,1:09:54.31,EN,,0,0,0,,{\rEN\blur0.8}If not, you can't even sit in a wheelchair.
+Dialogue: 2,1:09:54.94,1:09:56.15,ZH,,0,0,0,,{\rZH\blur0.8}走吧。
+Dialogue: 1,1:09:54.94,1:09:56.15,EN,,0,0,0,,{\rEN\blur0.8}Let'sgo.
+Dialogue: 2,1:09:58.36,1:09:59.44,ZH,,0,0,0,,{\rZH\blur0.8}别忘了！
+Dialogue: 1,1:09:58.36,1:09:59.44,EN,,0,0,0,,{\rEN\blur0.8}Don'tforget!
+Dialogue: 2,1:10:06.74,1:10:08.00,ZH,,0,0,0,,{\rZH\blur0.8}看。
+Dialogue: 1,1:10:06.74,1:10:08.00,EN,,0,0,0,,{\rEN\blur0.8}Look.
+Dialogue: 2,1:10:10.04,1:10:13.88,ZH,,0,0,0,,{\rZH\blur0.8}拍卖行的金库有十多重保安系统。
+Dialogue: 1,1:10:10.04,1:10:13.88,EN,,0,0,0,,{\rEN\blur0.8}The auction house vault has more than ten security systems.
+Dialogue: 2,1:10:13.96,1:10:15.54,ZH,,0,0,0,,{\rZH\blur0.8}就算进了金库，也未必打得开。
+Dialogue: 1,1:10:13.96,1:10:15.54,EN,,0,0,0,,{\rEN\blur0.8}Even if we get into the vault, we may not be able to open it.
+Dialogue: 2,1:10:15.63,1:10:17.50,ZH,,0,0,0,,{\rZH\blur0.8}说不定得把整台电脑搬进去。
+Dialogue: 1,1:10:15.63,1:10:17.50,EN,,0,0,0,,{\rEN\blur0.8}We may have to bring the whole computer inside.
+Dialogue: 2,1:10:17.59,1:10:20.47,ZH,,0,0,0,,{\rZH\blur0.8}不用，只要通讯够好就行。
+Dialogue: 1,1:10:17.59,1:10:20.47,EN,,0,0,0,,{\rEN\blur0.8}No, we just need good communication.
+Dialogue: 2,1:10:20.59,1:10:22.47,ZH,,0,0,0,,{\rZH\blur0.8}-你们俩在说什么？  -阿占，你需要我。
+Dialogue: 1,1:10:20.59,1:10:22.47,EN,,0,0,0,,{\rEN\blur0.8}-What are you two talking about?   -James, you need me.
+Dialogue: 2,1:10:23.30,1:10:25.64,ZH,,0,0,0,,{\rZH\blur0.8}-干爹。  -你们又要去偷东西？
+Dialogue: 1,1:10:23.30,1:10:25.64,EN,,0,0,0,,{\rEN\blur0.8}-Godfather.   -Are you going to steal again?
+Dialogue: 2,1:10:25.72,1:10:29.27,ZH,,0,0,0,,{\rZH\blur0.8}-没有，我们在玩电脑游戏。  -别再干那种事了。
+Dialogue: 1,1:10:25.72,1:10:29.27,EN,,0,0,0,,{\rEN\blur0.8}-No, we're playing computer games.   -Don't ever do that again.
+Dialogue: 2,1:10:29.35,1:10:30.52,ZH,,0,0,0,,{\rZH\blur0.8}好。去做饭吧。
+Dialogue: 1,1:10:29.35,1:10:30.52,EN,,0,0,0,,{\rEN\blur0.8}Okay. Go and cook.
+Dialogue: 2,1:10:30.60,1:10:32.85,ZH,,0,0,0,,{\rZH\blur0.8}-你穿这围裙真性感。  -正经点。
+Dialogue: 1,1:10:30.60,1:10:32.85,EN,,0,0,0,,{\rEN\blur0.8}-You look sexy in this apron.   -Be serious.
+Dialogue: 2,1:10:32.94,1:10:33.98,ZH,,0,0,0,,{\rZH\blur0.8}挺适合你的。
+Dialogue: 1,1:10:32.94,1:10:33.98,EN,,0,0,0,,{\rEN\blur0.8}It suits you.
+Dialogue: 2,1:10:36.82,1:10:37.69,ZH,,0,0,0,,{\rZH\blur0.8}搞定了！
+Dialogue: 1,1:10:36.82,1:10:37.69,EN,,0,0,0,,{\rEN\blur0.8}It'sdone!
+Dialogue: 2,1:10:38.78,1:10:41.90,ZH,,0,0,0,,{\rZH\blur0.8}什么都齐了，就差金库钥匙。
+Dialogue: 1,1:10:38.78,1:10:41.90,EN,,0,0,0,,{\rEN\blur0.8}We got everything except the vault key.
+Dialogue: 2,1:10:42.90,1:10:44.07,ZH,,0,0,0,,{\rZH\blur0.8}让我去偷。
+Dialogue: 1,1:10:42.90,1:10:44.07,EN,,0,0,0,,{\rEN\blur0.8}Let me steal it.
+Dialogue: 2,1:10:44.66,1:10:45.62,ZH,,0,0,0,,{\rZH\blur0.8}什么？不带我？
+Dialogue: 1,1:10:44.66,1:10:45.62,EN,,0,0,0,,{\rEN\blur0.8}What? Without me?
+Dialogue: 2,1:10:45.70,1:10:47.03,ZH,,0,0,0,,{\rZH\blur0.8}我觉得这活儿我一个人能行。
+Dialogue: 1,1:10:45.70,1:10:47.03,EN,,0,0,0,,{\rEN\blur0.8}I think I can handle this.
+Dialogue: 2,1:10:50.79,1:10:52.79,ZH,,0,0,0,,{\rZH\blur0.8}哥，我不会拖累你的。
+Dialogue: 1,1:10:50.79,1:10:52.79,EN,,0,0,0,,{\rEN\blur0.8}Brother, I won't cause you any trouble.
+Dialogue: 2,1:10:57.34,1:10:59.30,ZH,,0,0,0,,{\rZH\blur0.8}可你两条腿都没了。
+Dialogue: 1,1:10:57.34,1:10:59.30,EN,,0,0,0,,{\rEN\blur0.8}But you've lost both legs.
+Dialogue: 2,1:11:01.17,1:11:03.22,ZH,,0,0,0,,{\rZH\blur0.8}我不想你连手和命都丢了。
+Dialogue: 1,1:11:01.17,1:11:03.22,EN,,0,0,0,,{\rEN\blur0.8}I don't want you to lose your arms or your life.
+Dialogue: 2,1:11:04.93,1:11:06.89,ZH,,0,0,0,,{\rZH\blur0.8}那你们俩刚才在说什么？
+Dialogue: 1,1:11:04.93,1:11:06.89,EN,,0,0,0,,{\rEN\blur0.8}So what were you two talking about?
+Dialogue: 2,1:11:08.39,1:11:10.22,ZH,,0,0,0,,{\rZH\blur0.8}别这么八卦。
+Dialogue: 1,1:11:08.39,1:11:10.22,EN,,0,0,0,,{\rEN\blur0.8}Don't be so nosy.
+Dialogue: 2,1:11:11.14,1:11:12.85,ZH,,0,0,0,,{\rZH\blur0.8}你们打算什么时候要孩子？
+Dialogue: 1,1:11:11.14,1:11:12.85,EN,,0,0,0,,{\rEN\blur0.8}When do you want to have children?
+Dialogue: 2,1:11:15.56,1:11:16.61,ZH,,0,0,0,,{\rZH\blur0.8}我们想过，
+Dialogue: 1,1:11:15.56,1:11:16.61,EN,,0,0,0,,{\rEN\blur0.8}We thought about it,
+Dialogue: 2,1:11:17.19,1:11:19.32,ZH,,0,0,0,,{\rZH\blur0.8}不过要等这单活儿干完。
+Dialogue: 1,1:11:17.19,1:11:19.32,EN,,0,0,0,,{\rEN\blur0.8}but not until after we had completed this job.
+Dialogue: 2,1:11:20.15,1:11:21.94,ZH,,0,0,0,,{\rZH\blur0.8}你想要男孩还是女孩？
+Dialogue: 1,1:11:20.15,1:11:21.94,EN,,0,0,0,,{\rEN\blur0.8}Do you want a boy or a girl?
+Dialogue: 2,1:11:22.49,1:11:24.28,ZH,,0,0,0,,{\rZH\blur0.8}当然是男孩。
+Dialogue: 1,1:11:22.49,1:11:24.28,EN,,0,0,0,,{\rEN\blur0.8}A boy, of course.
+Dialogue: 2,1:11:24.36,1:11:26.82,ZH,,0,0,0,,{\rZH\blur0.8}可她想要女孩。她说女孩好带。
+Dialogue: 1,1:11:24.36,1:11:26.82,EN,,0,0,0,,{\rEN\blur0.8}But she wants a girl. She said girls are easier to take care of.
+Dialogue: 2,1:11:27.99,1:11:29.12,ZH,,0,0,0,,{\rZH\blur0.8}名字想好了吗？
+Dialogue: 1,1:11:27.99,1:11:29.12,EN,,0,0,0,,{\rEN\blur0.8}Did you name them?
+Dialogue: 2,1:11:29.74,1:11:32.96,ZH,,0,0,0,,{\rZH\blur0.8}男孩就叫香蕉糕。
+Dialogue: 1,1:11:29.74,1:11:32.96,EN,,0,0,0,,{\rEN\blur0.8}If it's a boy, we'll call him Banana Cake.
+Dialogue: 2,1:11:35.92,1:11:37.54,ZH,,0,0,0,,{\rZH\blur0.8}女孩就叫醒目豆。
+Dialogue: 1,1:11:35.92,1:11:37.54,EN,,0,0,0,,{\rEN\blur0.8}If it's a girl, we'll call her Smart Bean.
+Dialogue: 2,1:11:39.00,1:11:40.00,ZH,,0,0,0,,{\rZH\blur0.8}不错。
+Dialogue: 1,1:11:39.00,1:11:40.00,EN,,0,0,0,,{\rEN\blur0.8}Sounds good.
+Dialogue: 2,1:11:42.26,1:11:43.63,ZH,,0,0,0,,{\rZH\blur0.8}我能当他们的干爹吗？
+Dialogue: 1,1:11:42.26,1:11:43.63,EN,,0,0,0,,{\rEN\blur0.8}Can I be their godfather?
+Dialogue: 2,1:11:44.13,1:11:46.89,ZH,,0,0,0,,{\rZH\blur0.8}当然。除了你还有谁能当？
+Dialogue: 1,1:11:44.13,1:11:46.89,EN,,0,0,0,,{\rEN\blur0.8}Sure. Who else but you can be their godfather?
+Dialogue: 2,1:11:46.97,1:11:49.14,ZH,,0,0,0,,{\rZH\blur0.8}不过你得去美国。
+Dialogue: 1,1:11:46.97,1:11:49.14,EN,,0,0,0,,{\rEN\blur0.8}But you'll have to go to the United States.
+Dialogue: 2,1:11:53.68,1:11:54.52,ZH,,0,0,0,,{\rZH\blur0.8}对。
+Dialogue: 1,1:11:53.68,1:11:54.52,EN,,0,0,0,,{\rEN\blur0.8}Yes.
+Dialogue: 2,1:11:55.65,1:11:58.27,ZH,,0,0,0,,{\rZH\blur0.8}我们打算在那边定居。
+Dialogue: 1,1:11:55.65,1:11:58.27,EN,,0,0,0,,{\rEN\blur0.8}We plan to settle over there.
+Dialogue: 2,1:12:00.90,1:12:04.44,ZH,,0,0,0,,{\rZH\blur0.8}祝你生日快乐。
+Dialogue: 1,1:12:00.90,1:12:04.44,EN,,0,0,0,,{\rEN\blur0.8}Happy birthday to you.
+Dialogue: 2,1:12:07.11,1:12:08.24,ZH,,0,0,0,,{\rZH\blur0.8}生日快乐！
+Dialogue: 1,1:12:07.11,1:12:08.24,EN,,0,0,0,,{\rEN\blur0.8}Happy birthday!
+Dialogue: 2,1:12:10.16,1:12:11.74,ZH,,0,0,0,,{\rZH\blur0.8}蛋糕真漂亮。
+Dialogue: 1,1:12:10.16,1:12:11.74,EN,,0,0,0,,{\rEN\blur0.8}What a beautiful cake.
+Dialogue: 2,1:12:12.66,1:12:14.12,ZH,,0,0,0,,{\rZH\blur0.8}红豆给你做的。
+Dialogue: 1,1:12:12.66,1:12:14.12,EN,,0,0,0,,{\rEN\blur0.8}Red Bean made it for you.
+Dialogue: 2,1:12:14.20,1:12:16.08,ZH,,0,0,0,,{\rZH\blur0.8}你不记得今天是你的生日吗？
+Dialogue: 1,1:12:14.20,1:12:16.08,EN,,0,0,0,,{\rEN\blur0.8}Don't you remember today is your birthday?
+Dialogue: 2,1:12:17.04,1:12:18.67,ZH,,0,0,0,,{\rZH\blur0.8}对哦，我多大了？
+Dialogue: 1,1:12:17.04,1:12:18.67,EN,,0,0,0,,{\rEN\blur0.8}Oh yeah, how old am I?
+Dialogue: 2,1:12:18.75,1:12:19.75,ZH,,0,0,0,,{\rZH\blur0.8}三十六了。
+Dialogue: 1,1:12:18.75,1:12:19.75,EN,,0,0,0,,{\rEN\blur0.8}You're36.
+Dialogue: 2,1:12:20.34,1:12:22.63,ZH,,0,0,0,,{\rZH\blur0.8}时间过得真快。
+Dialogue: 1,1:12:20.34,1:12:22.63,EN,,0,0,0,,{\rEN\blur0.8}Time sure goes by fast.
+Dialogue: 2,1:12:24.22,1:12:25.88,ZH,,0,0,0,,{\rZH\blur0.8}-闭上眼睛。  -干嘛？
+Dialogue: 1,1:12:24.22,1:12:25.88,EN,,0,0,0,,{\rEN\blur0.8}-Close your eyes.   -What for?
+Dialogue: 2,1:12:26.47,1:12:27.30,ZH,,0,0,0,,{\rZH\blur0.8}许个愿。
+Dialogue: 1,1:12:26.47,1:12:27.30,EN,,0,0,0,,{\rEN\blur0.8}Make a wish.
+Dialogue: 2,1:12:28.05,1:12:29.18,ZH,,0,0,0,,{\rZH\blur0.8}钵仔糕，生日快乐
+Dialogue: 1,1:12:28.05,1:12:29.18,EN,,0,0,0,,{\rEN\blur0.8}HAPPY BIRTHDAY, RED BEAN PUDDING
+Dialogue: 2,1:12:29.93,1:12:31.43,ZH,,0,0,0,,{\rZH\blur0.8}你真麻烦。
+Dialogue: 1,1:12:29.93,1:12:31.43,EN,,0,0,0,,{\rEN\blur0.8}You're so fussy.
+Dialogue: 2,1:12:43.44,1:12:44.65,ZH,,0,0,0,,{\rZH\blur0.8}我说了没有机关。
+Dialogue: 1,1:12:43.44,1:12:44.65,EN,,0,0,0,,{\rEN\blur0.8}I told you there's no trick.
+Dialogue: 2,1:12:44.73,1:12:46.11,ZH,,0,0,0,,{\rZH\blur0.8}算你走运。
+Dialogue: 1,1:12:44.73,1:12:46.11,EN,,0,0,0,,{\rEN\blur0.8}Lucky for you.
+Dialogue: 2,1:12:53.87,1:12:55.29,ZH,,0,0,0,,{\rZH\blur0.8}太好吃了。
+Dialogue: 1,1:12:53.87,1:12:55.29,EN,,0,0,0,,{\rEN\blur0.8}It's so delicious.
+Dialogue: 2,1:13:14.97,1:13:15.85,ZH,,0,0,0,,{\rZH\blur0.8}谢谢。
+Dialogue: 1,1:13:14.97,1:13:15.85,EN,,0,0,0,,{\rEN\blur0.8}Thanks.
+Dialogue: 2,1:13:19.15,1:13:20.31,ZH,,0,0,0,,{\rZH\blur0.8}喂。
+Dialogue: 1,1:13:19.15,1:13:20.31,EN,,0,0,0,,{\rEN\blur0.8}Hey.
+Dialogue: 2,1:13:22.81,1:13:24.36,ZH,,0,0,0,,{\rZH\blur0.8}-看那边。  -什么？
+Dialogue: 1,1:13:22.81,1:13:24.36,EN,,0,0,0,,{\rEN\blur0.8}-Look there.   -What?
+Dialogue: 2,1:13:25.19,1:13:27.24,ZH,,0,0,0,,{\rZH\blur0.8}他就是拍卖行总监吴斯坦利。
+Dialogue: 1,1:13:25.19,1:13:27.24,EN,,0,0,0,,{\rEN\blur0.8}He's the auction director, Stanley Wu.
+Dialogue: 2,1:13:27.82,1:13:28.86,ZH,,0,0,0,,{\rZH\blur0.8}钥匙在他身上，
+Dialogue: 1,1:13:27.82,1:13:28.86,EN,,0,0,0,,{\rEN\blur0.8}He has the key,
+Dialogue: 2,1:13:29.40,1:13:30.66,ZH,,0,0,0,,{\rZH\blur0.8}但不知道他放在哪。
+Dialogue: 1,1:13:29.40,1:13:30.66,EN,,0,0,0,,{\rEN\blur0.8}but I don't know where he put it.
+Dialogue: 2,1:13:30.74,1:13:34.37,ZH,,0,0,0,,{\rZH\blur0.8}凭红豆的魅力，很快就能查出来。
+Dialogue: 1,1:13:30.74,1:13:34.37,EN,,0,0,0,,{\rEN\blur0.8}With Red Bean's charm, we'll be able to find out soon.
+Dialogue: 2,1:13:35.58,1:13:36.79,ZH,,0,0,0,,{\rZH\blur0.8}多谢夸奖。
+Dialogue: 1,1:13:35.58,1:13:36.79,EN,,0,0,0,,{\rEN\blur0.8}Thank you for the praise.
+Dialogue: 2,1:13:40.75,1:13:41.75,ZH,,0,0,0,,{\rZH\blur0.8}阿占，
+Dialogue: 1,1:13:40.75,1:13:41.75,EN,,0,0,0,,{\rEN\blur0.8}James,
+Dialogue: 2,1:13:41.83,1:13:43.75,ZH,,0,0,0,,{\rZH\blur0.8}有人逼我和你老婆跳舞。
+Dialogue: 1,1:13:41.83,1:13:43.75,EN,,0,0,0,,{\rEN\blur0.8}someone forced me to dance with your wife.
+Dialogue: 2,1:13:48.22,1:13:49.05,ZH,,0,0,0,,{\rZH\blur0.8}拜托。
+Dialogue: 1,1:13:48.22,1:13:49.05,EN,,0,0,0,,{\rEN\blur0.8}Please.
+Dialogue: 2,1:13:50.84,1:13:52.30,ZH,,0,0,0,,{\rZH\blur0.8}听着钥匙的响声。
+Dialogue: 1,1:13:50.84,1:13:52.30,EN,,0,0,0,,{\rEN\blur0.8}Listen for the key's noise.
+Dialogue: 2,1:14:21.58,1:14:22.42,ZH,,0,0,0,,{\rZH\blur0.8}爸。
+Dialogue: 1,1:14:21.58,1:14:22.42,EN,,0,0,0,,{\rEN\blur0.8}Dad.
+Dialogue: 2,1:14:23.25,1:14:25.25,ZH,,0,0,0,,{\rZH\blur0.8}把钵仔糕带来这儿，是自找麻烦。
+Dialogue: 1,1:14:23.25,1:14:25.25,EN,,0,0,0,,{\rEN\blur0.8}Bringing Red Bean Pudding here is asking for trouble.
+Dialogue: 2,1:14:27.67,1:14:28.84,ZH,,0,0,0,,{\rZH\blur0.8}我们只是在这儿聚一聚。
+Dialogue: 1,1:14:27.67,1:14:28.84,EN,,0,0,0,,{\rEN\blur0.8}We're just having a gathering here.
+Dialogue: 2,1:14:29.84,1:14:32.09,ZH,,0,0,0,,{\rZH\blur0.8}放心，你的画会拿到。
+Dialogue: 1,1:14:29.84,1:14:32.09,EN,,0,0,0,,{\rEN\blur0.8}Don't worry, you'll get your painting.
+Dialogue: 2,1:14:33.84,1:14:35.26,ZH,,0,0,0,,{\rZH\blur0.8}他出了事你负责。
+Dialogue: 1,1:14:33.84,1:14:35.26,EN,,0,0,0,,{\rEN\blur0.8}You'll be responsible for him.
+Dialogue: 2,1:14:44.02,1:14:45.11,ZH,,0,0,0,,{\rZH\blur0.8}你来这儿干什么？
+Dialogue: 1,1:14:44.02,1:14:45.11,EN,,0,0,0,,{\rEN\blur0.8}What are you doing here?
+Dialogue: 2,1:14:46.61,1:14:47.94,ZH,,0,0,0,,{\rZH\blur0.8}我来看我儿子。
+Dialogue: 1,1:14:46.61,1:14:47.94,EN,,0,0,0,,{\rEN\blur0.8}I come to see my sons.
+Dialogue: 2,1:14:48.02,1:14:49.11,ZH,,0,0,0,,{\rZH\blur0.8}那你来这儿干什么？
+Dialogue: 1,1:14:48.02,1:14:49.11,EN,,0,0,0,,{\rEN\blur0.8}What are you doing here, then?
+Dialogue: 2,1:14:49.61,1:14:50.86,ZH,,0,0,0,,{\rZH\blur0.8}我也是来看我儿子的。
+Dialogue: 1,1:14:49.61,1:14:50.86,EN,,0,0,0,,{\rEN\blur0.8}I came to see my sons too.
+Dialogue: 2,1:15:03.79,1:15:06.46,ZH,,0,0,0,,{\rZH\blur0.8}该动手了，机灵点。
+Dialogue: 1,1:15:03.79,1:15:06.46,EN,,0,0,0,,{\rEN\blur0.8}It's time to work. Please be smart.
+Dialogue: 2,1:15:19.52,1:15:20.73,ZH,,0,0,0,,{\rZH\blur0.8}吴先生。
+Dialogue: 1,1:15:19.52,1:15:20.73,EN,,0,0,0,,{\rEN\blur0.8}Mr. Wu.
+Dialogue: 2,1:15:20.81,1:15:22.52,ZH,,0,0,0,,{\rZH\blur0.8}哦，你好。
+Dialogue: 1,1:15:20.81,1:15:22.52,EN,,0,0,0,,{\rEN\blur0.8}Oh, hello.
+Dialogue: 2,1:15:24.60,1:15:28.44,ZH,,0,0,0,,{\rZH\blur0.8}我是洛杉矶华人古董协会的代表。
+Dialogue: 1,1:15:24.60,1:15:28.44,EN,,0,0,0,,{\rEN\blur0.8}I'm the representative of the Los Angeles Chinese Antiques Association.
+Dialogue: 2,1:15:28.48,1:15:30.19,ZH,,0,0,0,,{\rZH\blur0.8}幸会。
+Dialogue: 1,1:15:28.48,1:15:30.19,EN,,0,0,0,,{\rEN\blur0.8}Nice to meet you.
+Dialogue: 2,1:15:31.19,1:15:33.32,ZH,,0,0,0,,{\rZH\blur0.8}我对古董很感兴趣。
+Dialogue: 1,1:15:31.19,1:15:33.32,EN,,0,0,0,,{\rEN\blur0.8}I'm keen on antiques.
+Dialogue: 2,1:15:33.86,1:15:35.78,ZH,,0,0,0,,{\rZH\blur0.8}您是拍卖行总监，
+Dialogue: 1,1:15:33.86,1:15:35.78,EN,,0,0,0,,{\rEN\blur0.8}You're the auction director.
+Dialogue: 2,1:15:35.86,1:15:37.99,ZH,,0,0,0,,{\rZH\blur0.8}一定很懂古董吧。
+Dialogue: 1,1:15:35.86,1:15:37.99,EN,,0,0,0,,{\rEN\blur0.8}You must know a lot about antiques.
+Dialogue: 2,1:15:38.08,1:15:41.16,ZH,,0,0,0,,{\rZH\blur0.8}不敢当。其实我自己就是件古董。
+Dialogue: 1,1:15:38.08,1:15:41.16,EN,,0,0,0,,{\rEN\blur0.8}Not really. In fact, I myself am an antique.
+Dialogue: 2,1:15:43.46,1:15:47.46,ZH,,0,0,0,,{\rZH\blur0.8}我想写篇关于中国文化历史的论文。
+Dialogue: 1,1:15:43.46,1:15:47.46,EN,,0,0,0,,{\rEN\blur0.8}I want to do my thesis on Chinese culture and history.
+Dialogue: 2,1:15:47.50,1:15:49.42,ZH,,0,0,0,,{\rZH\blur0.8}能不能请您指点指点？
+Dialogue: 1,1:15:47.50,1:15:49.42,EN,,0,0,0,,{\rEN\blur0.8}Would you please show me the way?
+Dialogue: 2,1:16:17.78,1:16:18.87,ZH,,0,0,0,,{\rZH\blur0.8}阿占。
+Dialogue: 1,1:16:17.78,1:16:18.87,EN,,0,0,0,,{\rEN\blur0.8}James.
+Dialogue: 2,1:17:12.50,1:17:14.30,ZH,,0,0,0,,{\rZH\blur0.8}阿占，你来这儿干什么？又要偷东西？
+Dialogue: 1,1:17:12.50,1:17:14.30,EN,,0,0,0,,{\rEN\blur0.8}James, what are you doing here? Stealing again?
+Dialogue: 2,1:17:14.80,1:17:16.26,ZH,,0,0,0,,{\rZH\blur0.8}-急什么？  -你干什么？
+Dialogue: 1,1:17:14.80,1:17:16.26,EN,,0,0,0,,{\rEN\blur0.8}-What's the hurry?   -What are you doing?
+Dialogue: 2,1:17:16.34,1:17:18.76,ZH,,0,0,0,,{\rZH\blur0.8}他们只是玩玩而已。
+Dialogue: 1,1:17:16.34,1:17:18.76,EN,,0,0,0,,{\rEN\blur0.8}They're just having a good time.
+Dialogue: 2,1:17:18.84,1:17:20.51,ZH,,0,0,0,,{\rZH\blur0.8}来喝一杯，来嘛。
+Dialogue: 1,1:17:18.84,1:17:20.51,EN,,0,0,0,,{\rEN\blur0.8}Let's have a drink, come on.
+Dialogue: 2,1:17:20.59,1:17:23.97,ZH,,0,0,0,,{\rZH\blur0.8}不觉得该喝一杯了吗？来嘛。
+Dialogue: 1,1:17:20.59,1:17:23.97,EN,,0,0,0,,{\rEN\blur0.8}Don't you think it's time for a drink? Come on.
+Dialogue: 2,1:17:24.06,1:17:27.10,ZH,,0,0,0,,{\rZH\blur0.8}-来嘛。  -喝吧。拿着。
+Dialogue: 1,1:17:24.06,1:17:27.10,EN,,0,0,0,,{\rEN\blur0.8}-Come on.   -Let's drink. Hold it.
+Dialogue: 2,1:18:45.05,1:18:46.10,ZH,,0,0,0,,{\rZH\blur0.8}一。
+Dialogue: 1,1:18:45.05,1:18:46.10,EN,,0,0,0,,{\rEN\blur0.8}One.
+Dialogue: 2,1:18:47.26,1:18:48.39,ZH,,0,0,0,,{\rZH\blur0.8}二。
+Dialogue: 1,1:18:47.26,1:18:48.39,EN,,0,0,0,,{\rEN\blur0.8}Two.
+Dialogue: 2,1:18:49.43,1:18:50.27,ZH,,0,0,0,,{\rZH\blur0.8}三。
+Dialogue: 1,1:18:49.43,1:18:50.27,EN,,0,0,0,,{\rEN\blur0.8}Three.
+Dialogue: 2,1:18:51.27,1:18:52.14,ZH,,0,0,0,,{\rZH\blur0.8}四。
+Dialogue: 1,1:18:51.27,1:18:52.14,EN,,0,0,0,,{\rEN\blur0.8}Four.
+Dialogue: 2,1:18:53.81,1:18:54.81,ZH,,0,0,0,,{\rZH\blur0.8}五。
+Dialogue: 1,1:18:53.81,1:18:54.81,EN,,0,0,0,,{\rEN\blur0.8}Five.
+Dialogue: 2,1:18:54.90,1:18:56.19,ZH,,0,0,0,,{\rZH\blur0.8}六。
+Dialogue: 1,1:18:54.90,1:18:56.19,EN,,0,0,0,,{\rEN\blur0.8}Six.
+Dialogue: 2,1:19:02.36,1:19:03.95,ZH,,0,0,0,,{\rZH\blur0.8}喂，那边好像有事。
+Dialogue: 1,1:19:02.36,1:19:03.95,EN,,0,0,0,,{\rEN\blur0.8}Hey, something's going on there.
+Dialogue: 2,1:19:34.52,1:19:35.73,ZH,,0,0,0,,{\rZH\blur0.8}嘿。
+Dialogue: 1,1:19:34.52,1:19:35.73,EN,,0,0,0,,{\rEN\blur0.8}Hey.
+Dialogue: 2,1:19:35.85,1:19:38.19,ZH,,0,0,0,,{\rZH\blur0.8}喂，该开工了，听到吗？
+Dialogue: 1,1:19:35.85,1:19:38.19,EN,,0,0,0,,{\rEN\blur0.8}Hello, it's time to work. Can you hear me?
+Dialogue: 2,1:19:38.27,1:19:39.36,ZH,,0,0,0,,{\rZH\blur0.8}该开工了。
+Dialogue: 1,1:19:38.27,1:19:39.36,EN,,0,0,0,,{\rEN\blur0.8}It's time to work.
+Dialogue: 2,1:19:40.90,1:19:44.36,ZH,,0,0,0,,{\rZH\blur0.8}我听到了，不用喊。别把我耳朵震聋。
+Dialogue: 1,1:19:40.90,1:19:44.36,EN,,0,0,0,,{\rEN\blur0.8}I can hear you, there's no need to shout. Don't make me deaf.
+Dialogue: 2,1:19:46.12,1:19:49.12,ZH,,0,0,0,,{\rZH\blur0.8}守卫都撤了，配电房也没锁。
+Dialogue: 1,1:19:46.12,1:19:49.12,EN,,0,0,0,,{\rEN\blur0.8}The guards are off, and they haven't locked the electricity room.
+Dialogue: 2,1:19:50.62,1:19:54.92,ZH,,0,0,0,,{\rZH\blur0.8}没想到你这么厉害。难怪我们是搭档。
+Dialogue: 1,1:19:50.62,1:19:54.92,EN,,0,0,0,,{\rEN\blur0.8}I didn't think you were that good. No wonder we're partners.
+Dialogue: 2,1:19:55.00,1:19:57.25,ZH,,0,0,0,,{\rZH\blur0.8}别忘了，我永远陪着你。
+Dialogue: 1,1:19:55.00,1:19:57.25,EN,,0,0,0,,{\rEN\blur0.8}Don't forget I'll always be with you.
+Dialogue: 2,1:19:57.33,1:20:00.30,ZH,,0,0,0,,{\rZH\blur0.8}你一寂寞，我就当你耳边的DJ。
+Dialogue: 1,1:19:57.33,1:20:00.30,EN,,0,0,0,,{\rEN\blur0.8}Whenever you get lonely, I'll be the DJ in your ear.
+Dialogue: 2,1:20:00.38,1:20:02.13,ZH,,0,0,0,,{\rZH\blur0.8}-你怎么了？  -你一无聊……
+Dialogue: 1,1:20:00.38,1:20:02.13,EN,,0,0,0,,{\rEN\blur0.8}-What's wrong with you?   -Whenever you get bored. . .
+Dialogue: 2,1:20:02.21,1:20:05.09,ZH,,0,0,0,,{\rZH\blur0.8}-你鬼上身啊？  -放心。
+Dialogue: 1,1:20:02.21,1:20:05.09,EN,,0,0,0,,{\rEN\blur0.8}-Are you possessed?   -Don't worry.
+Dialogue: 2,1:20:05.18,1:20:07.43,ZH,,0,0,0,,{\rZH\blur0.8}一进配电房，就能看到开关。
+Dialogue: 1,1:20:05.18,1:20:07.43,EN,,0,0,0,,{\rEN\blur0.8}As soon as you get into the electricity room, you'll see the switch.
+Dialogue: 2,1:20:07.51,1:20:08.51,ZH,,0,0,0,,{\rZH\blur0.8}但别慌。
+Dialogue: 1,1:20:07.51,1:20:08.51,EN,,0,0,0,,{\rEN\blur0.8}But don't panic.
+Dialogue: 2,1:20:08.60,1:20:10.97,ZH,,0,0,0,,{\rZH\blur0.8}找到开关，关掉就行。
+Dialogue: 1,1:20:08.60,1:20:10.97,EN,,0,0,0,,{\rEN\blur0.8}Once you find the switch, just switch it off.
+Dialogue: 2,1:20:11.56,1:20:12.93,ZH,,0,0,0,,{\rZH\blur0.8}收到。
+Dialogue: 1,1:20:11.56,1:20:12.93,EN,,0,0,0,,{\rEN\blur0.8}Roger.
+Dialogue: 2,1:20:14.69,1:20:16.60,ZH,,0,0,0,,{\rZH\blur0.8}开关关了，下一步呢？
+Dialogue: 1,1:20:14.69,1:20:16.60,EN,,0,0,0,,{\rEN\blur0.8}The switch is off. What's next?
+Dialogue: 2,1:20:17.15,1:20:20.48,ZH,,0,0,0,,{\rZH\blur0.8}你真聪明，真机灵。
+Dialogue: 1,1:20:17.15,1:20:20.48,EN,,0,0,0,,{\rEN\blur0.8}You're so smart and intelligent.
+Dialogue: 2,1:20:20.57,1:20:23.19,ZH,,0,0,0,,{\rZH\blur0.8}现在把编号告诉我。
+Dialogue: 1,1:20:20.57,1:20:23.19,EN,,0,0,0,,{\rEN\blur0.8}Now give me the serial number, please.
+Dialogue: 2,1:20:23.28,1:20:26.49,ZH,,0,0,0,,{\rZH\blur0.8}-JJ063。记下了吗？  -根据电脑显示，
+Dialogue: 1,1:20:23.28,1:20:26.49,EN,,0,0,0,,{\rEN\blur0.8}-JJ063. Got it?   -According to the computer,
+Dialogue: 2,1:20:26.57,1:20:28.91,ZH,,0,0,0,,{\rZH\blur0.8}红色的危险。
+Dialogue: 1,1:20:26.57,1:20:28.91,EN,,0,0,0,,{\rEN\blur0.8}the red one is dangerous.
+Dialogue: 2,1:20:28.99,1:20:32.33,ZH,,0,0,0,,{\rZH\blur0.8}蓝色代表忧郁，所以别碰。
+Dialogue: 1,1:20:28.99,1:20:32.33,EN,,0,0,0,,{\rEN\blur0.8}The blue one means depression. So leave it alone.
+Dialogue: 2,1:20:32.87,1:20:34.20,ZH,,0,0,0,,{\rZH\blur0.8}至于黄色的，
+Dialogue: 1,1:20:32.87,1:20:34.20,EN,,0,0,0,,{\rEN\blur0.8}As for the yellow one,
+Dialogue: 2,1:20:34.29,1:20:37.50,ZH,,0,0,0,,{\rZH\blur0.8}代表色欲，不能剪。
+Dialogue: 1,1:20:34.29,1:20:37.50,EN,,0,0,0,,{\rEN\blur0.8}it represents sex. You can't cut it.
+Dialogue: 2,1:20:39.29,1:20:40.38,ZH,,0,0,0,,{\rZH\blur0.8}那我剪哪一根？
+Dialogue: 1,1:20:39.29,1:20:40.38,EN,,0,0,0,,{\rEN\blur0.8}So, which one do I cut?
+Dialogue: 2,1:20:40.96,1:20:42.30,ZH,,0,0,0,,{\rZH\blur0.8}蓝色的。
+Dialogue: 1,1:20:40.96,1:20:42.30,EN,,0,0,0,,{\rEN\blur0.8}The blue one.
+Dialogue: 2,1:20:42.92,1:20:44.13,ZH,,0,0,0,,{\rZH\blur0.8}我可不想忧郁。
+Dialogue: 1,1:20:42.92,1:20:44.13,EN,,0,0,0,,{\rEN\blur0.8}I don't want to be depressed.
+Dialogue: 2,1:20:45.63,1:20:46.92,ZH,,0,0,0,,{\rZH\blur0.8}没错。
+Dialogue: 1,1:20:45.63,1:20:46.92,EN,,0,0,0,,{\rEN\blur0.8}You got it.
+Dialogue: 2,1:20:47.76,1:20:49.26,ZH,,0,0,0,,{\rZH\blur0.8}我现在舒服多了。
+Dialogue: 1,1:20:47.76,1:20:49.26,EN,,0,0,0,,{\rEN\blur0.8}I feel much better now.
+Dialogue: 2,1:20:53.31,1:20:55.48,ZH,,0,0,0,,{\rZH\blur0.8}嘿，我看到了。
+Dialogue: 1,1:20:53.31,1:20:55.48,EN,,0,0,0,,{\rEN\blur0.8}Hey, I saw it.
+Dialogue: 2,1:20:55.56,1:20:57.19,ZH,,0,0,0,,{\rZH\blur0.8}这六个数字可以买彩票。
+Dialogue: 1,1:20:55.56,1:20:57.19,EN,,0,0,0,,{\rEN\blur0.8}You can buy lottery tickets using these six numbers.
+Dialogue: 2,1:20:57.27,1:20:59.48,ZH,,0,0,0,,{\rZH\blur0.8}头奖等着你。
+Dialogue: 1,1:20:57.27,1:20:59.48,EN,,0,0,0,,{\rEN\blur0.8}The grand prize is waiting for you.
+Dialogue: 2,1:21:04.36,1:21:05.49,ZH,,0,0,0,,{\rZH\blur0.8}哪六个数字？
+Dialogue: 1,1:21:04.36,1:21:05.49,EN,,0,0,0,,{\rEN\blur0.8}What numbers are they?
+Dialogue: 2,1:21:06.11,1:21:07.32,ZH,,0,0,0,,{\rZH\blur0.8}等等。
+Dialogue: 1,1:21:06.11,1:21:07.32,EN,,0,0,0,,{\rEN\blur0.8}Hold on.
+Dialogue: 2,1:21:11.20,1:21:14.29,ZH,,0,0,0,,{\rZH\blur0.8}-一个六，五个八。  -我用过这组数字很多次。
+Dialogue: 1,1:21:11.20,1:21:14.29,EN,,0,0,0,,{\rEN\blur0.8}-One six and five eights.   -I used these numbers a lot.
+Dialogue: 2,1:21:14.37,1:21:15.58,ZH,,0,0,0,,{\rZH\blur0.8}但从来没中过。
+Dialogue: 1,1:21:14.37,1:21:15.58,EN,,0,0,0,,{\rEN\blur0.8}But I never won.
+Dialogue: 2,1:21:16.12,1:21:17.50,ZH,,0,0,0,,{\rZH\blur0.8}不过我会继续试。
+Dialogue: 1,1:21:16.12,1:21:17.50,EN,,0,0,0,,{\rEN\blur0.8}But I'll keep on trying.
+Dialogue: 2,1:21:22.67,1:21:24.17,ZH,,0,0,0,,{\rZH\blur0.8}-好了没有？  -好了。
+Dialogue: 1,1:21:22.67,1:21:24.17,EN,,0,0,0,,{\rEN\blur0.8}-Are you done yet?   -Done.
+Dialogue: 2,1:21:24.25,1:21:26.09,ZH,,0,0,0,,{\rZH\blur0.8}我就知道你能行！
+Dialogue: 1,1:21:24.25,1:21:26.09,EN,,0,0,0,,{\rEN\blur0.8}I knew you could do it!
+Dialogue: 2,1:21:26.63,1:21:28.26,ZH,,0,0,0,,{\rZH\blur0.8}这么简单，下次别问我。
+Dialogue: 1,1:21:26.63,1:21:28.26,EN,,0,0,0,,{\rEN\blur0.8}Next time, don't ask me if it's so easy.
+Dialogue: 2,1:21:28.34,1:21:32.60,ZH,,0,0,0,,{\rZH\blur0.8}-那问谁？  -我早介绍华生给你了。
+Dialogue: 1,1:21:28.34,1:21:32.60,EN,,0,0,0,,{\rEN\blur0.8}-Whom should I ask then?   -I'd introduced you to Watson.
+Dialogue: 2,1:21:37.06,1:21:38.06,ZH,,0,0,0,,{\rZH\blur0.8}别开玩笑了。
+Dialogue: 1,1:21:37.06,1:21:38.06,EN,,0,0,0,,{\rEN\blur0.8}Stop joking.
+Dialogue: 2,1:21:38.60,1:21:40.65,ZH,,0,0,0,,{\rZH\blur0.8}让我听听保险库。
+Dialogue: 1,1:21:38.60,1:21:40.65,EN,,0,0,0,,{\rEN\blur0.8}Let me listen to the vault.
+Dialogue: 2,1:21:43.19,1:21:44.15,ZH,,0,0,0,,{\rZH\blur0.8}左转到32。
+Dialogue: 1,1:21:43.19,1:21:44.15,EN,,0,0,0,,{\rEN\blur0.8}Turn left to 32.
+Dialogue: 2,1:21:44.23,1:21:45.44,ZH,,0,0,0,,{\rZH\blur0.8}然后右转到15。
+Dialogue: 1,1:21:44.23,1:21:45.44,EN,,0,0,0,,{\rEN\blur0.8}Then turn right to 15.
+Dialogue: 2,1:21:45.53,1:21:47.28,ZH,,0,0,0,,{\rZH\blur0.8}真有这么简单？
+Dialogue: 1,1:21:45.53,1:21:47.28,EN,,0,0,0,,{\rEN\blur0.8}Is it really this easy?
+Dialogue: 2,1:21:47.36,1:21:48.99,ZH,,0,0,0,,{\rZH\blur0.8}左转到13，停。
+Dialogue: 1,1:21:47.36,1:21:48.99,EN,,0,0,0,,{\rEN\blur0.8}Turn left to 13, stop.
+Dialogue: 2,1:21:50.45,1:21:53.49,ZH,,0,0,0,,{\rZH\blur0.8}现在把听诊器贴在下锁上。
+Dialogue: 1,1:21:50.45,1:21:53.49,EN,,0,0,0,,{\rEN\blur0.8}Now put your stethoscope on the lower lock.
+Dialogue: 2,1:21:54.41,1:21:55.83,ZH,,0,0,0,,{\rZH\blur0.8}你在干什么？
+Dialogue: 1,1:21:54.41,1:21:55.83,EN,,0,0,0,,{\rEN\blur0.8}What are you doing?
+Dialogue: 2,1:21:55.87,1:21:59.42,ZH,,0,0,0,,{\rZH\blur0.8}-DJ怎么能不说话？  -你还想不想偷那幅画？
+Dialogue: 1,1:21:55.87,1:21:59.42,EN,,0,0,0,,{\rEN\blur0.8}-How can a DJ stop talking?   -Do you want to steal that painting?
+Dialogue: 2,1:22:01.62,1:22:02.50,ZH,,0,0,0,,{\rZH\blur0.8}我现在正在直播。
+Dialogue: 1,1:22:01.62,1:22:02.50,EN,,0,0,0,,{\rEN\blur0.8}I'm on the air now.
+Dialogue: 2,1:22:03.04,1:22:05.63,ZH,,0,0,0,,{\rZH\blur0.8}-直播？  -小朋友们好。
+Dialogue: 1,1:22:03.04,1:22:05.63,EN,,0,0,0,,{\rEN\blur0.8}-On the air?   -Hello, kids.
+Dialogue: 2,1:22:05.71,1:22:08.01,ZH,,0,0,0,,{\rZH\blur0.8}我们来聊聊昨天的谜语。
+Dialogue: 1,1:22:05.71,1:22:08.01,EN,,0,0,0,,{\rEN\blur0.8}Let's talk about the riddle from yesterday.
+Dialogue: 2,1:22:08.09,1:22:11.93,ZH,,0,0,0,,{\rZH\blur0.8}谜面是：什么房间没有墙？
+Dialogue: 1,1:22:08.09,1:22:11.93,EN,,0,0,0,,{\rEN\blur0.8}The riddle was, what room has no walls?
+Dialogue: 2,1:22:12.01,1:22:13.51,ZH,,0,0,0,,{\rZH\blur0.8}好，现在我来公布答案。
+Dialogue: 1,1:22:12.01,1:22:13.51,EN,,0,0,0,,{\rEN\blur0.8}Okay, I'm going to tell you the answer now.
+Dialogue: 2,1:22:13.60,1:22:15.14,ZH,,0,0,0,,{\rZH\blur0.8}答案是“蘑菇”。
+Dialogue: 1,1:22:13.60,1:22:15.14,EN,,0,0,0,,{\rEN\blur0.8}The answer is "mushroom. "
+Dialogue: 2,1:22:15.22,1:22:17.56,ZH,,0,0,0,,{\rZH\blur0.8}现在，收不清楚的听众，
+Dialogue: 1,1:22:15.22,1:22:17.56,EN,,0,0,0,,{\rEN\blur0.8}Now, for those who are not receiving us well,
+Dialogue: 2,1:22:17.64,1:22:19.23,ZH,,0,0,0,,{\rZH\blur0.8}因为离得远，
+Dialogue: 1,1:22:17.64,1:22:19.23,EN,,0,0,0,,{\rEN\blur0.8}because you're far away,
+Dialogue: 2,1:22:19.31,1:22:20.98,ZH,,0,0,0,,{\rZH\blur0.8}请把收音机调到FM80。
+Dialogue: 1,1:22:19.31,1:22:20.98,EN,,0,0,0,,{\rEN\blur0.8}please turn your radio to FM80.
+Dialogue: 2,1:22:21.06,1:22:22.15,ZH,,0,0,0,,{\rZH\blur0.8}FM80。
+Dialogue: 1,1:22:21.06,1:22:22.15,EN,,0,0,0,,{\rEN\blur0.8}FM80.
+Dialogue: 2,1:22:22.23,1:22:23.52,ZH,,0,0,0,,{\rZH\blur0.8}-是80。  -转两次，
+Dialogue: 1,1:22:22.23,1:22:23.52,EN,,0,0,0,,{\rEN\blur0.8}-It's 80.   -Turn twice
+Dialogue: 2,1:22:23.60,1:22:24.56,ZH,,0,0,0,,{\rZH\blur0.8}信号会更清楚。
+Dialogue: 1,1:22:23.60,1:22:24.56,EN,,0,0,0,,{\rEN\blur0.8}to get a clearer reception.
+Dialogue: 2,1:22:24.65,1:22:25.65,ZH,,0,0,0,,{\rZH\blur0.8}那我们现在怎么办？
+Dialogue: 1,1:22:24.65,1:22:25.65,EN,,0,0,0,,{\rEN\blur0.8}So what do we do now?
+Dialogue: 2,1:22:25.73,1:22:27.78,ZH,,0,0,0,,{\rZH\blur0.8}不能停在这里，我们猜下一个谜语。
+Dialogue: 1,1:22:25.73,1:22:27.78,EN,,0,0,0,,{\rEN\blur0.8}We can't stop here. Let's solve the next riddle.
+Dialogue: 2,1:22:27.86,1:22:31.20,ZH,,0,0,0,,{\rZH\blur0.8}今天的谜语是：什么东西是粉色的，藏在草莓地里？
+Dialogue: 1,1:22:27.86,1:22:31.20,EN,,0,0,0,,{\rEN\blur0.8}Today's riddle is, what's pink and hides in a strawberry patch?
+Dialogue: 2,1:22:31.28,1:22:32.28,ZH,,0,0,0,,{\rZH\blur0.8}你们猜得到吗？
+Dialogue: 1,1:22:31.28,1:22:32.28,EN,,0,0,0,,{\rEN\blur0.8}Can you guess the answer?
+Dialogue: 2,1:22:32.36,1:22:33.24,ZH,,0,0,0,,{\rZH\blur0.8}请稍等。
+Dialogue: 1,1:22:32.36,1:22:33.24,EN,,0,0,0,,{\rEN\blur0.8}Please wait a bit.
+Dialogue: 2,1:22:33.32,1:22:35.20,ZH,,0,0,0,,{\rZH\blur0.8}稍后公布答案。
+Dialogue: 1,1:22:33.32,1:22:35.20,EN,,0,0,0,,{\rEN\blur0.8}I'll give you the answer later.
+Dialogue: 2,1:22:35.28,1:22:36.41,ZH,,0,0,0,,{\rZH\blur0.8}就到这里。
+Dialogue: 1,1:22:35.28,1:22:36.41,EN,,0,0,0,,{\rEN\blur0.8}That'sall.
+Dialogue: 2,1:22:38.87,1:22:39.83,ZH,,0,0,0,,{\rZH\blur0.8}你来得正好。
+Dialogue: 1,1:22:38.87,1:22:39.83,EN,,0,0,0,,{\rEN\blur0.8}You came just in time.
+Dialogue: 2,1:22:39.91,1:22:41.50,ZH,,0,0,0,,{\rZH\blur0.8}我在帮香港伤残儿童协会
+Dialogue: 1,1:22:39.91,1:22:41.50,EN,,0,0,0,,{\rEN\blur0.8}I'm helping the Hong Kong Federation for Handicapped Children
+Dialogue: 2,1:22:41.58,1:22:42.50,ZH,,0,0,0,,{\rZH\blur0.8}做慈善广播。
+Dialogue: 1,1:22:41.58,1:22:42.50,EN,,0,0,0,,{\rEN\blur0.8}do a charity broadcast.
+Dialogue: 2,1:22:42.58,1:22:44.08,ZH,,0,0,0,,{\rZH\blur0.8}那些孩子真可爱。
+Dialogue: 1,1:22:42.58,1:22:44.08,EN,,0,0,0,,{\rEN\blur0.8}The children are really cute.
+Dialogue: 2,1:22:44.17,1:22:46.00,ZH,,0,0,0,,{\rZH\blur0.8}幸好你来了。我要去趟厕所。
+Dialogue: 1,1:22:44.17,1:22:46.00,EN,,0,0,0,,{\rEN\blur0.8}I'm lucky you're here. I need to go to the toilet.
+Dialogue: 2,1:22:46.09,1:22:47.50,ZH,,0,0,0,,{\rZH\blur0.8}你帮我顶一会儿好吗？我马上回来。
+Dialogue: 1,1:22:46.09,1:22:47.50,EN,,0,0,0,,{\rEN\blur0.8}Can you help me for a while? I'll be right back.
+Dialogue: 2,1:22:47.59,1:22:49.21,ZH,,0,0,0,,{\rZH\blur0.8}幸好你不是来偷画的。
+Dialogue: 1,1:22:47.59,1:22:49.21,EN,,0,0,0,,{\rEN\blur0.8}Good thing you're not stealing the painting.
+Dialogue: 2,1:22:49.30,1:22:50.59,ZH,,0,0,0,,{\rZH\blur0.8}要是他们换了保安系统，
+Dialogue: 1,1:22:49.30,1:22:50.59,EN,,0,0,0,,{\rEN\blur0.8}If they change the security system,
+Dialogue: 2,1:22:50.67,1:22:52.97,ZH,,0,0,0,,{\rZH\blur0.8}你一拿起画，金库门就会自动锁上。
+Dialogue: 1,1:22:50.67,1:22:52.97,EN,,0,0,0,,{\rEN\blur0.8}as soon as you lift the painting, the vault door will automatically lock.
+Dialogue: 2,1:22:54.72,1:22:57.18,ZH,,0,0,0,,{\rZH\blur0.8}小朋友们好。
+Dialogue: 1,1:22:54.72,1:22:57.18,EN,,0,0,0,,{\rEN\blur0.8}Hello, kids.
+Dialogue: 2,1:22:57.26,1:22:59.06,ZH,,0,0,0,,{\rZH\blur0.8}我是小丑波波。
+Dialogue: 1,1:22:57.26,1:22:59.06,EN,,0,0,0,,{\rEN\blur0.8}I'm Bobo the clown.
+Dialogue: 2,1:23:00.35,1:23:02.69,ZH,,0,0,0,,{\rZH\blur0.8}好，谜语的答案来了。
+Dialogue: 1,1:23:00.35,1:23:02.69,EN,,0,0,0,,{\rEN\blur0.8}Well, here's the answer to the riddle.
+Dialogue: 2,1:23:02.77,1:23:04.98,ZH,,0,0,0,,{\rZH\blur0.8}什么是粉色的，藏在草莓地里？
+Dialogue: 1,1:23:02.77,1:23:04.98,EN,,0,0,0,,{\rEN\blur0.8}What's pink and hides in strawberry patches?
+Dialogue: 2,1:23:05.06,1:23:06.40,ZH,,0,0,0,,{\rZH\blur0.8}是粉色的大象。
+Dialogue: 1,1:23:05.06,1:23:06.40,EN,,0,0,0,,{\rEN\blur0.8}It's a pink elephant.
+Dialogue: 2,1:23:37.18,1:23:38.18,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,1:23:37.18,1:23:38.18,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,1:23:44.90,1:23:45.77,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,1:23:44.90,1:23:45.77,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,1:23:48.98,1:23:50.86,ZH,,0,0,0,,{\rZH\blur0.8}钵仔糕，你在吗？
+Dialogue: 1,1:23:48.98,1:23:50.86,EN,,0,0,0,,{\rEN\blur0.8}Red Bean Pudding, are you there?
+Dialogue: 2,1:24:15.84,1:24:17.18,ZH,,0,0,0,,{\rZH\blur0.8}嘿，站住！你来这里干什么？
+Dialogue: 1,1:24:15.84,1:24:17.18,EN,,0,0,0,,{\rEN\blur0.8}Hey, hold it! What are you doing here?
+Dialogue: 2,1:24:37.91,1:24:38.91,ZH,,0,0,0,,{\rZH\blur0.8}阿占！
+Dialogue: 1,1:24:37.91,1:24:38.91,EN,,0,0,0,,{\rEN\blur0.8}James!
+Dialogue: 2,1:24:40.24,1:24:41.12,ZH,,0,0,0,,{\rZH\blur0.8}阿占！
+Dialogue: 1,1:24:40.24,1:24:41.12,EN,,0,0,0,,{\rEN\blur0.8}James!
+Dialogue: 2,1:24:45.46,1:24:46.50,ZH,,0,0,0,,{\rZH\blur0.8}阿占！
+Dialogue: 1,1:24:45.46,1:24:46.50,EN,,0,0,0,,{\rEN\blur0.8}James!
+Dialogue: 2,1:25:05.10,1:25:06.02,ZH,,0,0,0,,{\rZH\blur0.8}阿占！
+Dialogue: 1,1:25:05.10,1:25:06.02,EN,,0,0,0,,{\rEN\blur0.8}James!
+Dialogue: 2,1:25:06.06,1:25:07.23,ZH,,0,0,0,,{\rZH\blur0.8}等等。
+Dialogue: 1,1:25:06.06,1:25:07.23,EN,,0,0,0,,{\rEN\blur0.8}Hold on.
+Dialogue: 2,1:25:30.46,1:25:31.71,ZH,,0,0,0,,{\rZH\blur0.8}怎么没爆炸？
+Dialogue: 1,1:25:30.46,1:25:31.71,EN,,0,0,0,,{\rEN\blur0.8}Why didn't it explode?
+Dialogue: 2,1:25:31.79,1:25:32.71,ZH,,0,0,0,,{\rZH\blur0.8}阿占！
+Dialogue: 1,1:25:31.79,1:25:32.71,EN,,0,0,0,,{\rEN\blur0.8}James!
+Dialogue: 2,1:25:34.34,1:25:36.26,ZH,,0,0,0,,{\rZH\blur0.8}该死！接错线了。
+Dialogue: 1,1:25:34.34,1:25:36.26,EN,,0,0,0,,{\rEN\blur0.8}Damn it! Wrong connection.
+Dialogue: 2,1:25:36.84,1:25:39.88,ZH,,0,0,0,,{\rZH\blur0.8}阿占，你没事吧？答我！
+Dialogue: 1,1:25:36.84,1:25:39.88,EN,,0,0,0,,{\rEN\blur0.8}James, are you all right? Answer me!
+Dialogue: 2,1:25:39.97,1:25:42.30,ZH,,0,0,0,,{\rZH\blur0.8}阿占，别吓我。
+Dialogue: 1,1:25:39.97,1:25:42.30,EN,,0,0,0,,{\rEN\blur0.8}James, don't scare me.
+Dialogue: 2,1:25:42.39,1:25:44.56,ZH,,0,0,0,,{\rZH\blur0.8}妈的，线都接对了。
+Dialogue: 1,1:25:42.39,1:25:44.56,EN,,0,0,0,,{\rEN\blur0.8}Damn, it's all well-connected.
+Dialogue: 2,1:25:44.64,1:25:46.02,ZH,,0,0,0,,{\rZH\blur0.8}可为什么没爆炸？
+Dialogue: 1,1:25:44.64,1:25:46.02,EN,,0,0,0,,{\rEN\blur0.8}But why didn't it explode?
+Dialogue: 2,1:25:48.94,1:25:49.85,ZH,,0,0,0,,{\rZH\blur0.8}阿占。
+Dialogue: 1,1:25:48.94,1:25:49.85,EN,,0,0,0,,{\rEN\blur0.8}James.
+Dialogue: 2,1:25:52.48,1:25:53.36,ZH,,0,0,0,,{\rZH\blur0.8}谢谢。
+Dialogue: 1,1:25:52.48,1:25:53.36,EN,,0,0,0,,{\rEN\blur0.8}Thanks.
+Dialogue: 2,1:25:55.23,1:25:57.69,ZH,,0,0,0,,{\rZH\blur0.8}你怎么会有钥匙？你怎么会在这里？
+Dialogue: 1,1:25:55.23,1:25:57.69,EN,,0,0,0,,{\rEN\blur0.8}How come you have the keys? How come you're here?
+Dialogue: 2,1:25:57.78,1:25:59.70,ZH,,0,0,0,,{\rZH\blur0.8}炸药是你放的，怎么会炸到另一边？
+Dialogue: 1,1:25:57.78,1:25:59.70,EN,,0,0,0,,{\rEN\blur0.8}You put the explosive here, so why did it explode on the other side?
+Dialogue: 2,1:26:02.03,1:26:04.24,ZH,,0,0,0,,{\rZH\blur0.8}-接错线了。  -真的假的。
+Dialogue: 1,1:26:02.03,1:26:04.24,EN,,0,0,0,,{\rEN\blur0.8}-Wrong connection.   -Seriously.
+Dialogue: 2,1:26:04.99,1:26:07.54,ZH,,0,0,0,,{\rZH\blur0.8}不信我再示范一次。
+Dialogue: 1,1:26:04.99,1:26:07.54,EN,,0,0,0,,{\rEN\blur0.8}If you don't believe me, I'll show you again.
+Dialogue: 2,1:26:07.62,1:26:09.66,ZH,,0,0,0,,{\rZH\blur0.8}免了，走吧！
+Dialogue: 1,1:26:07.62,1:26:09.66,EN,,0,0,0,,{\rEN\blur0.8}No way, let's go!
+Dialogue: 2,1:26:09.75,1:26:11.50,ZH,,0,0,0,,{\rZH\blur0.8}喂，我是认真的。
+Dialogue: 1,1:26:09.75,1:26:11.50,EN,,0,0,0,,{\rEN\blur0.8}Hey, I'm serious.
+Dialogue: 2,1:26:11.58,1:26:13.04,ZH,,0,0,0,,{\rZH\blur0.8}上车，我示范给你看。
+Dialogue: 1,1:26:11.58,1:26:13.04,EN,,0,0,0,,{\rEN\blur0.8}Get in, and I'll show you.
+Dialogue: 2,1:26:20.05,1:26:21.64,ZH,,0,0,0,,{\rZH\blur0.8}看到他们了吗？
+Dialogue: 1,1:26:20.05,1:26:21.64,EN,,0,0,0,,{\rEN\blur0.8}Do you see them?
+Dialogue: 2,1:26:21.72,1:26:22.59,ZH,,0,0,0,,{\rZH\blur0.8}看到了。
+Dialogue: 1,1:26:21.72,1:26:22.59,EN,,0,0,0,,{\rEN\blur0.8}Yeah.
+Dialogue: 2,1:26:25.18,1:26:26.43,ZH,,0,0,0,,{\rZH\blur0.8}他们是人是鬼？
+Dialogue: 1,1:26:25.18,1:26:26.43,EN,,0,0,0,,{\rEN\blur0.8}Are they humans or ghosts?
+Dialogue: 2,1:26:29.10,1:26:29.98,ZH,,0,0,0,,{\rZH\blur0.8}是人！
+Dialogue: 1,1:26:29.10,1:26:29.98,EN,,0,0,0,,{\rEN\blur0.8}They are humans!
+Dialogue: 2,1:27:10.48,1:27:12.06,ZH,,0,0,0,,{\rZH\blur0.8}我用头撞它！
+Dialogue: 1,1:27:10.48,1:27:12.06,EN,,0,0,0,,{\rEN\blur0.8}I head butt it!
+Dialogue: 2,1:27:16.81,1:27:18.32,ZH,,0,0,0,,{\rZH\blur0.8}换位！
+Dialogue: 1,1:27:16.81,1:27:18.32,EN,,0,0,0,,{\rEN\blur0.8}Change position!
+Dialogue: 2,1:28:09.74,1:28:10.70,ZH,,0,0,0,,{\rZH\blur0.8}我用头撞它！
+Dialogue: 1,1:28:09.74,1:28:10.70,EN,,0,0,0,,{\rEN\blur0.8}I head butt it!
+Dialogue: 2,1:28:19.75,1:28:21.13,ZH,,0,0,0,,{\rZH\blur0.8}走！
+Dialogue: 1,1:28:19.75,1:28:21.13,EN,,0,0,0,,{\rEN\blur0.8}Let'sgo!
+Dialogue: 2,1:28:56.87,1:28:58.96,ZH,,0,0,0,,{\rZH\blur0.8}求你给我颗炸弹，炸死这小子。
+Dialogue: 1,1:28:56.87,1:28:58.96,EN,,0,0,0,,{\rEN\blur0.8}Please grant me a bomb to kill this kid.
+Dialogue: 2,1:29:02.67,1:29:04.38,ZH,,0,0,0,,{\rZH\blur0.8}又来！
+Dialogue: 1,1:29:02.67,1:29:04.38,EN,,0,0,0,,{\rEN\blur0.8}Not again!
+Dialogue: 2,1:29:21.44,1:29:23.65,ZH,,0,0,0,,{\rZH\blur0.8}战争过后，和平时代来临。
+Dialogue: 1,1:29:21.44,1:29:23.65,EN,,0,0,0,,{\rEN\blur0.8}After the war, the era of peace came.
+Dialogue: 2,1:29:23.73,1:29:24.82,ZH,,0,0,0,,{\rZH\blur0.8}太棒了！
+Dialogue: 1,1:29:23.73,1:29:24.82,EN,,0,0,0,,{\rEN\blur0.8}Super!
+Dialogue: 2,1:29:26.90,1:29:30.57,ZH,,0,0,0,,{\rZH\blur0.8}我们玩得正开心……
+Dialogue: 1,1:29:26.90,1:29:30.57,EN,,0,0,0,,{\rEN\blur0.8}We're having a wonderful time. . .
+Dialogue: 2,1:29:33.66,1:29:35.66,ZH,,0,0,0,,{\rZH\blur0.8}干爹，你一夜没睡？
+Dialogue: 1,1:29:33.66,1:29:35.66,EN,,0,0,0,,{\rEN\blur0.8}Dad, you didn't sleep all night?
+Dialogue: 2,1:29:36.29,1:29:37.58,ZH,,0,0,0,,{\rZH\blur0.8}我怎么睡得着？
+Dialogue: 1,1:29:36.29,1:29:37.58,EN,,0,0,0,,{\rEN\blur0.8}How could I?
+Dialogue: 2,1:29:37.66,1:29:38.54,ZH,,0,0,0,,{\rZH\blur0.8}我的画呢？
+Dialogue: 1,1:29:37.66,1:29:38.54,EN,,0,0,0,,{\rEN\blur0.8}Where's my painting?
+Dialogue: 2,1:29:39.04,1:29:40.42,ZH,,0,0,0,,{\rZH\blur0.8}在我这儿。
+Dialogue: 1,1:29:39.04,1:29:40.42,EN,,0,0,0,,{\rEN\blur0.8}It's with me.
+Dialogue: 2,1:29:41.21,1:29:44.30,ZH,,0,0,0,,{\rZH\blur0.8}想要就拿三千万来。
+Dialogue: 1,1:29:41.21,1:29:44.30,EN,,0,0,0,,{\rEN\blur0.8}If you want it, give me million for it.
+Dialogue: 2,1:29:44.84,1:29:45.71,ZH,,0,0,0,,{\rZH\blur0.8}你这混蛋！
+Dialogue: 1,1:29:44.84,1:29:45.71,EN,,0,0,0,,{\rEN\blur0.8}Damn you!
+Dialogue: 2,1:29:46.63,1:29:48.34,ZH,,0,0,0,,{\rZH\blur0.8}你怎么能这样跟干爹说话？
+Dialogue: 1,1:29:46.63,1:29:48.34,EN,,0,0,0,,{\rEN\blur0.8}How can you talk to your dad like that?
+Dialogue: 2,1:29:48.47,1:29:50.18,ZH,,0,0,0,,{\rZH\blur0.8}我现在不谈亲情。
+Dialogue: 1,1:29:48.47,1:29:50.18,EN,,0,0,0,,{\rEN\blur0.8}I'm not interested in family matters now.
+Dialogue: 2,1:29:50.72,1:29:53.26,ZH,,0,0,0,,{\rZH\blur0.8}那就谈生意。
+Dialogue: 1,1:29:50.72,1:29:53.26,EN,,0,0,0,,{\rEN\blur0.8}So let's talk business.
+Dialogue: 2,1:29:54.60,1:29:56.56,ZH,,0,0,0,,{\rZH\blur0.8}-你想怎么交易？  -来我这儿。
+Dialogue: 1,1:29:54.60,1:29:56.56,EN,,0,0,0,,{\rEN\blur0.8}-How do you want it?   -Come to my place.
+Dialogue: 2,1:30:09.20,1:30:10.28,ZH,,0,0,0,,{\rZH\blur0.8}我们去哪儿？
+Dialogue: 1,1:30:09.20,1:30:10.28,EN,,0,0,0,,{\rEN\blur0.8}Where are we going?
+Dialogue: 2,1:30:12.70,1:30:14.20,ZH,,0,0,0,,{\rZH\blur0.8}日本还是美国。
+Dialogue: 1,1:30:12.70,1:30:14.20,EN,,0,0,0,,{\rEN\blur0.8}Japan or the United States.
+Dialogue: 2,1:30:14.28,1:30:15.41,ZH,,0,0,0,,{\rZH\blur0.8}你想去哪儿我们就去哪儿。
+Dialogue: 1,1:30:14.28,1:30:15.41,EN,,0,0,0,,{\rEN\blur0.8}We'll go wherever you want to go.
+Dialogue: 2,1:30:15.99,1:30:17.33,ZH,,0,0,0,,{\rZH\blur0.8}你最好说话算话。
+Dialogue: 1,1:30:15.99,1:30:17.33,EN,,0,0,0,,{\rEN\blur0.8}You'd better keep your promise.
+Dialogue: 2,1:30:17.37,1:30:19.79,ZH,,0,0,0,,{\rZH\blur0.8}希望你别再放我鸽子。
+Dialogue: 1,1:30:17.37,1:30:19.79,EN,,0,0,0,,{\rEN\blur0.8}I hope you won't leave me standing again.
+Dialogue: 2,1:30:21.08,1:30:21.92,ZH,,0,0,0,,{\rZH\blur0.8}当然。
+Dialogue: 1,1:30:21.08,1:30:21.92,EN,,0,0,0,,{\rEN\blur0.8}Sure.
+Dialogue: 2,1:30:22.42,1:30:24.54,ZH,,0,0,0,,{\rZH\blur0.8}在清水湾码头等我们。
+Dialogue: 1,1:30:22.42,1:30:24.54,EN,,0,0,0,,{\rEN\blur0.8}Wait for us at the Clearwater Bay Pier.
+Dialogue: 2,1:30:24.63,1:30:26.05,ZH,,0,0,0,,{\rZH\blur0.8}我们办完事就去接你。
+Dialogue: 1,1:30:24.63,1:30:26.05,EN,,0,0,0,,{\rEN\blur0.8}We'll come pick you up as soon as we're finished.
+Dialogue: 2,1:30:28.92,1:30:30.01,ZH,,0,0,0,,{\rZH\blur0.8}说定了？
+Dialogue: 1,1:30:28.92,1:30:30.01,EN,,0,0,0,,{\rEN\blur0.8}Promise?
+Dialogue: 2,1:31:06.50,1:31:07.88,ZH,,0,0,0,,{\rZH\blur0.8}-干爹。  -干爹。
+Dialogue: 1,1:31:06.50,1:31:07.88,EN,,0,0,0,,{\rEN\blur0.8}-Dad.
+Dialogue: 2,1:31:10.92,1:31:12.22,ZH,,0,0,0,,{\rZH\blur0.8}我的儿子们。
+Dialogue: 1,1:31:10.92,1:31:12.22,EN,,0,0,0,,{\rEN\blur0.8}My sons.
+Dialogue: 2,1:31:13.34,1:31:14.39,ZH,,0,0,0,,{\rZH\blur0.8}画呢？
+Dialogue: 1,1:31:13.34,1:31:14.39,EN,,0,0,0,,{\rEN\blur0.8}Where's the painting?
+Dialogue: 2,1:31:17.10,1:31:19.89,ZH,,0,0,0,,{\rZH\blur0.8}你们都是我的儿子，怎能这样对我？
+Dialogue: 1,1:31:17.10,1:31:19.89,EN,,0,0,0,,{\rEN\blur0.8}You're all my sons. How could you do this to me?
+Dialogue: 2,1:31:19.98,1:31:21.10,ZH,,0,0,0,,{\rZH\blur0.8}怎么了？
+Dialogue: 1,1:31:19.98,1:31:21.10,EN,,0,0,0,,{\rEN\blur0.8}What'swrong?
+Dialogue: 2,1:31:21.73,1:31:24.23,ZH,,0,0,0,,{\rZH\blur0.8}我们不会忘记你的养育之恩。
+Dialogue: 1,1:31:21.73,1:31:24.23,EN,,0,0,0,,{\rEN\blur0.8}We'll never forget how you raised us.
+Dialogue: 2,1:31:27.15,1:31:28.52,ZH,,0,0,0,,{\rZH\blur0.8}我知道你们很孝顺。
+Dialogue: 1,1:31:27.15,1:31:28.52,EN,,0,0,0,,{\rEN\blur0.8}I know you're very filial.
+Dialogue: 2,1:31:29.07,1:31:30.99,ZH,,0,0,0,,{\rZH\blur0.8}可我只要我的画。
+Dialogue: 1,1:31:29.07,1:31:30.99,EN,,0,0,0,,{\rEN\blur0.8}But I just want my painting.
+Dialogue: 2,1:31:31.07,1:31:32.20,ZH,,0,0,0,,{\rZH\blur0.8}如果我们把画给你，
+Dialogue: 1,1:31:31.07,1:31:32.20,EN,,0,0,0,,{\rEN\blur0.8}If we give you the painting,
+Dialogue: 2,1:31:32.32,1:31:35.53,ZH,,0,0,0,,{\rZH\blur0.8}-你会放我们走吗？  -这幅画是我的命。
+Dialogue: 1,1:31:32.32,1:31:35.53,EN,,0,0,0,,{\rEN\blur0.8}-will you let us go?   -This painting is my life.
+Dialogue: 2,1:31:36.45,1:31:39.04,ZH,,0,0,0,,{\rZH\blur0.8}把画还给我，我一定放你们走。
+Dialogue: 1,1:31:36.45,1:31:39.04,EN,,0,0,0,,{\rEN\blur0.8}If you give it back to me, I'll surely let you go.
+Dialogue: 2,1:31:39.12,1:31:40.20,ZH,,0,0,0,,{\rZH\blur0.8}真的？
+Dialogue: 1,1:31:39.12,1:31:40.20,EN,,0,0,0,,{\rEN\blur0.8}Really?
+Dialogue: 2,1:31:40.79,1:31:41.79,ZH,,0,0,0,,{\rZH\blur0.8}你真好心。
+Dialogue: 1,1:31:40.79,1:31:41.79,EN,,0,0,0,,{\rEN\blur0.8}You're really kind.
+Dialogue: 2,1:31:42.29,1:31:43.75,ZH,,0,0,0,,{\rZH\blur0.8}谢谢你还我们自由。
+Dialogue: 1,1:31:42.29,1:31:43.75,EN,,0,0,0,,{\rEN\blur0.8}Thanks for giving us freedom.
+Dialogue: 2,1:31:43.83,1:31:45.71,ZH,,0,0,0,,{\rZH\blur0.8}也谢谢你没杀我们。
+Dialogue: 1,1:31:43.83,1:31:45.71,EN,,0,0,0,,{\rEN\blur0.8}Also, thanks for not killing us.
+Dialogue: 2,1:31:47.04,1:31:48.38,ZH,,0,0,0,,{\rZH\blur0.8}那么，钱呢？
+Dialogue: 1,1:31:47.04,1:31:48.38,EN,,0,0,0,,{\rEN\blur0.8}Well, where's the money?
+Dialogue: 2,1:32:10.11,1:32:13.19,ZH,,0,0,0,,{\rZH\blur0.8}我养大你们俩，没想到你们这么狠。
+Dialogue: 1,1:32:10.11,1:32:13.19,EN,,0,0,0,,{\rEN\blur0.8}I raised you two, but I never thought you could be so cruel.
+Dialogue: 2,1:32:13.78,1:32:15.61,ZH,,0,0,0,,{\rZH\blur0.8}今天我非除掉你们俩不可。
+Dialogue: 1,1:32:13.78,1:32:15.61,EN,,0,0,0,,{\rEN\blur0.8}I must exterminate you two today.
+Dialogue: 2,1:32:16.91,1:32:18.49,ZH,,0,0,0,,{\rZH\blur0.8}不要啊！
+Dialogue: 1,1:32:16.91,1:32:18.49,EN,,0,0,0,,{\rEN\blur0.8}Please don't!
+Dialogue: 2,1:32:22.04,1:32:23.12,ZH,,0,0,0,,{\rZH\blur0.8}钵仔糕！
+Dialogue: 1,1:32:22.04,1:32:23.12,EN,,0,0,0,,{\rEN\blur0.8}Red Bean Pudding!
+Dialogue: 2,1:33:18.88,1:33:20.68,ZH,,0,0,0,,{\rZH\blur0.8}是防弹衣，怎样？
+Dialogue: 1,1:33:18.88,1:33:20.68,EN,,0,0,0,,{\rEN\blur0.8}It's a bulletproof vest, so what?
+Dialogue: 2,1:33:21.26,1:33:22.72,ZH,,0,0,0,,{\rZH\blur0.8}搞什么鬼！
+Dialogue: 1,1:33:21.26,1:33:22.72,EN,,0,0,0,,{\rEN\blur0.8}What the hell!
+Dialogue: 2,1:33:24.60,1:33:26.35,ZH,,0,0,0,,{\rZH\blur0.8}原来你是装瘸。
+Dialogue: 1,1:33:24.60,1:33:26.35,EN,,0,0,0,,{\rEN\blur0.8}So you pretended to be disabled.
+Dialogue: 2,1:33:26.85,1:33:28.56,ZH,,0,0,0,,{\rZH\blur0.8}我要是不装瘸，
+Dialogue: 1,1:33:26.85,1:33:28.56,EN,,0,0,0,,{\rEN\blur0.8}If I didn't pretend to be disabled,
+Dialogue: 2,1:33:28.64,1:33:29.98,ZH,,0,0,0,,{\rZH\blur0.8}你就不会跟我合作。
+Dialogue: 1,1:33:28.64,1:33:29.98,EN,,0,0,0,,{\rEN\blur0.8}you wouldn't join me.
+Dialogue: 2,1:33:30.48,1:33:32.15,ZH,,0,0,0,,{\rZH\blur0.8}我要是不装瘸，
+Dialogue: 1,1:33:30.48,1:33:32.15,EN,,0,0,0,,{\rEN\blur0.8}If I didn't pretend to be disabled,
+Dialogue: 2,1:33:32.23,1:33:33.69,ZH,,0,0,0,,{\rZH\blur0.8}我回来时早就被他杀了。
+Dialogue: 1,1:33:32.23,1:33:33.69,EN,,0,0,0,,{\rEN\blur0.8}when I came back, he would have killed me.
+Dialogue: 2,1:33:34.40,1:33:37.32,ZH,,0,0,0,,{\rZH\blur0.8}我让你伤心流泪了吗？
+Dialogue: 1,1:33:34.40,1:33:37.32,EN,,0,0,0,,{\rEN\blur0.8}Did I make you sad and cry?
+Dialogue: 2,1:33:37.40,1:33:38.40,ZH,,0,0,0,,{\rZH\blur0.8}红豆怎么办？
+Dialogue: 1,1:33:37.40,1:33:38.40,EN,,0,0,0,,{\rEN\blur0.8}What about Red Bean?
+Dialogue: 2,1:33:38.49,1:33:40.36,ZH,,0,0,0,,{\rZH\blur0.8}-我会跟她解释。  -去死吧！
+Dialogue: 1,1:33:38.49,1:33:40.36,EN,,0,0,0,,{\rEN\blur0.8}-I'll explain to her.   -Go to hell!
+Dialogue: 2,1:33:40.99,1:33:42.03,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,1:33:40.99,1:33:42.03,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,1:33:42.66,1:33:43.66,ZH,,0,0,0,,{\rZH\blur0.8}干爹呢？
+Dialogue: 1,1:33:42.66,1:33:43.66,EN,,0,0,0,,{\rEN\blur0.8}Where'sDad?
+Dialogue: 2,1:34:23.66,1:34:24.53,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,1:34:23.66,1:34:24.53,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,1:35:41.11,1:35:42.44,ZH,,0,0,0,,{\rZH\blur0.8}混蛋！
+Dialogue: 1,1:35:41.11,1:35:42.44,EN,,0,0,0,,{\rEN\blur0.8}Damn you!
+Dialogue: 2,1:35:42.99,1:35:44.40,ZH,,0,0,0,,{\rZH\blur0.8}真画在哪儿？
+Dialogue: 1,1:35:42.99,1:35:44.40,EN,,0,0,0,,{\rEN\blur0.8}Where's the real painting?
+Dialogue: 2,1:36:03.68,1:36:05.80,ZH,,0,0,0,,{\rZH\blur0.8}杀了他，别弄坏画！
+Dialogue: 1,1:36:03.68,1:36:05.80,EN,,0,0,0,,{\rEN\blur0.8}Kill him, but don't spoil the painting!
+Dialogue: 2,1:36:56.56,1:36:57.94,ZH,,0,0,0,,{\rZH\blur0.8}喂！
+Dialogue: 1,1:36:56.56,1:36:57.94,EN,,0,0,0,,{\rEN\blur0.8}Hey!
+Dialogue: 2,1:38:23.15,1:38:24.52,ZH,,0,0,0,,{\rZH\blur0.8}-你晕了吗？  -晕了。
+Dialogue: 1,1:38:23.15,1:38:24.52,EN,,0,0,0,,{\rEN\blur0.8}-Are you dizzy?   -Yes, Iam.
+Dialogue: 2,1:38:33.53,1:38:35.62,ZH,,0,0,0,,{\rZH\blur0.8}-你买保险了吗？  -去你的！
+Dialogue: 1,1:38:33.53,1:38:35.62,EN,,0,0,0,,{\rEN\blur0.8}-Do you have insurance?   -Go to hell!
+Dialogue: 2,1:38:39.08,1:38:40.62,ZH,,0,0,0,,{\rZH\blur0.8}庄家赢！
+Dialogue: 1,1:38:39.08,1:38:40.62,EN,,0,0,0,,{\rEN\blur0.8}The banker wins!
+Dialogue: 2,1:38:48.67,1:38:50.26,ZH,,0,0,0,,{\rZH\blur0.8}这么多A！
+Dialogue: 1,1:38:48.67,1:38:50.26,EN,,0,0,0,,{\rEN\blur0.8}So many Aces!
+Dialogue: 2,1:38:50.88,1:38:53.76,ZH,,0,0,0,,{\rZH\blur0.8}-你肯定有艾滋。  -没你多。
+Dialogue: 1,1:38:50.88,1:38:53.76,EN,,0,0,0,,{\rEN\blur0.8}-You must have AIDS.   -Not as many as you.
+Dialogue: 2,1:38:53.84,1:38:55.14,ZH,,0,0,0,,{\rZH\blur0.8}我帮你检查。
+Dialogue: 1,1:38:53.84,1:38:55.14,EN,,0,0,0,,{\rEN\blur0.8}I'll check for you.
+Dialogue: 2,1:39:01.44,1:39:04.15,ZH,,0,0,0,,{\rZH\blur0.8}妈的，你毁了我最好的西装！
+Dialogue: 1,1:39:01.44,1:39:04.15,EN,,0,0,0,,{\rEN\blur0.8}Damn, you ruined my best suit!
+Dialogue: 2,1:39:48.69,1:39:50.15,ZH,,0,0,0,,{\rZH\blur0.8}是腐蚀性液体。
+Dialogue: 1,1:39:48.69,1:39:50.15,EN,,0,0,0,,{\rEN\blur0.8}It's a corrosive fluid.
+Dialogue: 2,1:39:52.07,1:39:53.99,ZH,,0,0,0,,{\rZH\blur0.8}我喝了腐蚀液。
+Dialogue: 1,1:39:52.07,1:39:53.99,EN,,0,0,0,,{\rEN\blur0.8}I drank the corrosive fluid.
+Dialogue: 2,1:40:05.67,1:40:06.96,ZH,,0,0,0,,{\rZH\blur0.8}叫救护车。
+Dialogue: 1,1:40:05.67,1:40:06.96,EN,,0,0,0,,{\rEN\blur0.8}Call the ambulance.
+Dialogue: 2,1:40:31.07,1:40:32.24,ZH,,0,0,0,,{\rZH\blur0.8}阿弥陀佛。
+Dialogue: 1,1:40:31.07,1:40:32.24,EN,,0,0,0,,{\rEN\blur0.8}Amitabha.
+Dialogue: 2,1:40:32.82,1:40:35.03,ZH,,0,0,0,,{\rZH\blur0.8}我叫你别玩火。
+Dialogue: 1,1:40:32.82,1:40:35.03,EN,,0,0,0,,{\rEN\blur0.8}I asked you not to play with fire.
+Dialogue: 2,1:40:38.20,1:40:39.58,ZH,,0,0,0,,{\rZH\blur0.8}我去叫消防车。
+Dialogue: 1,1:40:38.20,1:40:39.58,EN,,0,0,0,,{\rEN\blur0.8}I'll call the fire truck.
+Dialogue: 2,1:41:04.14,1:41:05.68,ZH,,0,0,0,,{\rZH\blur0.8}-住手！  -干爹，你想怎样？
+Dialogue: 1,1:41:04.14,1:41:05.68,EN,,0,0,0,,{\rEN\blur0.8}-Stop!   -What do you want, Dad?
+Dialogue: 2,1:41:05.81,1:41:07.98,ZH,,0,0,0,,{\rZH\blur0.8}-拿画！  -可画上有电。
+Dialogue: 1,1:41:05.81,1:41:07.98,EN,,0,0,0,,{\rEN\blur0.8}-Get the painting!   -But it has an electrical current.
+Dialogue: 2,1:41:08.81,1:41:11.27,ZH,,0,0,0,,{\rZH\blur0.8}-上啊！  -好。
+Dialogue: 1,1:41:08.81,1:41:11.27,EN,,0,0,0,,{\rEN\blur0.8}-Go on!   -Okay.
+Dialogue: 2,1:42:11.96,1:42:14.21,ZH,,0,0,0,,{\rZH\blur0.8}灭火！
+Dialogue: 1,1:42:11.96,1:42:14.21,EN,,0,0,0,,{\rEN\blur0.8}Put out the fire!
+Dialogue: 2,1:42:14.34,1:42:16.76,ZH,,0,0,0,,{\rZH\blur0.8}不行，没了！
+Dialogue: 1,1:42:14.34,1:42:16.76,EN,,0,0,0,,{\rEN\blur0.8}No, it's gone!
+Dialogue: 2,1:42:17.34,1:42:19.55,ZH,,0,0,0,,{\rZH\blur0.8}灭火！
+Dialogue: 1,1:42:17.34,1:42:19.55,EN,,0,0,0,,{\rEN\blur0.8}Put out the fire!
+Dialogue: 2,1:42:21.09,1:42:23.76,ZH,,0,0,0,,{\rZH\blur0.8}灭火！糟了。
+Dialogue: 1,1:42:21.09,1:42:23.76,EN,,0,0,0,,{\rEN\blur0.8}Put out the fire! This is bad.
+Dialogue: 2,1:42:26.06,1:42:27.18,ZH,,0,0,0,,{\rZH\blur0.8}干爹，你没事吧？
+Dialogue: 1,1:42:26.06,1:42:27.18,EN,,0,0,0,,{\rEN\blur0.8}Dad, are you all right?
+Dialogue: 2,1:42:27.81,1:42:28.93,ZH,,0,0,0,,{\rZH\blur0.8}疼不疼？
+Dialogue: 1,1:42:27.81,1:42:28.93,EN,,0,0,0,,{\rEN\blur0.8}Are you in pain?
+Dialogue: 2,1:42:29.02,1:42:30.19,ZH,,0,0,0,,{\rZH\blur0.8}来，坐下。
+Dialogue: 1,1:42:29.02,1:42:30.19,EN,,0,0,0,,{\rEN\blur0.8}Come on, take a seat.
+Dialogue: 2,1:42:32.77,1:42:33.90,ZH,,0,0,0,,{\rZH\blur0.8}我扶你。
+Dialogue: 1,1:42:32.77,1:42:33.90,EN,,0,0,0,,{\rEN\blur0.8}Let me help you.
+Dialogue: 2,1:42:33.98,1:42:34.90,ZH,,0,0,0,,{\rZH\blur0.8}来。
+Dialogue: 1,1:42:33.98,1:42:34.90,EN,,0,0,0,,{\rEN\blur0.8}Come on.
+Dialogue: 2,1:42:38.49,1:42:40.07,ZH,,0,0,0,,{\rZH\blur0.8}你们俩想害死我啊？
+Dialogue: 1,1:42:38.49,1:42:40.07,EN,,0,0,0,,{\rEN\blur0.8}You two want to kill me?
+Dialogue: 2,1:42:40.57,1:42:41.82,ZH,,0,0,0,,{\rZH\blur0.8}没那么容易！
+Dialogue: 1,1:42:40.57,1:42:41.82,EN,,0,0,0,,{\rEN\blur0.8}Not so easy!
+Dialogue: 2,1:42:43.28,1:42:44.45,ZH,,0,0,0,,{\rZH\blur0.8}干爹。
+Dialogue: 1,1:42:43.28,1:42:44.45,EN,,0,0,0,,{\rEN\blur0.8}Godfather.
+Dialogue: 2,1:42:45.45,1:42:48.04,ZH,,0,0,0,,{\rZH\blur0.8}-太好了。  -去跟我爸说吧。
+Dialogue: 1,1:42:45.45,1:42:48.04,EN,,0,0,0,,{\rEN\blur0.8}-That's great.   -Go and talk to my dad.
+Dialogue: 2,1:42:49.37,1:42:51.67,ZH,,0,0,0,,{\rZH\blur0.8}电影里的坏人最后都会被抓住。
+Dialogue: 1,1:42:49.37,1:42:51.67,EN,,0,0,0,,{\rEN\blur0.8}All movies have the bad guys caught at the end.
+Dialogue: 2,1:42:52.21,1:42:54.17,ZH,,0,0,0,,{\rZH\blur0.8}这部电影也不例外。
+Dialogue: 1,1:42:52.21,1:42:54.17,EN,,0,0,0,,{\rEN\blur0.8}This movie is no exception.
+Dialogue: 2,1:42:56.96,1:42:58.71,ZH,,0,0,0,,{\rZH\blur0.8}笑一个，来嘛。
+Dialogue: 1,1:42:56.96,1:42:58.71,EN,,0,0,0,,{\rEN\blur0.8}Smile, come on.
+Dialogue: 2,1:42:59.30,1:43:00.76,ZH,,0,0,0,,{\rZH\blur0.8}喂，别动！
+Dialogue: 1,1:42:59.30,1:43:00.76,EN,,0,0,0,,{\rEN\blur0.8}Hey, freeze!
+Dialogue: 2,1:43:02.59,1:43:04.10,ZH,,0,0,0,,{\rZH\blur0.8}你们就这么走了？
+Dialogue: 1,1:43:02.59,1:43:04.10,EN,,0,0,0,,{\rEN\blur0.8}So you're leaving just like this?
+Dialogue: 2,1:43:04.68,1:43:06.10,ZH,,0,0,0,,{\rZH\blur0.8}我们大义灭亲，把老爸抓了。
+Dialogue: 1,1:43:04.68,1:43:06.10,EN,,0,0,0,,{\rEN\blur0.8}We caught our dad for justice.
+Dialogue: 2,1:43:06.60,1:43:09.10,ZH,,0,0,0,,{\rZH\blur0.8}你的心愿也了了，还留下来干什么？
+Dialogue: 1,1:43:06.60,1:43:09.10,EN,,0,0,0,,{\rEN\blur0.8}And your wish has come true. So what's the point of staying?
+Dialogue: 2,1:43:11.73,1:43:13.52,ZH,,0,0,0,,{\rZH\blur0.8}-先把这烂摊子收拾干净。  -你什么意思？
+Dialogue: 1,1:43:11.73,1:43:13.52,EN,,0,0,0,,{\rEN\blur0.8}-Clean this mess up first.   -What do you mean?
+Dialogue: 2,1:43:13.60,1:43:14.98,ZH,,0,0,0,,{\rZH\blur0.8}我是警察。
+Dialogue: 1,1:43:13.60,1:43:14.98,EN,,0,0,0,,{\rEN\blur0.8}I'm a police officer.
+Dialogue: 2,1:43:15.73,1:43:17.82,ZH,,0,0,0,,{\rZH\blur0.8}我不能就这么放你们走。
+Dialogue: 1,1:43:15.73,1:43:17.82,EN,,0,0,0,,{\rEN\blur0.8}I can't let you go just like this.
+Dialogue: 2,1:43:19.40,1:43:20.70,ZH,,0,0,0,,{\rZH\blur0.8}我下不了手打他。
+Dialogue: 1,1:43:19.40,1:43:20.70,EN,,0,0,0,,{\rEN\blur0.8}I can't bear to beat him.
+Dialogue: 2,1:43:21.24,1:43:23.28,ZH,,0,0,0,,{\rZH\blur0.8}我们这么做会遭天谴的。
+Dialogue: 1,1:43:21.24,1:43:23.28,EN,,0,0,0,,{\rEN\blur0.8}If we do this, God will punish us.
+Dialogue: 2,1:43:23.36,1:43:24.99,ZH,,0,0,0,,{\rZH\blur0.8}是啊，会折寿的。
+Dialogue: 1,1:43:23.36,1:43:24.99,EN,,0,0,0,,{\rEN\blur0.8}Yeah, we'll die young.
+Dialogue: 2,1:43:26.45,1:43:28.41,ZH,,0,0,0,,{\rZH\blur0.8}行了，你们俩少废话。我闭上眼睛就是了。
+Dialogue: 1,1:43:26.45,1:43:28.41,EN,,0,0,0,,{\rEN\blur0.8}All right, that's enough out of you two. I'll just close my eyes.
+Dialogue: 2,1:43:29.29,1:43:30.79,ZH,,0,0,0,,{\rZH\blur0.8}-打他。  -不，你打。
+Dialogue: 1,1:43:29.29,1:43:30.79,EN,,0,0,0,,{\rEN\blur0.8}-Hit him.   -No, you hit him.
+Dialogue: 2,1:43:31.71,1:43:33.00,ZH,,0,0,0,,{\rZH\blur0.8}打吧，打呀。
+Dialogue: 1,1:43:31.71,1:43:33.00,EN,,0,0,0,,{\rEN\blur0.8}Go on, hit.
+Dialogue: 2,1:43:33.75,1:43:35.17,ZH,,0,0,0,,{\rZH\blur0.8}-好，我动手了。  -好。
+Dialogue: 1,1:43:33.75,1:43:35.17,EN,,0,0,0,,{\rEN\blur0.8}-All right, here I go.   -Okay.
+Dialogue: 2,1:43:35.79,1:43:38.46,ZH,,0,0,0,,{\rZH\blur0.8}-别打额头。  -打太阳穴。
+Dialogue: 1,1:43:35.79,1:43:38.46,EN,,0,0,0,,{\rEN\blur0.8}-Don't hit the forehead.   -Hit the temple.
+Dialogue: 2,1:43:39.00,1:43:40.34,ZH,,0,0,0,,{\rZH\blur0.8}我来了。
+Dialogue: 1,1:43:39.00,1:43:40.34,EN,,0,0,0,,{\rEN\blur0.8}Here I go.
+Dialogue: 2,1:43:40.42,1:43:41.63,ZH,,0,0,0,,{\rZH\blur0.8}忍着点，干爹。
+Dialogue: 1,1:43:40.42,1:43:41.63,EN,,0,0,0,,{\rEN\blur0.8}Bear with it, Godfather.
+Dialogue: 2,1:43:41.72,1:43:42.80,ZH,,0,0,0,,{\rZH\blur0.8}会疼的。
+Dialogue: 1,1:43:41.72,1:43:42.80,EN,,0,0,0,,{\rEN\blur0.8}It'll hurt.
+Dialogue: 2,1:43:44.05,1:43:45.55,ZH,,0,0,0,,{\rZH\blur0.8}他们早跑了，笨蛋！
+Dialogue: 1,1:43:44.05,1:43:45.55,EN,,0,0,0,,{\rEN\blur0.8}They're gone already, stupid!
+Dialogue: 2,1:43:58.44,1:43:59.69,ZH,,0,0,0,,{\rZH\blur0.8}红豆！
+Dialogue: 1,1:43:58.44,1:43:59.69,EN,,0,0,0,,{\rEN\blur0.8}Red Bean!
+Dialogue: 2,1:44:00.86,1:44:01.74,ZH,,0,0,0,,{\rZH\blur0.8}阿占！
+Dialogue: 1,1:44:00.86,1:44:01.74,EN,,0,0,0,,{\rEN\blur0.8}James!
+Dialogue: 2,1:44:04.07,1:44:05.36,ZH,,0,0,0,,{\rZH\blur0.8}钵仔糕呢？
+Dialogue: 1,1:44:04.07,1:44:05.36,EN,,0,0,0,,{\rEN\blur0.8}Where's Red Bean Pudding?
+Dialogue: 2,1:44:12.87,1:44:14.54,ZH,,0,0,0,,{\rZH\blur0.8}哦，我的红豆！
+Dialogue: 1,1:44:12.87,1:44:14.54,EN,,0,0,0,,{\rEN\blur0.8}Oh, my Cherie!
+Dialogue: 2,1:44:25.22,1:44:26.18,ZH,,0,0,0,,{\rZH\blur0.8}亲爱的！
+Dialogue: 1,1:44:25.22,1:44:26.18,EN,,0,0,0,,{\rEN\blur0.8}Dear!
+Dialogue: 2,1:44:32.89,1:44:34.31,ZH,,0,0,0,,{\rZH\blur0.8}原来你能走啊？
+Dialogue: 1,1:44:32.89,1:44:34.31,EN,,0,0,0,,{\rEN\blur0.8}So you can walk?
+Dialogue: 2,1:44:34.39,1:44:36.64,ZH,,0,0,0,,{\rZH\blur0.8}我要是瘸了还怎么逃啊？
+Dialogue: 1,1:44:34.39,1:44:36.64,EN,,0,0,0,,{\rEN\blur0.8}How can I escape if I'm disabled?
+Dialogue: 2,1:44:36.77,1:44:38.77,ZH,,0,0,0,,{\rZH\blur0.8}原来你骗我！
+Dialogue: 1,1:44:36.77,1:44:38.77,EN,,0,0,0,,{\rEN\blur0.8}So you lied to me!
+Dialogue: 2,1:44:38.86,1:44:41.94,ZH,,0,0,0,,{\rZH\blur0.8}-去你的！  -好了，够了。
+Dialogue: 1,1:44:38.86,1:44:41.94,EN,,0,0,0,,{\rEN\blur0.8}-Go to hell!   -Okay, enough already.
+Dialogue: 2,1:44:42.65,1:44:43.78,ZH,,0,0,0,,{\rZH\blur0.8}你倒挺着急。
+Dialogue: 1,1:44:42.65,1:44:43.78,EN,,0,0,0,,{\rEN\blur0.8}You're in a rush.
+Dialogue: 2,1:44:44.65,1:44:46.20,ZH,,0,0,0,,{\rZH\blur0.8}我没什么能给你的，只有这块红豆糕。
+Dialogue: 1,1:44:44.65,1:44:46.20,EN,,0,0,0,,{\rEN\blur0.8}I got nothing for you, except for this red bean cake.
+Dialogue: 2,1:44:46.28,1:44:48.41,ZH,,0,0,0,,{\rZH\blur0.8}-再见了。  -我们不是一起走吗？
+Dialogue: 1,1:44:46.28,1:44:48.41,EN,,0,0,0,,{\rEN\blur0.8}-See you.   -Aren't we leaving together?
+Dialogue: 2,1:44:48.49,1:44:49.45,ZH,,0,0,0,,{\rZH\blur0.8}对啊，
+Dialogue: 1,1:44:48.49,1:44:49.45,EN,,0,0,0,,{\rEN\blur0.8}Right,
+Dialogue: 2,1:44:49.53,1:44:51.08,ZH,,0,0,0,,{\rZH\blur0.8}我们不是说好永远在一起吗？
+Dialogue: 1,1:44:49.53,1:44:51.08,EN,,0,0,0,,{\rEN\blur0.8}didn't we say we'll always be together?
+Dialogue: 2,1:44:51.70,1:44:52.79,ZH,,0,0,0,,{\rZH\blur0.8}阿占，
+Dialogue: 1,1:44:51.70,1:44:52.79,EN,,0,0,0,,{\rEN\blur0.8}James,
+Dialogue: 2,1:44:52.87,1:44:54.29,ZH,,0,0,0,,{\rZH\blur0.8}这样不对。
+Dialogue: 1,1:44:52.87,1:44:54.29,EN,,0,0,0,,{\rEN\blur0.8}that's not right.
+Dialogue: 2,1:44:55.16,1:44:57.08,ZH,,0,0,0,,{\rZH\blur0.8}俗话说，天下没有不散的筵席。
+Dialogue: 1,1:44:55.16,1:44:57.08,EN,,0,0,0,,{\rEN\blur0.8}As the saying goes, every good thing has to end sometime.
+Dialogue: 2,1:44:57.67,1:45:00.34,ZH,,0,0,0,,{\rZH\blur0.8}其实我更喜欢一个人闯荡，自由自在，无牵无挂。
+Dialogue: 1,1:44:57.67,1:45:00.34,EN,,0,0,0,,{\rEN\blur0.8}In fact, I prefer traveling alone, free and worry-free.
+Dialogue: 2,1:45:00.92,1:45:02.55,ZH,,0,0,0,,{\rZH\blur0.8}好好照顾红豆。
+Dialogue: 1,1:45:00.92,1:45:02.55,EN,,0,0,0,,{\rEN\blur0.8}Take good care of Red Bean.
+Dialogue: 2,1:45:06.38,1:45:08.05,ZH,,0,0,0,,{\rZH\blur0.8}你什么意思？
+Dialogue: 1,1:45:06.38,1:45:08.05,EN,,0,0,0,,{\rEN\blur0.8}What do you mean?
+Dialogue: 2,1:45:08.14,1:45:09.05,ZH,,0,0,0,,{\rZH\blur0.8}保重。
+Dialogue: 1,1:45:08.14,1:45:09.05,EN,,0,0,0,,{\rEN\blur0.8}Take care.
+Dialogue: 2,1:45:10.47,1:45:11.51,ZH,,0,0,0,,{\rZH\blur0.8}我们怎么办？
+Dialogue: 1,1:45:10.47,1:45:11.51,EN,,0,0,0,,{\rEN\blur0.8}What do we do?
+Dialogue: 2,1:45:12.31,1:45:13.26,ZH,,0,0,0,,{\rZH\blur0.8}我走了。
+Dialogue: 1,1:45:12.31,1:45:13.26,EN,,0,0,0,,{\rEN\blur0.8}I'mleaving.
+Dialogue: 2,1:45:13.85,1:45:16.48,ZH,,0,0,0,,{\rZH\blur0.8}祝你们幸福。
+Dialogue: 1,1:45:13.85,1:45:16.48,EN,,0,0,0,,{\rEN\blur0.8}I wish you all the best.
+Dialogue: 2,1:45:17.02,1:45:19.60,ZH,,0,0,0,,{\rZH\blur0.8}-钵仔糕！  -哎，什么事？
+Dialogue: 1,1:45:17.02,1:45:19.60,EN,,0,0,0,,{\rEN\blur0.8}-Red Bean Pudding!   -Yes, what do you want?
+Dialogue: 2,1:45:19.69,1:45:21.52,ZH,,0,0,0,,{\rZH\blur0.8}我们不是非要你留下，
+Dialogue: 1,1:45:19.69,1:45:21.52,EN,,0,0,0,,{\rEN\blur0.8}We don't mean you must stay,
+Dialogue: 2,1:45:21.61,1:45:23.11,ZH,,0,0,0,,{\rZH\blur0.8}可你不觉得答应过的事就该算数吗？
+Dialogue: 1,1:45:21.61,1:45:23.11,EN,,0,0,0,,{\rEN\blur0.8}but don't you think a promise must be kept?
+Dialogue: 2,1:45:23.19,1:45:24.94,ZH,,0,0,0,,{\rZH\blur0.8}我答应过什么？
+Dialogue: 1,1:45:23.19,1:45:24.94,EN,,0,0,0,,{\rEN\blur0.8}What did I promise?
+Dialogue: 2,1:45:25.03,1:45:26.82,ZH,,0,0,0,,{\rZH\blur0.8}你答应过给我们的孩子当干爹，记得吗？
+Dialogue: 1,1:45:25.03,1:45:26.82,EN,,0,0,0,,{\rEN\blur0.8}You promised to be godfather to our kids, remember?
+Dialogue: 2,1:45:26.90,1:45:28.49,ZH,,0,0,0,,{\rZH\blur0.8}我那是开玩笑的。
+Dialogue: 1,1:45:26.90,1:45:28.49,EN,,0,0,0,,{\rEN\blur0.8}I was just joking.
+Dialogue: 2,1:45:28.57,1:45:30.16,ZH,,0,0,0,,{\rZH\blur0.8}可红豆现在已经怀孕了。
+Dialogue: 1,1:45:28.57,1:45:30.16,EN,,0,0,0,,{\rEN\blur0.8}Well, Red Bean is pregnant now.
+Dialogue: 2,1:45:30.82,1:45:31.83,ZH,,0,0,0,,{\rZH\blur0.8}喂，别来这一套！
+Dialogue: 1,1:45:30.82,1:45:31.83,EN,,0,0,0,,{\rEN\blur0.8}Hey, stop that!
+Dialogue: 2,1:45:31.91,1:45:34.16,ZH,,0,0,0,,{\rZH\blur0.8}-你怎么这么不小心？  -你来不来？
+Dialogue: 1,1:45:31.91,1:45:34.16,EN,,0,0,0,,{\rEN\blur0.8}-Why are you being so careless?   -Are you coming?
+Dialogue: 2,1:45:34.24,1:45:35.50,ZH,,0,0,0,,{\rZH\blur0.8}不，求你们了。
+Dialogue: 1,1:45:34.24,1:45:35.50,EN,,0,0,0,,{\rEN\blur0.8}No, please.
+Dialogue: 2,1:45:35.58,1:45:37.87,ZH,,0,0,0,,{\rZH\blur0.8}-好，开船。  -站住！
+Dialogue: 1,1:45:35.58,1:45:37.87,EN,,0,0,0,,{\rEN\blur0.8}-All right, cast off.   -Stop!
+Dialogue: 2,1:45:38.62,1:45:40.08,ZH,,0,0,0,,{\rZH\blur0.8}等等我！
+Dialogue: 1,1:45:38.62,1:45:40.08,EN,,0,0,0,,{\rEN\blur0.8}Wait for me!
+Dialogue: 2,1:45:41.79,1:45:43.17,ZH,,0,0,0,,{\rZH\blur0.8}那么，画在哪儿？
+Dialogue: 1,1:45:41.79,1:45:43.17,EN,,0,0,0,,{\rEN\blur0.8}So, where is the painting?
+Dialogue: 2,1:45:43.25,1:45:44.50,ZH,,0,0,0,,{\rZH\blur0.8}物归原处了。
+Dialogue: 1,1:45:43.25,1:45:44.50,EN,,0,0,0,,{\rEN\blur0.8}Where it belongs.
+Dialogue: 2,1:45:47.30,1:45:49.64,ZH,,0,0,0,,{\rZH\blur0.8}真了不起！
+Dialogue: 1,1:45:47.30,1:45:49.64,EN,,0,0,0,,{\rEN\blur0.8}It'samazing!
+Dialogue: 2,1:46:09.66,1:46:11.16,ZH,,0,0,0,,{\rZH\blur0.8}回去干活！
+Dialogue: 1,1:46:09.66,1:46:11.16,EN,,0,0,0,,{\rEN\blur0.8}Go back to work!
+Dialogue: 2,1:46:14.41,1:46:17.29,ZH,,0,0,0,,{\rZH\blur0.8}好了好了。
+Dialogue: 1,1:46:14.41,1:46:17.29,EN,,0,0,0,,{\rEN\blur0.8}There, there.
+Dialogue: 2,1:47:59.06,1:48:01.06,ZH,,0,0,0,,{\rZH\blur0.8}字幕翻译：汤米·吴
+Dialogue: 1,1:47:59.06,1:48:01.06,EN,,0,0,0,,{\rEN\blur0.8}Subtitle translation by Tommy Ng
+Dialogue: 10,0:01:58.16,0:02:03.16,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 535.2 0 l 535.2 124 l 0 124
+Dialogue: 11,0:01:58.16,0:02:03.16,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:01:58.16,0:02:03.16,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}特鲁瓦耶贝尔{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,0:01:58.16,0:02:03.16,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}19世纪法国画家，属巴比松画派。
+Dialogue: 10,0:04:07.00,0:04:12.35,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 660 0 l 660 124 l 0 124
+Dialogue: 11,0:04:07.00,0:04:12.35,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:04:07.00,0:04:12.35,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}莫迪利亚尼{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,0:04:07.00,0:04:12.35,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}意大利画家，以拉长变形的人物肖像著称。
+Dialogue: 10,0:05:02.59,0:05:07.64,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 596 0 l 596 124 l 0 124
+Dialogue: 11,0:05:02.59,0:05:07.64,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:05:02.59,0:05:07.64,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}老佛爷{\b0\fs24\1c&H00C8C8C8}  地点
+Dialogue: 12,0:05:02.59,0:05:07.64,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}巴黎著名百货公司，中文俗称老佛爷。
+Dialogue: 10,0:05:39.59,0:05:47.59,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 680.8 0 l 680.8 166 l 0 166
+Dialogue: 11,0:05:39.59,0:05:47.59,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:05:39.59,0:05:47.59,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}谐音圣母院{\b0\fs24\1c&H00C8C8C8}  双关
+Dialogue: 12,0:05:39.59,0:05:47.59,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}原文“Naughty Dame”谐音 Notre-Dame，
+Dialogue: 12,0:05:39.59,0:05:47.59,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}即巴黎圣母院。
+Dialogue: 10,0:21:47.39,0:21:53.94,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 527.2 0 l 527.2 166 l 0 166
+Dialogue: 11,0:21:47.39,0:21:53.94,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:21:47.39,0:21:53.94,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}亲爱的{\b0\fs24\1c&H00C8C8C8}  俚语
+Dialogue: 12,0:21:47.39,0:21:53.94,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}法语 chérie 意为“亲爱的”，
+Dialogue: 12,0:21:47.39,0:21:53.94,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}此处也作红豆昵称。
+Dialogue: 10,0:23:35.25,0:23:41.35,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 442.4 0 l 442.4 166 l 0 166
+Dialogue: 11,0:23:35.25,0:23:41.35,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,0:23:35.25,0:23:41.35,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}伊拉克{\b0\fs24\1c&H00C8C8C8}  地点
+Dialogue: 12,0:23:35.25,0:23:41.35,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}1991年海湾战争后仍动荡，
+Dialogue: 12,0:23:35.25,0:23:41.35,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}台词反讽其“太平”。
+Dialogue: 10,0:26:26.34,0:26:31.54,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 628 0 l 628 124 l 0 124
+Dialogue: 11,0:26:26.34,0:26:31.54,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:26:26.34,0:26:31.54,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}尼斯{\b0\fs24\1c&H00C8C8C8}  地点
+Dialogue: 12,0:26:26.34,0:26:31.54,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}法国南部地中海沿岸城市，以海滨著称。
+Dialogue: 10,0:29:20.84,0:29:25.89,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 596 0 l 596 124 l 0 124
+Dialogue: 11,0:29:20.84,0:29:25.89,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:29:20.84,0:29:25.89,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}戛纳机场{\b0\fs24\1c&H00C8C8C8}  地点
+Dialogue: 12,0:29:20.84,0:29:25.89,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}法国戛纳的机场，戛纳以电影节闻名。
+Dialogue: 10,0:38:17.17,0:38:22.52,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 660 0 l 660 124 l 0 124
+Dialogue: 11,0:38:17.17,0:38:22.52,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,0:38:17.17,0:38:22.52,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}众人皆醉{\b0\fs24\1c&H00C8C8C8}  典故
+Dialogue: 12,0:38:17.17,0:38:22.52,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}语出《楚辞·渔父》，屈原以此自明高洁。
+Dialogue: 10,1:21:28.34,1:21:33.34,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 468 0 l 468 124 l 0 124
+Dialogue: 11,1:21:28.34,1:21:33.34,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,1:21:28.34,1:21:33.34,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}华生{\b0\fs24\1c&H00C8C8C8}  人物
+Dialogue: 12,1:21:28.34,1:21:33.34,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}福尔摩斯探案中的医生助手。
+Dialogue: 10,1:22:13.60,1:22:20.30,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 732 0 l 732 124 l 0 124
+Dialogue: 11,1:22:13.60,1:22:20.30,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 124 l 0 124
+Dialogue: 12,1:22:13.60,1:22:20.30,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}蘑菇/房间{\b0\fs24\1c&H00C8C8C8}  双关
+Dialogue: 12,1:22:13.60,1:22:20.30,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}英文 mushroom 含 room，故谜底是文字游戏。
+Dialogue: 10,1:38:50.88,1:38:57.88,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\blur1.5\1c&H00100D0B\1a&H50&}m 0 0 l 661.6 0 l 661.6 166 l 0 166
+Dialogue: 11,1:38:50.88,1:38:57.88,NOTE,,0,0,0,,{\an7\move(44,44,60,44,0,260)\fad(260,320)\p1\bord0\shad0\1c&H003F42E8}m 0 0 l 6 0 l 6 166 l 0 166
+Dialogue: 12,1:38:50.88,1:38:57.88,NOTE,,0,0,0,,{\an7\move(68,60,84,60,0,260)\fad(260,320)\fs38\b1\1c&H003F42E8}A牌/艾滋{\b0\fs24\1c&H00C8C8C8}  双关
+Dialogue: 12,1:38:50.88,1:38:57.88,NOTE,,0,0,0,,{\an7\move(68,110,84,110,0,260)\fad(260,320)\fs32\1c&H00EDEDED}原文 Aces（A牌）与 AIDS（艾滋）近音，
+Dialogue: 12,1:38:50.88,1:38:57.88,NOTE,,0,0,0,,{\an7\move(68,152,84,152,0,260)\fad(260,320)\fs32\1c&H00EDEDED}中文难兼顾。
