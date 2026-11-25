@@ -1,0 +1,48 @@
+name: 认领字幕
+description: 开做之前先认领，避免两个人做同一部片
+title: "认领"
+labels: ["认领"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        先在 Issues 和仓库目录里按 TMDB 编号搜一下有没有人做过。提交后机器人会把标题改成统一编号并指派给你；
+        已经有人认领或做完，会回复链接并关掉这个 issue。
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 类型
+      options: ["电影", "剧集"]
+    validations:
+      required: true
+  - type: input
+    id: tmdb
+    attributes:
+      label: TMDB 编号
+      description: 数字，或者直接贴 themoviedb.org 的链接（链接里带了是电影还是剧）
+      placeholder: "11104 或 https://www.themoviedb.org/movie/11104"
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: 片名
+      placeholder: 重庆森林
+    validations:
+      required: true
+  - type: input
+    id: season
+    attributes:
+      label: 季
+      description: 剧集必填，按 TMDB 的分季；特别篇 / OVA 填 0
+      placeholder: "1"
+  - type: input
+    id: episodes
+    attributes:
+      label: 集（留空 = 整季）
+      description: "按 TMDB 的集号，比如 3、1-5、1,3,5-7"
+  - type: textarea
+    id: source
+    attributes:
+      label: 对哪个版本
+      description: 原盘 / 片源名、帧率（之后写进 meta.toml 的 [source]）

@@ -1,0 +1,24 @@
+name: 检查
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+  issues: read
+  pull-requests: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: 单元测试
+        run: python3 -m unittest discover -s tools/tests -v
+      - name: 检查
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE: ${{ github.event.pull_request.base.sha }}
+        run: |
+          if [ -n "$BASE" ]; then python3 tools/check.py pr "$BASE"; else python3 tools/check.py tree; fi

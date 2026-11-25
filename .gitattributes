@@ -1,0 +1,5 @@
+*.ass text eol=lf
+*.toml text eol=lf
+*.ttf binary
+*.otf binary
+*.ttc binary
