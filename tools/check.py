@@ -29,10 +29,12 @@ FONT_EXT = (".ttf", ".otf", ".ttc", ".woff", ".woff2")
 MAX_FILE = 50 * 2**20
 MAX_FONT = 20 * 2**20
 
+# 片子目录：<中文名>-<TMDB 编号>，如 movie/重庆森林-11104；名字只是给人看的，程序只认最后一个 - 后面的编号
+NAME = r'[^/\\:*?"<>|\s](?:[^/\\:*?"<>|]*[^/\\:*?"<>|\s])?'
 PATTERNS = [
-    re.compile(rf"movie/\d+/(?:{CUT}/)?(?:meta\.toml|{LANGS}\.ass)"),
-    re.compile(r"tv/\d+/meta\.toml"),
-    re.compile(rf"tv/\d+/s\d{{2}}/(?:{CUT}/)?(?:meta\.toml|e\d{{2,3}}\.{LANGS}\.ass)"),
+    re.compile(rf"movie/{NAME}-\d+/(?:{CUT}/)?(?:meta\.toml|{LANGS}\.ass)"),
+    re.compile(rf"tv/{NAME}-\d+/meta\.toml"),
+    re.compile(rf"tv/{NAME}-\d+/s\d{{2}}/(?:{CUT}/)?(?:meta\.toml|e\d{{2,3}}\.{LANGS}\.ass)"),
     re.compile(r"fonts/[^/]+"),
 ]
 
@@ -122,9 +124,9 @@ def existing_keys(files: list[str]) -> list[Key]:
     """仓库里已经有的：电影按片，剧集按集。"""
     keys = set()
     for f in files:
-        if m := re.match(r"movie/(\d+)/", f):
+        if m := re.match(r"movie/[^/]*-(\d+)/", f):
             keys.add(Key("movie", int(m[1])))
-        elif m := re.match(r"tv/(\d+)/s(\d{2})/(?:[^/]+/)?e(\d{2,3})\.[^/]+\.ass$", f):
+        elif m := re.match(r"tv/[^/]*-(\d+)/s(\d{2})/(?:[^/]+/)?e(\d{2,3})\.[^/]+\.ass$", f):
             keys.add(Key("tv", int(m[1]), int(m[2]), frozenset({int(m[3])})))
     return sorted(keys, key=str)
 
@@ -249,6 +251,14 @@ def check_tree(root: Path = ROOT) -> list[str]:
             errs.append(f"{f}：authors 要写成列表 [\"用户名\"]")
         check_ass(p, meta, errs, f)
 
+    dirs: dict[tuple[str, str], set[str]] = {}   # 同一个编号只能有一个目录（名字不同也不行）
+    for f in files:
+        if m := re.match(r"(movie|tv)/([^/]*-(\d+))/", f):
+            dirs.setdefault((m[1], m[3]), set()).add(m[2])
+    for (kind, num), names in sorted(dirs.items()):
+        if len(names) > 1:
+            errs.append(f"{kind}/{num}：同一个编号有好几个目录（{'、'.join(sorted(names))}），合成一个")
+
     for f in files:   # meta.toml 下面得有字幕
         if f.endswith("/meta.toml") and f.startswith(("movie/", "tv/")):
             d = f.rsplit("/", 1)[0] + "/"
@@ -330,7 +340,8 @@ def cmd_claim() -> int:
         gh("POST", f"/issues/{n}/comments", {"body": f"认领格式不对：{e}。改一下 issue 正文就会重新检查。"})
         gh("POST", f"/issues/{n}/labels", {"labels": ["格式不对"]})
         return 0
-    hits = [f"仓库里已经有 `{k}`（{_path_of(k)}）" for k in existing_keys(tracked_files(ROOT)) if k.overlaps(key)]
+    files = tracked_files(ROOT)
+    hits = [f"仓库里已经有 `{k}`（{_path_of(k, files)}）" for k in existing_keys(files) if k.overlaps(key)]
     hits += [f"#{num}（`{k}`，{', '.join(a['login'] for a in it.get('assignees', [])) or it['user']['login']}）"
              for num, k, it in open_claims(before=n) if k.overlaps(key)]
     title = f"{key} {name}".strip()
@@ -346,8 +357,9 @@ def cmd_claim() -> int:
     return 0
 
 
-def _path_of(k: Key) -> str:
-    return f"movie/{k.tmdb}/" if k.kind == "movie" else f"tv/{k.tmdb}/s{k.season:02d}/e{min(k.episodes):02d}…"
+def _path_of(k: Key, files: list[str]) -> str:
+    top = next((f.split("/")[1] for f in files if re.match(rf"{k.kind}/[^/]*-{k.tmdb}/", f)), str(k.tmdb))
+    return f"movie/{top}/" if k.kind == "movie" else f"tv/{top}/s{k.season:02d}/e{min(k.episodes):02d}…"
 
 
 def cmd_pr(base: str) -> int:
