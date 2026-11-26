@@ -1,0 +1,13 @@
+title = "蜘蛛侠：崭新之日"
+original_title = "Spider-Man: Brand New Day"
+year = 2026
+authors = ["ReelCoreHQ"]
+origin = "reelcore-encode：原盘中英字幕配对"
+fonts = ["LXGW WenKai", "Noto Sans CJK SC"]
+
+[source]
+release = "Spider-Man Brand New Day 2026 UHD BluRay 2160p HEVC Atmos TrueHD7.1-MTeam"
+fps = "24000/1001"
+frames = 208646
+duration = "02:25:02.277"
+crop = [0, 276, 0, 276]                # 字幕画布对的是裁掉这些之后的画面（左、上、右、下）
